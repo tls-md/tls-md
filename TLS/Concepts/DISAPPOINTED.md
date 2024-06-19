@@ -1,0 +1,69 @@
+---
+labels: 
+ - DESPARATION
+ - UPSET
+ - SADDENED
+ - LET DOWN
+ - CAST DOWN
+ - DISHEARTENED
+ - DOWNHEARTED
+ - DOWNCAST
+ - DEPRESSED
+ - DISPIRITED
+ - DISCOURAGED
+ - DESPONDENT
+ - DISMAYED
+ - CRESTFALLEN
+ - DISTRESSED
+ - CHAGRINED
+ - DISENCHANTED
+ - DISILLUSIONED
+ - DISPLEASED
+ - DISCONTENTED
+ - DISSATISFIED
+ - FRUSTRATED
+ - DISGRUNTLED
+ - INFORMAL CHOKED
+ - BUMMED (OUT)
+ - MIFFED
+ - CUT UP.
+ - HOPELESSNESS
+ - DISHEARTENMENT
+ - DISCOURAGEMENT
+ - DESPERATION
+ - DISTRESS
+ - ANGUISH
+ - UNHAPPINESS
+ - DESPONDENCY
+ - DEPRESSION
+ - DISCONSOLATENESS
+ - MELANCHOLY
+ - MISERY
+ - WRETCHEDNESS
+ - DEFEATISM
+ - PESSIMISM
+zh: 絕望
+---
+
+# Definition
+SAD BECAUSE something HOPED for in the PAST was NOT OBTAINED.
+# Criteria and general notes
+## Modern Chinese Criteria
+絕望
+絕意　（金庸）
+失望
+廢然
+大失所望
+掃興
+敗興
+殺風景
+興致索然
+自暴自棄
+# Ontology
+
+## Hypernym
+[[SAD]]
+# Bibliography
+- [[LANGIUS 1631]]
+**Anthologia sive Florilegium rerum et materiarum selectarum** 
+DESPERATIO

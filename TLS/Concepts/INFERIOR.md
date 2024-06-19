@@ -1,0 +1,36 @@
+---
+labels: 
+ - SECOND-RATE
+ - SUBSTANDARD
+ - LOW-QUALITY
+ - LOW-GRADE
+ - DOWNMARKET
+ - BUSH-LEAGUE
+ - UNSATISFACTORY
+ - SHODDY
+ - DEFICIENT
+ - POOR
+ - BAD
+ - AWFUL
+ - DREADFUL
+ - WRETCHED
+ - INFORMAL CRUMMY
+ - SCUZZY
+ - ROTTEN
+ - LOUSY
+ - THIRD-RATE
+ - TINPOT
+ - RINKY-DINK
+---
+
+# Definition
+MORE LOW IN RANK, REPUTATION OR TALENT.
+# Criteria and general notes
+# Ontology
+
+## Antonym
+[[SUPERIOR]]
+## Hypernym
+[[LOW]]
+## Hyponym
+[[HUMBLE]]

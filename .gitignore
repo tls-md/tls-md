@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+*.log
+tmp/
+.obsidian/plugins/update-time-on-edit/data.json
+.obsidian/view-count.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json

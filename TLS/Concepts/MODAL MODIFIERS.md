@@ -1,0 +1,13 @@
+---
+labels: 
+---
+
+# Definition
+[NOTE THAT THE GRAMMATICAL PARTICLES HAVE NOT BEEN FOCUSSED SO FAR IN THE SYSTEM AND NO SYSTEMATIC ANALYSIS HAS BEEN APPLIED SO FAR.]
+# Criteria and general notes
+# Ontology
+
+## Hypernym
+[[PARTICLE]]
+## Hyponym
+[[MODAL PARTICLES]]

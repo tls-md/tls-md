@@ -1,0 +1,32 @@
+.HyperMD-codeblock{display : None}
+
+x.p{
+    line-height: 0.6; /* change this value accordingly */
+    display: block;
+    padding-top: 1px;  /* change this value accordingly */
+    padding-bottom: 1px; /* change this value accordingly */
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.CodeMirror pre.CodeMirror-line {
+  line-height: 0.6;/*height of a*/
+  padding-top: 1px; /*the lower part of height of b*/
+  padding-bottom: 1px;/*the upper part of height of b*/
+}
+
+
+x.body{
+  --font-smallest: 0.8em;
+  --font-smaller: 0.9em;
+  --font-small: 1em;
+  --font-ui-smaller: 14px;
+  --font-ui-small: 16px;
+  --font-ui-medium: 18px;
+  --font-ui-large: 20px;
+  --line-height-normal:1.4;
+  --line-height-tight:1.2;
+}

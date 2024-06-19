@@ -1,0 +1,20 @@
+---
+labels: 
+zh: 潮流
+---
+
+# Definition
+REGULAR FLOW of the WATER of the SEA.
+# Criteria and general notes
+## 
+HUANG JINGUI 2006
+## Modern Chinese Criteria
+潮流
+浪頭
+高潮
+低潮
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+# Ontology
+
+## Hypernym
+[[FLOW]]

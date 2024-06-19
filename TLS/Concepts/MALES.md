@@ -1,0 +1,47 @@
+---
+labels: 
+zh: 先佛男人
+---
+
+# Definition
+BIOGRAPHIC ENTRIES: unsubclassified males.
+# Criteria and general notes
+# Ontology
+
+## Antonym
+[[FEMALES]]
+## Hypernym
+[[PROPER NAMES]]
+## Hyponym
+[[MALES OF WEI]]
+[[MALES OF QI]]
+[[MALES OF CHEN]]
+[[MALES OF ZHOU]]
+[[MALES OF CHU]]
+[[MALES OF GUO]]
+[[MALES OF YAN]]
+[[MALES OF YUE]]
+[[MALES OF ZHENG]]
+[[ARISTOCRATS OF WU]]
+[[ARISTOCRATS OF QIN]]
+[[MALES OF WEY]]
+[[MALES OF ZHAO]]
+[[MALES OF WU]]
+[[RULERS PREHISTORIC]]
+[[MALES OF SONG]]
+[[MALES OF LU]]
+[[MALES OF SHANG]]
+[[MALES OF JIN]]
+[[ARISTOCRATS OF HAN]]
+[[MALES OF QIN]]
+[[MALES OF HAN]]
+[[RULERS]]
+[[THINKERS]]
+[[POETS]]
+[[MALES OF YU]]
+[[ARISTOCRATS]]
+[[HEROES]]
+[[MUSICIANS]]
+[[MALES OF ZOU]]
+[[DOCTORS]]
+[[SHANG DIVINERS]]
