@@ -7,8 +7,8 @@ zh: 少量
 SMALL in QUANTITY of a SUBSTANCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a small quantity of some stuff is guǎ 寡.
-2. Shǎo 少 can also be used to a small quantity of stuff.
+1. The standard word for a small quantity of some stuff is guǎ [[寡]].
+2. Shǎo [[少]] can also be used to a small quantity of stuff.
 ## Modern Chinese Criteria
 少
 頗有點

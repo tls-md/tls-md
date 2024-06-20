@@ -55,11 +55,11 @@ och: 偉
 BIG in IMPORTANCE OR REPUTATION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for awe-inspiring greatness and significance is wěi 偉 (ant. 眇 / 渺 "trifling").
-2. Dà 大 (ant. xiǎo 小 "insignificant") is often used to refer to generally recognised awe-inspiring status (for example of a king etc) rather than mere size.
-3. Hóng 弘 and jù 巨 (ant. xì 細 ) are stylistically marked strong words to use for the greatness of something. See IMPORTANT
-4. Hóng 鴻 refers to greatness as essentially linked to immense size.
-5 Kǒng 孔 is an archaic word referring to immensity, numerousness as well as remarkable intensity of something.
+1. The most general word for awe-inspiring greatness and significance is wěi [[偉]] (ant. [[眇]] / [[渺]] "trifling").
+2. Dà [[大]] (ant. xiǎo [[小]] "insignificant") is often used to refer to generally recognised awe-inspiring status (for example of a king etc) rather than mere size.
+3. Hóng [[弘]] and jù [[巨]] (ant. xì [[細]] ) are stylistically marked strong words to use for the greatness of something. See IMPORTANT
+4. Hóng [[鴻]] refers to greatness as essentially linked to immense size.
+5 Kǒng [[孔]] is an archaic word referring to immensity, numerousness as well as remarkable intensity of something.
 ## Modern Chinese Criteria
 偉大
 偉

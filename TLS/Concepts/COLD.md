@@ -23,11 +23,11 @@ zh: 冷
 TEMPERATURE RESEMBLING that of ICE AND being the OPPOSITE of HOT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word referring to coldness is hán 寒 (ant. wēn 溫, rè 熱 "warm").
-2. Lěng 冷 refers to anything fresh and cool rather than rè 熱 "unpleasantly hot".
-3. Dòng 凍 describes a very high degree of coldness, typically below the freezing point of water.
-4. Liáng 涼 (ant. wēn 溫 "lukewarm") describes a mild form of coldness, prototypically that of a cool breeze liáng fēng 涼風.
-5. Qīng 清 (ant. rù 溽 "unpleasantly humid and warm") describes a mild, fresh coolness of climate rather than of liquids or solids.
+1. The standard current word referring to coldness is hán [[寒]] (ant. wēn [[溫]], rè [[熱]] "warm").
+2. Lěng [[冷]] refers to anything fresh and cool rather than rè [[熱]] "unpleasantly hot".
+3. Dòng [[凍]] describes a very high degree of coldness, typically below the freezing point of water.
+4. Liáng [[涼]] (ant. wēn [[溫]] "lukewarm") describes a mild form of coldness, prototypically that of a cool breeze liáng fēng [[涼風]].
+5. Qīng [[清]] (ant. rù [[溽]] "unpleasantly humid and warm") describes a mild, fresh coolness of climate rather than of liquids or solids.
 ## Modern Chinese Criteria
 寒
 冷

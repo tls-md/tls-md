@@ -13,15 +13,15 @@ och: 朝
 PERIOD BEFORE AND AFTER SUNRISE, BEFORE MIDDAY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the morning is zhāo 朝 (ant. xì 夕 "evening") 。
-2. Sù 夙 (ant. yè 夜 "night") refers generically to the early morning and is almost still a part of the night, yè 夜, since it is a time where the moon is still out. It never refers specifically to the morning of a given day.
-3. Mèi shuǎng 昧爽 (ant. huáng hūn 黃昏 "dusk, or the time just after dusk") refers specifically to the time of dawn or just before dawn.
-4. Píng míng 平明 refers exactly to the point of daybreak.
-5. Chén 晨 (hūn 昏 "dusk") refers to the period after sunrise but before the late morning, and occasionally the word does also include the time just before sunrise.
-6. Dàn 旦 (ant. xì 夕 "in the evening") refers to the morning right until sunrise, when it is already quite bright and the moon is no longer visible, thus reaching somewhat more into the day than sù 夙 and zǎo 早.
-7. Xiǎo 曉 (ant. xiāo 宵 "evening") is exceedingly rare in pre-Buddhist texts and refers to the part of the morning where the sun is already shining.
-8. Míng 明 (ant. míng 冥 "darkness, the dark" mù 暮 "dusk") refers to the early morning in OBI.
-9. Zǎo 早 (ant. wǎn 晚 "late") is often used to refer in a somewhat diffuse way to the very early morning as the time preceding ordinary activities.
+1. The current general word for the morning is zhāo [[朝]] (ant. xì [[夕]] "evening") 。
+2. Sù [[夙]] (ant. yè [[夜]] "night") refers generically to the early morning and is almost still a part of the night, yè [[夜]], since it is a time where the moon is still out. It never refers specifically to the morning of a given day.
+3. Mèi shuǎng [[昧爽]] (ant. huáng hūn [[黃昏]] "dusk, or the time just after dusk") refers specifically to the time of dawn or just before dawn.
+4. Píng míng [[平明]] refers exactly to the point of daybreak.
+5. Chén [[晨]] (hūn [[昏]] "dusk") refers to the period after sunrise but before the late morning, and occasionally the word does also include the time just before sunrise.
+6. Dàn [[旦]] (ant. xì [[夕]] "in the evening") refers to the morning right until sunrise, when it is already quite bright and the moon is no longer visible, thus reaching somewhat more into the day than sù [[夙]] and zǎo [[早]].
+7. Xiǎo [[曉]] (ant. xiāo [[宵]] "evening") is exceedingly rare in pre-Buddhist texts and refers to the part of the morning where the sun is already shining.
+8. Míng [[明]] (ant. míng [[冥]] "darkness, the dark" mù [[暮]] "dusk") refers to the early morning in OBI.
+9. Zǎo [[早]] (ant. wǎn [[晚]] "late") is often used to refer in a somewhat diffuse way to the very early morning as the time preceding ordinary activities.
 DK: See Tunnan 42 for an important inscription on times of day. CH: SHIJI 55, beginning, has a nice sequence on timewords referring to parts of the day.
 ## 
 HUANG JINGUI 2006

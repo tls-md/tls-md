@@ -8,11 +8,11 @@ och: 女
 FEMALE ADULT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a woman is nu# 女 (ant. nán 男 "male"), and the word can also refer to unmarried women.
-2. Fù 婦 (ant. fū 夫 "married man") refers to a woman who is either married or definitely of marriagable age.
-3. Aυ 媼 and yù 嫗 (ant. wēng 翁 and sōu 叟 "old man") refer to old women.
-4. Bì 婢 (ant. pú 僕 "male of low status") refers to a woman of low social status.
-5. Nu# zǐ 女子 (ant. nán zǐ 男子 "male") can refer to a female child (as well as being an administrative way of referring to - preferably counted - females).
+1. The current general word for a woman is nu# [[女]] (ant. nán [[男]] "male"), and the word can also refer to unmarried women.
+2. Fù [[婦]] (ant. fū [[夫]] "married man") refers to a woman who is either married or definitely of marriagable age.
+3. Aυ [[媼]] and yù [[嫗]] (ant. wēng [[翁]] and sōu [[叟]] "old man") refer to old women.
+4. Bì [[婢]] (ant. pú [[僕]] "male of low status") refers to a woman of low social status.
+5. Nu# zǐ [[女子]] (ant. nán zǐ [[男子]] "male") can refer to a female child (as well as being an administrative way of referring to - preferably counted - females).
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 27: 婦女。

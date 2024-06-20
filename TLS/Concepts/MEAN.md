@@ -46,14 +46,14 @@ och: 言
 IDEA insofar as SHOWN:expressed OR INTENDED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a person or an expression meaning something is yán 言. X 言 Y comes to mean "X means Y".
-2. Yì 意 is the standard word for meaning as "what one has in mind".
-3. Zhì 志 is commonly used to refer to an inteneded meaning as expressive of a mental orientation.
-4. Yuē 曰 "be called", the equivalent of wèi zhī 謂之, is the converse of yán 言 : X 曰 Y comes to mean "for X one says Y", or "X is called Y".
-5. Zhǐ 指 is used as technical term for intended objective meaning in philosophical contexts.
-6. Zhǐ 旨 is a stylistically elevated term which refers nominally to the overall import of what is said or written.
-7. Wèi 謂 refers to what a person or an expression is intended to refer to as an object or as the intended meaning, or to the semantic process itself.
-8. Zhī wèi 之謂 "refers to, is intended to refer to" belongs not so much to linguistics or lexicography as to the hermeneutics concrete interpretation of a given text.
+1. The current general word for a person or an expression meaning something is yán [[言]]. X [[言]] Y comes to mean "X means Y".
+2. Yì [[意]] is the standard word for meaning as "what one has in mind".
+3. Zhì [[志]] is commonly used to refer to an inteneded meaning as expressive of a mental orientation.
+4. Yuē [[曰]] "be called", the equivalent of wèi zhī [[謂之]], is the converse of yán [[言]] : X [[曰]] Y comes to mean "for X one says Y", or "X is called Y".
+5. Zhǐ [[指]] is used as technical term for intended objective meaning in philosophical contexts.
+6. Zhǐ [[旨]] is a stylistically elevated term which refers nominally to the overall import of what is said or written.
+7. Wèi [[謂]] refers to what a person or an expression is intended to refer to as an object or as the intended meaning, or to the semantic process itself.
+8. Zhī wèi [[之謂]] "refers to, is intended to refer to" belongs not so much to linguistics or lexicography as to the hermeneutics concrete interpretation of a given text.
 ## Modern Chinese Criteria
 是。。。的意思
 意義

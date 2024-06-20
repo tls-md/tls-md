@@ -7,7 +7,7 @@ zh: 賦稅
 MONEY CONFISCATED FROM CITIZENS by the OFFICIALS of the GOVERNMENT, CONFORMING to a LAW.
 # Criteria and general notes
 ## Old Chinese Criteria
-jijiupian: 斂財曰賦；斂穀曰稅；田稅曰租。 Cambridge Hist. of China vol. 1, p. 595f
+jijiupian: [[斂財曰賦]]；[[斂穀曰稅]]；[[田稅曰租]]。 Cambridge Hist. of China vol. 1, p. 595f
 ## 
 HUANG JINGUI 2006
 TRADE 11.

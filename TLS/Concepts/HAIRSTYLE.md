@@ -8,10 +8,10 @@ METHOD of FIXING HAIR and HEADGEAR.
 # Criteria and general notes
 ## Old Chinese Criteria
 1. There is no general word for "hairstyle". What we list are therefore the most common hairstyles.
-2. Jié 髻／結／紒 refers to the traditional snail-shape hair-bun.
-3. Máo 髦 refers to an uncut tuft of hair, as typically worn by children.
-4. Huán 鬟 refers to a hairstyle where the hair forms a stable ring or rings on the head. See HUANG illustrations.
-5. Guàn 丱 refers to two tufts of hair as worn by children.
+2. Jié [[髻]]／[[結]]／[[紒]] refers to the traditional snail-shape hair-bun.
+3. Máo [[髦]] refers to an uncut tuft of hair, as typically worn by children.
+4. Huán [[鬟]] refers to a hairstyle where the hair forms a stable ring or rings on the head. See HUANG illustrations.
+5. Guàn [[丱]] refers to two tufts of hair as worn by children.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 31.

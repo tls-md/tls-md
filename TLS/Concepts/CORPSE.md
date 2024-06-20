@@ -15,10 +15,10 @@ zh: 尸體
 BODY of a HUMAN OR ANIMAL who has DIED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general dignified term for a dead body is shī 尸 / 屍 often in connection with burial.
-2. Piǎo 殍 refers specifically to the dead bodies of those who have starved and who lie unburied.
-3. Sǐ 死 refers to the dead body of a deceased person in a neutral way, not necessarily in connection with burial.
-4. Fá 伐 is a a standard OBI word for decapitated human victims, but this usage became obsolete.
+1. The general dignified term for a dead body is shī [[尸]] / [[屍]] often in connection with burial.
+2. Piǎo [[殍]] refers specifically to the dead bodies of those who have starved and who lie unburied.
+3. Sǐ [[死]] refers to the dead body of a deceased person in a neutral way, not necessarily in connection with burial.
+4. Fá [[伐]] is a a standard OBI word for decapitated human victims, but this usage became obsolete.
 ## Modern Chinese Criteria
 尸體
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

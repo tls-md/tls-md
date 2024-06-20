@@ -27,18 +27,18 @@ och: 知
 KNOW the BASIC PRINCIPLES of something COMPLEX.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current and word for understanding something and knowing how to do something is zhī 知 (ant. mèi 昧 "not have the foggiest idea").
-2. Míng 明 (ant. měng 蒙 "have very confused notions about") refers to incisive clarity of insight.
-3. Tōng 通 (ant. hūn 昏 "be confused about") refers to comprehensive and thorough familiarity with a subject.
-4. Yù 喻 / 諭 (ant. àn 闇 "be in the dark about") typically refers to clarity achieved on the basis of an effort of articulation.
-5. Chá 察 and shěn 審 (ant. mí 迷 "be all lost when it comes to") refer to incisive clarity of understanding coupled with great awareness of the details of a matter.
-6. Jīng 精 (mào 眊 / 耄 "be completely stupid with respect to") refers to a subtle and thorough understanding of something.
-7. Shí 識 refers to familiarity with something concrete, but the word also refers to simple awareness, especially when negated.
-8. Biàn 辨 / 辯 (ant. huò 惑 "be al confused about") refers to discriminating and highly articulate specialised, often professional knowledge about something.
-9. Jué 覺 and the rarer wù 悟 are inchoative and refer to the coming to understand something.
-10. Wēn 溫 refers to the resulting close familiarity after long acquaintance with a subject.
-11. Wén 聞 (ant. wèi zhī wén 未之聞 "have never heard/learnt about any such thing") is sometimes used as a resultative verb meaning "come to understand something because one has been informed of it". But this usage is limited to the idiom wén dào 聞道 "hear about the Way".
-12. Xī 悉 and jìn 盡 refer to presumed completeness in knowledge.
+1. The standard current and word for understanding something and knowing how to do something is zhī [[知]] (ant. mèi [[昧]] "not have the foggiest idea").
+2. Míng [[明]] (ant. měng [[蒙]] "have very confused notions about") refers to incisive clarity of insight.
+3. Tōng [[通]] (ant. hūn [[昏]] "be confused about") refers to comprehensive and thorough familiarity with a subject.
+4. Yù [[喻]] / [[諭]] (ant. àn [[闇]] "be in the dark about") typically refers to clarity achieved on the basis of an effort of articulation.
+5. Chá [[察]] and shěn [[審]] (ant. mí [[迷]] "be all lost when it comes to") refer to incisive clarity of understanding coupled with great awareness of the details of a matter.
+6. Jīng [[精]] (mào [[眊]] / [[耄]] "be completely stupid with respect to") refers to a subtle and thorough understanding of something.
+7. Shí [[識]] refers to familiarity with something concrete, but the word also refers to simple awareness, especially when negated.
+8. Biàn [[辨]] / [[辯]] (ant. huò [[惑]] "be al confused about") refers to discriminating and highly articulate specialised, often professional knowledge about something.
+9. Jué [[覺]] and the rarer wù [[悟]] are inchoative and refer to the coming to understand something.
+10. Wēn [[溫]] refers to the resulting close familiarity after long acquaintance with a subject.
+11. Wén [[聞]] (ant. wèi zhī wén [[未之聞]] "have never heard/learnt about any such thing") is sometimes used as a resultative verb meaning "come to understand something because one has been informed of it". But this usage is limited to the idiom wén dào [[聞道]] "hear about the Way".
+12. Xī [[悉]] and jìn [[盡]] refer to presumed completeness in knowledge.
 ## Modern Chinese Criteria
 了解
 理解

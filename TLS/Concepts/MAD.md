@@ -77,11 +77,11 @@ och: 狂
 ILLNESS of the MIND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word referring to anything insane or mad is kuáng 狂 (ant. ???: no notion of normality present). Importantly, this word also refers to inspired "madness" in the Greek sense of mainesthai "be raving" which is often used of inspired poets or thinkers. See CRAZY.
-2. Clinical lunacy or mental derangement is rarely referred to, but sometimes diān 顛 seems used to refer to this state..
-3. Stupidity bordering on insanity is chī 癡 (ant. mǐn 敏 "highly sensitive and clever").
-4. Utter confusion of mind bordering on insanity is sometimes referred to by the word huò 惑 (ant. míng 明 "be clear of mind, see things clearly"). See CONFUSED.
-Fēng 瘋 is post-Buddhist, although there are a few cases in which one suspects that 風 may be used to write 瘋.
+1. The most general word referring to anything insane or mad is kuáng [[狂]] (ant. ???: no notion of normality present). Importantly, this word also refers to inspired "madness" in the Greek sense of mainesthai "be raving" which is often used of inspired poets or thinkers. See CRAZY.
+2. Clinical lunacy or mental derangement is rarely referred to, but sometimes diān [[顛]] seems used to refer to this state..
+3. Stupidity bordering on insanity is chī [[癡]] (ant. mǐn [[敏]] "highly sensitive and clever").
+4. Utter confusion of mind bordering on insanity is sometimes referred to by the word huò [[惑]] (ant. míng [[明]] "be clear of mind, see things clearly"). See CONFUSED.
+Fēng [[瘋]] is post-Buddhist, although there are a few cases in which one suspects that [[風]] may be used to write [[瘋]].
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 10.

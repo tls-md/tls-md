@@ -17,10 +17,10 @@ och: 兵
 FIGHT BETWEEN ARMIES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for warfare is bīng 兵.
-2. Róng 戎 refers to military service or military action.
-3. Gān gē 干戈 (ant. yù bó 玉帛 "jade and silk") is a periphrastic way of referring to military affairs.
-4. Wǔ 武 "military affairs" (ant. wén 文 "civil affairs") refers not so much to battles and military action, but to the administration of military affairs in general.
+1. The current general word for warfare is bīng [[兵]].
+2. Róng [[戎]] refers to military service or military action.
+3. Gān gē [[干戈]] (ant. yù bó [[玉帛]] "jade and silk") is a periphrastic way of referring to military affairs.
+4. Wǔ [[武]] "military affairs" (ant. wén [[文]] "civil affairs") refers not so much to battles and military action, but to the administration of military affairs in general.
 ## Modern Chinese Criteria
 軍事 is the current modern general word for military affairs.
 戰爭 is the current modernword for warfare.

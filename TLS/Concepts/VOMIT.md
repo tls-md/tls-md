@@ -21,9 +21,9 @@ och: 吐
 ISSUE FOOD FROM the MOUTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general term for emitting anything from the mouth is tù 吐. See also SPIT
-2. O ㄆ嘔 refers specifically to throwing up.
-NB: Qìn 唚 "(of cats and dogs) to vomit" is post-Han.
+1. The most current general term for emitting anything from the mouth is tù [[吐]]. See also SPIT
+2. O ㄆ[[嘔]] refers specifically to throwing up.
+NB: Qìn [[唚]] "(of cats and dogs) to vomit" is post-Han.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 12. 嘔吐。

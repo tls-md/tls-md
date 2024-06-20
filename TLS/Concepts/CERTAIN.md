@@ -27,9 +27,9 @@ TRUE AND NOT being DOUBTED.
 TRUE AND NOT DOUBTED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for certainty of any kind is bì 必, but the word can also refer to logical necessity.
-2. Bù miǎn 不免 (ant. wèi bì 未必 "not necessarily") refers to factual inevitabity or invariability rather than logical necessity.
-3. Yì 亦 and bù yì 不亦 are both very different from bì 必 in that they do not assert necessity but only indubitable factual truth.
+1. The current word for certainty of any kind is bì [[必]], but the word can also refer to logical necessity.
+2. Bù miǎn [[不免]] (ant. wèi bì [[未必]] "not necessarily") refers to factual inevitabity or invariability rather than logical necessity.
+3. Yì [[亦]] and bù yì [[不亦]] are both very different from bì [[必]] in that they do not assert necessity but only indubitable factual truth.
 ## Modern Chinese Criteria
 必然
 決然

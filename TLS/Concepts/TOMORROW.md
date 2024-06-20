@@ -7,7 +7,7 @@ zh: 明天
 DAY AFTER TODAY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the day following upon another given day is míng rì 明日 "the next day".
+1. The current general word for the day following upon another given day is míng rì [[明日]] "the next day".
 ## Modern Chinese Criteria
 明日
 明天

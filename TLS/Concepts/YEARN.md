@@ -26,11 +26,11 @@ och: 思
 THINK of SOMETHING ABSENT so as to DESIRE it INTENSELY, LACKING HOPE TO OBTAIN IT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for yearning for something is sī 思 (ant. wàng 忘 "forget all about").
-2. Niàn 念 is intensitive and refers to an inability to stop thinking about something.
-3. Huái 懷 is highly emotional and refers to pondering something intensely and emotionally or thinking with intense concern about somebody in one's heart.
-4. Xiǎng 想 is rare in pre-Buddhist Chinese and tends to refer to thinking of someone not only with affection but also with anticipation and hope for future contact.
-5. Yì 憶 is neutral and refers to thinking of someone with mild affection.
+1. The current general word for yearning for something is sī [[思]] (ant. wàng [[忘]] "forget all about").
+2. Niàn [[念]] is intensitive and refers to an inability to stop thinking about something.
+3. Huái [[懷]] is highly emotional and refers to pondering something intensely and emotionally or thinking with intense concern about somebody in one's heart.
+4. Xiǎng [[想]] is rare in pre-Buddhist Chinese and tends to refer to thinking of someone not only with affection but also with anticipation and hope for future contact.
+5. Yì [[憶]] is neutral and refers to thinking of someone with mild affection.
 ## Modern Chinese Criteria
 懷念
 思念

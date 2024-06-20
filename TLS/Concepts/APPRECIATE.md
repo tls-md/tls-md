@@ -19,11 +19,11 @@ BELIEVE INTENSELY that something is EXCELLENT, GOOD AND IMPORTANT. 
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
 [POETIC/PROSAIC]
-1. Guì 貴 is the most general word for appreciating the importance which is inherent in something, and the word is comparative in nuance.
+1. Guì [[貴]] is the most general word for appreciating the importance which is inherent in something, and the word is comparative in nuance.
 [GRADED], [GENERAL], [UNEMOTIONAL]
-2. Zhēn 珍 is an elevated word referring to very intense appreciation or prizing of something as invaluable and as being of more than purely material value.
+2. Zhēn [[珍]] is an elevated word referring to very intense appreciation or prizing of something as invaluable and as being of more than purely material value.
 [EMOTIONAL], [HIGH-DEGREE], [POETIC]
-3. Bǎo 寶 refers to the treasuring of something as something that one has, keeps as a treasure, and is loath to lose.
+3. Bǎo [[寶]] refers to the treasuring of something as something that one has, keeps as a treasure, and is loath to lose.
 [EMOTIONAL], [HIGH-DEGREE]
 ## Modern Chinese Criteria
 喜歡

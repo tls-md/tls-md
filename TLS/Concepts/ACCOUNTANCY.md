@@ -10,11 +10,11 @@ CALCULATE MONEY OR RESOURCES that someone POSSESSES OR USES.
 [BASIC/DERIVED]
 [GENERAL/SPECIFIC]
 [CURRENT-TERM/TECHNICAL-TERM]
-1. The general term for all manner of account-keeping is kuài jì 會計.
+1. The general term for all manner of account-keeping is kuài jì [[會計]].
 [GENERAL], [TECHNICAL-TERM]
-2. Jì 計 is the general word for calculating which is sometimes used more specifically to the detailed keeping of accounts.
+2. Jì [[計]] is the general word for calculating which is sometimes used more specifically to the detailed keeping of accounts.
 [CURRENT-WORD], [DERIVED]
-3. The technical term for keeping overall accounts, typically at the end of the year, is kuài 會.
+3. The technical term for keeping overall accounts, typically at the end of the year, is kuài [[會]].
 [TECHNICAL-TERM]
 ## Modern Chinese Criteria
 會計

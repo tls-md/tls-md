@@ -11,7 +11,7 @@ zh: 具有
 HAVE BECAUSE of a RIGHT to HAVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current, but late, technical term for possession is 屬於. (See XYJ 48)
+1. The current, but late, technical term for possession is [[屬於]]. (See XYJ 48)
 ## Modern Chinese Criteria
 有
 擁有

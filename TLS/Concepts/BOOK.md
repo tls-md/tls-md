@@ -7,7 +7,7 @@ zh: 書
 BIG DOCUMENT CONTAINING MANY CHAPTERS.
 # Criteria and general notes
 ## Old Chinese Criteria
-When exactly does 書 come to designate a book rather than any document. It is not obvious how one could determine this with any precision.
+When exactly does [[書]] come to designate a book rather than any document. It is not obvious how one could determine this with any precision.
 ## 
 HUANG JINGUI 2006
 EDUCATION 2.

@@ -8,8 +8,8 @@ och: 肉１
 MUSCLES AND SINEWS of a ANIMAL OR HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for animal flesh or or any flesh viewed as possible food is ròu 肉. See MEAT.
-2. Jī 肌 refers to living human flesh and muscle, but the word has extended uses like "flesh" in "the flesh of an orange".
+1. The general term for animal flesh or or any flesh viewed as possible food is ròu [[肉]]. See MEAT.
+2. Jī [[肌]] refers to living human flesh and muscle, but the word has extended uses like "flesh" in "the flesh of an orange".
 ## 
 HUANG JINGUI 2006
 BODY 27. 肉，秦漢後用於人，泛指人肉。

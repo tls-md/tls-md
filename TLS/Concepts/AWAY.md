@@ -14,7 +14,7 @@ FROM HERE OR FROM THERE, DISTANT FROM one's SELF:own DWELLING. 
 ## Old Chinese Criteria
 [ACTION/STATE]
 [SPATIAL/TEMPORAL]
-1. The dominant word for being away from home or abroad is chū 出 (ant. rù 入 "be at home").
+1. The dominant word for being away from home or abroad is chū [[出]] (ant. rù [[入]] "be at home").
 SPATIAL!, STATE!
 ## Modern Chinese Criteria
 國外

@@ -7,7 +7,7 @@ zh: 蛋
 FOETUS of BIRD in a SHELL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for an egg is luǎn 卵, and this word has no common near-synonyms.
+1. The standard word for an egg is luǎn [[卵]], and this word has no common near-synonyms.
 ## Modern Chinese Criteria
 蛋
 卵

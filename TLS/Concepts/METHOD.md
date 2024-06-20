@@ -18,12 +18,12 @@ och: 術
 SYSTEM of ACTS USING which one is ABLE to SUCCEED IN a TASK. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for method or technique is shù 術, and the professional technique here referred is typically publicly accessible.
-2. Fāng 方 refers to a professional and often esoteric and/or recondite skill or trick.
-3. Fǎ 法 is a regular rule-governed procedure governing the proper exercise of a skill.
-4. Dào 道 is a way of being as well as a way of doing things, and this Way may be either exoteric or esoteric.
-5. Duān 端 refers to a basic method or the important features of a method.
-學有次第而後大成 "When study has method, only then will it greatly succeed." ( 宋. 歐陽修 )
+1. The most general word for method or technique is shù [[術]], and the professional technique here referred is typically publicly accessible.
+2. Fāng [[方]] refers to a professional and often esoteric and/or recondite skill or trick.
+3. Fǎ [[法]] is a regular rule-governed procedure governing the proper exercise of a skill.
+4. Dào [[道]] is a way of being as well as a way of doing things, and this Way may be either exoteric or esoteric.
+5. Duān [[端]] refers to a basic method or the important features of a method.
+[[學有次第而後大成]] "When study has method, only then will it greatly succeed." ( [[宋]]. [[歐陽修]] )
 ## Modern Chinese Criteria
 辦法 / 措施
 方法 is the technical Westernised term for a method.

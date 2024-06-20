@@ -30,8 +30,8 @@ zh: 開玩笑
 SPEAK so as to PLAY INTENDING thereby to CAUSE OTHERS to LAUGH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word is perhaps xì 戲 "be less than serious". 戲耳　"I was just joking".
-2. Xié 諧 refers to playfulness in the making up of stories.
+1. The most current general word is perhaps xì [[戲]] "be less than serious". [[戲耳]]　"I was just joking".
+2. Xié [[諧]] refers to playfulness in the making up of stories.
 ## Modern Chinese Criteria
 開玩笑
 調笑

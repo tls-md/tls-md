@@ -18,9 +18,9 @@ zh: 旅館
 BUILDING PRODUCED OR USED FOR PERMITTING GUESTS OR STRANGERS TO DWELL in it DURING a SHORT PERIOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current literary word for a hotel is nì lu# 逆旅.
-2. Kè shè 客舍 is a colloquial word for a hotel open to the general public.
-NB the very popular 王仁興，中國旅館史話， 1984
+1. The current literary word for a hotel is nì lu# [[逆旅]].
+2. Kè shè [[客舍]] is a colloquial word for a hotel open to the general public.
+NB the very popular [[王仁興]]，[[中國旅館史話]]， 1984
 ## 
 HUANG JINGUI 2006
 COMM 37.

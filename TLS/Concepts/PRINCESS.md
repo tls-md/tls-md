@@ -7,7 +7,7 @@ zh: 公主
 DAUGHER OR NEAR RELATIVE of a RULER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a princess is gōng zhǔ 公主.
+1. The standard word for a princess is gōng zhǔ [[公主]].
 ## Modern Chinese Criteria
 公主
 貴主

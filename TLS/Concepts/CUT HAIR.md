@@ -8,8 +8,8 @@ och: 薙
 CUT HAIR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Tì 薙／鬄／剃／剔 originally referred to the shaving off of children's hair, but the word came to refer quite generally to all manner of shaving or cutting of hair.
-2. Kūn 髡 refers specifically to the shaving off of adult's hair.
+1. Tì [[薙]]／[[鬄]]／[[剃]]／[[剔]] originally referred to the shaving off of children's hair, but the word came to refer quite generally to all manner of shaving or cutting of hair.
+2. Kūn [[髡]] refers specifically to the shaving off of adult's hair.
 ## Modern Chinese Criteria
 理髮 is the standard modern term for cutting hair.
 剃頭 is the standard modern term for shaving the head.

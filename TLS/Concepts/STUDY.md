@@ -10,12 +10,12 @@ INVESTIGATE THINGS OR IMITATE ANOTHER so as to STRIVE FOR SKILLFULNESS, KNOWING 
 INVESTIGATE THINGS OR IMITATE ANOTHER HUMAN TRYING TO ACQUIRE SKILL, KNOWLEDGE, AND UNDERSTANDING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word is xué 學 (ant. jiào 教 "train teach")which refers to the acquisition of existing knowledge or virtues, typically under another person. Often, the word retains a tinge of immitation.
-2. Shī 師 and cóng 從 refer to deciding to study under someone and treating him as one's teacher.
-3. Kǎo 考 refers to an investigation of a subject in a "scientific" spirit with the aim of finding the truth about something.
-4. Jiū 究 and yán 研 refers to an in-depth study of a subject, typically involving a fair amount of reflection.
-5. Zhì 治 and gōng 攻 refer to the systematic and specialised study, typically of a certain text.
-6. Xí 習 refers to rehearsing and application in practice of what one has learnt, through repetition of text and/or through enactment in practice.
+1. The dominant word is xué [[學]] (ant. jiào [[教]] "train teach")which refers to the acquisition of existing knowledge or virtues, typically under another person. Often, the word retains a tinge of immitation.
+2. Shī [[師]] and cóng [[從]] refer to deciding to study under someone and treating him as one's teacher.
+3. Kǎo [[考]] refers to an investigation of a subject in a "scientific" spirit with the aim of finding the truth about something.
+4. Jiū [[究]] and yán [[研]] refers to an in-depth study of a subject, typically involving a fair amount of reflection.
+5. Zhì [[治]] and gōng [[攻]] refer to the systematic and specialised study, typically of a certain text.
+6. Xí [[習]] refers to rehearsing and application in practice of what one has learnt, through repetition of text and/or through enactment in practice.
 ## 
 HUANG JINGUI 2006
 EDUCATION 15.

@@ -23,11 +23,11 @@ och: 恣
 LACK MODERATION AND ACT CONFORMING to one's DESIRES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for lack of restraint and indulgence is zī 恣 (ant. jié 節 "exercise moderation").
-2. Zòng 縱 (ant. yuē 約 "be limited by constraints") refers pejoratively to lack of restraint.
-3. Sì 肆 and dàng 蕩 (ant. jū 拘 "be properly restrained") refer often positively to lack of inhibitions and a freedom of behaviour.
-4. Fàng 放 (ant. liǎn 斂 "be restrained") refers to a deliberate act of removing social or other inhibitions.
-5. Yín 淫 can come to refer to extravagance as a symptom of general indulgence.
+1. The current general word for lack of restraint and indulgence is zī [[恣]] (ant. jié [[節]] "exercise moderation").
+2. Zòng [[縱]] (ant. yuē [[約]] "be limited by constraints") refers pejoratively to lack of restraint.
+3. Sì [[肆]] and dàng [[蕩]] (ant. jū [[拘]] "be properly restrained") refer often positively to lack of inhibitions and a freedom of behaviour.
+4. Fàng [[放]] (ant. liǎn [[斂]] "be restrained") refers to a deliberate act of removing social or other inhibitions.
+5. Yín [[淫]] can come to refer to extravagance as a symptom of general indulgence.
 ## Modern Chinese Criteria
 任意
 肆意

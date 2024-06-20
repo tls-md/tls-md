@@ -8,9 +8,9 @@ MOUTH of a BIRD.
 # Criteria and general notes
 ## Old Chinese Criteria
 [NOUN/PARTICLE/VERB]
-1. The current general word for a beak is zhòu 咮.
+1. The current general word for a beak is zhòu [[咮]].
 [VERB]
-2. Zhuó 啄 is to peck with a beak and is probably derived from the preceding. See BITE
+2. Zhuó [[啄]] is to peck with a beak and is probably derived from the preceding. See BITE
 [NOUN]
 ## 
 HUANG JINGUI 2006

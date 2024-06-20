@@ -8,13 +8,13 @@ och: 士
 ADULT who is EDUCATED AND ABLE to BECOME an OFFICIAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a person of a certain social standing is shì 士 and this word often connotes specifically a certain level of education, particularly literacy. See INTELLECTUAL.
-2. Jūn zǐ 君子 can focus either on nobility of birth and social status. See alsounder GOOD the meaning "man of excellent character".
-3. Rú 儒 (opp. 墨 "Mohist"), literally "weakling", typically referred Late Warring States times to classicists, often from broadly Confucian circles.
-4. Xián 賢 (ant. 不肖 "person of inferior worth and talent") adds to the notion of an intellectual of some education that of special talent, and sometimes also of moral worth. See TALENT.
-5. Zhé 哲 emphasises advanced intellectual talents.
-6. Jiā 家 focusses on basic professionalism or expertise, but the term is rare in pre-Han times.
-7. Shēng 生 simply refers to literates.
+1. The current general term for a person of a certain social standing is shì [[士]] and this word often connotes specifically a certain level of education, particularly literacy. See INTELLECTUAL.
+2. Jūn zǐ [[君子]] can focus either on nobility of birth and social status. See alsounder GOOD the meaning "man of excellent character".
+3. Rú [[儒]] (opp. [[墨]] "Mohist"), literally "weakling", typically referred Late Warring States times to classicists, often from broadly Confucian circles.
+4. Xián [[賢]] (ant. [[不肖]] "person of inferior worth and talent") adds to the notion of an intellectual of some education that of special talent, and sometimes also of moral worth. See TALENT.
+5. Zhé [[哲]] emphasises advanced intellectual talents.
+6. Jiā [[家]] focusses on basic professionalism or expertise, but the term is rare in pre-Han times.
+7. Shēng [[生]] simply refers to literates.
 ## Modern Chinese Criteria
 君子
 高人

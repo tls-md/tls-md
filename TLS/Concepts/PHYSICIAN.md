@@ -24,8 +24,8 @@ zh: 醫生
 SPECIALIST OR OFFICIAL WORKING to CURE ILLNESSES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general standard word for a doctor is yī 醫.
-2. Wū 巫 refers to a shaman among whose typical capabilities is that of treating illnesses, often but not exclusively by supernatural or magical means.
+1. The general standard word for a doctor is yī [[醫]].
+2. Wū [[巫]] refers to a shaman among whose typical capabilities is that of treating illnesses, often but not exclusively by supernatural or magical means.
 ## Modern Chinese Criteria
 醫生
 醫師

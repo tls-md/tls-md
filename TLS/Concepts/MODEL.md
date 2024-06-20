@@ -26,8 +26,8 @@ zh: 典型
 EXAMPLE IMITATED OR EMULATED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for a concrete or an abstract model to model oneself after is fǎ 法.
-2. Zé 則 refers to the following of an abstract standard or ruler rather than a concrete model.
+1. The current standard word for a concrete or an abstract model to model oneself after is fǎ [[法]].
+2. Zé [[則]] refers to the following of an abstract standard or ruler rather than a concrete model.
 ## Modern Chinese Criteria
 榜樣
 樣板

@@ -15,10 +15,10 @@ och: 痿
 ILLNESS of being NOT ABLE to MOVE one's LEGS OR ARMS. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for lameness in any part of the body, including arms and legs is wěi 痿.
-2. Wāng 尪 refers to deformation of back, chest or leg, and a person with this infirmity is typically a dwarf.
-3. Bì 躄 refers to lameness in both legs.
-4. Bì 痹 refers to complete loss of feeling in a leg.
+1. The current general word for lameness in any part of the body, including arms and legs is wěi [[痿]].
+2. Wāng [[尪]] refers to deformation of back, chest or leg, and a person with this infirmity is typically a dwarf.
+3. Bì [[躄]] refers to lameness in both legs.
+4. Bì [[痹]] refers to complete loss of feeling in a leg.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 8.

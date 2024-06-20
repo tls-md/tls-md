@@ -7,7 +7,7 @@ zh: 轎子
 CHAIR CARRIED ON SHOULDERS, USING POLES.
 # Criteria and general notes
 ## Old Chinese Criteria
-轎
+[[轎]]
 # Ontology
 
 ## Hypernym

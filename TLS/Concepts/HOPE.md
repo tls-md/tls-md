@@ -17,12 +17,12 @@ och: 願
 DESIRE that a FUTURE EVENT HAPPENS, OR BASIC DESIRE TO ACT in a certain NOT CERTAINLY POSSIBLE way.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a hope or wish is yuàn 願 (ant. kǒng 恐 "be very much afraid that"), but the word tends to express a hope regarding what someone else might do.
-2. Jì 冀 (ant. jù 懼 "fear") typically refers to an unrealistic or distant hope concerning one's own future or other person's future actions.
-3. Wàng 望 "look forward to" always refers to a hope regarding external events, and not necessary actions by any person, and moreover wàng 望 tends to refer to a more realistic concrete hope and expectation than yuàn 願.
-4. Qī 期 is to agree on a common future course of action which one hopes to engage in. See PROMISE.
-5. Xìng 幸 "hope to be so lucky that" (ant. wèi 畏 "fear") is part of polite court speech.
-NB: Pàn 盼 is post-Han.
+1. The general word for a hope or wish is yuàn [[願]] (ant. kǒng [[恐]] "be very much afraid that"), but the word tends to express a hope regarding what someone else might do.
+2. Jì [[冀]] (ant. jù [[懼]] "fear") typically refers to an unrealistic or distant hope concerning one's own future or other person's future actions.
+3. Wàng [[望]] "look forward to" always refers to a hope regarding external events, and not necessary actions by any person, and moreover wàng [[望]] tends to refer to a more realistic concrete hope and expectation than yuàn [[願]].
+4. Qī [[期]] is to agree on a common future course of action which one hopes to engage in. See PROMISE.
+5. Xìng [[幸]] "hope to be so lucky that" (ant. wèi [[畏]] "fear") is part of polite court speech.
+NB: Pàn [[盼]] is post-Han.
 ## Modern Chinese Criteria
 希望
 企望

@@ -19,7 +19,7 @@ zh: 計量
 ASSESS CORRECTLY:exactly the SIZE OR QUANTITY of something.
 # Criteria and general notes
 ## Old Chinese Criteria
-度
+[[度]]
 ## 
 HUANG JINGUI 2006
 TRADE 19.

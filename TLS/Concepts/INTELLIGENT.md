@@ -26,13 +26,13 @@ och: 智
 SKILLFUL IN-RELATION-TO UNDERSTANDING and DECIDING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for the native ability to understand or to do things is zhī 知 "knowing", but a problem with this word is that it ranges freely and often imperceptibly in meaning from spiritual wisdom to technical competence.
-2. Míng 明 (ant. àn 闇 "obfuscated in one's mind"), taking its analogy from sharpness of vision, typically refers to clarity of insight at all levels.
-3. Cōng 聰 (ant. kuì 聵 "hard of understanding"), taking its analogy from sharpness of hearing, typically refers to well-informed sharpness of judgment.
-4. Shān 顫 is a very rare word referring to the acute sense of smell, and thus to narine intelligence.
-5. Chá 察 refers to discriminating investigative intelligence.
-6. Ruì 睿 perspicacious in reflection.
-SHU, HONGFAN: 視曰明，聽曰聰，思曰睿。
+1. The most general word for the native ability to understand or to do things is zhī [[知]] "knowing", but a problem with this word is that it ranges freely and often imperceptibly in meaning from spiritual wisdom to technical competence.
+2. Míng [[明]] (ant. àn [[闇]] "obfuscated in one's mind"), taking its analogy from sharpness of vision, typically refers to clarity of insight at all levels.
+3. Cōng [[聰]] (ant. kuì [[聵]] "hard of understanding"), taking its analogy from sharpness of hearing, typically refers to well-informed sharpness of judgment.
+4. Shān [[顫]] is a very rare word referring to the acute sense of smell, and thus to narine intelligence.
+5. Chá [[察]] refers to discriminating investigative intelligence.
+6. Ruì [[睿]] perspicacious in reflection.
+SHU, HONGFAN: [[視曰明]]，[[聽曰聰]]，[[思曰睿]]。
 ## Modern Chinese Criteria
 聰明
 精明

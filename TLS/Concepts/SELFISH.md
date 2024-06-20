@@ -33,7 +33,7 @@ zh: 自私
 WICKED so as to STRIVE FOR ONLY one's SELF:own PROFIT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for selfishness in classical Chinese is sī 私.
+1. The standard word for selfishness in classical Chinese is sī [[私]].
 ## Modern Chinese Criteria
 自私
 私

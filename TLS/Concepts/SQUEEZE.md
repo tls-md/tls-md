@@ -16,9 +16,9 @@ och: 壓
 TOUCH something so as to USE ENDURING FORCE ON IT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the exercise of pressure downwards in any concrete or abstract sense is yā 壓, and the word is not a success verb.
-2. Zhèn 鎮 adds to the notion of vigorous pressure from above the notion of successfully preventing things from moving or displacing itself in any way.
-3. Yì 抑 refers specifically to a particularly vigourous action of pressing something down in any concrete or abstract way and preventing it from moving upwards while possibly allowing it to move sideways.
+1. The current general word for the exercise of pressure downwards in any concrete or abstract sense is yā [[壓]], and the word is not a success verb.
+2. Zhèn [[鎮]] adds to the notion of vigorous pressure from above the notion of successfully preventing things from moving or displacing itself in any way.
+3. Yì [[抑]] refers specifically to a particularly vigourous action of pressing something down in any concrete or abstract way and preventing it from moving upwards while possibly allowing it to move sideways.
 ## Modern Chinese Criteria
 壓
 按

@@ -7,9 +7,9 @@ zh: 腦殼
 BONES of the HEAD of a DEAD BODY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Tóu 頭 refers generally to the skeleton of the head.
-2. Dú lóu 髑髏 refers to the skeleton head of a dead person.
-3. Lú 顱 "cranium" is a term current in the medical literature, and the word probably always had something of an anatomical stylistic flavour.
+1. Tóu [[頭]] refers generally to the skeleton of the head.
+2. Dú lóu [[髑髏]] refers to the skeleton head of a dead person.
+3. Lú [[顱]] "cranium" is a term current in the medical literature, and the word probably always had something of an anatomical stylistic flavour.
 ## Modern Chinese Criteria
 頭
 頭顱

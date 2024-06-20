@@ -54,12 +54,12 @@ VIRTUE OR ATTITUDE of DARING to ACT:carry-out DANGEROUS BUT NECESSARY ACTS.
 VIRTUE OR ATTITUDE of DARING to ACT:carry-out DANGEROUS BUT NECESSARY OR MORAL ACTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for courage is yǒng 勇 (ant. nuò 懦 "pusillanimousness, chicken-liveredness"), which refers to positive boldness evinced in the face of danger or risk. Cf. fortitudo
-2. Hàn 悍 (ant. qiè 怯 "fearfulness") is foolhardiness and recklessness under conditions of danger or risk. Cf. Latin ferocia
-3. Gǎn 敢 (ant. qiè 怯 "fearfulness") is the ability of an individual to take considered reasonable risks where appropriate or where required by ritual propriety.
-4. Guǒ 果 and duàn 斷 (ant. xū1 需 "hestant") is general resoluteness as an attitude towards the conduct of one's affairs. Cf. Latin audacia
-5. Zhì 志 "morale, fighting spirit" and the rarer wǔ 武 is the courageous warlike attitude of a whole group. Cf. Latin acrimonia, animus
-6. Qì 氣 "morale, fighting spirit" is typically the morale of an individual but can also occasionally be used of groups. Cf. Latin spiritus
+1. The standard general word for courage is yǒng [[勇]] (ant. nuò [[懦]] "pusillanimousness, chicken-liveredness"), which refers to positive boldness evinced in the face of danger or risk. Cf. fortitudo
+2. Hàn [[悍]] (ant. qiè [[怯]] "fearfulness") is foolhardiness and recklessness under conditions of danger or risk. Cf. Latin ferocia
+3. Gǎn [[敢]] (ant. qiè [[怯]] "fearfulness") is the ability of an individual to take considered reasonable risks where appropriate or where required by ritual propriety.
+4. Guǒ [[果]] and duàn [[斷]] (ant. xū1 [[需]] "hestant") is general resoluteness as an attitude towards the conduct of one's affairs. Cf. Latin audacia
+5. Zhì [[志]] "morale, fighting spirit" and the rarer wǔ [[武]] is the courageous warlike attitude of a whole group. Cf. Latin acrimonia, animus
+6. Qì [[氣]] "morale, fighting spirit" is typically the morale of an individual but can also occasionally be used of groups. Cf. Latin spiritus
 ## Modern Chinese Criteria
 勇敢
 勇

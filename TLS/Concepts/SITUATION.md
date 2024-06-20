@@ -12,10 +12,10 @@ och: 勢
 RELATION in which MANY HUMANS, FEATURES OR THINGS EXIST TOGETHER OR INTERACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a constellation or situation of any kind is shì 勢.
-2. Zhuàng 狀 and xíng 形 can be used to emphasise the external appearance created by a situation.
-3. Shì 事 focusses on the factual sequence of events that create a shì 勢.
-4. Dì 地 sometimes comes to be used for a stage of a development.
+1. The current general term for a constellation or situation of any kind is shì [[勢]].
+2. Zhuàng [[狀]] and xíng [[形]] can be used to emphasise the external appearance created by a situation.
+3. Shì [[事]] focusses on the factual sequence of events that create a shì [[勢]].
+4. Dì [[地]] sometimes comes to be used for a stage of a development.
 ## Modern Chinese Criteria
 情況
 局勢

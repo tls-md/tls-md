@@ -8,13 +8,13 @@ och: 　角
 LONG BONES GROWING ON the HEADS of BOVINES AND OVINES ETC.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term refering to a horn is jiǎo 角.
-2. Xī 犀 refers to a rhinoceros horn.
-3. Jiū 觓 refers to a curved horn.
-4. Qiú 觩 is another (dialect?) word for jiū 觓.
-5. Jī 觭 refers to a single one of a pair of horns.
-6. Gé 觡 refers to a bone horn.
-7. Ní 觬 refers to a horn of an abnormal shape.
+1. The current general term refering to a horn is jiǎo [[角]].
+2. Xī [[犀]] refers to a rhinoceros horn.
+3. Jiū [[觓]] refers to a curved horn.
+4. Qiú [[觩]] is another (dialect?) word for jiū [[觓]].
+5. Jī [[觭]] refers to a single one of a pair of horns.
+6. Gé [[觡]] refers to a bone horn.
+7. Ní [[觬]] refers to a horn of an abnormal shape.
 ## Modern Chinese Criteria
 角
 犄角

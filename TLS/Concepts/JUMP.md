@@ -18,9 +18,9 @@ och: 跳
 MOVE SUDDENLY UPWARDS so as to LEAVE the FLOOR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for jumping is probably tiào 跳, which can refer both to jumping to a higher level, downwards to a lower level or forward.
-2. Yuè 躍 refers to the action of jumping up.
-3. Yǒng 踊 (later also written 踴 ) refers to the action of jumping up in one place,without moving forward, mostly as a sign of mourning.
+1. The most general word for jumping is probably tiào [[跳]], which can refer both to jumping to a higher level, downwards to a lower level or forward.
+2. Yuè [[躍]] refers to the action of jumping up.
+3. Yǒng [[踊]] (later also written [[踴]] ) refers to the action of jumping up in one place,without moving forward, mostly as a sign of mourning.
 ## Modern Chinese Criteria
 跳
 跳躍

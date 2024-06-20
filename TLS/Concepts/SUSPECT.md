@@ -27,8 +27,8 @@ zh: 嫌疑
 BELIEVE that a PERSON OR ACTION PROBABLY is BAD, LACKING APPROPRIATE PROOF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for suspicion of any kind is yí 疑.
-2. Huò 惑 is sometimes used to refer to confusion coupled with suspicion regarding a certain matter.
+1. The standard current word for suspicion of any kind is yí [[疑]].
+2. Huò [[惑]] is sometimes used to refer to confusion coupled with suspicion regarding a certain matter.
 ## Modern Chinese Criteria
 嫌疑
 嫌

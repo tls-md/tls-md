@@ -9,10 +9,10 @@ och: 海
 ABUNDANT SALTY WATER SURROUNDING LAND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for the sea is hǎi 海.
-2. Míng 冥 / 溟 are probably wrongly interpreted as referring to the sea, but since this misapprehension has become fairly common the meaning "sea" must be registered for the word in later times.
-3. Xiè 澥 is a rare word referring to a gulf.
-NB: Yáng 洋 refers to the vast ocean, but the word first became current in Song times.
+1. The dominant word for the sea is hǎi [[海]].
+2. Míng [[冥]] / [[溟]] are probably wrongly interpreted as referring to the sea, but since this misapprehension has become fairly common the meaning "sea" must be registered for the word in later times.
+3. Xiè [[澥]] is a rare word referring to a gulf.
+NB: Yáng [[洋]] refers to the vast ocean, but the word first became current in Song times.
 ## Modern Chinese Criteria
 海
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

@@ -12,9 +12,9 @@ zh: 咳嗽
 BREATHE so as to BLOW out AIR SUDDENLY AND QUICKLY, OFTEN BECAUSE of a DEFECT IN one's THROAT OR LUNGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for coughing as a deliberate act or as a medical condition is ké 欬／咳.
-2. Yì 噫 refers to the act of belching or retching as impolite conduct.
-3. Yuē 噦 is a rare word referring to belching or hiccupping.
+1. The current word for coughing as a deliberate act or as a medical condition is ké [[欬]]／[[咳]].
+2. Yì [[噫]] refers to the act of belching or retching as impolite conduct.
+3. Yuē [[噦]] is a rare word referring to belching or hiccupping.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 4. 咳嗽。

@@ -23,8 +23,8 @@ och: 誘
 CAUSE OTHERS to ACT:do something one DESIRES them to ACT:do by CAUSING them to be DELIGHTED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for enticement is yòu 誘.
-2. Gǔ 蠱 refers to enticement through bewitching.
+1. The current general word for enticement is yòu [[誘]].
+2. Gǔ [[蠱]] refers to enticement through bewitching.
 ## Modern Chinese Criteria
 引誘
 勾引

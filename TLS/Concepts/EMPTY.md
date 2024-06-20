@@ -28,10 +28,10 @@ och: 虛
 LACK ALL POSSIBLE THINGS INSIDE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most geneal word is xū 虛 (ant. shí 實 "substantial and full") which can refer both to physical emptiness of a space and to abstract emptiness or tenuousness as a philosophical concept.
-2. Kōng 空 (ant. mǎn 滿 "filled up") generally refers to literal emptiness of a container, but used adjectivally the word also has abstract uses as in kōng yán 空言 "empty words, abstract insubstantial discourse".
-3. Wú 無 (ant. yǒu 有 "existence") refers to the philosophical abstract construct of "nothingness, emptiness".
-4. Kuò 廓 and kuàng 曠 emphasise the expansiveness of the empty space.
+1. The most geneal word is xū [[虛]] (ant. shí [[實]] "substantial and full") which can refer both to physical emptiness of a space and to abstract emptiness or tenuousness as a philosophical concept.
+2. Kōng [[空]] (ant. mǎn [[滿]] "filled up") generally refers to literal emptiness of a container, but used adjectivally the word also has abstract uses as in kōng yán [[空言]] "empty words, abstract insubstantial discourse".
+3. Wú [[無]] (ant. yǒu [[有]] "existence") refers to the philosophical abstract construct of "nothingness, emptiness".
+4. Kuò [[廓]] and kuàng [[曠]] emphasise the expansiveness of the empty space.
 ## Modern Chinese Criteria
 空洞
 空虛

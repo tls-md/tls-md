@@ -50,13 +50,13 @@ och: 氣
 ABSTRACT SUBSTANCE which CONTAINS a FORCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for material vital cosmic energies of any kind is qì 氣.
-2. Yīn 陰 "dark female energies" and yáng 陽 "bright male energies" are the two main categories of vital cosmic energies increasingly introduced from late Warring States times onwards.
-3. Jīng 精 "subtle vital essence" refers to the crucial subtle variety of the material vital cosmic energies.
-4. Shén 神 refers to the ultimately refined quintessential subtle variety of the material vital cosmic energies, and the degree of subtlety is superior to that of the jīng 精 "subtle vital essence".
-5. Líng 靈 refers to the almost disembodied supernatural subtle variety of the vital cosmic energies that define life on earth.
-6. Jīn 祲 is a rare archaic word which refers primarily to inauspicious cosmic energies manifesting themselves as evil omens, but the word is occasionally used generally in a neutral sense.
-7. Fēn 氛 is a rare word which refers primarily to inauspicious or auspicious cosmic energies, but the word is occasionally used specifically in the negative sense.
+1. The most general current word for material vital cosmic energies of any kind is qì [[氣]].
+2. Yīn [[陰]] "dark female energies" and yáng [[陽]] "bright male energies" are the two main categories of vital cosmic energies increasingly introduced from late Warring States times onwards.
+3. Jīng [[精]] "subtle vital essence" refers to the crucial subtle variety of the material vital cosmic energies.
+4. Shén [[神]] refers to the ultimately refined quintessential subtle variety of the material vital cosmic energies, and the degree of subtlety is superior to that of the jīng [[精]] "subtle vital essence".
+5. Líng [[靈]] refers to the almost disembodied supernatural subtle variety of the vital cosmic energies that define life on earth.
+6. Jīn [[祲]] is a rare archaic word which refers primarily to inauspicious cosmic energies manifesting themselves as evil omens, but the word is occasionally used generally in a neutral sense.
+7. Fēn [[氛]] is a rare word which refers primarily to inauspicious or auspicious cosmic energies, but the word is occasionally used specifically in the negative sense.
 ## Modern Chinese Criteria
 力氣
 氣力

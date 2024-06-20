@@ -8,8 +8,8 @@ zh: 臀部
 LOWEST BACK PART of the TRUNK of HUMANS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the rump is kāo 尻 which is said by DUAN YUCAI to refer to the anus gōu zǐ 溝子, but some examples clearly suggest otherwise.
-2. Tún 臀 is rare and archaic and the focus is on the buttocks, especially as an object of whipping (HANSHU).
+1. The general word for the rump is kāo [[尻]] which is said by DUAN YUCAI to refer to the anus gōu zǐ [[溝子]], but some examples clearly suggest otherwise.
+2. Tún [[臀]] is rare and archaic and the focus is on the buttocks, especially as an object of whipping (HANSHU).
 ## Modern Chinese Criteria
 臀
 臀部

@@ -31,12 +31,12 @@ och: 赤
 The COLOUR of CHERRIES ETC.. []
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for "red" is probably chì 赤.
-2. Zhū 朱 is deep red.
-3. Dān 丹 is mild cinnabar red.
-4. Jiàng 絳 is very deep shiny red.
-5. Hóng 紅 is whitish red or pink.
-1. SEE 符淮青，詞義的分析和描寫 240ff
+1. The most general word for "red" is probably chì [[赤]].
+2. Zhū [[朱]] is deep red.
+3. Dān [[丹]] is mild cinnabar red.
+4. Jiàng [[絳]] is very deep shiny red.
+5. Hóng [[紅]] is whitish red or pink.
+1. SEE [[符淮青]]，[[詞義的分析和描寫]] 240ff
 ## 
 HUANG JINGUI 2006
 ART 12.

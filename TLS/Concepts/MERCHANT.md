@@ -22,8 +22,8 @@ och: 商/賈
 ADULT whose WORK is to BUY AND SELL THINGS so as to PRODUCE a SALARY:income.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for an itinerant trader is shāng 商; the general term for a sedatory trader or merchant is gǔ 賈.
-2. Fàn 販 refers to a small scale merchant, typically of the intinerant sort.
+1. The general term for an itinerant trader is shāng [[商]]; the general term for a sedatory trader or merchant is gǔ [[賈]].
+2. Fàn [[販]] refers to a small scale merchant, typically of the intinerant sort.
 ## 
 HUANG JINGUI 2006
 TRADE 5.

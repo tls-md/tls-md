@@ -13,9 +13,9 @@ zh: 塵土
 INTENSELY DRY SOIL in INTENSELY SMALL PIECES which CAN BE BLOWN at AND MOVED by WIND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Chén 塵 is the general word for dry dust.
-2. Āi 埃 refers primarily to to light dry quality of dust, and then generally dust, but the word is rarely used by itself.
-3. Gòu 垢 is the general word for dust when it regarded as dirty. See DIRT
+1. Chén [[塵]] is the general word for dry dust.
+2. Āi [[埃]] refers primarily to to light dry quality of dust, and then generally dust, but the word is rarely used by itself.
+3. Gòu [[垢]] is the general word for dust when it regarded as dirty. See DIRT
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 19. 塵埃。

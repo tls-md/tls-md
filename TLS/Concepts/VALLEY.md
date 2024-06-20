@@ -21,9 +21,9 @@ och: 谷
 LOW LANDSCAPE BETWEEN NEAR MOUNTAINS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a valley is gǔ 谷 (ant. shān 山 "mountain"), and the word presupposes a certain size without emphasising large size.
-2. Xī 谿 (later also written 溪 ) refers to a deep valley, preferably with a stream in it.
-3. Huò 壑 (ant. fēng 峰 "mountain top") refers generally to a deep large and impressive valley with or without running water in it, as the season may determine,, and the word is rarely used to refer specifically to a given valley.
+1. The standard word for a valley is gǔ [[谷]] (ant. shān [[山]] "mountain"), and the word presupposes a certain size without emphasising large size.
+2. Xī [[谿]] (later also written [[溪]] ) refers to a deep valley, preferably with a stream in it.
+3. Huò [[壑]] (ant. fēng [[峰]] "mountain top") refers generally to a deep large and impressive valley with or without running water in it, as the season may determine,, and the word is rarely used to refer specifically to a given valley.
 ## Modern Chinese Criteria
 山谷
 穀

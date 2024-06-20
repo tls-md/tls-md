@@ -26,10 +26,10 @@ och: 讀
 LOOK at AND UNDERSTAND a DOCUMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for reading out a written text (there was probably no silent reading in pre-Buddhist China) was dú 讀. See Platform Sutra Tanjing 2.8.4 for a nice example. NB: reciting texts for oneself was a way of studying these, so that by Han times the word sometimes came close to meaning "study".
-2. Lǎn 覽, guān 觀, and dǔ 睹 can occasionally refer to the running one's eyes over a text (probably mumbling it in the process, but there is no evidence whatever to substantiate this assumption) and thus reading it.
-3. Jiàn 見 can occasionally refer to the looking at a text to see what it says.
-4. Fēng 諷 refers to the current practise of reading a certain text.
+1. The general word for reading out a written text (there was probably no silent reading in pre-Buddhist China) was dú [[讀]]. See Platform Sutra Tanjing 2.8.4 for a nice example. NB: reciting texts for oneself was a way of studying these, so that by Han times the word sometimes came close to meaning "study".
+2. Lǎn [[覽]], guān [[觀]], and dǔ [[睹]] can occasionally refer to the running one's eyes over a text (probably mumbling it in the process, but there is no evidence whatever to substantiate this assumption) and thus reading it.
+3. Jiàn [[見]] can occasionally refer to the looking at a text to see what it says.
+4. Fēng [[諷]] refers to the current practise of reading a certain text.
 ## 
 HUANG JINGUI 2006
 EDUCATION 13.

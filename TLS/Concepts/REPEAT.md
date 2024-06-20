@@ -22,9 +22,9 @@ zh: 重複
 HAPPEN AS OR what has HAPPENED BEFORE,OR SAY OR ACT:do what one has SAID OR ACT:done,.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for repetition is fù 復.
-2. Xún 尋 occasionally refers to the reverting to a former state, or to seeking to renew that former state, typically an alliance méng 盟.
-3. Zài 再 is primarily to do something twice, but the word can also refer to an action being performed for a second time.
+1. The current word for repetition is fù [[復]].
+2. Xún [[尋]] occasionally refers to the reverting to a former state, or to seeking to renew that former state, typically an alliance méng [[盟]].
+3. Zài [[再]] is primarily to do something twice, but the word can also refer to an action being performed for a second time.
 ## Modern Chinese Criteria
 重複 is the current modern word for repeating something.
 反覆

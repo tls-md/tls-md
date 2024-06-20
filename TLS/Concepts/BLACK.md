@@ -22,25 +22,25 @@ INTENSELY DARK COLOUR of THINGS LACKING LIGHT.
 [GENERAL/SPECIFIC]
 [IDIOMATIC/NON-IDIOMATIC]
 [POETIC/PROSAIC]
-1.The standard word is hēi 黑 (ant. bái 白 "white") which refers to anything very dark.
+1.The standard word is hēi [[黑]] (ant. bái [[白]] "white") which refers to anything very dark.
 [GENERAL], [LITERAL], [PROSAIC]; [[COMMON]]
-2. Xuán 玄 (ant. sù 素 "pristine unadorned white") refers to a redish mystifying black. SW: 黑而有赤色者
+2. Xuán [[玄]] (ant. sù [[素]] "pristine unadorned white") refers to a redish mystifying black. SW: [[黑而有赤色者]]
 [ELEVATED], [+FIG], [POETIC!]
-3. Àn 黯 (ant. hào 昊 "shining bright (of sky)") is rare and poetic, and the word refers to the threatening darkness of clouds in a thunderstorm.
+3. Àn [[黯]] (ant. hào [[昊]] "shining bright (of sky)") is rare and poetic, and the word refers to the threatening darkness of clouds in a thunderstorm.
 [DRAMATIC], [ELEVATED], [LITERAL], [POETIC]; [[RARE]]
-4. Zī 淄／緇 (ant. sù 素 "plain white") refers to the glossy greyish black appearance of dark silk, like the colour of dark earth, and this word seems limited to the description of clothes.
+4. Zī [[淄]]／[[緇]] (ant. sù [[素]] "plain white") refers to the glossy greyish black appearance of dark silk, like the colour of dark earth, and this word seems limited to the description of clothes.
 [ELEVATED], [LITERAL], [SPECIFIC]
-5. Dài 黛 (ant. hào 皓 "shining whie") refers specifically to the dust-glossy black of make-up.
+5. Dài [[黛]] (ant. hào [[皓]] "shining whie") refers specifically to the dust-glossy black of make-up.
 [ELEVATED], [LITERAL], [POETIC], [SPECIFIC]; [[RARE]]
-6. Lí 黎 / 黧 (ant. sù 素 "pristine white and un-suntanned") refers to the dark sunburnt complexion of those who work in the open for long periods.
+6. Lí [[黎]] / [[黧]] (ant. sù [[素]] "pristine white and un-suntanned") refers to the dark sunburnt complexion of those who work in the open for long periods.
 [IDIOMATIC], [LITERAL], [PROSAIC], [SPECIFIC]
-7. Qián 黔 refers to the dark sunburnt complexion of those who work in the open for long periods, especially in qián mín 黔民 "the common people".
+7. Qián [[黔]] refers to the dark sunburnt complexion of those who work in the open for long periods, especially in qián mín [[黔民]] "the common people".
 [IDIOMATIC], [LITERAL], [PROSAIC], [SPECIFIC]
-8. Méi 黴 refers to the facial complexion darkened either by exposure to the sun or by sorrow.
+8. Méi [[黴]] refers to the facial complexion darkened either by exposure to the sun or by sorrow.
 [ELEVATED], [+FIG], [IDIOMATIC], [POETIC!]; [[RARE]]
-9. Zào 皂 (sù 素 "plain undyed white") is also very rare and refers to the appearance of coarse dyed black non-silken textiles, the original reference of the word being to the plant used to produce the black effect.
+9. Zào [[皂]] (sù [[素]] "plain undyed white") is also very rare and refers to the appearance of coarse dyed black non-silken textiles, the original reference of the word being to the plant used to produce the black effect.
 [LITERAL], [PROSAIC]
-10. Mò 墨 is basically ink, and by extension the word can come to refer to a dark black colour.
+10. Mò [[墨]] is basically ink, and by extension the word can come to refer to a dark black colour.
 ## 
 HUANG JINGUI 2006 ART 13.
 黑，火熏之色，黑色的總稱。

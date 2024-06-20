@@ -13,15 +13,15 @@ BOX PRODUCED USING SMALL TIMBER, TYPICALLY HAVING OPEN TOP.
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. Sì 笥 refers to a four-cornered oblong bamboo basket with cover for the carrying of clothes (examples found in Mawangdui). [SUN 1991: 342; ill.: SUN 1991: 86-1]
+1. Sì [[笥]] refers to a four-cornered oblong bamboo basket with cover for the carrying of clothes (examples found in Mawangdui). [SUN 1991: 342; ill.: SUN 1991: 86-1]
 [SPECIFIC]
-2. Qiè 篋 refers to the oval bamboo basket with cover, used for saving precious things, but also books or cloth. [SUN 1991: 342; ill.: SUN 1991: 86-2] See also BOX.
+2. Qiè [[篋]] refers to the oval bamboo basket with cover, used for saving precious things, but also books or cloth. [SUN 1991: 342; ill.: SUN 1991: 86-2] See also BOX.
 [SPECIFIC]
-3. Fán 笲 is an oval basket similar in a shape to qiè 篋, the sides of which are covered with a fabric. [SUN 1991: 344; ill.: SUN 1991: 86-7??]
+3. Fán [[笲]] is an oval basket similar in a shape to qiè [[篋]], the sides of which are covered with a fabric. [SUN 1991: 344; ill.: SUN 1991: 86-7??]
 [SPECIFIC]
-4. Fěi 篚 refers to the ceremonial basket with cover, which was used by feudal lords to offer up their contributions to court (as such, t is mentioned mainly in the YUGONG chapter of SHANGSHU). I did not found more details concerning its shape. After SONG sources, it had a foot??. [SUN 1991: 344; ill.: SUN 1991: 86-6??]
+4. Fěi [[篚]] refers to the ceremonial basket with cover, which was used by feudal lords to offer up their contributions to court (as such, t is mentioned mainly in the YUGONG chapter of SHANGSHU). I did not found more details concerning its shape. After SONG sources, it had a foot??. [SUN 1991: 344; ill.: SUN 1991: 86-6??]
 [SPECIFIC]
-5. Jī 箕 is a small winnowing-basket like structure made of bamboo, often used to collect dirt and dust, but also used for other purposes.
+5. Jī [[箕]] is a small winnowing-basket like structure made of bamboo, often used to collect dirt and dust, but also used for other purposes.
 [SPECIFIC]
 ## Modern Chinese Criteria
 籮筐

@@ -37,8 +37,8 @@ och: 無禮
 INTERACT so as to be UNRESTRAINED AND NOT POLITE to OTHERS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for public impoliteness is wǔ 侮 which enters surprisingly often into descriptive and perhaps intensitive binomes.
-2. The current philosophically explicit phrase is wú lǐ 無禮
+1. The standard word for public impoliteness is wǔ [[侮]] which enters surprisingly often into descriptive and perhaps intensitive binomes.
+2. The current philosophically explicit phrase is wú lǐ [[無禮]]
 ## Modern Chinese Criteria
 不禮貌
 不客氣

@@ -23,9 +23,9 @@ och: 夫
 MALE ADULT MARRIED MATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word for a husband is fū 夫.
-2. Liáng rén 良人 is a familiar idiom for a husband.
-3. Zhàng fū 丈夫 is an informal colloquial word for a husband, one suspects, but it is hard to see how one may prove this point.
+1. The general current word for a husband is fū [[夫]].
+2. Liáng rén [[良人]] is a familiar idiom for a husband.
+3. Zhàng fū [[丈夫]] is an informal colloquial word for a husband, one suspects, but it is hard to see how one may prove this point.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 9. 丈夫。

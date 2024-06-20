@@ -20,12 +20,12 @@ och: 坑
 CAVITY IN the EARTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a fairly large hole in the ground is kēng 坑.
-2. Kū 窟 refers to an artificial cavity large enough to serve as a habitat for humans.
-3. Jiào 窖／窌 refers to a pit usually designed for storage of grain.
-4. Jǐng 阱 is a hole in the ground -typically like a well- designed as a trap.
-5. Kǎn 坎／埳 is any hole in the ground designed as a trap.
-NB:. Huò 壑 refers to a large abyss or crevice and is marginal to this group because it is not man-made.
+1. The current general word for a fairly large hole in the ground is kēng [[坑]].
+2. Kū [[窟]] refers to an artificial cavity large enough to serve as a habitat for humans.
+3. Jiào [[窖]]／[[窌]] refers to a pit usually designed for storage of grain.
+4. Jǐng [[阱]] is a hole in the ground -typically like a well- designed as a trap.
+5. Kǎn [[坎]]／[[埳]] is any hole in the ground designed as a trap.
+NB:. Huò [[壑]] refers to a large abyss or crevice and is marginal to this group because it is not man-made.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 2.

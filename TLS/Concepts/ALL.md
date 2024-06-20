@@ -19,46 +19,46 @@ COMMON so that of NONE NOT.
 [COLLECTIVE/INDIVIDUAL]
 [[COMMON/RARE]]
 [OBJECT-BINDING/SUBJECT-BINDING]
-1. Jiē 皆 the most common and general colourless subject qunatifier which is also used, occasionally as an object quantifier.
+1. Jiē [[皆]] the most common and general colourless subject qunatifier which is also used, occasionally as an object quantifier.
 SUBJECT-BINDING!; [padV]
-2.Jìn 盡 is a universal object quantifier which indicates that the action the transitive verb it precedes applies to the whole lot of the objects of that verb indiscriminately.
+2.Jìn [[盡]] is a universal object quantifier which indicates that the action the transitive verb it precedes applies to the whole lot of the objects of that verb indiscriminately.
 [OBJECT-BINDING!], [COLLECTIVE]; [vadVt]
-3. Gè 各 quantifies by emphasising the separate features of each item quantified over.
+3. Gè [[各]] quantifies by emphasising the separate features of each item quantified over.
 [INDIVIDUAL], [SUBJECT-BINDING]; [n+Vt]
-4. Jiān 兼 is an object quantifier which says that the transitive verb it precedes applies to each of the objects in its own right.
+4. Jiān [[兼]] is an object quantifier which says that the transitive verb it precedes applies to each of the objects in its own right.
 [OBJECT-BINDING], [INDIVIDUAL]; [vadVt]
-5. Qún 群 is a quantifier which indicates that the whole of the flock or group of items designated by the noun it precedes are referred to
+5. Qún [[群]] is a quantifier which indicates that the whole of the flock or group of items designated by the noun it precedes are referred to
 [COLLECTIVE]; [nadN]
-6. Zhū 諸 is an adjectival quantifier which indicates that the whole group of the things indicated by the noun it precedes is referred to.
+6. Zhū [[諸]] is an adjectival quantifier which indicates that the whole group of the things indicated by the noun it precedes is referred to.
 [COLLECTIVE]; [padN]
-7. Zhòng 眾 is an adnominal quantififier which says that the whole of the group of things designated by the noun it precedes are intended.
+7. Zhòng [[眾]] is an adnominal quantififier which says that the whole of the group of things designated by the noun it precedes are intended.
 [COLLECTIVE]; [nadN]
-8. Fán 凡 characterises a topic adnominally as forming the general subject or topic in a non-narrative statement of principle. The current gloss "in general" is misleading because it wrongly suggests that there are exceptions, and because it does not specify the non-narrative "theoretical" nature of the statements introduced by the word. "In principle" is much to be preferred.
+8. Fán [[凡]] characterises a topic adnominally as forming the general subject or topic in a non-narrative statement of principle. The current gloss "in general" is misleading because it wrongly suggests that there are exceptions, and because it does not specify the non-narrative "theoretical" nature of the statements introduced by the word. "In principle" is much to be preferred.
 [SPECIFIC]; [vadN[TOPIC]]
-9. Jù 俱 / 具 is a collective subject quantifier which says that all the subjects are equally and together characterised by what is in the predicate.
+9. Jù [[俱]] / [[具]] is a collective subject quantifier which says that all the subjects are equally and together characterised by what is in the predicate.
 [SUBJECT-BINDING]; [vadV]
-10. Fàn 氾 quantifies generally over all objects of the verb it precedes.
+10. Fàn [[氾]] quantifies generally over all objects of the verb it precedes.
 [COLLECTIVE], [OBJECT-BINDING]; [vadVt]
-11. Fàn 汎 says that a verb has a whole range of objects, indiscriminately, and without reference to their specific character.
+11. Fàn [[汎]] says that a verb has a whole range of objects, indiscriminately, and without reference to their specific character.
 [COLLECTIVE], [OBJECT-BINDING]; [padVt]
-12. Měi 每 mostly adnominal and emphasises that a each and every new item quantified over is separately intended.
+12. Měi [[每]] mostly adnominal and emphasises that a each and every new item quantified over is separately intended.
 [INDIVIDUAL]; [padN]
-13. Jūn 均 / 鈞 expresses universal quantification over all subjects equally, without any difference.
+13. Jūn [[均]] / [[鈞]] expresses universal quantification over all subjects equally, without any difference.
 [INDIVIDUAL], [SUBJECT-BINDING]; [vadN]
-14. Zhōu 周 is a rare object quantifier claiming that all the objects of a verb are intended, without exception.
+14. Zhōu [[周]] is a rare object quantifier claiming that all the objects of a verb are intended, without exception.
 [COLLECTIVE], [OBJECT-BINDING]; [vadVt]
-15. Xī 悉 mass object qunatifier which says that the transitive verb it precedes applies to the whole of the objects indiscriminately.
+15. Xī [[悉]] mass object qunatifier which says that the transitive verb it precedes applies to the whole of the objects indiscriminately.
 [COLLECTIVE], [OBJECT-BINDING]; [vadVt]
-16. Xián 咸 is an archaic subject quantifier which came to new life in Han times.
+16. Xián [[咸]] is an archaic subject quantifier which came to new life in Han times.
 [INDIVIDUAL], [SUBJECT-BINDING!]; [vadV]
-17. Bì 畢 a subject quantifier which says that the predicate applies to all subjects.
+17. Bì [[畢]] a subject quantifier which says that the predicate applies to all subjects.
 [ADVERBIAL]; [SUBJECT-BINDING]; [RARE]
-18. Jǔ 舉 is an adjectival quantifier of limited idiomatic use indicating that all the things in a certain area are referred to.
+18. Jǔ [[舉]] is an adjectival quantifier of limited idiomatic use indicating that all the things in a certain area are referred to.
 [ADNOMINAL]; [COLLECTIVE]
-19. Wú bù 無不 is a neutral subject and object quantifier.
-20. Mò bù 莫不 is a neutral subject quantifier.
+19. Wú bù [[無不]] is a neutral subject and object quantifier.
+20. Mò bù [[莫不]] is a neutral subject quantifier.
 [PREVERBAL]; [SUBJECT-BINDING]
-21. Sì hǎi 四海 sometimes refers generally to all inhabitants of the inhabited world, like tiān xià 天下, and these are marginal in this group.
+21. Sì hǎi [[四海]] sometimes refers generally to all inhabitants of the inhabited world, like tiān xià [[天下]], and these are marginal in this group.
 [NOMINAL]; [COLLECTIVE]
 ## Modern Chinese Criteria
 全部

@@ -7,7 +7,7 @@ zh: 愛國主義
 LOVE for one's SELF:own STATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-The modern keyword 愛國 "patriotic" has an interesting history in China from ZGC-times onwards. 愛國心 "patriotism" comes in a poem by 汪懋麟 quoted in HYDCD.
+The modern keyword [[愛國]] "patriotic" has an interesting history in China from ZGC-times onwards. [[愛國心]] "patriotism" comes in a poem by [[汪懋麟]] quoted in HYDCD.
 # Ontology
 
 ## Hypernym

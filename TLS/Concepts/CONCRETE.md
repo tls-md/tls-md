@@ -7,7 +7,7 @@ zh: 具體
 OBJECT OR FEATURE which HUMANS CAN PERCEIVE USING THEIR ORGANS of PERCEIVE:perception. 
 # Criteria and general notes
 ## Old Chinese Criteria
-Shí 實 (ant. xū 虛 insubstantial, abstract) refers to something being manifest and concrete rather than abstract.
+Shí [[實]] (ant. xū [[虛]] insubstantial, abstract) refers to something being manifest and concrete rather than abstract.
 # Ontology
 
 ## Antonym

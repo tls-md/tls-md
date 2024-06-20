@@ -16,10 +16,10 @@ och: 寤
 CHANGE from SLEEP so as to BEGIN to be AWARE (AND LEAVE ONES BED).
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for waking up is wù 寤 (ant. mèi 寐 "fall fast asleep").
-2. Jué 覺 (ant. meng 夢 "be deep asleep") refers to waking up, often after a dream.
-3. Xīng 興 (ant. wò 臥 "sleep") refer to rising in the morning.
-NB: Xǐng 醒 "wake up" is post-Han (TANG). In pre-Han times the word means "sober up".
+1. The current general word for waking up is wù [[寤]] (ant. mèi [[寐]] "fall fast asleep").
+2. Jué [[覺]] (ant. meng [[夢]] "be deep asleep") refers to waking up, often after a dream.
+3. Xīng [[興]] (ant. wò [[臥]] "sleep") refer to rising in the morning.
+NB: Xǐng [[醒]] "wake up" is post-Han (TANG). In pre-Han times the word means "sober up".
 ## Modern Chinese Criteria
 醒
 睡醒

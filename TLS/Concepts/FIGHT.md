@@ -22,13 +22,13 @@ och: 爭
 COMPETE with THINGS OR PERSONS so as to TRY TO DAMAGE OR DESTROY MUTUALLY:each-other.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any form of conflict or competition is zhēng 爭 (ant. ràng 讓 "give polite precedence to"). However, the word specifically focusses on competition rather than physical violence.
-2. Dòu 鬥, ōu 毆 and the rarer bó 搏 (ant. què 卻 "withdraw from conflict") refer to physical interpersonal violence and struggle.
-3. Jìng 競 (ant. tuì 退 "withdraw from conflict") refers to intense competiton.
-4. Shì fēi 是非 refers to a primarily non-physical verbal conflict, but in extended usage it can refer to any political dissension or conflict.
-5. Fèn 奮 refers to a fierce physical strugge, often for a higher aim.
-6. Zhàn 戰 (ant. hé 和 "make peace; hold the peace") normally refers to armed conflict (see BATTLE) but the word can occasionally refer to an inner struggle in one's chest: zwei Seelen wohnen, ach, in meiner Brust.
-NB: Dāng 當 can refer to facing an opponent in battle, and the word is marginal in this group.
+1. The current general word for any form of conflict or competition is zhēng [[爭]] (ant. ràng [[讓]] "give polite precedence to"). However, the word specifically focusses on competition rather than physical violence.
+2. Dòu [[鬥]], ōu [[毆]] and the rarer bó [[搏]] (ant. què [[卻]] "withdraw from conflict") refer to physical interpersonal violence and struggle.
+3. Jìng [[競]] (ant. tuì [[退]] "withdraw from conflict") refers to intense competiton.
+4. Shì fēi [[是非]] refers to a primarily non-physical verbal conflict, but in extended usage it can refer to any political dissension or conflict.
+5. Fèn [[奮]] refers to a fierce physical strugge, often for a higher aim.
+6. Zhàn [[戰]] (ant. hé [[和]] "make peace; hold the peace") normally refers to armed conflict (see BATTLE) but the word can occasionally refer to an inner struggle in one's chest: zwei Seelen wohnen, ach, in meiner Brust.
+NB: Dāng [[當]] can refer to facing an opponent in battle, and the word is marginal in this group.
 ## Modern Chinese Criteria
 打架
 對打

@@ -18,7 +18,7 @@ zh: 母親
 FEMALE PARENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a mother is mǔ 母.
+1. The standard word for a mother is mǔ [[母]].
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 7. 母親。母，通稱。

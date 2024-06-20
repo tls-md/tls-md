@@ -19,10 +19,10 @@ och: 除
 DISPLACE something from where it is EXPECTED to REMAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general term for removing anything is qù 去.
-2. Chú 除 refers specifically to getting rid of something undesirable.
-3. Chè 徹 is to remove objects ceremoniously as part of a ritual or the like.
-4. Qiān 遷 can refer to the moving an object from a place, although usually the focus is moving something to a place. See DISPLACE.
+1. The most general term for removing anything is qù [[去]].
+2. Chú [[除]] refers specifically to getting rid of something undesirable.
+3. Chè [[徹]] is to remove objects ceremoniously as part of a ritual or the like.
+4. Qiān [[遷]] can refer to the moving an object from a place, although usually the focus is moving something to a place. See DISPLACE.
 ## Modern Chinese Criteria
 除去
 剔除

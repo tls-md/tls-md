@@ -13,8 +13,8 @@ och: 背
 SEQUENCE OF BONES FROM NECK TO ABDOMEN AND THE BODY PART SURROUNDING IT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for the back of a person or an animal is bèi 背.
-2. Jǐ 脊 and the much rarer lu# 膂 / 呂 refer specifically to the spine of vertebrates.
+1. The general term for the back of a person or an animal is bèi [[背]].
+2. Jǐ [[脊]] and the much rarer lu# [[膂]] / [[呂]] refer specifically to the spine of vertebrates.
 ## Modern Chinese Criteria
 背
 背脊

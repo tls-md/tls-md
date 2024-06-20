@@ -25,10 +25,10 @@ och: 得
 BEGIN to HAVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general and highly abstract verb for obtaining any form of possession of anything abstract or concrete is dé 得 (ant. shī 失 "lose inadvertently").
-2. Obtaining something through effort and often with an element of choice involved is qǔ 取 (ant. qì 棄 "choose to reject").
-3. Obtaining something that tries to escape or is otherwise hard to get is huò 獲 (ant. wáng 亡 "miss out on, fail to get").
-4. Getting something which one has had before is fǎn 反.
+1. The current general and highly abstract verb for obtaining any form of possession of anything abstract or concrete is dé [[得]] (ant. shī [[失]] "lose inadvertently").
+2. Obtaining something through effort and often with an element of choice involved is qǔ [[取]] (ant. qì [[棄]] "choose to reject").
+3. Obtaining something that tries to escape or is otherwise hard to get is huò [[獲]] (ant. wáng [[亡]] "miss out on, fail to get").
+4. Getting something which one has had before is fǎn [[反]].
 ## Modern Chinese Criteria
 取得
 得到

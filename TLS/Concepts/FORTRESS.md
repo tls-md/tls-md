@@ -16,9 +16,9 @@ zh: 堡壘
 INTENSELY FORTIFIED BUILDING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a fortified place smaller than a city is bǎo 保／堡.
-2. Lěi 壘 refers to a fortified military position, and this meaning is often difficult to distinguish from the usages discussed under RAMPART.
-NB: Zhài 寨 refers to an encampment with timber fortifications only in post-Han (TANG) times.
+1. The general word for a fortified place smaller than a city is bǎo [[保]]／[[堡]].
+2. Lěi [[壘]] refers to a fortified military position, and this meaning is often difficult to distinguish from the usages discussed under RAMPART.
+NB: Zhài [[寨]] refers to an encampment with timber fortifications only in post-Han (TANG) times.
 ## 
 HUANG JINGUI 2006
 WARFARE 21.

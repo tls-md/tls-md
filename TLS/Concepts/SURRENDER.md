@@ -23,10 +23,10 @@ zh: 投降
 ADMIT PUBLICLY that one is DEFEATED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any form of submitting to someone or surrendering to the enemy is fú 服.
-2. Xiáng 降 refers specifically to forced, non-voluntary surrender to an enemy.
-3. Xià 下 is a neutral technical term for giving up fighting in a military context.
-4. Chéng 成 and jiǎng 講 refer to a formal process of sueing for peace.
+1. The current general word for any form of submitting to someone or surrendering to the enemy is fú [[服]].
+2. Xiáng [[降]] refers specifically to forced, non-voluntary surrender to an enemy.
+3. Xià [[下]] is a neutral technical term for giving up fighting in a military context.
+4. Chéng [[成]] and jiǎng [[講]] refer to a formal process of sueing for peace.
 ## Modern Chinese Criteria
 投降
 歸降

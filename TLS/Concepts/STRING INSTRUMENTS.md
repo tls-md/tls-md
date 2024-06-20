@@ -8,11 +8,11 @@ och: 琴
 MUSICAL INSTRUMENT which has STRINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current musical instrument in ancient China is the qín 琴﹣ lute which generally had seven strings. This instrument is played with both hands. With one's left hand one holds down the strings while one plucks with one's right hand.
-2. Sè 瑟 refers to a larger instrument than the qín 琴, and the number of strings was standardly 25. The strings were longer and gave a deeper and more sentimental sound. This instrument is also played with both hands, but here both hands are plucking and are able to produce more polyphonic effects.
-3. Zhēng 箏 refers to an instrument very much like a sè 瑟 native to the state of Qín but spread all over China, but the instrument typically has 13 strings. It is played in basically the same way as the sè 瑟, but gives a crisper sound. See illustrations.
-4. Zhú 筑 refers to a 13 string instrument which is not plucked but struck with a small bamboo object called zhú chǐ 竹尺.
-5. Kǒng hóu 箜篌 is a small harp with 25 strings first mentioned in Shǐjì.
+1. The most current musical instrument in ancient China is the qín [[琴]]﹣ lute which generally had seven strings. This instrument is played with both hands. With one's left hand one holds down the strings while one plucks with one's right hand.
+2. Sè [[瑟]] refers to a larger instrument than the qín [[琴]], and the number of strings was standardly 25. The strings were longer and gave a deeper and more sentimental sound. This instrument is also played with both hands, but here both hands are plucking and are able to produce more polyphonic effects.
+3. Zhēng [[箏]] refers to an instrument very much like a sè [[瑟]] native to the state of Qín but spread all over China, but the instrument typically has 13 strings. It is played in basically the same way as the sè [[瑟]], but gives a crisper sound. See illustrations.
+4. Zhú [[筑]] refers to a 13 string instrument which is not plucked but struck with a small bamboo object called zhú chǐ [[竹尺]].
+5. Kǒng hóu [[箜篌]] is a small harp with 25 strings first mentioned in Shǐjì.
 ## Modern Chinese Criteria
 琴
 絲桐

@@ -13,11 +13,11 @@ zh: 小門
 HOLE IN A WALL which CAN be BLOCKED, TYPICALLY PRODUCED USING TIMBER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Hù 戶 refers to a one-leaf minor door which may be the main door to an ordinary home. [HUANG 1995: 1017 - 1018; ill.: SUN 1991: 44-17]
-2. Shàn 扇 refers specifically to the wing of a door, and the word also refers to doors within a building complex, similar to hù 戶. [It seems that the word referred originally to the bamboo or reed courtain screening a doorway, and only later began to be used for the wing of a door. [HUANG 1995: 1018]
-3. Guī 閨 sometimes refers to the small door inside the living complex, but usually refers by synekdoche to the private quarters as a whole. [WANG 1993: 200; HUANG 1995: 1024; HANYU DACIDIAN: vol. 12, pp. 100]
-4. Gé 閤 refers to the small gate on the side of a main gate. [WANG 1993: 200; HUANG 1995: 1024 - 1026]
-NB: Yuè mén 月門 style doors were not current in pre-Buddhist China.
+1. Hù [[戶]] refers to a one-leaf minor door which may be the main door to an ordinary home. [HUANG 1995: 1017 - 1018; ill.: SUN 1991: 44-17]
+2. Shàn [[扇]] refers specifically to the wing of a door, and the word also refers to doors within a building complex, similar to hù [[戶]]. [It seems that the word referred originally to the bamboo or reed courtain screening a doorway, and only later began to be used for the wing of a door. [HUANG 1995: 1018]
+3. Guī [[閨]] sometimes refers to the small door inside the living complex, but usually refers by synekdoche to the private quarters as a whole. [WANG 1993: 200; HUANG 1995: 1024; HANYU DACIDIAN: vol. 12, pp. 100]
+4. Gé [[閤]] refers to the small gate on the side of a main gate. [WANG 1993: 200; HUANG 1995: 1024 - 1026]
+NB: Yuè mén [[月門]] style doors were not current in pre-Buddhist China.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 17.

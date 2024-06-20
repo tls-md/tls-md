@@ -11,14 +11,14 @@ BIG WILD VERTEBRATE.
 [GENERAL]
 [SPECIFIC]
 Wild animals are generally mentioned in the context of hunting or capturing animals, and also in connection with their use in the culinary arts as well as in the production of utensils of all kinds. Their wild nature is standardly contrasted with humane or civilised domesticity.
-1. Qín shòu 禽獸 is the current general word for non-domestic animals which often but not always includes birds of a certain size, but the term which includes all manner of fowl more explicitly is the also current niǎo shòu 鳥獸. See ANIMAL
+1. Qín shòu [[禽獸]] is the current general word for non-domestic animals which often but not always includes birds of a certain size, but the term which includes all manner of fowl more explicitly is the also current niǎo shòu [[鳥獸]]. See ANIMAL
 [GENERAL]
-2. Qín 禽 is sometimes used to refer quite generally to non-tame animals, especially in so far as these may be caught alive and with a net, but the word also refers specifically to wild birds. The word refers to smaller beasts than shòu 獸.
+2. Qín [[禽]] is sometimes used to refer quite generally to non-tame animals, especially in so far as these may be caught alive and with a net, but the word also refers specifically to wild birds. The word refers to smaller beasts than shòu [[獸]].
 [SPECIFIC]
-3. Shòu 獸 tends to refer to dangerous mammals above a certain size that are typically imagined as running (zǒu shòu 走獸 ), and sometimes as liable to bite..
+3. Shòu [[獸]] tends to refer to dangerous mammals above a certain size that are typically imagined as running (zǒu shòu [[走獸]] ), and sometimes as liable to bite..
 [SPECIFIC]
-4. Yě shòu 野獸 focusses on the habitat of wild animals far from human habitation, in the open countryside.
-5. Máo 毛 and máo wù 毛物 refer generally to animals with feathers or fur, birds and beasts.
+4. Yě shòu [[野獸]] focusses on the habitat of wild animals far from human habitation, in the open countryside.
+5. Máo [[毛]] and máo wù [[毛物]] refer generally to animals with feathers or fur, birds and beasts.
 ## 
 HUANG JINGUI 2006
 ANIMALS 1:

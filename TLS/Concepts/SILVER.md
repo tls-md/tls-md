@@ -7,8 +7,8 @@ zh: 銀
 BRIGHT METAL [].
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for silver is yín 銀, but the word is not often used before Warring States times.
-2. Wù 鋈 is an archaic word referring to silver ornaments used three times in SHI.
+1. The standard word for silver is yín [[銀]], but the word is not often used before Warring States times.
+2. Wù [[鋈]] is an archaic word referring to silver ornaments used three times in SHI.
 ## Modern Chinese Criteria
 銀
 銀子

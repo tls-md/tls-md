@@ -23,7 +23,7 @@ zh: 柔軟
 LACK HARDNESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for anything pliable and soft is róu 柔, and I have found no competing words with related meanings.
+1. The current standard word for anything pliable and soft is róu [[柔]], and I have found no competing words with related meanings.
 ## Modern Chinese Criteria
 軟
 柔

@@ -7,15 +7,15 @@ zh: 骨頭
 INTENSELY HARD BODY TISSUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. By far the most general and current word for all kinds of bones is gǔ 骨.
+1. By far the most general and current word for all kinds of bones is gǔ [[骨]].
 [GENERAL]; [[CURRENT+]]
-2. Hái 骸 refers to the set of bones that constutute the skeleton in a living or dead person, and the word is often used collectively to refer by synecdoche either to the living or to the dead body.
+2. Hái [[骸]] refers to the set of bones that constutute the skeleton in a living or dead person, and the word is often used collectively to refer by synecdoche either to the living or to the dead body.
 [COLLECTIVE]
-3. Gé 骼 refer to the set of bones that constitute the skeleton.
+3. Gé [[骼]] refer to the set of bones that constitute the skeleton.
 [ARCHAIC], [COLLECTIVE], [GENERAL] [TECHNICAL-TERM]; [[RARE]]
-3. Gàn 幹 refers to the backbone or to the ribs as the bones which hold up the shape of the chest.
+3. Gàn [[幹]] refers to the backbone or to the ribs as the bones which hold up the shape of the chest.
 [SPECIFIC], [TECHNICAL-TERM]
-4. Xié 脅 refers specifically to the ribs. See RIB
+4. Xié [[脅]] refers specifically to the ribs. See RIB
 [SPECIFIC]; [[CURRENT]]
 ## 
 HUANG JINGUI 2006

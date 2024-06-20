@@ -18,8 +18,8 @@ zh: 汗
 BODY JUICE ISSUED FROM the BODY WHEN it is HOT, OR WHEN IT USES MUCH STRENGTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for sweat is hàn 汗.
-2. Cí 泚 is a rare word for sweat, probably a dialect word, which happens to be used by Mencius.
+1. The current word for sweat is hàn [[汗]].
+2. Cí [[泚]] is a rare word for sweat, probably a dialect word, which happens to be used by Mencius.
 ## Modern Chinese Criteria
 汗
 津

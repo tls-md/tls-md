@@ -8,9 +8,9 @@ och: 目
 ORGAN USED FOR SEEING THINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the eye, including the area around the eye is mù 目 (thus when one shāng mù 傷目 what is injured is not necessarily the eyeball itself). (This is a very flexible word which also has verbal uses. For which see SEE.)
-2. Yǎn 眼 is a colloquial word for the eye (particularly the eyeball, as in yú yǎn 魚眼, never yú mù 魚目 in this sense) which became current in Warring States times. See EYE PARTS.
-NB: Jīng 睛 is extremely rare in pre-Buddhist Chinese, and the word refers not so much to the eye as a whole but to the eyeball specifically.
+1. The general word for the eye, including the area around the eye is mù [[目]] (thus when one shāng mù [[傷目]] what is injured is not necessarily the eyeball itself). (This is a very flexible word which also has verbal uses. For which see SEE.)
+2. Yǎn [[眼]] is a colloquial word for the eye (particularly the eyeball, as in yú yǎn [[魚眼]], never yú mù [[魚目]] in this sense) which became current in Warring States times. See EYE PARTS.
+NB: Jīng [[睛]] is extremely rare in pre-Buddhist Chinese, and the word refers not so much to the eye as a whole but to the eyeball specifically.
 ## 
 HUANG JINGUI 2006
 BODY 34.

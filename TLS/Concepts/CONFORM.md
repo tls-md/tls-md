@@ -19,19 +19,19 @@ zh: 依照
 ACT so as to NOT to OFFEND against RULES OR a MODEL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Perhaps the most general and the most current word describing conformity to a norm is shùn 順 (ant. nì 逆 "go against").
-2. Yóu 由 refers to conformity construed as a matter of taking something as one's starting point or point of orientation.
-3. Dào 道 refers to conformity construed as a matter of taking one's model to define the way of doing things for one.
-4. Yǐ 以 refers to conformity construed as a matter of availing oneself of something as an instrument or guideline.
-5. Yīn 因 refers to conformity construed as a matter of adapting to pre-existing models or rules.
-6. Yuán 緣 refers to conformity construed as a matter of following something attentively in all details as a guideline.
-7. Shǒu 守 refers to conformity construed as a matter of guarding a precedent or a tradition.
-8. Zhōu 周 and hé 合 (all ant. fǎn 反 "go against the model") refer to complete all-round conformity construed as overall identification with a model.
-9. Chèn 稱 refers to conformity construed as a matter of balancing one's actions against a standard.
-10. Yìng 應 and
-shì 適 refer to conformity construed as a matter of responding adequately to given facts.
-12. Cóng 從 and suí 隨 refer to conformity construed as a matter of following a lead.
-12. Tīng 聽 refers specifically to a superior acting in conformity with his inferior's suggestions.
+1. Perhaps the most general and the most current word describing conformity to a norm is shùn [[順]] (ant. nì [[逆]] "go against").
+2. Yóu [[由]] refers to conformity construed as a matter of taking something as one's starting point or point of orientation.
+3. Dào [[道]] refers to conformity construed as a matter of taking one's model to define the way of doing things for one.
+4. Yǐ [[以]] refers to conformity construed as a matter of availing oneself of something as an instrument or guideline.
+5. Yīn [[因]] refers to conformity construed as a matter of adapting to pre-existing models or rules.
+6. Yuán [[緣]] refers to conformity construed as a matter of following something attentively in all details as a guideline.
+7. Shǒu [[守]] refers to conformity construed as a matter of guarding a precedent or a tradition.
+8. Zhōu [[周]] and hé [[合]] (all ant. fǎn [[反]] "go against the model") refer to complete all-round conformity construed as overall identification with a model.
+9. Chèn [[稱]] refers to conformity construed as a matter of balancing one's actions against a standard.
+10. Yìng [[應]] and
+shì [[適]] refer to conformity construed as a matter of responding adequately to given facts.
+12. Cóng [[從]] and suí [[隨]] refer to conformity construed as a matter of following a lead.
+12. Tīng [[聽]] refers specifically to a superior acting in conformity with his inferior's suggestions.
 ## Modern Chinese Criteria
 依照 focusses on objects like regulations, rules, and laws.
 按照 is the standard way of saying "according to".

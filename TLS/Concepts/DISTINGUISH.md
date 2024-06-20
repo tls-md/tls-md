@@ -11,12 +11,12 @@ zh: 分別
 SPEAK OR THINK so as to UNDERSTAND OR to CAUSE OTHERS to UNDERSTAND that DIFFERENT THINGS are DIFFERENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word is biàn 辨, sometimes also written 辯.
-2. The deliberate establishment of distinctions is bié 別 or pàn 判.
-3. Jué 決 is the concrete process by which one decides whether an established distinction obtains or does not obtain in a concrete case.
-4. Xī 析 is to make a set of relevant distinctions on a given subject.
-5. Yì 異 can be used putatively for "consider to be different" in theorising discourse.
-6. Fèn 分 refers to the results of the deliberate establishment of distinctions, and to the making of such distinctions.
+1. The current general word is biàn [[辨]], sometimes also written [[辯]].
+2. The deliberate establishment of distinctions is bié [[別]] or pàn [[判]].
+3. Jué [[決]] is the concrete process by which one decides whether an established distinction obtains or does not obtain in a concrete case.
+4. Xī [[析]] is to make a set of relevant distinctions on a given subject.
+5. Yì [[異]] can be used putatively for "consider to be different" in theorising discourse.
+6. Fèn [[分]] refers to the results of the deliberate establishment of distinctions, and to the making of such distinctions.
 ## Modern Chinese Criteria
 分別 is a current modern word for distinguishing.
 區別 is another current modern word for distinguishing between things.

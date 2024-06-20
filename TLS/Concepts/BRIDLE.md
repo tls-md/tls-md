@@ -11,11 +11,11 @@ och: 勒
 TOOL PRODUCED USING ROPES, USED to DRIVE:steer HORSES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Lè 勒 refers to the whole set of head-gear put on the head and neck of a horse to steer or constrain it, and this includes as its main parts the items listed below.
-2. Xián 銜 is the general word for any contraption put into a horse's mouth in order to steer or constrain it. Attached to the xián 銜 is the biāo 鑣 "bit-holder".
-3. Jī 羈 refers to leather straps round the head which may or may not hold the xián 銜 in place, and is linked to the other strappings on the horse.
-4. Biāo 鑣 is a metal contraption holding the bit in the mouth, and placed on the sides of the horse's mouth and preventing the bit from being pulled sideways out of the horse's mouth. Attached to the biāo 鑣 is the pèi 轡 "reins".
-5. Pèi 轡 refers to the reins which hold the bit with its bit-holder in place. See REINS
+1. Lè [[勒]] refers to the whole set of head-gear put on the head and neck of a horse to steer or constrain it, and this includes as its main parts the items listed below.
+2. Xián [[銜]] is the general word for any contraption put into a horse's mouth in order to steer or constrain it. Attached to the xián [[銜]] is the biāo [[鑣]] "bit-holder".
+3. Jī [[羈]] refers to leather straps round the head which may or may not hold the xián [[銜]] in place, and is linked to the other strappings on the horse.
+4. Biāo [[鑣]] is a metal contraption holding the bit in the mouth, and placed on the sides of the horse's mouth and preventing the bit from being pulled sideways out of the horse's mouth. Attached to the biāo [[鑣]] is the pèi [[轡]] "reins".
+5. Pèi [[轡]] refers to the reins which hold the bit with its bit-holder in place. See REINS
 ## 
 HUANG JINGUI 2006
 COMMUNICATIONS 20.

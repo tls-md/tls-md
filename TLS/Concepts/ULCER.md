@@ -20,13 +20,13 @@ och: 瘡
 ILLNESS in the form of an OPEN WOUND CAUSED by INFLAMMATION. [MEDICINE]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for an ulcer of any kind is chuāng 瘡.
-2. Jū 疽 refers to a deep-rooted ulcer that is not only malignant but also very hard to cure and extremely dangerous, leading usually to the death of the patient.
-3. Cuó 痤 refers any small but highly malignant ulcer, often leading to the death of the patient.
-4. Dīng 疔 refers to a small and superficial but malignant ulcer. This can be treated but is highly dangerous when not treated in time.
-5. Jiè 疥 refers to a malignant ulcer of any provenance that has spread to several places.
-6. Bǐ 疕 refers specifically to an ulcer on the head.
-7. Yáng 瘍 refers to a malignant ulcer sent down by ghosts or devils.
+1. The current general word for an ulcer of any kind is chuāng [[瘡]].
+2. Jū [[疽]] refers to a deep-rooted ulcer that is not only malignant but also very hard to cure and extremely dangerous, leading usually to the death of the patient.
+3. Cuó [[痤]] refers any small but highly malignant ulcer, often leading to the death of the patient.
+4. Dīng [[疔]] refers to a small and superficial but malignant ulcer. This can be treated but is highly dangerous when not treated in time.
+5. Jiè [[疥]] refers to a malignant ulcer of any provenance that has spread to several places.
+6. Bǐ [[疕]] refers specifically to an ulcer on the head.
+7. Yáng [[瘍]] refers to a malignant ulcer sent down by ghosts or devils.
 ## Modern Chinese Criteria
 瘢痕
 瘢

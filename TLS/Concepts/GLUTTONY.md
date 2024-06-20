@@ -15,7 +15,7 @@ zh: 饞嘴
 VICE of EATing EXCESSIVELY.
 # Criteria and general notes
 ## Old Chinese Criteria
-饞
+[[饞]]
 ## Modern Chinese Criteria
 貪食者
 饞嘴

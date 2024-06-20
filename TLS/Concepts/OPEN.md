@@ -14,11 +14,11 @@ och: 啟
 DISPLACE what BLOCKS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common general word for opening things is qǐ 啟 (ant. bì 閉 "close") which can refer to all sorts of opening up of all manner of things.
-2. Kāi 開 (ant. bì 閉 "close") and pì 闢 "open wide" (ant. fēng 封 "close tightly") refer primarily to the opening of doors, windows and the like.
-3. Fā 發 (ant. bì 閉 "close") refers to the opening of something in order to enable one to inspect the contents or to remove things from the interior.
-4. Pī 披 (ant. hé 合 "roll up") refers to the opening up of something by unrolling it.
-5. Jué 決 (ant. dǔ 堵 "block up" and sè 塞 "block up") refers to the opening up of an artificial waterway for circulation.
+1. The most common general word for opening things is qǐ [[啟]] (ant. bì [[閉]] "close") which can refer to all sorts of opening up of all manner of things.
+2. Kāi [[開]] (ant. bì [[閉]] "close") and pì [[闢]] "open wide" (ant. fēng [[封]] "close tightly") refer primarily to the opening of doors, windows and the like.
+3. Fā [[發]] (ant. bì [[閉]] "close") refers to the opening of something in order to enable one to inspect the contents or to remove things from the interior.
+4. Pī [[披]] (ant. hé [[合]] "roll up") refers to the opening up of something by unrolling it.
+5. Jué [[決]] (ant. dǔ [[堵]] "block up" and sè [[塞]] "block up") refers to the opening up of an artificial waterway for circulation.
 ## Modern Chinese Criteria
 開
 打開

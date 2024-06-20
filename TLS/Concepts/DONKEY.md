@@ -12,8 +12,8 @@ labels:
 DOMESTICAL ANIMAL [ASINUS]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the ass, not very commonly used in ancient China, was lu �驢.
-2. Luó 騾 refers to the mule.
+1. The standard word for the ass, not very commonly used in ancient China, was lu �[[驢]].
+2. Luó [[騾]] refers to the mule.
 ## Modern Chinese Criteria
 驢
 驢子

@@ -32,13 +32,13 @@ VIRTUE of NOT LYING AND BEING DILIGENT in EXHAUSTING one's STRENGTH DOING WHAT o
 VIRTUE of NOT LYING AND BEING DILIGENT in EXHAUSTING one's STRENGTH DOING LOYALLY WHAT one OWES OR has PROMISED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for trustiness or good faith is xìn 信.
-2. Chéng 誠 adds to the notion of good faith that of earnestness of effort on behalf of those one is faithful to.
-3. Zhōng 忠 refers to a selfless effort on behalf of the person to whom one takes oneself to owe loyalty, and this person may be either a ruler or a friend.
-4. Zhēn 貞 refers to sturdy moral reliability based on inner conviction.
-5. Shí 實 is occasionally used to refer to reliability of a person's actual performance of duties, particularly to a person's reliability in relation to promises made.
-6. Què 愨 is a rare archaic word referring to trustiness and stolid loyalty as a psychological quality.
-7. Liàng 諒 refers to trustworthiness and fidelity in a more popular mode, sometimes (LY) even with negative overtones of blind faith.
+1. The current general word for trustiness or good faith is xìn [[信]].
+2. Chéng [[誠]] adds to the notion of good faith that of earnestness of effort on behalf of those one is faithful to.
+3. Zhōng [[忠]] refers to a selfless effort on behalf of the person to whom one takes oneself to owe loyalty, and this person may be either a ruler or a friend.
+4. Zhēn [[貞]] refers to sturdy moral reliability based on inner conviction.
+5. Shí [[實]] is occasionally used to refer to reliability of a person's actual performance of duties, particularly to a person's reliability in relation to promises made.
+6. Què [[愨]] is a rare archaic word referring to trustiness and stolid loyalty as a psychological quality.
+7. Liàng [[諒]] refers to trustworthiness and fidelity in a more popular mode, sometimes (LY) even with negative overtones of blind faith.
 ## Modern Chinese Criteria
 忠誠 is the current modern word for loyalty.
 誠摯

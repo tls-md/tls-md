@@ -8,12 +8,12 @@ och: 年
 TIME OF the SUN MOVING ROUND the EARTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for the year is the basically agricultural nián 年. This word can refer to the years of age as well as to the time-span of a year as such. After a number word nián 年 always refers to a number of years as such and not to a person's age.
-2. Suì 歲, named after the star Juppiter, can refer to years in general, but after a number word suì 歲 typically refers to years of age and not to number of years as such. (Cf. 年十三歲 )This term is astronomical in origin and defines the year primarily in terms of the revolutions of the planets.
-3. Zǎi 載, probably named after the recurrent period of growth (cái 才 ) refers quite generally to the length of a year as such, and never to years of age.
-4. Sì 祀 is an archaic periphrastic way of referring to the year as defined by the annual sacrifices.
-5. Qiū 秋, more rarely and later also chūn 春 are occasionally used in elevated stylistic contexts to refer to a year.
-6. Chūn qiū 春秋 refers specifically to years of age.
+1. The most current general word for the year is the basically agricultural nián [[年]]. This word can refer to the years of age as well as to the time-span of a year as such. After a number word nián [[年]] always refers to a number of years as such and not to a person's age.
+2. Suì [[歲]], named after the star Juppiter, can refer to years in general, but after a number word suì [[歲]] typically refers to years of age and not to number of years as such. (Cf. [[年十三歲]] )This term is astronomical in origin and defines the year primarily in terms of the revolutions of the planets.
+3. Zǎi [[載]], probably named after the recurrent period of growth (cái [[才]] ) refers quite generally to the length of a year as such, and never to years of age.
+4. Sì [[祀]] is an archaic periphrastic way of referring to the year as defined by the annual sacrifices.
+5. Qiū [[秋]], more rarely and later also chūn [[春]] are occasionally used in elevated stylistic contexts to refer to a year.
+6. Chūn qiū [[春秋]] refers specifically to years of age.
 ## 
 HUANG JINGUI 2006
 ASTRONOMY 24. 表示 “ 年 ” 的計時單位。

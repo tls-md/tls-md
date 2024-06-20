@@ -24,27 +24,27 @@ MOVE OR NOT MOVE CONFORMING to one's SELF:own DECIDE:decision.
 [PRESCRIBED/SPONTANEOUS]
 [PRIVATE/PUBLIC]
 [RESPONSIBLE/UNACCOUNTABLE]
-1. The current general word for any deliberate behaviour one may be held morally and/or administratively responsible for is xíng 行 (ant. zhǐ 止 "decide not to take action"), and this conduct is typically one engaged in on someone else's behalf.
+1. The current general word for any deliberate behaviour one may be held morally and/or administratively responsible for is xíng [[行]] (ant. zhǐ [[止]] "decide not to take action"), and this conduct is typically one engaged in on someone else's behalf.
 [COMMENDATORY!], [GENERAL], [HABITUAL], [PHYSICAL], [RESPONSIBLE]
-2. Wéi 為 (ant. wú wéi 無為 "not engage in purposeful and result-orientated self-assertive action") focusses not on the act itself but primarily on the results achieved or aimed for.
+2. Wéi [[為]] (ant. wú wéi [[無為]] "not engage in purposeful and result-orientated self-assertive action") focusses not on the act itself but primarily on the results achieved or aimed for.
 [OCCASIONAL], [PURPOSEFUL]
-3. Jū 居, when used in this meaning, focusses not on the results of one's actions, or on the effect of one's actions on others, but on the moral character of one's behaviour as such.
+3. Jū [[居]], when used in this meaning, focusses not on the results of one's actions, or on the effect of one's actions on others, but on the moral character of one's behaviour as such.
 [HABITUAL], [RESPONSIBLE], [SYSTEMATIC]
-4. Shì 事 (ant.* xián 閒 "take it easy") primarily focusses on action as part of the fulfilment of a duty imposed by one's station in life or a task one has set oneself.
+4. Shì [[事]] (ant.* xián [[閒]] "take it easy") primarily focusses on action as part of the fulfilment of a duty imposed by one's station in life or a task one has set oneself.
 [PRESCRIBED], [PUBLIC!], [RESPONSIBLE]
-5. Gōng 躬 (ant.* shǐ rén 使人 "get others to...") focusses on a person of considerable social status engaging personally in a (typically public) action. See SELF.
+5. Gōng [[躬]] (ant.* shǐ rén [[使人]] "get others to...") focusses on a person of considerable social status engaging personally in a (typically public) action. See SELF.
 [MARGINAL], [NOBLE], [OCCASIONAL], [PUBLIC!]
-6. Wěi 偽 (ant. tiān 天 "natural") refers to artificial or faked human action. See PRETEND.
+6. Wěi [[偽]] (ant. tiān [[天]] "natural") refers to artificial or faked human action. See PRETEND.
 [ARTIFICIAL], [DEROGATORY!]
-7. Dòng 動 (ant. jìng 靜 "decide to remain inactive") typically refers to spontaneous purposeful action and focusses almost philosophically on the autonomous decision of the agent to act.
+7. Dòng [[動]] (ant. jìng [[靜]] "decide to remain inactive") typically refers to spontaneous purposeful action and focusses almost philosophically on the autonomous decision of the agent to act.
 [OCCASIONAL], [DELIBERATE]
-8. Zuò 作 (ant. xí 息 "fail to take the initiative, fail to become active") refers to the taking of an initiative for an action which would not have occurred without such a deliberate initiative, and the word is naturally associated with the notion of creativity.
+8. Zuò [[作]] (ant. xí [[息]] "fail to take the initiative, fail to become active") refers to the taking of an initiative for an action which would not have occurred without such a deliberate initiative, and the word is naturally associated with the notion of creativity.
 SPONTANEOUS, OCCASIONAL, PERFECTIVE
-9. Jǔ 舉 refers specifically to the undertaking of a well-considered major act, particularly as part of a political strategy.
+9. Jǔ [[舉]] refers specifically to the undertaking of a well-considered major act, particularly as part of a political strategy.
 [DELIBERATE], [PURPOSEFUL], [RESPONSIBLE]
-NB: Fēng 風 refers rather generally and abstractly to a person's or a group's way or pattern of behaviour, and the word is usually used as a noun. See CUSTOM
-10. Jiā 加 typically refers to action insofar as it affects others.
-11. Xí 習 refers to the habitual repeated practice of something in order to achieve proficiency in the kind of action concerned.
+NB: Fēng [[風]] refers rather generally and abstractly to a person's or a group's way or pattern of behaviour, and the word is usually used as a noun. See CUSTOM
+10. Jiā [[加]] typically refers to action insofar as it affects others.
+11. Xí [[習]] refers to the habitual repeated practice of something in order to achieve proficiency in the kind of action concerned.
 ## Modern Chinese Criteria
 作 is the standard modern word for any action.
 辦 refers to deliberate strategic action.

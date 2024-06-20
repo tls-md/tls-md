@@ -14,11 +14,11 @@ zh: 文字
 WRITTEN IMAGE:symbol TYPICALLY USED to RECORD SPEAK:speech.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for a Chinese character is wén 文, and in certain late contexts only the word refers to non-compound characters.
-2. Another word for a character, particularly a compound character, is zì 字.
-3. A generic term for characters emphasising the orthographic style to which they belong is shū 書.
-4. Míng 名 refers to characters (character types, not tokens) insofar as they are construed as designating something.
-5. Mìng 命 is a term that refers to the act of assigning a character to a certain meaning. See NAME.
+1. The current standard word for a Chinese character is wén [[文]], and in certain late contexts only the word refers to non-compound characters.
+2. Another word for a character, particularly a compound character, is zì [[字]].
+3. A generic term for characters emphasising the orthographic style to which they belong is shū [[書]].
+4. Míng [[名]] refers to characters (character types, not tokens) insofar as they are construed as designating something.
+5. Mìng [[命]] is a term that refers to the act of assigning a character to a certain meaning. See NAME.
 ## 
 HUANG JINGUI 2006
 EDUCATION 3.

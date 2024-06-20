@@ -8,11 +8,11 @@ och: 起
 GATHER an ARMY FOR WARFARE in the NEAR FUTURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for raising an army was qǐ 起. The army may be of any size, and the person raising the army may or may not be raising the army in an official capacity.
-2. Sōu 蒐 is current in CHUNQIU and ZUO and refers to a military review combined with a raising of an army.
-3. Xīng 興 refers to a large scale mobilisation of an armed force which may or may not be used in military action.
-4. Jǔ 舉 always refers to an administrative official act of raising an army of some size and/or deploying this force.
-5. Fā 發 refers to a political act of deploying a military force that is all ready to be deployed.
+1. The current general term for raising an army was qǐ [[起]]. The army may be of any size, and the person raising the army may or may not be raising the army in an official capacity.
+2. Sōu [[蒐]] is current in CHUNQIU and ZUO and refers to a military review combined with a raising of an army.
+3. Xīng [[興]] refers to a large scale mobilisation of an armed force which may or may not be used in military action.
+4. Jǔ [[舉]] always refers to an administrative official act of raising an army of some size and/or deploying this force.
+5. Fā [[發]] refers to a political act of deploying a military force that is all ready to be deployed.
 ## 
 HUANG JINGUI 2006
 WARFARE 7.

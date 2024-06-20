@@ -20,8 +20,8 @@ ADDRESS someone DECLARING INTENSELY that what one is SAYING is TRUE, and in so d
 DECLARE INTENSELY that what one is SAYING is TRUE, AND ASK DEITIES to BE WITNESSES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for an oath of any kind, binding individuals, families or states by word of honour is shì 誓.
-2. Zǔ 詛 focusses on the intensity not of the commitment but of the swearing of the oath and the use of words.
+1. The general word for an oath of any kind, binding individuals, families or states by word of honour is shì [[誓]].
+2. Zǔ [[詛]] focusses on the intensity not of the commitment but of the swearing of the oath and the use of words.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 10.

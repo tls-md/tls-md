@@ -12,9 +12,9 @@ och: 毒
 SUBSTANCE which CAN INTENSELY HARM HUMANS OR ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for poison is dú 毒.
-2. Zhèn 酖 refers specifically to wine poisoned with poison won from the zhèn 鴆 bird.
-3. Yào 藥 "medicine" is sometimes used to refer to poison.
+1. The current general word for poison is dú [[毒]].
+2. Zhèn [[酖]] refers specifically to wine poisoned with poison won from the zhèn [[鴆]] bird.
+3. Yào [[藥]] "medicine" is sometimes used to refer to poison.
 ## Modern Chinese Criteria
 毒品
 毒物

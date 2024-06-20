@@ -8,11 +8,11 @@ och: 髮
 BODY-TISSUE which GROWS on SKIN, VISIBLY on the TOP of the HEAD of HUMANS, and OTHER PLACES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for hair of any kind is fǎ 髮.
-2. Máo 毛 is also occasionally used to refer to the hair of old persons, but the word refers more generally to any fur or hair.
-3. Háo 毫 refers to long, fine hair on animals.
-4.. Bá 胈 is a rare word referring to body hair on man.
-5. Bìn 鬢 refers specifically to hair on the temples, or "sideburns". See TEMPLES
+1. The current general word for hair of any kind is fǎ [[髮]].
+2. Máo [[毛]] is also occasionally used to refer to the hair of old persons, but the word refers more generally to any fur or hair.
+3. Háo [[毫]] refers to long, fine hair on animals.
+4.. Bá [[胈]] is a rare word referring to body hair on man.
+5. Bìn [[鬢]] refers specifically to hair on the temples, or "sideburns". See TEMPLES
 ## 
 HUANG JINGUI 2006
 BODY 31.

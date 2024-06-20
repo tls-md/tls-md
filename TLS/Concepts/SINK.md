@@ -14,10 +14,10 @@ och: 沉
 MOVE DOWN INTO WATER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for the process sinking is probably chén 沈 (ant. fú 浮 "float").
-2. Mò 沒 "get submerged" (ant. piāo 漂 "float") expresses the result of chén 沈 "sinking".
-3. Lún 淪 "sink into" (ant. fàn 汎 "float") has abstract usages where the word means "go under" and gets close in meaning to wáng 亡 "be ruined".
-4. Miǎn 湎 "get immersed in" is mostly used in transferred senses such as "get immersed in wine" and thus gets close in meaning to dān 耽 "get addicted to".
+1. The most current general word for the process sinking is probably chén [[沈]] (ant. fú [[浮]] "float").
+2. Mò [[沒]] "get submerged" (ant. piāo [[漂]] "float") expresses the result of chén [[沈]] "sinking".
+3. Lún [[淪]] "sink into" (ant. fàn [[汎]] "float") has abstract usages where the word means "go under" and gets close in meaning to wáng [[亡]] "be ruined".
+4. Miǎn [[湎]] "get immersed in" is mostly used in transferred senses such as "get immersed in wine" and thus gets close in meaning to dān [[耽]] "get addicted to".
 ## Modern Chinese Criteria
 沉沒
 陷入

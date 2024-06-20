@@ -19,7 +19,7 @@ zh: 良心
 MIND:mental ORGAN of INDEPENDENT MORAL JUDGMENT of ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-The notion of an inner organ of moral judgment is not well attested in pre-Buddhist China. Having a "good conscience" is unheard of, and having a "bad conscience" in the form of feelings of moral distress is, in the LY-tradition, but first attested in Taó Qiān, nèi jiù 內疚. typically takes the form not of remorse so much as of varieties of regret 悔 or 恨. The history of strong regret huǐ 悔 is an important part of the history of emotions in China.
+The notion of an inner organ of moral judgment is not well attested in pre-Buddhist China. Having a "good conscience" is unheard of, and having a "bad conscience" in the form of feelings of moral distress is, in the LY-tradition, but first attested in Taó Qiān, nèi jiù [[內疚]]. typically takes the form not of remorse so much as of varieties of regret [[悔]] or [[恨]]. The history of strong regret huǐ [[悔]] is an important part of the history of emotions in China.
 ## Modern Chinese Criteria
 良心 is the standard word for conscience.
 人心

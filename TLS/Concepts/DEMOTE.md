@@ -16,9 +16,9 @@ och: 黜
 DISMISS so as to COMMAND to BECOME of MORE HUMBLE RANK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard technical word for demoting someone officially is chù 黜／絀.
-2. Tuì 退 is a slightly polite periphrastic way of referring to demotion.
-3. Qiān 遷 refers to transferral, but is often used euphemistically for demotion.
+1. The standard technical word for demoting someone officially is chù [[黜]]／[[絀]].
+2. Tuì [[退]] is a slightly polite periphrastic way of referring to demotion.
+3. Qiān [[遷]] refers to transferral, but is often used euphemistically for demotion.
 ## 
 HUANG JINGUI 2006 GOVERNMENT/LAW 27.
 降，泛稱爵位、身份的降低。

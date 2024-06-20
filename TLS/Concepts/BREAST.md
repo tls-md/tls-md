@@ -7,7 +7,7 @@ zh: 乳房
 PAIR of BODY PARTS on the CHEST of WOMEN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term for the breast is apparently rǔ 乳, but since the breast of the woman was exceedingly rarely referred to in the non-excavated literature, it is hard to be sure whether the word was not something of a taboo in dignified discourse. Only Zhuangzi breaks the taboo. See NIPPLE.
+1. The standard term for the breast is apparently rǔ [[乳]], but since the breast of the woman was exceedingly rarely referred to in the non-excavated literature, it is hard to be sure whether the word was not something of a taboo in dignified discourse. Only Zhuangzi breaks the taboo. See NIPPLE.
 ## Modern Chinese Criteria
 乳房
 乳

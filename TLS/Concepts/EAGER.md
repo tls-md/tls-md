@@ -32,11 +32,11 @@ och: 急
 INTENSE DESIRE to ACT FOR A DEFINITE AIM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for eagerness for something is jí 急 (ant. huǎn 緩 "uneager").
-2. Jí 疾 tends to refer to urgent eagerness.
-3. Jí 亟 refers occasionally to a concrete urgent eagerness for something desired.
-4. Hān 酣, normally "tipsy", is occasionally used to refer to eagerness of pursuit of something.
-5. Lì 利 sometimes refers to the abstract attitude towards something as singularly and acutely profitable to one.
+1. The current general word for eagerness for something is jí [[急]] (ant. huǎn [[緩]] "uneager").
+2. Jí [[疾]] tends to refer to urgent eagerness.
+3. Jí [[亟]] refers occasionally to a concrete urgent eagerness for something desired.
+4. Hān [[酣]], normally "tipsy", is occasionally used to refer to eagerness of pursuit of something.
+5. Lì [[利]] sometimes refers to the abstract attitude towards something as singularly and acutely profitable to one.
 ## Modern Chinese Criteria
 渴望
 熱望

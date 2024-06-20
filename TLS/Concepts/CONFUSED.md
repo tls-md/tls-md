@@ -35,10 +35,10 @@ zh: 混淆
 FEELING OR SITUATION of one's MIND being in CHAOS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for any kind of confusion is huò 惑 (ant. qīng 清 "be unconfused and clear").
-2. Mí 迷 "be temporarily disorientated" (ant. shí 識 "be familiar with") is in connection with a direction one is intending to take.
-3. Hūn 昏 / 惛 is typically confusion within a certain delimited area. See OBSCURE
-4. Bèi 悖 / 誖 / 勃 refers to confusion in the form of contradictoriness and incoherence of opinions held or of attitudes.
+1. The standard general word for any kind of confusion is huò [[惑]] (ant. qīng [[清]] "be unconfused and clear").
+2. Mí [[迷]] "be temporarily disorientated" (ant. shí [[識]] "be familiar with") is in connection with a direction one is intending to take.
+3. Hūn [[昏]] / [[惛]] is typically confusion within a certain delimited area. See OBSCURE
+4. Bèi [[悖]] / [[誖]] / [[勃]] refers to confusion in the form of contradictoriness and incoherence of opinions held or of attitudes.
 ## Modern Chinese Criteria
 疑惑
 混淆不清

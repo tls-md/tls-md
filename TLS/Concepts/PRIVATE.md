@@ -14,7 +14,7 @@ och: 私
 SECRET IN-RELATION-TO ALL OFFICIALS AND PERRSONAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant current word for privacy is sī 私 (ant. gōng 公 "public"), and the word designates everything that falls outside the responsibility of public administration. Contrast SELFISH, which is a common related category of thought in ancient China, and the differentiation between the two is by no means always clear.
+1. The dominant current word for privacy is sī [[私]] (ant. gōng [[公]] "public"), and the word designates everything that falls outside the responsibility of public administration. Contrast SELFISH, which is a common related category of thought in ancient China, and the differentiation between the two is by no means always clear.
 ## Modern Chinese Criteria
 私人 is a current adjective referring to privacy.
 隱私

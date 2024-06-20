@@ -7,8 +7,8 @@ zh: 騎
 TRAVEL SITTING ON an ANIMAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Qí 騎 refers typically to the riding of animals (and by extension to the straddling on cosmological entities).
-2. Chéng 乘 refers typically to the riding of vehicles (and by extension to the straddling on cosmological entities).
+1. Qí [[騎]] refers typically to the riding of animals (and by extension to the straddling on cosmological entities).
+2. Chéng [[乘]] refers typically to the riding of vehicles (and by extension to the straddling on cosmological entities).
 ## Modern Chinese Criteria
 騎
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

@@ -10,10 +10,10 @@ ROCK LANDSCAPE that is INTENSELY DEEP AND STEEP AND CONTAINS WATER AT the BOTTOM
 # Criteria and general notes
 ## Old Chinese Criteria
 [POETIC/PROSAIC]
-1. The general poetic word for a deep and threatening watery abyss is yuān 淵.
+1. The general poetic word for a deep and threatening watery abyss is yuān [[淵]].
 [POETIC]
-2. Tán 潭 is also refers to a deep and threatening watery abyss.
-3. Huò 壑 can refer to a steep deep valley or abyss. The distinction with VALLEY is often unclear.
+2. Tán [[潭]] is also refers to a deep and threatening watery abyss.
+3. Huò [[壑]] can refer to a steep deep valley or abyss. The distinction with VALLEY is often unclear.
 [PROSAIC]
 ## Modern Chinese Criteria
 深淵

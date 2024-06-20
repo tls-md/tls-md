@@ -17,9 +17,9 @@ zh: 線條
 SHAPE WHICH HAS LENGTH BUT LACKS OR HAS INTENSELY LITTLE BREADTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shéng 繩 is the abstract term for a line is the word for the thread/rope, used figuratively, often expanded to shéng mò 繩墨 "the inkline".
-2. Háng 行 refers specificallty to a line of text. MOVE THIS TO LINE-OF-WRITING
-3. Jìng 徑 refers specifically to the line constituted by a diameter of a circle.
+1. Shéng [[繩]] is the abstract term for a line is the word for the thread/rope, used figuratively, often expanded to shéng mò [[繩墨]] "the inkline".
+2. Háng [[行]] refers specificallty to a line of text. MOVE THIS TO LINE-OF-WRITING
+3. Jìng [[徑]] refers specifically to the line constituted by a diameter of a circle.
 ## Modern Chinese Criteria
 線
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

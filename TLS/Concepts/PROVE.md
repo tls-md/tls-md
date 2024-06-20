@@ -39,9 +39,9 @@ EXPLAIN CLEARLY WHY a SENTENCE is TRUE.
 EXPLAIN CLEARLY WHY a SENTENCE is CERTAINLY TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for, often decisive, proof or evidence is yàn 驗, but the word does not refer to a discursive elabarate logical proof as one might expect to find in the Platonic-Aristotelian tradition.
-2. Zhēng 徵 refers to evidence or symptomatic indications that something is the case.
-3. Zheng 證 refers to a facting bearing witness that a certain proposition is true.
+1. The current general word for, often decisive, proof or evidence is yàn [[驗]], but the word does not refer to a discursive elabarate logical proof as one might expect to find in the Platonic-Aristotelian tradition.
+2. Zhēng [[徵]] refers to evidence or symptomatic indications that something is the case.
+3. Zheng [[證]] refers to a facting bearing witness that a certain proposition is true.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 28. 應驗、驗證。

@@ -11,13 +11,13 @@ ANIMAL that HAS TWO LEGS AND WINGS.
 [COUNT/MASS]
 [GENERAL/SPECIFIC]
 [NON-REFERENTIAL/REFERENTIAL]
-1. Niǎo 鳥 is by far the most common word for any bird, and this word can refer to individual creatures.
+1. Niǎo [[鳥]] is by far the most common word for any bird, and this word can refer to individual creatures.
 [COUNT], [GENERAL]; [[COMMON+]]
-3. Qín 禽 refers to a large bird, typically a bird of prey that one might hunt for, and the word is predominantly used as a mass noun. (But note that the word can also be used to refer to wild beasts rather than birds.)
+3. Qín [[禽]] refers to a large bird, typically a bird of prey that one might hunt for, and the word is predominantly used as a mass noun. (But note that the word can also be used to refer to wild beasts rather than birds.)
 [MASS!], [SPECIFIC]
-3. Fēi niǎo 飛鳥 is the generic and non-referential term.
+3. Fēi niǎo [[飛鳥]] is the generic and non-referential term.
 [NON-REFERENTIAL]
-4. Yǔ niǎo 羽鳥 is a rather formal general term for birds of all kinds.
+4. Yǔ niǎo [[羽鳥]] is a rather formal general term for birds of all kinds.
 [NON-REFERENTIAL]; [[RARE]]
 ## Modern Chinese Criteria
 禽

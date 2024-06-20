@@ -26,10 +26,10 @@ och: 語
 MUTUAL ADDRESSING EXCHANGED between those who MUTUALLY LISTEN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for engaging in familiar informal conversation is yǔ 語 (ant. mò 默 "say nothing").
-2. Biàn 辯 refers sometimes to discussion or exchange of views typically among equals. See DISCUSS
-3. Tán 談 refers to informal chatter or unrespectable intellectual dialogue.
-4. Jiǎng 講 refers to the discussion of important subjects in the context of informal conversation, typically among equals. See EXPLAIN
+1. The current general word for engaging in familiar informal conversation is yǔ [[語]] (ant. mò [[默]] "say nothing").
+2. Biàn [[辯]] refers sometimes to discussion or exchange of views typically among equals. See DISCUSS
+3. Tán [[談]] refers to informal chatter or unrespectable intellectual dialogue.
+4. Jiǎng [[講]] refers to the discussion of important subjects in the context of informal conversation, typically among equals. See EXPLAIN
 ## Modern Chinese Criteria
 會話 is the current modern word for a conversation.
 對話 refers in a more formal way to a dialogue or exchange of views.

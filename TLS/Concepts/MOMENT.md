@@ -15,10 +15,10 @@ zh: 剎那
 POINT of TIME OR INTENSELY SHORT TIME.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a very short time is xū yú 須臾.
-2. Qǐng 頃 refers to a short while, a certain reasonably short amount of time, always longer than xū yú 須臾 "a moment".
-NB: Shùn 瞚／瞬 is post-Han.
-3. Shí 時 "time" is commonly used to refer to a moment in time.
+1. The current general word for a very short time is xū yú [[須臾]].
+2. Qǐng [[頃]] refers to a short while, a certain reasonably short amount of time, always longer than xū yú [[須臾]] "a moment".
+NB: Shùn [[瞚]]／[[瞬]] is post-Han.
+3. Shí [[時]] "time" is commonly used to refer to a moment in time.
 ## Modern Chinese Criteria
 一眨眼
 一轉眼

@@ -8,11 +8,11 @@ och: 簡帛
 EMPTY DOCUMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common writing material in Warring States times was the jiǎn 簡 "bamboo strip".
-2. Also common was the dú 牘 "wooden tablet".
-3. Bǎn 板／版 was a larger and thicker wooden tablet than the dú 牘.
-4. Gū 觚 six-sided wooden tablet, typically used to record population registers and the like.
-5. Bó 帛 "thin silk for writing on" was extremely expensive and only used for special ceremonial purposes.
+1. The most common writing material in Warring States times was the jiǎn [[簡]] "bamboo strip".
+2. Also common was the dú [[牘]] "wooden tablet".
+3. Bǎn [[板]]／[[版]] was a larger and thicker wooden tablet than the dú [[牘]].
+4. Gū [[觚]] six-sided wooden tablet, typically used to record population registers and the like.
+5. Bó [[帛]] "thin silk for writing on" was extremely expensive and only used for special ceremonial purposes.
 ## 
 HUANG JINGUI 2006
 EDUCATION 1.

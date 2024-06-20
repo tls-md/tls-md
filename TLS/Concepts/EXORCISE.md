@@ -14,10 +14,10 @@ och: 禊
 PRAY so as to TRY to REMOVE WICKED SUPERNATURAL FORCES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word for exorcism is fú 祓, and the word refers specifically to shamanistic incantations designed to remove evil spirits, the shamans often being women.
-2. The rarer ráng 禳 which is current in ZUO, does not specify any particular method of exorcism.
-3. The fairly common xì 禊 refers specifically to the ritual exorcistic bath.
-4. Jué 爝 refers to exorcism by the use of a burning torch.
+1. The most common word for exorcism is fú [[祓]], and the word refers specifically to shamanistic incantations designed to remove evil spirits, the shamans often being women.
+2. The rarer ráng [[禳]] which is current in ZUO, does not specify any particular method of exorcism.
+3. The fairly common xì [[禊]] refers specifically to the ritual exorcistic bath.
+4. Jué [[爝]] refers to exorcism by the use of a burning torch.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 11.

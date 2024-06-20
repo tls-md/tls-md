@@ -30,12 +30,12 @@ och: 欲
 DESIRE for what one BELIEVES to be a POSSIBLE:FEASIBLE FUTURE ACT by ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word in this group is yù 欲 (ant. fú 弗 "refuse to") which refers to any intention of any kind, and the subjects are normally animate.
-2. Qiě 且 "be about to" refers to the immediate future and does not stress intention, although the subject is normally human.
-3. Jiāng 將 refers to any impending event with animate or inanimate subjects.
-4. Yì 意 stresses the subjective aspect of planning and desiring to do something, involved in an intention to do something.
-5. Tú 圖 "make plans for" is a rather elevated word to use for intentions to engage in major undertakings.
-6. Xīn 心 refers to basic intentions or basic strategy.
+1. The dominant general word in this group is yù [[欲]] (ant. fú [[弗]] "refuse to") which refers to any intention of any kind, and the subjects are normally animate.
+2. Qiě [[且]] "be about to" refers to the immediate future and does not stress intention, although the subject is normally human.
+3. Jiāng [[將]] refers to any impending event with animate or inanimate subjects.
+4. Yì [[意]] stresses the subjective aspect of planning and desiring to do something, involved in an intention to do something.
+5. Tú [[圖]] "make plans for" is a rather elevated word to use for intentions to engage in major undertakings.
+6. Xīn [[心]] refers to basic intentions or basic strategy.
 ## Modern Chinese Criteria
 要
 想

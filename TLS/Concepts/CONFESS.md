@@ -20,9 +20,9 @@ och: 服
 ADMIT one's SELF:own CRIMES OR MISTAKES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for confessing one's guilt is fú 服.
-2. Shǒu 首 is refers to an unforced confession of responsibility and guilt.
-NB: Zhāo 招 is post-Buddhist (Song/Yuan) and refers to confessing in the context of formal legal procedings.
+1. The current general word for confessing one's guilt is fú [[服]].
+2. Shǒu [[首]] is refers to an unforced confession of responsibility and guilt.
+NB: Zhāo [[招]] is post-Buddhist (Song/Yuan) and refers to confessing in the context of formal legal procedings.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 38.

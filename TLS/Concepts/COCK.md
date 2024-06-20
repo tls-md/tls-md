@@ -7,7 +7,7 @@ zh: 公雞
 MALE CHICKEN
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a cock is jī 雞, the same as for "chicken", but occasionally the expanded form xióng jī 雄雞 is used.
+1. The standard word for a cock is jī [[雞]], the same as for "chicken", but occasionally the expanded form xióng jī [[雄雞]] is used.
 ## Modern Chinese Criteria
 公雞
 雄雞

@@ -18,8 +18,8 @@ zh: 啞
 LACK of ABILITY to HEAR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for phenomena of dumbness of any kind, lasting or not, is yīn 喑／瘖
-2. Yǎ 啞 (also written with the illness radical in SJ) is a later word for the same thing, current from Han times.
+1. The general term for phenomena of dumbness of any kind, lasting or not, is yīn [[喑]]／[[瘖]]
+2. Yǎ [[啞]] (also written with the illness radical in SJ) is a later word for the same thing, current from Han times.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 6. 發聲異常。

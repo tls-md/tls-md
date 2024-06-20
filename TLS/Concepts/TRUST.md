@@ -22,7 +22,7 @@ och: 信
 BELIEVE someone to be HONEST, AND TREAT that person CONFORMING TO THAT BELIEF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for having faith in someone is xìn 信 (ant. yí 疑 "be suspicious of"), and this word belongs to the high discourse of politics and ethics.
+1. The current word for having faith in someone is xìn [[信]] (ant. yí [[疑]] "be suspicious of"), and this word belongs to the high discourse of politics and ethics.
 ## Modern Chinese Criteria
 信任
 相信

@@ -10,7 +10,7 @@ zh: 扇子
 TOOL PRODUCED FOR MOVING AIR ACROSS one's FACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a fan is shàn 扇, and there are no current near-synonyms.
+1. The standard word for a fan is shàn [[扇]], and there are no current near-synonyms.
 ## Modern Chinese Criteria
 扇子
 扇

@@ -17,8 +17,8 @@ och: 罰
 MONEY to be PAID as PUNISHMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a fine is fá 罰, and the word refers to fines of any kind.
-2. Zī 貲 refers to a minor fine for a minor offence according to SHUOWEN and also in the Qin laws.
+1. The general word for a fine is fá [[罰]], and the word refers to fines of any kind.
+2. Zī [[貲]] refers to a minor fine for a minor offence according to SHUOWEN and also in the Qin laws.
 ## Modern Chinese Criteria
 罰款
 罰鍰

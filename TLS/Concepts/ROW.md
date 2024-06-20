@@ -16,9 +16,9 @@ och: 行
 ORDER:sequence of THINGS JUXTAPOSED on a STRAIGHT LINE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a row is háng 行 (ant.** sǎn 散 "not forming any rows"), which typically refers to a row of things arrayed vertically, but the word also specifically to battle arrays.
-2. Liè 列 is a common word for a row, and the arrangement of the rows thus referred to is typically horizontal; and the way also refers to rows in battle arrays.
-3. Yì 佾 refers specifically to a row of dancers.
+1. The current general word for a row is háng [[行]] (ant.** sǎn [[散]] "not forming any rows"), which typically refers to a row of things arrayed vertically, but the word also specifically to battle arrays.
+2. Liè [[列]] is a common word for a row, and the arrangement of the rows thus referred to is typically horizontal; and the way also refers to rows in battle arrays.
+3. Yì [[佾]] refers specifically to a row of dancers.
 ## Modern Chinese Criteria
 行列
 行

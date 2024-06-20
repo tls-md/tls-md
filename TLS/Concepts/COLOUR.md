@@ -8,9 +8,9 @@ zh: 顏色
 APPEARANCE of SURFACES which REFLECT OR ISSUE LIGHT, PERCEIVED USING the EYES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for colour of any kind is sè 色.
-2. Cǎi 采 normally refers to colours coexisting with others on one object.
-3. Yán 顏 "face" is perhaps occasionally used to refer to colour but no early examples are very telling.
+1. The standard word for colour of any kind is sè [[色]].
+2. Cǎi [[采]] normally refers to colours coexisting with others on one object.
+3. Yán [[顏]] "face" is perhaps occasionally used to refer to colour but no early examples are very telling.
 ## 
 HUANG JINGUI 2006
 ART 11.

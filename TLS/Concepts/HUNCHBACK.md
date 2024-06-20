@@ -8,11 +8,11 @@ och: 傴
 A HUMAN who HAS the DEFECT of an INTENSELY CURVED BACK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a hunchback is yǔ 傴.
-2. Lóu 僂 is a very dramatic rare word to use for an extremely deformed back.
-3. Jū 痀 is a medical term describing someone as hunchbacked.
-4. Wāng 尪 refers specifically to someone whose deformation consists in having a protruding chest and being bent backwards.
-5. Lōng 癃 refers more generally to deformity. See ILLNESS
+1. The general word for a hunchback is yǔ [[傴]].
+2. Lóu [[僂]] is a very dramatic rare word to use for an extremely deformed back.
+3. Jū [[痀]] is a medical term describing someone as hunchbacked.
+4. Wāng [[尪]] refers specifically to someone whose deformation consists in having a protruding chest and being bent backwards.
+5. Lōng [[癃]] refers more generally to deformity. See ILLNESS
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 24.

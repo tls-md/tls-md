@@ -13,8 +13,8 @@ zh: 鑿
 PIERCE so as to CAUSE something TO HAVE DEEP HOLES IN a SURFACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Chuān 穿 refers to connecting the things by drilling the holes into these.
-2. Zuān 鑽 means to drill a wood with a drill. It was a method of making fire in a remote antiquity.
+1. Chuān [[穿]] refers to connecting the things by drilling the holes into these.
+2. Zuān [[鑽]] means to drill a wood with a drill. It was a method of making fire in a remote antiquity.
 ## Modern Chinese Criteria
 鑽
 鑽進

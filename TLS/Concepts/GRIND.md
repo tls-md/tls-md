@@ -18,13 +18,13 @@ och: 磨／研
 DESTROY so as to CAUSE to BECOME INTENSELY SMALL PIECES by SQUEEZING INTENSELY BETWEEN FLAT STONES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for grinding is mó 磨, which can also refer specifically to polishing a surface of something with stone, sand, etc.
-2. Yán 研 means to reduce to powder by crushing with a hard instrument.
-3. Qiē 切 can refer to the grinding action of one's teeth.
+1. The general term for grinding is mó [[磨]], which can also refer specifically to polishing a surface of something with stone, sand, etc.
+2. Yán [[研]] means to reduce to powder by crushing with a hard instrument.
+3. Qiē [[切]] can refer to the grinding action of one's teeth.
 
 NB: For the entirely separate meaning "grind and sharpen", see under POLISH:
-Dǐ 砥 refers to sharpening of an artefact with the small and fine whetstone.
-Lì 礪 refers to sharpening of an artefact with the crude type of whetstone.
+Dǐ [[砥]] refers to sharpening of an artefact with the small and fine whetstone.
+Lì [[礪]] refers to sharpening of an artefact with the crude type of whetstone.
 ## Modern Chinese Criteria
 磨 is the general modern word for grinding.
 研 (lit) is a traditional word for grinding.

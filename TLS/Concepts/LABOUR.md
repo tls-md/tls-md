@@ -32,9 +32,9 @@ FORCED WORK that CAUSES one to BECOME TIRED.
 [[ARBEIT]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for hard work, often commendable assiduous effort, is láo 勞.
-2. Kùn 困 refers to work which is so hard as to be a substantial threat to well-being.
-3. Jìng 競 can occasionally refer to exceedingly hard work, particularly in a competitive spirit.
+1. The standard current word for hard work, often commendable assiduous effort, is láo [[勞]].
+2. Kùn [[困]] refers to work which is so hard as to be a substantial threat to well-being.
+3. Jìng [[競]] can occasionally refer to exceedingly hard work, particularly in a competitive spirit.
 ## Modern Chinese Criteria
 勞動 refers to hard work.
 勞

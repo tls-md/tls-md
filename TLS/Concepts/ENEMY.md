@@ -21,12 +21,12 @@ och: 敵
 OPPONENENT whom one HATES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for an enemy or opponent of any kind is dí 敵 (ant. yǒu 友 "friend") which can also often refer to mere competitors or adversaries.
-2. Kòu 寇 is an enemy of the state, often a foreigner.
-3. Chóu 讎 (ant. yǒu 友 "friend") emphasises the intense emotional nature of the conflict between the enemies concerned.
-4. Qiú 仇 "fiend" (ant. qīn 親 "someone close to one") refers to a mortal enemy with whom one has a serious feud.
-5. Lǔ 虜 is originally a foreign enemy who deserves to be taken prisoner, but the term comes to be used quite generally for an enemy of the state in Han times.
-6. Zéi 賊 emphasises the moral turpitude and decrepitude or the villainy of the enemy.
+1. The general word for an enemy or opponent of any kind is dí [[敵]] (ant. yǒu [[友]] "friend") which can also often refer to mere competitors or adversaries.
+2. Kòu [[寇]] is an enemy of the state, often a foreigner.
+3. Chóu [[讎]] (ant. yǒu [[友]] "friend") emphasises the intense emotional nature of the conflict between the enemies concerned.
+4. Qiú [[仇]] "fiend" (ant. qīn [[親]] "someone close to one") refers to a mortal enemy with whom one has a serious feud.
+5. Lǔ [[虜]] is originally a foreign enemy who deserves to be taken prisoner, but the term comes to be used quite generally for an enemy of the state in Han times.
+6. Zéi [[賊]] emphasises the moral turpitude and decrepitude or the villainy of the enemy.
 ## Modern Chinese Criteria
 敵人
 仇人

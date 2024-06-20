@@ -7,9 +7,9 @@ zh: 你
 HUMAN ADDRESSED. [GRAMMAR]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general second person pronouns are rǔ 汝 in informal contexts, and in polite contexts zǐ 子.
-2. The current informal pronoun is rǔ 汝, and this word is commonly used in imperatives.
-<div>3. Ěr 爾 is another informal second person pronoun, and the word is not generally used in imperatives.</div><div><br></div><div>4. Ruò 若 is a poetic/archaising second person pronoun that went out of current use in Tang (待考）times. </div><div><br></div><div>5. Jūn 君 addresses superiors as well as equals formally, and politely.</div><div><br></div><div>6. Qīng 卿 is probably stylistically colloquial and addresses inferiors informally.</div><div><br></div><div>7. Dà wáng 大王 is the polite formal address to any king, small or powerful. </div><div><br></div><div>8. Wú zǐ 吾子, extremely common in the Zuozhuan, is respectful and honorific, but in a communicativ and sometimes even intimate mode: ·鄭玄注："吾子，相貌之辞。<br></div><br>
+1. The current general second person pronouns are rǔ [[汝]] in informal contexts, and in polite contexts zǐ [[子]].
+2. The current informal pronoun is rǔ [[汝]], and this word is commonly used in imperatives.
+<div>3. Ěr [[爾]] is another informal second person pronoun, and the word is not generally used in imperatives.</div><div><br></div><div>4. Ruò [[若]] is a poetic/archaising second person pronoun that went out of current use in Tang ([[待考]]）times. </div><div><br></div><div>5. Jūn [[君]] addresses superiors as well as equals formally, and politely.</div><div><br></div><div>6. Qīng [[卿]] is probably stylistically colloquial and addresses inferiors informally.</div><div><br></div><div>7. Dà wáng [[大王]] is the polite formal address to any king, small or powerful. </div><div><br></div><div>8. Wú zǐ [[吾子]], extremely common in the Zuozhuan, is respectful and honorific, but in a communicativ and sometimes even intimate mode: ·[[鄭玄注]]："[[吾子]]，[[相貌之辞]]。<br></div><br>
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 37. MALE ADULT POLITE REFERENCE TERME 男性尊稱。

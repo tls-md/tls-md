@@ -16,11 +16,11 @@ GAS which FILLS SPACE ON EARTH. 
 [COMMON/RARE]
 [GENERAL/SPECIALISED]
 [IMMOBILE/MOBILE]
-1. Fēng 風 "wind" is primarily air-in-motion, but does sometimes seems to refer to what we would call "air", as in ZHUANG 1.
+1. Fēng [[風]] "wind" is primarily air-in-motion, but does sometimes seems to refer to what we would call "air", as in ZHUANG 1.
 CONCRETE, [MOBILE!]; [[COMMON]]
-2. Qì 氣 "ether" is typically more abstract than English "air" and refers to constitutive energies underlying both air and wind as well as fog, dew, rivers, mountains and so on. The word is also the standard word for "breath".
+2. Qì [[氣]] "ether" is typically more abstract than English "air" and refers to constitutive energies underlying both air and wind as well as fog, dew, rivers, mountains and so on. The word is also the standard word for "breath".
 [ABSTRACT]; [[COMMON]]
-3. Fēn 氛 usually refers to vapour as manifestation of auspicious or inauspicious occurrences, and the word is marginal in this series.
+3. Fēn [[氛]] usually refers to vapour as manifestation of auspicious or inauspicious occurrences, and the word is marginal in this series.
 [SPECIALISED]; [[RARE]]
 NB: The abstract notion of "air" as such is not currently focussed on in early Chinese literature.
 ## Modern Chinese Criteria

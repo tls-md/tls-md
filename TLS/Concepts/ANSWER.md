@@ -18,13 +18,13 @@ ADDRESS someone who has ADDRESSED one REQUESTING such an ADDRESS as a REACTION.
 [ASCENDING/HORIZONTAL/DESCENDING]
 [COMMON/RARE]
 [FAST/SLOW]
-1. The dominant general word for responding to something that has been addressed to one is duì 對 (converse wèi 謂 "address"), but that word usually refers to a reply directed at a superior who has put a question or occasionally a response to a statement by a superior.
+1. The dominant general word for responding to something that has been addressed to one is duì [[對]] (converse wèi [[謂]] "address"), but that word usually refers to a reply directed at a superior who has put a question or occasionally a response to a statement by a superior.
 [ASCENDING], [GENERAL]
-2. Dá 答 (ant. jīn 吟 ( 口字旁加金字 ) 而不答 "not answer") refers to an immediate unpremeditated reply.
+2. Dá [[答]] (ant. jīn [[吟]] ( [[口字旁加金字]] ) [[而不答]] "not answer") refers to an immediate unpremeditated reply.
 [ASCENDING], [FAST]
-3. Yìng 應 (ant. 喑 "keep quiet") is to come up with an immediate reaction of which the linguistic reply is a central part.
+3. Yìng [[應]] (ant. [[喑]] "keep quiet") is to come up with an immediate reaction of which the linguistic reply is a central part.
 [FAST]; [[RARE]]
-4. Chóu 酬 can occasionally refer to a polite formal reply.
+4. Chóu [[酬]] can occasionally refer to a polite formal reply.
 [FORMAL], [POLITE]; [[RARE]]
 ## Modern Chinese Criteria
 回答 is the most general word referring to an anwer.

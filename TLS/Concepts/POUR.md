@@ -15,9 +15,9 @@ och: 灌
 DISPLACE a LIQUID to CAUSE it to FLOW DOWN FROM a VESSEL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the pouring of liquids is guàn 灌.
-2. Zhù 注 is to pour by a well-defined small stream of liquid into a well-defined place.
-3. Wò 沃 refers to pouring liquids in a fairly broad swathe of water.
+1. The current general word for the pouring of liquids is guàn [[灌]].
+2. Zhù [[注]] is to pour by a well-defined small stream of liquid into a well-defined place.
+3. Wò [[沃]] refers to pouring liquids in a fairly broad swathe of water.
 ## 
 HUANG JINGUI 2006
 FOOD 7.

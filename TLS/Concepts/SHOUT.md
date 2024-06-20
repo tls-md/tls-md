@@ -22,11 +22,11 @@ och: 呼
 SPEAK INTENSELY LOUDLY OR PRODUCE INTENSELY LOUD SOUNDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant current word for shouting (and thus using a large amount of breath) is hū 呼 (ant.* niè rú 囁嚅 "whisper").
-2. Hè 喝 is demonstrative shouting typically construed as an expression of anger or occasionally of applause.
-3. Háo 號 refers specifically to shouting as an expression of grief or as part of a public announcement.
-4. Jiào 叫 is to call out aloud, and the word applies both to human and animal subjects.
-NB: Huàn 喚 and hǎn 喊 are post-Han.
+1. The dominant current word for shouting (and thus using a large amount of breath) is hū [[呼]] (ant.* niè rú [[囁嚅]] "whisper").
+2. Hè [[喝]] is demonstrative shouting typically construed as an expression of anger or occasionally of applause.
+3. Háo [[號]] refers specifically to shouting as an expression of grief or as part of a public announcement.
+4. Jiào [[叫]] is to call out aloud, and the word applies both to human and animal subjects.
+NB: Huàn [[喚]] and hǎn [[喊]] are post-Han.
 ## Modern Chinese Criteria
 喊 is the current modern word for shouting.
 呼 has a more literary feel to it.

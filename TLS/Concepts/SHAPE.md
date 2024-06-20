@@ -22,13 +22,13 @@ och: 形
 APPEARANCE of the PLACE something is in, as PERCEIVED by the EYES, DISREGARDING the SUBJECTIVITY of the APPEARANCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word describing the physical shape of something is xíng 形.
-2. Mào 貌 and the much rarer and more abstract biǎo 表 are terms referring to mere external physical outline as opposed to inner reality.
-3. Zhuàng 狀 is the dynamic physical manifestation of something.
-4. Guān 觀 is the visual aspect of something, including its coloration.
-5. Xiàng 相 is the significant external form (including coloration) as indicative of what is behind it.
-6. Xiàng 象 "abstract pattern made by things" is both aesthetic and metaphysical in force and construes appearance as something symbolic of and structurally similar to an underlying reality.
-7. Wén 文 refers to dignified, fine pattern a shape makes.
+1. The most current general word describing the physical shape of something is xíng [[形]].
+2. Mào [[貌]] and the much rarer and more abstract biǎo [[表]] are terms referring to mere external physical outline as opposed to inner reality.
+3. Zhuàng [[狀]] is the dynamic physical manifestation of something.
+4. Guān [[觀]] is the visual aspect of something, including its coloration.
+5. Xiàng [[相]] is the significant external form (including coloration) as indicative of what is behind it.
+6. Xiàng [[象]] "abstract pattern made by things" is both aesthetic and metaphysical in force and construes appearance as something symbolic of and structurally similar to an underlying reality.
+7. Wén [[文]] refers to dignified, fine pattern a shape makes.
 ## Modern Chinese Criteria
 形狀
 樣子

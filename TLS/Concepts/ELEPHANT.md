@@ -7,7 +7,7 @@ zh: 大象
 INTENSELY BIG BEAST which HAS IVORY TEETH AND A LONG TRUNK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the elephant is xiàng 象, and there are no common near-synonyms.
+1. The standard word for the elephant is xiàng [[象]], and there are no common near-synonyms.
 ## Modern Chinese Criteria
 大象
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

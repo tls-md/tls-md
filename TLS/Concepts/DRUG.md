@@ -8,9 +8,9 @@ zh: 藥
 SUBSTANCE USED FOR CURING OR PREVENTING DISEASES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for medicine is yào 藥, but originally this word referred specifically to herbal medicine.
-2. Yuē 葯 is a specific word for the leaves of the bái zhǐ 白芷 aromatic herb.
-3. Fāng 方 refers to a medical prescription.
+1. The general word for medicine is yào [[藥]], but originally this word referred specifically to herbal medicine.
+2. Yuē [[葯]] is a specific word for the leaves of the bái zhǐ [[白芷]] aromatic herb.
+3. Fāng [[方]] refers to a medical prescription.
 ## Modern Chinese Criteria
 藥
 藥草

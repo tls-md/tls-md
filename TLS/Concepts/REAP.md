@@ -7,9 +7,9 @@ zh: 收獲
 AGRICULTURAL WORK INTENDING to OBTAIN HARVEST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Huò 穫 and sè 穡 refer to the action of harvesting grain in general.
-2. Yì 刈 refers to harvesting grain with special focus on the cutting of the grain.
-3. Shōu 收 and liǎn 斂 refers to harvesting with special focus on the ability to collect, retain and use what is harvested.
+1. Huò [[穫]] and sè [[穡]] refer to the action of harvesting grain in general.
+2. Yì [[刈]] refers to harvesting grain with special focus on the cutting of the grain.
+3. Shōu [[收]] and liǎn [[斂]] refers to harvesting with special focus on the ability to collect, retain and use what is harvested.
 NB: For the nominal usages see HARVEST.
 ## Modern Chinese Criteria
 收割

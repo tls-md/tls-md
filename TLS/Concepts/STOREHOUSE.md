@@ -14,17 +14,17 @@ zh: 倉庫
 BUILDING USED FOR KEEPING USEFUL THINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zàng 藏 is an abstract term referring to a repository of any kind.
-2. Kù 庫 is a storehouse designed for weapons and the like. According to SHUOWEN this was used to store weapons, but from other Han texts it is obvious that could be also used to store other things.
-3. Fǔ 府 is a building housing archives as well as other government supplies and precious objects.
-4. Lǐn 廩 refers to a large square granary. This was used to store grain or rice without husk and was usually smaller but more complicated than cāng 倉. It perhaps had airing chimneys for fresh air.
-5. Qūn 囷 refers to a small round granary with a pictoresque round roof. [Mentioned already in SHIJING. That the word really referred to the round granary is confirmed by Han model of a round granary inscribed with word qūn 囷. Wall of this granary was probably of mud.
-6. Jiào 窌 refers to an artificial cave used for storing grain. This was probably the earliest method of storing, but still in use by Han period. Note that many oracle bones of the Shang dynasty were found in pits which could serve to store them. Presumably, these were jiào 窖／窌.
-7. Jiào 窖 refers to an artificial cave typically used for storing grain, and the word being homophonous with the preceding it would appear that these are just two variant written forms of the same word.
-8. Cāng 倉 refers to the large granary of rectangular shape for storing grain with a husk. The word occurs already in SHIJING, but the actual shape and size of cāng 倉 in this period is unknown; it could be only general word for a granary of any size. In Han times, cāng 倉 was usually large and built on a platform of rammed earth.
-9. Tún 囤 in Han times refers to the simple round storage container made of bamboo mats fixed to the construction of wooden pillars.
-10. Yǔ 庾 refers to the granary which is sometimes mentioned together with lǐn 廩 or cāng 倉 (for the first time in SHIJING); remains unclear.
-11. Jīng 京 can also refer to the granary. According to SHUOWEN it was of a rectangular shape, but Han models bearing this name are round.
+1. Zàng [[藏]] is an abstract term referring to a repository of any kind.
+2. Kù [[庫]] is a storehouse designed for weapons and the like. According to SHUOWEN this was used to store weapons, but from other Han texts it is obvious that could be also used to store other things.
+3. Fǔ [[府]] is a building housing archives as well as other government supplies and precious objects.
+4. Lǐn [[廩]] refers to a large square granary. This was used to store grain or rice without husk and was usually smaller but more complicated than cāng [[倉]]. It perhaps had airing chimneys for fresh air.
+5. Qūn [[囷]] refers to a small round granary with a pictoresque round roof. [Mentioned already in SHIJING. That the word really referred to the round granary is confirmed by Han model of a round granary inscribed with word qūn [[囷]]. Wall of this granary was probably of mud.
+6. Jiào [[窌]] refers to an artificial cave used for storing grain. This was probably the earliest method of storing, but still in use by Han period. Note that many oracle bones of the Shang dynasty were found in pits which could serve to store them. Presumably, these were jiào [[窖]]／[[窌]].
+7. Jiào [[窖]] refers to an artificial cave typically used for storing grain, and the word being homophonous with the preceding it would appear that these are just two variant written forms of the same word.
+8. Cāng [[倉]] refers to the large granary of rectangular shape for storing grain with a husk. The word occurs already in SHIJING, but the actual shape and size of cāng [[倉]] in this period is unknown; it could be only general word for a granary of any size. In Han times, cāng [[倉]] was usually large and built on a platform of rammed earth.
+9. Tún [[囤]] in Han times refers to the simple round storage container made of bamboo mats fixed to the construction of wooden pillars.
+10. Yǔ [[庾]] refers to the granary which is sometimes mentioned together with lǐn [[廩]] or cāng [[倉]] (for the first time in SHIJING); remains unclear.
+11. Jīng [[京]] can also refer to the granary. According to SHUOWEN it was of a rectangular shape, but Han models bearing this name are round.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 27.

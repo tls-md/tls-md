@@ -30,9 +30,9 @@ zh: 老師
 ADULT whose WORK is to TEACH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a (revered) teacher of one's choice is shī 師.
-2. Zǐ 子 and fū zǐ 夫子 can be used to refer to the teacher within a given school by the adherents of that school.
-3. Fù 傅 refers to a hired or formally employed tutor.
+1. The current general word for a (revered) teacher of one's choice is shī [[師]].
+2. Zǐ [[子]] and fū zǐ [[夫子]] can be used to refer to the teacher within a given school by the adherents of that school.
+3. Fù [[傅]] refers to a hired or formally employed tutor.
 ## 
 HUANG JINGUI 2006
 EDUCATION 40.

@@ -18,10 +18,10 @@ zh: 決定
 CHOOSE among PRESENT OR FUTURE MOVEMENTS FOR SELF:oneself OR among ANSWERS to QUESTIONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common general word for making a decision is duàn 斷, which emphasis the definitiveness of what has been decided on, but speaks of the process by which that final decision is being reached rather than the result as such.
-2. Jué 決 focusses on the the result as such, and the word can be used about decisons already made where duàn 斷 seems excluded. ( 事已決 not: 事已斷矣 )
-3. Dìng 定 refers to the fixing something not only for oneself but primarily for others. See FIX
-4. Cái 裁 refers to the action of making a public decision as taken by a person in authority.
+1. The most common general word for making a decision is duàn [[斷]], which emphasis the definitiveness of what has been decided on, but speaks of the process by which that final decision is being reached rather than the result as such.
+2. Jué [[決]] focusses on the the result as such, and the word can be used about decisons already made where duàn [[斷]] seems excluded. ( [[事已決]] not: [[事已斷矣]] )
+3. Dìng [[定]] refers to the fixing something not only for oneself but primarily for others. See FIX
+4. Cái [[裁]] refers to the action of making a public decision as taken by a person in authority.
 ## Modern Chinese Criteria
 決定
 決意

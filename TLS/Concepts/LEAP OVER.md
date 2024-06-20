@@ -13,11 +13,11 @@ zh: 超越
 JUMP so as to CROSS OVER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for getting across an obstacle is perhaps guò 過, although the emphasis is not on the leap itself.
-2. Yuè 越 can refer to the action of jumping across something.
-3. Yú 踰 / 逾 refers to leaping over or scaling something, as for example a wall.
-4. Chāo 超 can refer to leaping up on or over something.
-5. Kuà 跨 is just to stride across something easy to get across.
+1. The general word for getting across an obstacle is perhaps guò [[過]], although the emphasis is not on the leap itself.
+2. Yuè [[越]] can refer to the action of jumping across something.
+3. Yú [[踰]] / [[逾]] refers to leaping over or scaling something, as for example a wall.
+4. Chāo [[超]] can refer to leaping up on or over something.
+5. Kuà [[跨]] is just to stride across something easy to get across.
 ## Modern Chinese Criteria
 超越
 逾越

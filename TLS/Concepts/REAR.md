@@ -19,9 +19,9 @@ zh: 養
 FEED AND PROTECT ENDURINGLY so as to CAUSE TO GROW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for rearing and/or breeding is yù 育, which can refer to animals as well as occasionally to humans, and the word belongs to a dignified stylistic layer.
-2. Xù 畜 refers primarily to the breeding of livestock, but is also used for humans under one's control and below one's status.
-3. Yǎng 養 refers primarily to the caring for and nourishing of one's parents, children or other humans one feels caring sympathy for and is only occasionally used for non-humans, although it does apply to plants like mulberry trees that need much care.
+1. The current general word for rearing and/or breeding is yù [[育]], which can refer to animals as well as occasionally to humans, and the word belongs to a dignified stylistic layer.
+2. Xù [[畜]] refers primarily to the breeding of livestock, but is also used for humans under one's control and below one's status.
+3. Yǎng [[養]] refers primarily to the caring for and nourishing of one's parents, children or other humans one feels caring sympathy for and is only occasionally used for non-humans, although it does apply to plants like mulberry trees that need much care.
 ## 
 HUANG JINGUI 2006
 ANIMALS 40.

@@ -18,8 +18,8 @@ zh: 傷口
 TYPICALLY VISIBLE DAMAGE to the BODY, CAUSED by being INJURED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for an injury is shāng 傷.
-2. Chuàng 創 refers very concretely to the wound inflicted, the laceration of the skin.
+1. The current general word for an injury is shāng [[傷]].
+2. Chuàng [[創]] refers very concretely to the wound inflicted, the laceration of the skin.
 ## Modern Chinese Criteria
 外傷
 金瘡

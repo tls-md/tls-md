@@ -7,7 +7,7 @@ zh: 公子
 SON OR NEAR RELATIVE of a RULER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a prince is gōng zǐ 公子.
+1. The standard word for a prince is gōng zǐ [[公子]].
 ## Modern Chinese Criteria
 公子
 王孫

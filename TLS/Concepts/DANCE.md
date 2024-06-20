@@ -25,9 +25,9 @@ och: 舞
 WALK AND JUMP RITUALLY so as to CONFORM to the RHYTHM of MUSIC; ONE OF THE ARTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is only one common word for dancing, wǔ4 舞, and this focusses mainly to the movement of the arms.
-2. Dào 蹈 focusses mainly on the movements of the feet in dancing. Cf. 手舞足蹈 "dance with one's arms and dance with one's feet".
-3. Yuè 樂 is sometimes used to refer specifically to dancing accompanied by music.
+1. There is only one common word for dancing, wǔ4 [[舞]], and this focusses mainly to the movement of the arms.
+2. Dào [[蹈]] focusses mainly on the movements of the feet in dancing. Cf. [[手舞足蹈]] "dance with one's arms and dance with one's feet".
+3. Yuè [[樂]] is sometimes used to refer specifically to dancing accompanied by music.
 ## Modern Chinese Criteria
 跳舞
 舞蹈

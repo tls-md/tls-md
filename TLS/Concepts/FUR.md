@@ -14,10 +14,10 @@ och: 毛
 HAIR ON the SKIN of ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the fur of animals is máo 毛.
-2. Cuì 毳 refers specifically to the fine hair or down on the skin of animals or humans.
-3. Máo 旄 refers specifically to the fine fur of calves, but the word is used generally for the fur of animals.
-4. Háo 毫 refers to thin long hair and is (perhaps somewhat surprisingly) often used metaphorically for anything tiny.
+1. The general word for the fur of animals is máo [[毛]].
+2. Cuì [[毳]] refers specifically to the fine hair or down on the skin of animals or humans.
+3. Máo [[旄]] refers specifically to the fine fur of calves, but the word is used generally for the fur of animals.
+4. Háo [[毫]] refers to thin long hair and is (perhaps somewhat surprisingly) often used metaphorically for anything tiny.
 ## 
 HUANG JINGUI 2006
 ANIMALS 30.

@@ -31,11 +31,11 @@ zh: 清楚
 EASY to PERCEIVE OR UNDERSTAND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general standard and clearly dominant word for things that are easily accessible to the intellect and to the senses is míng 明 (ant. hūn 昏 "unclear").
-2. Zhāng 彰 (ant. yǐn 隱 "obscure") is an elevated word for something being clear to the intellectual eye.
-3. Zhāo zhāo 昭昭 refers emphatically to perfect transparency and clarity.
-4. Chéng 澄 (ant. hún 混 "opaque") prototypically refers to the unruffled, clear state of water or the like. See PURE
-5. Primarily physical transparency is qīng 清 and the very rare chè 澈 (all ant. zhuó 濁 "muddled and unclear"). See PURE
+1. The most general standard and clearly dominant word for things that are easily accessible to the intellect and to the senses is míng [[明]] (ant. hūn [[昏]] "unclear").
+2. Zhāng [[彰]] (ant. yǐn [[隱]] "obscure") is an elevated word for something being clear to the intellectual eye.
+3. Zhāo zhāo [[昭昭]] refers emphatically to perfect transparency and clarity.
+4. Chéng [[澄]] (ant. hún [[混]] "opaque") prototypically refers to the unruffled, clear state of water or the like. See PURE
+5. Primarily physical transparency is qīng [[清]] and the very rare chè [[澈]] (all ant. zhuó [[濁]] "muddled and unclear"). See PURE
 ## Modern Chinese Criteria
 清楚
 清晰

@@ -23,7 +23,7 @@ och: 厚
 BIG in the MOST SMALL DIMENSION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for thickness of any kind is hòu 厚 (ant. báo 薄 "thin"), read in the Middle Chinese rising tone. The noun thickness is hòu 厚 read in the Middle Chinese falling tone.
+1. The current general word for thickness of any kind is hòu [[厚]] (ant. báo [[薄]] "thin"), read in the Middle Chinese rising tone. The noun thickness is hòu [[厚]] read in the Middle Chinese falling tone.
 ## Modern Chinese Criteria
 厚
 厚實

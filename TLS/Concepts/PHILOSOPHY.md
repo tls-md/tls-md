@@ -7,9 +7,9 @@ zh: 哲學
 SYSTEMATIC STUDY AIMING for WISDOM AND AIMING to be BASED on SYSTEMATIC EXPLAIN:explanation AND PROVE:proof.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Xué 學 can refer to the systematic study of the fundamentals of life, which is typically taken to involve the emulation of a master.
-2. Jiā 家 can refer to the bibliographic classification of philosophical lineage or school of thought, especially from Han times onwards, as in the six schools (liù jiā 六家 ) of "philosophy" discussed by the father of Chinese historiography, Sīmǎ Tán 司馬談.
-2. Dàoxué 道學 can refer to the pursuit of Taoist or Confucian philosophy (but the term also refers to the pursuit of Taoist religious practices) from Tang times onwards.
+1. Xué [[學]] can refer to the systematic study of the fundamentals of life, which is typically taken to involve the emulation of a master.
+2. Jiā [[家]] can refer to the bibliographic classification of philosophical lineage or school of thought, especially from Han times onwards, as in the six schools (liù jiā [[六家]] ) of "philosophy" discussed by the father of Chinese historiography, Sīmǎ Tán [[司馬談]].
+2. Dàoxué [[道學]] can refer to the pursuit of Taoist or Confucian philosophy (but the term also refers to the pursuit of Taoist religious practices) from Tang times onwards.
 ## Modern Chinese Criteria
 哲學
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／ For a good list of modern terminology see the database by Amelung, Kurtz, and Lackner on modern Chinese sciencific terminology.

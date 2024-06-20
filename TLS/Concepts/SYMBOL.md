@@ -33,10 +33,10 @@ och: 象
 ARTEFACT USED FOR REFERRING to something INTENSELY DIFFERENT from that ARTEFACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a symbolic representation of something is xiàng 象. This is a philosophical concept of considerable metaphysical depth.
-2. Zhēng 徵 refers to visible symptoms of something, and these symptoms are indicative rather than symbolic of what they indicate.
-3. Tú 圖 is used to refer to diagrams representing something abstract. This is a purely graphic almost scientific concept.
-4. Biǎo 表 refers to a marker indicating where something is, or what something is.
+1. The standard word for a symbolic representation of something is xiàng [[象]]. This is a philosophical concept of considerable metaphysical depth.
+2. Zhēng [[徵]] refers to visible symptoms of something, and these symptoms are indicative rather than symbolic of what they indicate.
+3. Tú [[圖]] is used to refer to diagrams representing something abstract. This is a purely graphic almost scientific concept.
+4. Biǎo [[表]] refers to a marker indicating where something is, or what something is.
 ## Modern Chinese Criteria
 象徵
 表徵

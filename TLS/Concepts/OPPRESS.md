@@ -22,9 +22,9 @@ och: 虐
 CONTROL CRUELLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common general word for oppression is probably nè 虐 (ant. cí 慈 "show loving care for").
-2. Bào 暴 (ant. fǔ 撫 "care well for") emphasises the aspect of violence.
-3. Líng 陵 (ant. yù 育 "take loving care of", and the rare jí 藉, and chéng 乘 emphasise the abuse of supremacy of social or political position.
+1. The most common general word for oppression is probably nè [[虐]] (ant. cí [[慈]] "show loving care for").
+2. Bào [[暴]] (ant. fǔ [[撫]] "care well for") emphasises the aspect of violence.
+3. Líng [[陵]] (ant. yù [[育]] "take loving care of", and the rare jí [[藉]], and chéng [[乘]] emphasise the abuse of supremacy of social or political position.
 ## Modern Chinese Criteria
 虐待
 凌虐

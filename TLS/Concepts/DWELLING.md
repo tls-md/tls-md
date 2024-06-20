@@ -20,10 +20,10 @@ zh: 住宅
 BUILDING PRODUCED so as to PERMIT HUMANS to DWELL in it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for a dwelling of any kind noble or ordinary is shè 舍.
-2. Zhái 宅 refers generally to the abode of anyone of any status, and the word is a polite designation for what is presumed to be a dwelling of some elegance and status.
-3. Dì 第 refers, from Han times onwards, to a dwelling conferred on someone by the emperor.
-4. Jiā 家 can occasionally come to refer to the buildings which house a clan, but examples are surprisingly rare.
+1. The most current general word for a dwelling of any kind noble or ordinary is shè [[舍]].
+2. Zhái [[宅]] refers generally to the abode of anyone of any status, and the word is a polite designation for what is presumed to be a dwelling of some elegance and status.
+3. Dì [[第]] refers, from Han times onwards, to a dwelling conferred on someone by the emperor.
+4. Jiā [[家]] can occasionally come to refer to the buildings which house a clan, but examples are surprisingly rare.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 6.

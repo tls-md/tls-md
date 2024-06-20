@@ -11,13 +11,13 @@ och: 依
 HOLD onto something so as to SUPPORT ONESELF (TYPICALLY STANDING).
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current abstract word for leaning on anything for any purpose is yī 依.
-2. Fú 扶 typically refers to leaning on something so as to remain upright or walk safely.
-3. Zhàng 仗 refers to leaning sideways on small objects like swords or canes as a demonstrative act.
-4. Píng 憑 refers to leaning on something for general stablility.
-5. Jù 據 refers to leaning forward to use something as support.
-6. Shì 恃 is sometimes used in a rather abstract and colourless way to refer to using something as physical support.
-7. Yǐ 倚 is occasionally used interchangeably with yī 依 (with which it is interdefined in SHUOWEN, but the word typically refers to leaning against something rather than vertically on it.
+1. The current abstract word for leaning on anything for any purpose is yī [[依]].
+2. Fú [[扶]] typically refers to leaning on something so as to remain upright or walk safely.
+3. Zhàng [[仗]] refers to leaning sideways on small objects like swords or canes as a demonstrative act.
+4. Píng [[憑]] refers to leaning on something for general stablility.
+5. Jù [[據]] refers to leaning forward to use something as support.
+6. Shì [[恃]] is sometimes used in a rather abstract and colourless way to refer to using something as physical support.
+7. Yǐ [[倚]] is occasionally used interchangeably with yī [[依]] (with which it is interdefined in SHUOWEN, but the word typically refers to leaning against something rather than vertically on it.
 ## Modern Chinese Criteria
 依靠
 倚靠

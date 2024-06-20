@@ -15,13 +15,13 @@ EXECUTE by CUTTING off the HEAD.
 [GENERAL/SPECIFIC]
 [IDIOM/WORD]
 [REFLEXIVE/TRANSITIVE]
-1. The standard word for beheading others is zhǎn 斬.
+1. The standard word for beheading others is zhǎn [[斬]].
 [GENERAL]
-2. Lù 戮 refers to beheading in addition to severe mutilation of the body and often involves beheading of the corpse.
+2. Lù [[戮]] refers to beheading in addition to severe mutilation of the body and often involves beheading of the corpse.
 [SPECIFIC]
-3. Wěn 刎 "cut one's throat" is not strictly a case of beheading, and is most current as a mode of suicide.
+3. Wěn [[刎]] "cut one's throat" is not strictly a case of beheading, and is most current as a mode of suicide.
 [REFLEXIVE]
-4. Xiāo shǒu 梟首 is beheading followed by public exposure on a wooden pillar.
+4. Xiāo shǒu [[梟首]] is beheading followed by public exposure on a wooden pillar.
 [IDIOM], [SPECIFIC]
 ## Modern Chinese Criteria
 斬首

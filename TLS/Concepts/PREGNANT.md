@@ -9,10 +9,10 @@ och: 孕
 FUTURE:about-to give BIRTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word referring to pregnancy among humans or animals alike is yùn 孕.
-2. Rèn 妊 refers specifically to pregnancy of humans.
-3. Zhòng 重 refers to advanced pregnancy.
-4. Shēn 娠 refers to an advanced state of pregnancy where the foetus is already very mobile in the womb.
+1. The current general word referring to pregnancy among humans or animals alike is yùn [[孕]].
+2. Rèn [[妊]] refers specifically to pregnancy of humans.
+3. Zhòng [[重]] refers to advanced pregnancy.
+4. Shēn [[娠]] refers to an advanced state of pregnancy where the foetus is already very mobile in the womb.
 ## Modern Chinese Criteria
 懷孕
 有孕

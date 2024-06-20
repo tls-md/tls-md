@@ -20,12 +20,12 @@ och: 水
 MUCH ASSEMBLED FLOWING WATER as PART OF LANDSCAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a river is shuǐ 水.
-2. Jiāng 江 can refer not only to the Yangtse River, but also to its system of tributaries, similarly for hé 河.
-3. Chuān 川 is a general term for rivers, streams and streamlets which normally has a generic reference.
-4. Dú 瀆 is a special term for the Four Great Rivers, the sì dú 四瀆 : 江，淮，河，濟
-NB: Hé 河 is normally a proper name of Yellow River and its tributaries. [The term Huánghé 黃河 was in use since Han times. The river flows through the following provinces Qinghai, Sichuan, Gansu, Ningxia, Inner Mongolia, Shaanxi, Shanxi, Henan, Shandong. In the northeastern part of the Shandong province, it flows into the Bohai gulf.]
-Jiāng 江 is a proper name for the Yangtse River and its tributaries. [The greatest river of China. It flows through the following provinces and areas Xizang, Sichuan, Yunnan, Hubei, Hunan, Jiangxi, Anhui, Jiangsu. Overall length 6300 km.]
+1. The general word for a river is shuǐ [[水]].
+2. Jiāng [[江]] can refer not only to the Yangtse River, but also to its system of tributaries, similarly for hé [[河]].
+3. Chuān [[川]] is a general term for rivers, streams and streamlets which normally has a generic reference.
+4. Dú [[瀆]] is a special term for the Four Great Rivers, the sì dú [[四瀆]] : [[江]]，[[淮]]，[[河]]，[[濟]]
+NB: Hé [[河]] is normally a proper name of Yellow River and its tributaries. [The term Huánghé [[黃河]] was in use since Han times. The river flows through the following provinces Qinghai, Sichuan, Gansu, Ningxia, Inner Mongolia, Shaanxi, Shanxi, Henan, Shandong. In the northeastern part of the Shandong province, it flows into the Bohai gulf.]
+Jiāng [[江]] is a proper name for the Yangtse River and its tributaries. [The greatest river of China. It flows through the following provinces and areas Xizang, Sichuan, Yunnan, Hubei, Hunan, Jiangxi, Anhui, Jiangsu. Overall length 6300 km.]
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 9.

@@ -18,13 +18,13 @@ och: 近
 RELATION of being at a SMALL DISTANCE of SPACE OR TIME IN-RELATION-TO something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word is jìn 近 (ant. yuǎn 遠 "far") which refers to any concrete or abstract proximity in space, time or quality.
-2. Jī 幾 typically refers to an abstract closeness or relatedness with relates neither to space nor to time.
-3. Pò 迫 and "precariously close" refer to spatial proximity of a potentially dangerous kind.
-4. Bó 薄 "very close" refers to spatial proximity primarily but is occasionally used in transferred metaphorical senses to refer to abstract proximity.
-5. Lín 鄰 is permanent geographical proxity.
-6. Eψ 邇 is an archaic and elevated general term for closeness.
-7. Proximity to a city can be expressed by the "postposiiton" xià 下.
+1. The dominant general word is jìn [[近]] (ant. yuǎn [[遠]] "far") which refers to any concrete or abstract proximity in space, time or quality.
+2. Jī [[幾]] typically refers to an abstract closeness or relatedness with relates neither to space nor to time.
+3. Pò [[迫]] and "precariously close" refer to spatial proximity of a potentially dangerous kind.
+4. Bó [[薄]] "very close" refers to spatial proximity primarily but is occasionally used in transferred metaphorical senses to refer to abstract proximity.
+5. Lín [[鄰]] is permanent geographical proxity.
+6. Eψ [[邇]] is an archaic and elevated general term for closeness.
+7. Proximity to a city can be expressed by the "postposiiton" xià [[下]].
 ## Modern Chinese Criteria
 近
 逼近

@@ -18,9 +18,9 @@ zh: 競爭
 INTERACT with OTHERS so as to SHOW that one is MORE EXCELLENT IN-RELATION-TO them.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant general word for competition or struggle, both hostile and friendly, is zhēng 爭 and the focus is on the conflict rather on what is being fought for. See STRUGGLE
-2. Jìng 競 is to compete strenuously, and to vie for something viewed as desirable, and the focus is not so much on the conflict involved as on the aim pursued.
-3. Jiǎo 角 is a rare elevated word for competition.
+1. The clearly dominant general word for competition or struggle, both hostile and friendly, is zhēng [[爭]] and the focus is on the conflict rather on what is being fought for. See STRUGGLE
+2. Jìng [[競]] is to compete strenuously, and to vie for something viewed as desirable, and the focus is not so much on the conflict involved as on the aim pursued.
+3. Jiǎo [[角]] is a rare elevated word for competition.
 ## Modern Chinese Criteria
 比賽
 競爭

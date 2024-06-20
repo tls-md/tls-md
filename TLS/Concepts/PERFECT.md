@@ -36,11 +36,11 @@ och: 至
 COMPLETELY AND INTENSELY EXCELLENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for ultimate perfection is zhì 至 (ant.* liè 劣 "very inferior").
-2. Jí 極 refers to the attainment of an ultimate point or an ultimate stage.
-3. Jué 絕 focusses on the comparative aspect of excelling all others.
-4. Yōu 優 (ant. liè 劣 "very inferior") focusses on the comparative aspect of excelling most others.
-5. Quán 全 (ant. cán 殘 "seriously deficient") focusses on the complete presence of some conditions of excellence.
+1. The current general word for ultimate perfection is zhì [[至]] (ant.* liè [[劣]] "very inferior").
+2. Jí [[極]] refers to the attainment of an ultimate point or an ultimate stage.
+3. Jué [[絕]] focusses on the comparative aspect of excelling all others.
+4. Yōu [[優]] (ant. liè [[劣]] "very inferior") focusses on the comparative aspect of excelling most others.
+5. Quán [[全]] (ant. cán [[殘]] "seriously deficient") focusses on the complete presence of some conditions of excellence.
 ## Modern Chinese Criteria
 健全
 精

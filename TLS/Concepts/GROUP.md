@@ -45,8 +45,8 @@ och: 群
 CATEGORY of PEOPLE OR THINGS which COOPERATE, MUTUALLY RESEMBLE OR are TOGETHER IN ONE PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a group is qún 群.
-2. Chóu 疇 refers to a cluster of things, typically plants.
+1. The current general term for a group is qún [[群]].
+2. Chóu [[疇]] refers to a cluster of things, typically plants.
 ## Modern Chinese Criteria
 團體 is the general current word for a group of people.
 組織 focusses on the organisational coherence of the group.

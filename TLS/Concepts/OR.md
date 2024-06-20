@@ -10,11 +10,11 @@ och: 非則
 RELATION between two SENCENCES S1 AND S2 such that IF NOT S1 THEN S2.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no word for "or" linking declarative sentences. The current paraphrase is fēi 非...zé 則 "if not..., then".
-2. The current general word between alternative questions is yì 抑.
-3. Qí 其 "or should one" is idiomatic in deliberating questions.
-4. Between NPs ruò 若 and yǔ 與 are very occasionally used to mean "or".
-NB: Jiāng 將 "or else, otherwise" is marginal in this group because it does not involve the logical connective "or".
+1. There is no word for "or" linking declarative sentences. The current paraphrase is fēi [[非]]...zé [[則]] "if not..., then".
+2. The current general word between alternative questions is yì [[抑]].
+3. Qí [[其]] "or should one" is idiomatic in deliberating questions.
+4. Between NPs ruò [[若]] and yǔ [[與]] are very occasionally used to mean "or".
+NB: Jiāng [[將]] "or else, otherwise" is marginal in this group because it does not involve the logical connective "or".
 ## Modern Chinese Criteria
 或者
 或

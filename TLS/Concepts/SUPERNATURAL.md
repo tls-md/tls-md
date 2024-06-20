@@ -18,8 +18,8 @@ zh: 神聖
 OBSCURE, NOT ORDINARY, AND BELIEVED TO HAVE BIG POWER, AND which one CAN NOT PERCEIVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general and very common term referring to whatever is supernatural or divine in any way, and thus superior to what is ordinarily human or natural, is shén 神.
-2. Líng 靈 tends to refer specifically to the supernatural efficiency and divine dynamics inherent in something or someone, and insofar as these interfere in human affairs.
+1. The general and very common term referring to whatever is supernatural or divine in any way, and thus superior to what is ordinarily human or natural, is shén [[神]].
+2. Líng [[靈]] tends to refer specifically to the supernatural efficiency and divine dynamics inherent in something or someone, and insofar as these interfere in human affairs.
 ## Modern Chinese Criteria
 超人的
 神聖的

@@ -7,9 +7,9 @@ zh: 修養
 Be DILIGENT TRYING to BASICALLY IMPROVE ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for cultivating something or refining it is xiū 修 (from Han times onwards sometimes also miswritten as xiū 脩, ant.* màn 慢 "neglect the cultivation of").
-2. Yǎng 養 refers specifically to the systematic cultivation of higher psychosomatic competence.
-3. Lǐ 理 refers, occasionally, to a rather abstract way of cultivating a certain skill or technique.
+1. The current general term for cultivating something or refining it is xiū [[修]] (from Han times onwards sometimes also miswritten as xiū [[脩]], ant.* màn [[慢]] "neglect the cultivation of").
+2. Yǎng [[養]] refers specifically to the systematic cultivation of higher psychosomatic competence.
+3. Lǐ [[理]] refers, occasionally, to a rather abstract way of cultivating a certain skill or technique.
 ## Modern Chinese Criteria
 修養
 涵養

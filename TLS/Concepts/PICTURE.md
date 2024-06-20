@@ -29,9 +29,9 @@ och: 畫
 ARTEFACT on a FLAT SURFACE OFTEN:typically INTENDED to DEPICT or to COMMUNICATE something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a pictorial representation of any kind is huà 畫.
-2. Tú 圖 refers prototypically to a diagram of something, as in a map, but the word can also refer to any - especially schematic - pictorial representation.
-3. Xiàng 象 refers to a symbolic diagrammatic image of something, and this image is sometimes invested with quasi-metaphysical significance. See IMAGE.
+1. The current general word for a pictorial representation of any kind is huà [[畫]].
+2. Tú [[圖]] refers prototypically to a diagram of something, as in a map, but the word can also refer to any - especially schematic - pictorial representation.
+3. Xiàng [[象]] refers to a symbolic diagrammatic image of something, and this image is sometimes invested with quasi-metaphysical significance. See IMAGE.
 ## Modern Chinese Criteria
 圖畫
 畫幅

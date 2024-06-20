@@ -7,9 +7,9 @@ zh: 十
 The NUMBER which is the successor of NINE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for "ten" is shí 十.
-2. In the meaning "ten parts" both shí 十 and shí 什 are used.
-NB: In front of bèi 倍 one would expect shí 十, but shí bèi 什倍 is common and idiomatic.
+1. The standard word for "ten" is shí [[十]].
+2. In the meaning "ten parts" both shí [[十]] and shí [[什]] are used.
+NB: In front of bèi [[倍]] one would expect shí [[十]], but shí bèi [[什倍]] is common and idiomatic.
 # Ontology
 
 ## Hypernym

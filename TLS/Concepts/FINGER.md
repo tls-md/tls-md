@@ -8,9 +8,9 @@ och: 指
 MOST MOVING:mobile PART of the HAND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a finger and a toe is zhǐ 指 and there are no current competing words.
-2. Mǔ 拇 refers both to the thumb and to the big toe.
-3. Bò 擘 is frustratingly rare but appears to refer unambiguously to the thumb.
+1. The standard word for a finger and a toe is zhǐ [[指]] and there are no current competing words.
+2. Mǔ [[拇]] refers both to the thumb and to the big toe.
+3. Bò [[擘]] is frustratingly rare but appears to refer unambiguously to the thumb.
 ## Modern Chinese Criteria
 手指
 手指頭

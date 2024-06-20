@@ -22,11 +22,11 @@ och: 用／使
 COMMAND to ACT:do PAID WORK FOR ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for employing someone for any purpose, but also in highly formal bureacratic contexts, is yòng 用.
-2. Shǐ 使 refers to employing someone in a certain mission or for a certain task.
-3. Rén 任 refers to investing someone with certain official or legal responsibilities.
-4. Huàn 宦 refers to employing someone as a subordinate of any kind below the rank of a senior minister.
-5. Yōng 庸 / 傭 refers to hiring someone through promising him a salary.
+1. The current general word for employing someone for any purpose, but also in highly formal bureacratic contexts, is yòng [[用]].
+2. Shǐ [[使]] refers to employing someone in a certain mission or for a certain task.
+3. Rén [[任]] refers to investing someone with certain official or legal responsibilities.
+4. Huàn [[宦]] refers to employing someone as a subordinate of any kind below the rank of a senior minister.
+5. Yōng [[庸]] / [[傭]] refers to hiring someone through promising him a salary.
 ## 
 HUANG JINGUI 2006
 TRADE 17. 雇傭。

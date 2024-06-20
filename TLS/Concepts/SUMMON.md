@@ -17,9 +17,9 @@ zh: 招
 COMMAND to COME to a SUPERIOR, OFTEN TOGETHER with OTHERS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for summoning anyone anywhere is zhào 召.
-2. Cháo 朝 is used to refer to the calling someone to a court.
-3. Hū 呼 is a very informal word for calling someone to make him come.
+1. The standard current word for summoning anyone anywhere is zhào [[召]].
+2. Cháo [[朝]] is used to refer to the calling someone to a court.
+3. Hū [[呼]] is a very informal word for calling someone to make him come.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 20.

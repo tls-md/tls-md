@@ -45,13 +45,13 @@ zh: 控制
 INTERACT so as to CAUSE TO BE OR ACT RESEMBLE:as one DESIRES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word in this group is zhì 制 (ant. zòng 縱 "give free rein to"), which refers to all kinds of control, political, physical, as well as psychological.
-2. Zhì 治 refers to the orderly and principled long-term control of something.
-3. Yù 御 refers to the exercise of sovereign unchallenged control over.
-4. Guǎn 管 and zhǎng 掌 refer to the concrete practical control over something large or small.
-5. Shàn 擅 refers to gaining or having unlegitimised sole control of something. See MONOPOLISE
-6. Zhuān 專 refers to having sole control, typically of some administrative function. See MONOPOLISE
-7. Bà 霸 refers to dominating and controlling something through a supreme display of power. See also RULER
+1. The most current general word in this group is zhì [[制]] (ant. zòng [[縱]] "give free rein to"), which refers to all kinds of control, political, physical, as well as psychological.
+2. Zhì [[治]] refers to the orderly and principled long-term control of something.
+3. Yù [[御]] refers to the exercise of sovereign unchallenged control over.
+4. Guǎn [[管]] and zhǎng [[掌]] refer to the concrete practical control over something large or small.
+5. Shàn [[擅]] refers to gaining or having unlegitimised sole control of something. See MONOPOLISE
+6. Zhuān [[專]] refers to having sole control, typically of some administrative function. See MONOPOLISE
+7. Bà [[霸]] refers to dominating and controlling something through a supreme display of power. See also RULER
 ## Modern Chinese Criteria
 控制
 統制

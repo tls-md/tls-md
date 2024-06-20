@@ -8,9 +8,9 @@ och: 虹
 APPEARANCE OF ROW of COLOURS IN the SKY which APPEARS WHEN there is RAIN DURING SUNSHINE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for rainbow is hóng 虹, and the word refers specifically to the rainbow itself as opposed to the faded colours manifesting themselves around the rainbow.
-2. Ní 霓 refers to the faded colours around the rainbow.
-3. Dì dō4ng 螮蝀 is an archaic poetic way of referring to the rainbow.
+1. The general word for rainbow is hóng [[虹]], and the word refers specifically to the rainbow itself as opposed to the faded colours manifesting themselves around the rainbow.
+2. Ní [[霓]] refers to the faded colours around the rainbow.
+3. Dì dō4ng [[螮蝀]] is an archaic poetic way of referring to the rainbow.
 ## 
 HUANG JINGUI 2006
 ASTRONOMY 20.

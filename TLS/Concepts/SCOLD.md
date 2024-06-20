@@ -36,11 +36,11 @@ och: 詈
 BLAME someone ADDRESSING him/her USING VIOLENT WORDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for scolding someone or swearing at someone is lì 詈 (ant. yú 諛 "speak to in an obsequious way").
-2. Mà 罵 (ant. chǎn 諂 "speak to in a flattering way") refers to venting one's anger with someone through language, but without necessarily being in the immediate physical vicinity of the object of one's abuse.
-3. Chì 叱 and the hē 呵 are colloquial words for swearing or venting one's anger to the face of the object of one's abuse.
-4. Dǐ 詆 (ant. sòng 頌 "sing the praises of") focusses not so much on the venting of anger but on the function of insulting and offending the person scolded.
-5. Gòu 詬 (ant. zàn 讚 "praise publicly") adds to the swearing and scolding strong overtones of public insult.
+1. The current general word for scolding someone or swearing at someone is lì [[詈]] (ant. yú [[諛]] "speak to in an obsequious way").
+2. Mà [[罵]] (ant. chǎn [[諂]] "speak to in a flattering way") refers to venting one's anger with someone through language, but without necessarily being in the immediate physical vicinity of the object of one's abuse.
+3. Chì [[叱]] and the hē [[呵]] are colloquial words for swearing or venting one's anger to the face of the object of one's abuse.
+4. Dǐ [[詆]] (ant. sòng [[頌]] "sing the praises of") focusses not so much on the venting of anger but on the function of insulting and offending the person scolded.
+5. Gòu [[詬]] (ant. zàn [[讚]] "praise publicly") adds to the swearing and scolding strong overtones of public insult.
 ## Modern Chinese Criteria
 罵 is the current modern word for swearing.
 辱罵 focusses on abuse and insult, as well as humiliation.

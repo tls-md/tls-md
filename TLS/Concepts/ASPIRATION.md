@@ -25,11 +25,11 @@ MAIN EFFORT AND AIM in one's LIFE. 
 [[COMMON/RARE]]
 [GENERAL/SPECIFIC]
 [LASTING/TEMPORARY]
-1. The general term for an aspiration is zhì 志 and verbally zhì yú 志於 "aspire to", and this term always refers to life-long highest aim.
+1. The general term for an aspiration is zhì [[志]] and verbally zhì yú [[志於]] "aspire to", and this term always refers to life-long highest aim.
 [GENERAL]; [[COMMON]]
-2. Xiàng 向 may occasionally refer to any kind of ambition or aspiration.
+2. Xiàng [[向]] may occasionally refer to any kind of ambition or aspiration.
 [GENERAL]; [[RARE]]
-3. Wàng 望 may refer to a temporary aspiration to be like someone else which is, however, perhaps somewhat stronger than a mere hope of being like that person. See also HOPE.
+3. Wàng [[望]] may refer to a temporary aspiration to be like someone else which is, however, perhaps somewhat stronger than a mere hope of being like that person. See also HOPE.
 [TEMPROARY]
 ## Modern Chinese Criteria
 理想

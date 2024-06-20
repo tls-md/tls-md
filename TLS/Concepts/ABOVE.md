@@ -17,11 +17,11 @@ PLACE HIGH IN-RELATION-TO OTHER PLACE.
 ## Old Chinese Criteria
 [ABSTRACT/CONCRETE]
 [SPATIAL/TEMPORAL]
-1. The standard word referring to what is above or on top is shàng 上.
+1. The standard word referring to what is above or on top is shàng [[上]].
 SPATIAL!, CONCRETE
-2. Shàng 尚 is used verbally in an a figurative abstract way referring to higher status.
-Tóu 頭 is occasionally used to the upper side of things.
-NB: Shàng 尚 is used in various abstract ways and is not normally purely spatial in meaning. See SURPASS.
+2. Shàng [[尚]] is used verbally in an a figurative abstract way referring to higher status.
+Tóu [[頭]] is occasionally used to the upper side of things.
+NB: Shàng [[尚]] is used in various abstract ways and is not normally purely spatial in meaning. See SURPASS.
 ## Modern Chinese Criteria
 上
 上面

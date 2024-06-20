@@ -7,7 +7,7 @@ zh: 王后
 WIFE of a RULER OR FEMALE RULER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a queen is hòu 后.
+1. The standard word for a queen is hòu [[后]].
 ## Modern Chinese Criteria
 皇后
 王后

@@ -11,7 +11,7 @@ zh: 枕頭
 OFTEN (BUT NOT ALWAYS!) SOFT ARTEFACT USED TO SUPPORT the HEAD of SLEEPING HUMANS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a pillow is zhěn 枕, and I have not found any current near-synonyms.
+1. The standard word for a pillow is zhěn [[枕]], and I have not found any current near-synonyms.
 ## Modern Chinese Criteria
 枕頭
 枕

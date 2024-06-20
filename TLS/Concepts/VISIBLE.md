@@ -35,11 +35,11 @@ och: 見／現
 ABLE to be SEEN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for visibility is xiàn 見 / 現 (ant. yǐn 隱 "remain hidden").
-2. Xíng 形 (ant. cáng 藏 "be hidden") refers to taking shape or taking proper shape.
-3. Xiào 效 (ant. huái 懷 "keep hidden within oneself") refers to somethings abstract becoming clearly manifest.
-4. Xiǎn 顯 (ant. yōu 幽 "be in the dark and inaccessible to clear inspection") refers to something becoming prominently visible to all.
-5. Zhāng 彰 (ant. yì 抑 "suppress wide knowledge of") refers to something becoming prominently visible to everyone in all its splendour or importance.
+1. The current general word for visibility is xiàn [[見]] / [[現]] (ant. yǐn [[隱]] "remain hidden").
+2. Xíng [[形]] (ant. cáng [[藏]] "be hidden") refers to taking shape or taking proper shape.
+3. Xiào [[效]] (ant. huái [[懷]] "keep hidden within oneself") refers to somethings abstract becoming clearly manifest.
+4. Xiǎn [[顯]] (ant. yōu [[幽]] "be in the dark and inaccessible to clear inspection") refers to something becoming prominently visible to all.
+5. Zhāng [[彰]] (ant. yì [[抑]] "suppress wide knowledge of") refers to something becoming prominently visible to everyone in all its splendour or importance.
 ## Modern Chinese Criteria
 出現
 現出

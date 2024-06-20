@@ -12,7 +12,7 @@ zh: 理智
 ORGAN of INTELLIGENCE, JUDGEMENT,2 AND ARGUMENTATION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The closest one can come in classical Chinese to the notion of reason seems to be the general word zhì 智 "intelligence; wisdom", which is sometimes used to refer to the capacity for knowledge and analysis as such. FIND GOOD EXAMPLES! CONSIDER SUCH DISTINCTIONS AS THAT IN GERMAN BETWEEN VERSTAND AND VERNUNFT. SEE WHEN, IN CHINESE HISTORY, THE NOTION OF REASON VERSUS INTELLIGENCE BECAME FOCUSSED.
+1. The closest one can come in classical Chinese to the notion of reason seems to be the general word zhì [[智]] "intelligence; wisdom", which is sometimes used to refer to the capacity for knowledge and analysis as such. FIND GOOD EXAMPLES! CONSIDER SUCH DISTINCTIONS AS THAT IN GERMAN BETWEEN VERSTAND AND VERNUNFT. SEE WHEN, IN CHINESE HISTORY, THE NOTION OF REASON VERSUS INTELLIGENCE BECAME FOCUSSED.
 ## Modern Chinese Criteria
 理智
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

@@ -32,19 +32,19 @@ zh: 變化
 EVENT involving two MOMENTS t1 and t2, such that a THING at the MOMENT t1 is DIFFERENT FROM that THING at the MOMENT t2.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general words for objective and typically abrupt change are biàn 變 "change FROM one's original state to become something different" (ant. héng 恆 "remain constant").
-2. Huà 化 (ant. cháng 常 "remain constant") refers to irreversible change INTO a fundamentally new state, while retaining one's identity".
-3. Gǎi 改 refers to a deliberate change brought about at a certain point in time, typically in order to improve a situation. See IMPROVE
-4. Gēng 更 is an act of deliberately changing something, typically by replacing it by an improved version of the same kind of thing in order to insure continuity.
-5. Gé 革 (ant. yīn 因 "continue the tradition") refers to a typically unlicenced act of replacing the old by something new.
-6. Yì 易 refers prototypically to a change construed as brought about by a process of interchange and (often mutual) replacement.
-7. Dòng 動 refers to change construed as the moving from a previous stable state.
-8. Xǐ 徙 refers to making the object moved unstable.
-9. Yí 移 refers to a change in a current situation so as to effect a certain development in a desired direction.
-10. Yú 渝 is to change a current situation or an object, generally to the worse, and the word is remarkably often negated.
-11. Qiān 遷 (ant. 滯 "stay put in one place, unable to move") refers typically to change of one's current condition brought about by oneself.
-12. Fǎn 反 refers to a change resulting in the reverting to one's original state. See RETURN vt.fig
-13. Zhuǎn 轉 refers to change typically construed as part of a cycle of changes.
+1. The most current general words for objective and typically abrupt change are biàn [[變]] "change FROM one's original state to become something different" (ant. héng [[恆]] "remain constant").
+2. Huà [[化]] (ant. cháng [[常]] "remain constant") refers to irreversible change INTO a fundamentally new state, while retaining one's identity".
+3. Gǎi [[改]] refers to a deliberate change brought about at a certain point in time, typically in order to improve a situation. See IMPROVE
+4. Gēng [[更]] is an act of deliberately changing something, typically by replacing it by an improved version of the same kind of thing in order to insure continuity.
+5. Gé [[革]] (ant. yīn [[因]] "continue the tradition") refers to a typically unlicenced act of replacing the old by something new.
+6. Yì [[易]] refers prototypically to a change construed as brought about by a process of interchange and (often mutual) replacement.
+7. Dòng [[動]] refers to change construed as the moving from a previous stable state.
+8. Xǐ [[徙]] refers to making the object moved unstable.
+9. Yí [[移]] refers to a change in a current situation so as to effect a certain development in a desired direction.
+10. Yú [[渝]] is to change a current situation or an object, generally to the worse, and the word is remarkably often negated.
+11. Qiān [[遷]] (ant. [[滯]] "stay put in one place, unable to move") refers typically to change of one's current condition brought about by oneself.
+12. Fǎn [[反]] refers to a change resulting in the reverting to one's original state. See RETURN vt.fig
+13. Zhuǎn [[轉]] refers to change typically construed as part of a cycle of changes.
 ## Modern Chinese Criteria
 變化 is the current general term for change.
 改變 is a common word referring to a deliberate change of something.

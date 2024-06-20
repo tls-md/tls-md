@@ -14,11 +14,11 @@ och: 面
 PART of the HEAD CONTAINING EYES, NOSE AND MOUTH ETC.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard neutral word for the face is miàn 面.
-2. Sè 色 refers specifically to the face as expressive of mood and emotion.
-3. Róng 容 refers especially to the lineaments and the characteristic outline of the face.
-4. Yán 顏 refers to the upper part of the face but the word is often used to refer loosely to the face as a whole. See FOREHEAD.
-NB: Liǎn 臉 is post-Han (THREE KINGDOMS) and refers at an early stage to the part of the face to which makeup is applied.
+1. The standard neutral word for the face is miàn [[面]].
+2. Sè [[色]] refers specifically to the face as expressive of mood and emotion.
+3. Róng [[容]] refers especially to the lineaments and the characteristic outline of the face.
+4. Yán [[顏]] refers to the upper part of the face but the word is often used to refer loosely to the face as a whole. See FOREHEAD.
+NB: Liǎn [[臉]] is post-Han (THREE KINGDOMS) and refers at an early stage to the part of the face to which makeup is applied.
 ## 
 HUANG JINGUI 2006
 BODY 33.

@@ -14,9 +14,9 @@ och: 實
 EXIST and NOT ONLY BE IMAGINED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word referring to reality is shí 實 (ant. xū 虛 "pretended reality"), but the word acquired this meaning rather late (meaning "object" in earlier texts).
-2. Qíng 情 (ant. wěi 偽 "fake") and chéng 誠 (ant. zhà 詐 "fraudulent") are often used interchangeably to refer to the real facts versus what is pretended or what is merely superficial.
-3. Zhēn 真 (ant. jiǎ 假 "faked") refers to the genuine inner state of something, the ultimate truth about it.
+1. The current word referring to reality is shí [[實]] (ant. xū [[虛]] "pretended reality"), but the word acquired this meaning rather late (meaning "object" in earlier texts).
+2. Qíng [[情]] (ant. wěi [[偽]] "fake") and chéng [[誠]] (ant. zhà [[詐]] "fraudulent") are often used interchangeably to refer to the real facts versus what is pretended or what is merely superficial.
+3. Zhēn [[真]] (ant. jiǎ [[假]] "faked") refers to the genuine inner state of something, the ultimate truth about it.
 ## Modern Chinese Criteria
 事實
 實事

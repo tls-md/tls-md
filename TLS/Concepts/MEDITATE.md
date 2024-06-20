@@ -7,7 +7,7 @@ zh: 坐禪
 CONCENTRATE as a METHOD FOR CULTIVATING ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-心術，內業
+[[心術]]，[[內業]]
 # Ontology
 
 ## Hypernym

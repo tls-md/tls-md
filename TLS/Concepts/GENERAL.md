@@ -9,9 +9,9 @@ och: 將／將軍
 OFFICER who is the LEADER of an ARMY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a senior military leader of any kind is jiāng 將, but this word normally refers to a person in charge of a given campaign, and the rank is not in Warring States times a bureaucratic permanent military to hold.
-2. Shuài 帥 is sometimes used to refer to any officer in charge of a given army.
-3. Jiāng jūn 將軍 is the officer in charge of a concrete army in the field.
+1. The general term for a senior military leader of any kind is jiāng [[將]], but this word normally refers to a person in charge of a given campaign, and the rank is not in Warring States times a bureaucratic permanent military to hold.
+2. Shuài [[帥]] is sometimes used to refer to any officer in charge of a given army.
+3. Jiāng jūn [[將軍]] is the officer in charge of a concrete army in the field.
 ## 
 HUANG JINGUI 2006
 WARFARE 1.

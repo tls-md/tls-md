@@ -16,11 +16,11 @@ och: 救
 To DEFEND someone so as to CAUSE him/her to ESCAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for rescuing someone is jiù 救.
-2. Jì 濟 refers to a successful campaign to save something from imminent decline or ruin.
-3. Zhěng 拯 is a dramatic word for a rescuing operation.
-4. Zhèn 振 is a dramatic word for a rescuing operation involving clear overtones of not only rescuing someone from an acute situation of danger but also following this operation up with lasting help.
-5. Zhèn 賑 refers to a rescuing operation centering around material help.
+1. The current general word for rescuing someone is jiù [[救]].
+2. Jì [[濟]] refers to a successful campaign to save something from imminent decline or ruin.
+3. Zhěng [[拯]] is a dramatic word for a rescuing operation.
+4. Zhèn [[振]] is a dramatic word for a rescuing operation involving clear overtones of not only rescuing someone from an acute situation of danger but also following this operation up with lasting help.
+5. Zhèn [[賑]] refers to a rescuing operation centering around material help.
 ## Modern Chinese Criteria
 拯救
 救

@@ -7,7 +7,7 @@ zh: 感覺力
 ABILITY to HAVE TENUOUS AND PROFOUND FEELINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-有情 see FEELING
+[[有情]] see FEELING
 # Ontology
 
 ## Hypernym

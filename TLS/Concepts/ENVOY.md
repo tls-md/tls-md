@@ -26,8 +26,8 @@ zh: 使者
 OFFICIAL who is SENT by the GOVERNMENT to ACT:perform a TASK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current formal word for an envoy is shǐ zhě 使者.
-2. Shǐ/shì 使 can refer to an envoy.
+1. The current formal word for an envoy is shǐ zhě [[使者]].
+2. Shǐ/shì [[使]] can refer to an envoy.
 ## Modern Chinese Criteria
 使者
 使節

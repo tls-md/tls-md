@@ -22,12 +22,12 @@ och: 買
 OBTAIN BY PAYING a PRICE FOR something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and general word for buying is mǎi 買 (ant. mài 賣 "sell").
-2. Huò 貨 refers to buying as part of a larger business transaction, but the word is rare in this usage.
-3. Dí 糴 (ant. tiào 糶 "sell abroad") refers to buying from another country and importing, especially rice.
-4. Mào 貿 (ant. yù 鬻 "sell") refers to the professional trading in something.
-5. Gū 沽 / 酤 (ant. gū 沽／酤 "sell liquor"!!) refers specifically to buying wine.
-6. Shì 市 refers to going shopping for something, to buying something in the market.
+1. The most current and general word for buying is mǎi [[買]] (ant. mài [[賣]] "sell").
+2. Huò [[貨]] refers to buying as part of a larger business transaction, but the word is rare in this usage.
+3. Dí [[糴]] (ant. tiào [[糶]] "sell abroad") refers to buying from another country and importing, especially rice.
+4. Mào [[貿]] (ant. yù [[鬻]] "sell") refers to the professional trading in something.
+5. Gū [[沽]] / [[酤]] (ant. gū [[沽]]／[[酤]] "sell liquor"!!) refers specifically to buying wine.
+6. Shì [[市]] refers to going shopping for something, to buying something in the market.
 ## 
 HUANG JINGUI 2006
 TRADE 3.

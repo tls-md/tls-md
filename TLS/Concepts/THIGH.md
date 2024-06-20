@@ -7,10 +7,10 @@ zh: 大腿
 PART of the LEG ABOVE THE KNEE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Kuà 跨 refers to the thigh and the calf (not normally also including the foot).
-2. Gǔ 股 refers to the thigh.
-2. Jìng 脛 refers to shin.
-4. Féi 腓 refers to the calf.
+1. Kuà [[跨]] refers to the thigh and the calf (not normally also including the foot).
+2. Gǔ [[股]] refers to the thigh.
+2. Jìng [[脛]] refers to shin.
+4. Féi [[腓]] refers to the calf.
 ## Modern Chinese Criteria
 大腿
 股

@@ -19,8 +19,8 @@ zh: 深
 BIG SIZE DOWNWARD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant current general word for anything deep in any sense is shēn 深 (ant. qiǎn 淺 "shallow"). Depth is shèn 深.
-2. Yuān 淵 is a poetic word for depth, and the meaning derives from the ordinary reference of the word to a deep pool or even an abyss.
+1. The dominant current general word for anything deep in any sense is shēn [[深]] (ant. qiǎn [[淺]] "shallow"). Depth is shèn [[深]].
+2. Yuān [[淵]] is a poetic word for depth, and the meaning derives from the ordinary reference of the word to a deep pool or even an abyss.
 ## Modern Chinese Criteria
 深
 深深

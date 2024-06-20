@@ -8,9 +8,9 @@ och: 質
 THING NOT SEPARATED into SEPARATE PARTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for substance as opposed to form or appearance is zhì 質, and this troubling term desperately need systematic investigation.
-2. Tǐ 體 is occasionally used to refer to the physical mass of something.
-3. Shí 實 sometimes refers to the real substance of a matter as opposed to insubstantial thinking about it, or attitudes.
+1. The general term for substance as opposed to form or appearance is zhì [[質]], and this troubling term desperately need systematic investigation.
+2. Tǐ [[體]] is occasionally used to refer to the physical mass of something.
+3. Shí [[實]] sometimes refers to the real substance of a matter as opposed to insubstantial thinking about it, or attitudes.
 ## Modern Chinese Criteria
 物質
 質

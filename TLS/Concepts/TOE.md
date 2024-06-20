@@ -7,9 +7,9 @@ zh: 腳趾
 MOST MOBILE PART at the END of THE FOOT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the toe is in fact that same as that for a finger, zhǐ 指.
-2. Gāi 胲 is occasionally mentioned as the big toe as a delicacy.
-3. Mǔ 拇 refers to the big toe.
+1. The standard word for the toe is in fact that same as that for a finger, zhǐ [[指]].
+2. Gāi [[胲]] is occasionally mentioned as the big toe as a delicacy.
+3. Mǔ [[拇]] refers to the big toe.
 ## Modern Chinese Criteria
 腳趾
 趾

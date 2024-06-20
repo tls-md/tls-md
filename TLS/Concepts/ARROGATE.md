@@ -20,19 +20,19 @@ TAKE so as to MONOPOLISE AND in so doing OFFEND against the LAW.
 [GENERAL/SPECIFIC]
 [HABITUAL/OCCASIONAL]
 [HIGH-DEGREE/LOW-DEGREE]
-1. The current general word for arrogation of power is jiàn 僭.
+1. The current general word for arrogation of power is jiàn [[僭]].
 [OCCASIONAL], [HIGH-DEGREE]
-2. Nǐ 擬 refers to fraudulent and presumptuous assumption of the powers of a ruler.
+2. Nǐ [[擬]] refers to fraudulent and presumptuous assumption of the powers of a ruler.
 [OCCASIONAL]; [RARE]
-3. Shàn 擅 refers to unlicenced wilful assumption of powers of decision which do not belong to one.
+3. Shàn [[擅]] refers to unlicenced wilful assumption of powers of decision which do not belong to one.
 [HABITUAL], [LOW-DEGREE]
-4. Qīn 侵 refers to an often violent infringement of other's rights (and territories, see ATTACK).
+4. Qīn [[侵]] refers to an often violent infringement of other's rights (and territories, see ATTACK).
 [OCCASIONAL], [HIGH-DEGREE]
-5. Líng 陵 refers to serious encroachment of others' rights or authority.
+5. Líng [[陵]] refers to serious encroachment of others' rights or authority.
 [HABITUAL], [SERIOUS]
-6. Yú 踰, and yuè 越 refer to presumptuous or arrogant infringement of others' rights or authority.
+6. Yú [[踰]], and yuè [[越]] refer to presumptuous or arrogant infringement of others' rights or authority.
 [OCCASIONAL], [LOW-DEGREE]; [RARE]
-7. Zhuān 專 (ant. fēn 分 "distribute properly") refers to the typically illegal monopolisation of power. For examples see MONOLOPOLISE
+7. Zhuān [[專]] (ant. fēn [[分]] "distribute properly") refers to the typically illegal monopolisation of power. For examples see MONOLOPOLISE
 [LOW-DEGREE], [HABITUAL], [SPECIALISED]
 ## Modern Chinese Criteria
 侵權

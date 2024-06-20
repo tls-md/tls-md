@@ -25,10 +25,10 @@ och: 聞／學
 OBTAIN KNOWLEDGE, TYPICALLY by STUDY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The learning of propositional knowledge is wén 聞.
-2. The learning of practical knowledge is the inchoative néng 能 "come to be able to".
-3. Xué 學 is conative and means "try to learn". See STUDY.
-4. Jìn 進 is to make progress in the process of learning.
+1. The learning of propositional knowledge is wén [[聞]].
+2. The learning of practical knowledge is the inchoative néng [[能]] "come to be able to".
+3. Xué [[學]] is conative and means "try to learn". See STUDY.
+4. Jìn [[進]] is to make progress in the process of learning.
 ## Modern Chinese Criteria
 學到
 學會

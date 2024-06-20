@@ -24,13 +24,13 @@ och: 馬
 COMMON BIG DOMESTIC ANIMAL WHICH HAS HOOFS AND a MANE, AND is ABLE TO PULL VEHICLES OR PLOUGHS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for a horse is mǎ 馬.
-2. Jì 驥 refers to a fast steed.
-3. Jùn 駿 refers to a stallion of outstanding talents.
-4. Qí 騏 refers to a fine horse of any kind.
-5. Nú 駑 is the standard word for an inferior horse, a stag.
-6. Tái 駘 is a rarer word for an inferior kind of horse which it is dangerous to use.
-NB: There is a rich variety of terms for all manner of horses in Ěryǎ 爾雅, but this terminology is not widely employed in the literature.
+1. The dominant word for a horse is mǎ [[馬]].
+2. Jì [[驥]] refers to a fast steed.
+3. Jùn [[駿]] refers to a stallion of outstanding talents.
+4. Qí [[騏]] refers to a fine horse of any kind.
+5. Nú [[駑]] is the standard word for an inferior horse, a stag.
+6. Tái [[駘]] is a rarer word for an inferior kind of horse which it is dangerous to use.
+NB: There is a rich variety of terms for all manner of horses in Ěryǎ [[爾雅]], but this terminology is not widely employed in the literature.
 ## 
 HUANG JINGUI 2006
 ANIMALS 7.

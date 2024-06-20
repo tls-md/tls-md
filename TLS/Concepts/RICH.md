@@ -26,11 +26,11 @@ och: 富
 POSSESS MUCH PROPERTY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for wealth is fù 富 (ant. pín 貧 "poor"), and the word has a remarkably wide range of syntactic roles.
-2. Sù fēng 素封 is an informal way of referring to substantial private wealth not conferred on one by the state.
-3. Zé 澤 "riches, rich benefits" (ant. kùn 困 "hardship") is largely limited to nominal usages and belongs to an elevated stylistic level.
-4. Yù 裕 "be generous to and make rich" (ant. jiǒng 窘 "impoverish") is marginal to the group.
-5. Ráo 饒 (ant. jí 瘠 "weakened and exhausted") refers to richness of land, and is thus also marginal to the group.
+1. The general word for wealth is fù [[富]] (ant. pín [[貧]] "poor"), and the word has a remarkably wide range of syntactic roles.
+2. Sù fēng [[素封]] is an informal way of referring to substantial private wealth not conferred on one by the state.
+3. Zé [[澤]] "riches, rich benefits" (ant. kùn [[困]] "hardship") is largely limited to nominal usages and belongs to an elevated stylistic level.
+4. Yù [[裕]] "be generous to and make rich" (ant. jiǒng [[窘]] "impoverish") is marginal to the group.
+5. Ráo [[饒]] (ant. jí [[瘠]] "weakened and exhausted") refers to richness of land, and is thus also marginal to the group.
 ## Modern Chinese Criteria
 富裕
 富有

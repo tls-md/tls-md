@@ -8,12 +8,12 @@ och: 魚
 COLD-BLOODES AQUATIC ANIMAL which HAS a SPINE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The common general term for a fish is yú 魚.
-2. Lín 鱗 can be also used as a general term for a fish, because the body of a fish is covered with scales (lín 鱗 ).
-3. Xiān 鮮 is a fairly rare general term for a fish.
-4. Jīng 鯨 (traditional reading qíng) refers to a whale. See FISHES
-5. Shā 鯊 refers to a shark.
-6. Guān 鰥 is the kind of a very large fish living in rivers and lakes. It has a long and narrow mouth and moves alone.
+1. The common general term for a fish is yú [[魚]].
+2. Lín [[鱗]] can be also used as a general term for a fish, because the body of a fish is covered with scales (lín [[鱗]] ).
+3. Xiān [[鮮]] is a fairly rare general term for a fish.
+4. Jīng [[鯨]] (traditional reading qíng) refers to a whale. See FISHES
+5. Shā [[鯊]] refers to a shark.
+6. Guān [[鰥]] is the kind of a very large fish living in rivers and lakes. It has a long and narrow mouth and moves alone.
 ## 
 HUANG JINGUI 2006
 ANIMALS 24.

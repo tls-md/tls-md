@@ -7,10 +7,10 @@ zh: 翅膀
 BODY PART OF BIRDS USED FOR FLYING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current and general ancient word for the wings or any bird or insect is yì 翼, and typically the reference is to wings in movement.
-2. Chì 翅 is a later word referring to the wings as a general anatomic part of the animals in question with no reference to their being in movement or not.
-3. Hé 翮 refers specifically to the stem of the feathers on the wing (and the word also refers to the wing as such). See FEATHER
-NB: Chì 翅 is post-Han.
+1. The current and general ancient word for the wings or any bird or insect is yì [[翼]], and typically the reference is to wings in movement.
+2. Chì [[翅]] is a later word referring to the wings as a general anatomic part of the animals in question with no reference to their being in movement or not.
+3. Hé [[翮]] refers specifically to the stem of the feathers on the wing (and the word also refers to the wing as such). See FEATHER
+NB: Chì [[翅]] is post-Han.
 ## 
 HUANG JINGUI 2006
 ANIMALS 14. 鳥蟲收閉之翅，專稱 “ 翅 ” ； “ 翅 ” 又作鳥蟲之翅通稱。

@@ -17,10 +17,10 @@ och: 蹇
 WALK USING ONLY ONE LEG APPROPRIATELY BECAUSE of a DEFECT in the OTHER LEG.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general term for any form of impaired movement is jiǎn 蹇.
-2. Bǒ3 跛 refers specifically to an impaired ability to walk or to limping.
-3. Qī 踦 refers specifically to hobbling along on one leg.
-4. Chuō 踔 refers to hopping along on malfunctioning legs.
+1. The most general term for any form of impaired movement is jiǎn [[蹇]].
+2. Bǒ3 [[跛]] refers specifically to an impaired ability to walk or to limping.
+3. Qī [[踦]] refers specifically to hobbling along on one leg.
+4. Chuō [[踔]] refers to hopping along on malfunctioning legs.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 21.

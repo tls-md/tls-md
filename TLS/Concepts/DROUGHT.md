@@ -10,8 +10,8 @@ zh: 旱
 LACK of EXPECTED RAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for wealther conditions of drought is hàn 旱.
-2. Hàn 暵 is reconstructed as common in OBI referring to scorching and parching heat.
+1. The current general word for wealther conditions of drought is hàn [[旱]].
+2. Hàn [[暵]] is reconstructed as common in OBI referring to scorching and parching heat.
 ## Modern Chinese Criteria
 旱
 大旱

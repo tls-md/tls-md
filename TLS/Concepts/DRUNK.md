@@ -66,10 +66,10 @@ och: 醉
 DRINK EXCESSIVELY MUCH LIQUOR so as to BECOME INTOXICATED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant word referring to the process drinking a large amount of alcohol on a given occasion is zuì 醉 (ant. xǐng 醒 "become sober; be sober").
-2. Hān 酣 refers to tipsiness as the incipient stage of getting drunk.
-3. Chéng 酲 refers to the unpleasant state of a person who has got excessively drunk and feels ill.
-For dān 酖 and xù 酗 referring to a liking for alcohol, see ADDICTED
+1. The clearly dominant word referring to the process drinking a large amount of alcohol on a given occasion is zuì [[醉]] (ant. xǐng [[醒]] "become sober; be sober").
+2. Hān [[酣]] refers to tipsiness as the incipient stage of getting drunk.
+3. Chéng [[酲]] refers to the unpleasant state of a person who has got excessively drunk and feels ill.
+For dān [[酖]] and xù [[酗]] referring to a liking for alcohol, see ADDICTED
 ## 
 HUANG JINGUI 2006
 FOOD 9.

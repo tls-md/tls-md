@@ -16,10 +16,10 @@ och: 陡
 INTENSELY SLANTED so as to be DIFFICULT TO ASCEND OR DESCEND on it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word is dǒu 陡 (ant. píng 平 "level").
-2. Qiào 峭 (ant. yí 夷 "level") describes a dramatic form of precipitous territory.
-3. Chán 巉 describes a high degree of precipitous proclivity in a poetic manner.
-4. Jùn 峻 refers to precipitous height.
+1. The general word is dǒu [[陡]] (ant. píng [[平]] "level").
+2. Qiào [[峭]] (ant. yí [[夷]] "level") describes a dramatic form of precipitous territory.
+3. Chán [[巉]] describes a high degree of precipitous proclivity in a poetic manner.
+4. Jùn [[峻]] refers to precipitous height.
 ## Modern Chinese Criteria
 陡峭
 陡

@@ -19,10 +19,10 @@ MUTUALLY PROMISE, TYPICALLY USING WRITING, TO ACT in a certain way.
 [[VERTRAG]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a contract of any kind is yuē 約.
-2. Méng 盟 refers to a momentous formal (typically written) contract or oath of allegiance betwen feudal lords confirmed by ritual blood sacrifice, although such oaths could occasionally be taken by humble individuals (bī rén 卑人 "persons of low status") in which case the day of the ritual was not recorded.
-3. Shì 誓 is sometimes used in ancient texts to refer to a sworn covenant between individuals, but the word also refers to a personal oath. See OATH.
-4. Quàn 券 and the somewhat more archaic qì 契 refers to the physical object which constitutes the written version of a contract or an agreement. See TALLY.
+1. The current general word for a contract of any kind is yuē [[約]].
+2. Méng [[盟]] refers to a momentous formal (typically written) contract or oath of allegiance betwen feudal lords confirmed by ritual blood sacrifice, although such oaths could occasionally be taken by humble individuals (bī rén [[卑人]] "persons of low status") in which case the day of the ritual was not recorded.
+3. Shì [[誓]] is sometimes used in ancient texts to refer to a sworn covenant between individuals, but the word also refers to a personal oath. See OATH.
+4. Quàn [[券]] and the somewhat more archaic qì [[契]] refers to the physical object which constitutes the written version of a contract or an agreement. See TALLY.
 ## 
 HUANG JINGUI 2006
 TRADE 10.

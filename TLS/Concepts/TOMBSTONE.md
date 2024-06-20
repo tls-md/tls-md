@@ -12,8 +12,8 @@ zh: 碑
 STONE PUT on a TOMB.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for an inscribed tombstone or stele is bēi 碑, and specifically this was of square form.
-2. Jié 碣 refers to the round inscribed tombstone.
+1. The current word for an inscribed tombstone or stele is bēi [[碑]], and specifically this was of square form.
+2. Jié [[碣]] refers to the round inscribed tombstone.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 60.

@@ -17,10 +17,10 @@ och: 叩
 STRIKE so as to PRODUCE a SOUND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. A general word for knocking against something, typically so as to produce a sound, is kòu 叩.
-2. Zhuàng 撞 is to knock hard against something (e.g. a bell), and it is hard to see how this is different in meaning from jī 擊 "knock"
-3. Bó 搏 is to tap against (e.g. one's thighs).
-4. Pāi 拍 (HF: 一手獨拍 "one hand clapping alone") refers specifically to the beating or clapping of a surface, often for the purpose of making a sound.
+1. A general word for knocking against something, typically so as to produce a sound, is kòu [[叩]].
+2. Zhuàng [[撞]] is to knock hard against something (e.g. a bell), and it is hard to see how this is different in meaning from jī [[擊]] "knock"
+3. Bó [[搏]] is to tap against (e.g. one's thighs).
+4. Pāi [[拍]] (HF: [[一手獨拍]] "one hand clapping alone") refers specifically to the beating or clapping of a surface, often for the purpose of making a sound.
 # Ontology
 
 ## Hypernym

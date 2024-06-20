@@ -41,16 +41,16 @@ och: 食
 PUT into one's MOUTH so as to SWALLOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word is shí 食 which refers to any form of taking in food, but the word is probably primarily a noun meaning "food". Cf. 飯疏食 "dine on coarse food".
-2. Gān 甘 is to enjoy a meal or to enjoy food on a given occasion.
-3. Rú 茹 is to eat a routine meal in order to still one's hunger.
-4. Fú 服 ingest or imbibe for a purpose, typical a medical purpose.
-5. Dàn 啖 is to eat quickly oneself and dàn 啗 is to cause someone to swallow.
-6. Fàn 飯 is to dine on some basic foodstuff, and the word is secondarily a noun meaning "foodstuff, staple food".
-7. Cháng 嘗 is to eat something for the purpose of experiencing the taste of it, rather than for the purpose of filling one's stomach.
-8. Bǎo 飽 refers specifically to eating enough or having eaten enough and is most current as an intransitive verb.
-9. Yàn 厭 / 饜 refers to eating more than enough is mostly used transitively.
-10. Cān 餐 is a formal or poetic word referring to the eating of a desirable meal.
+1. The general word is shí [[食]] which refers to any form of taking in food, but the word is probably primarily a noun meaning "food". Cf. [[飯疏食]] "dine on coarse food".
+2. Gān [[甘]] is to enjoy a meal or to enjoy food on a given occasion.
+3. Rú [[茹]] is to eat a routine meal in order to still one's hunger.
+4. Fú [[服]] ingest or imbibe for a purpose, typical a medical purpose.
+5. Dàn [[啖]] is to eat quickly oneself and dàn [[啗]] is to cause someone to swallow.
+6. Fàn [[飯]] is to dine on some basic foodstuff, and the word is secondarily a noun meaning "foodstuff, staple food".
+7. Cháng [[嘗]] is to eat something for the purpose of experiencing the taste of it, rather than for the purpose of filling one's stomach.
+8. Bǎo [[飽]] refers specifically to eating enough or having eaten enough and is most current as an intransitive verb.
+9. Yàn [[厭]] / [[饜]] refers to eating more than enough is mostly used transitively.
+10. Cān [[餐]] is a formal or poetic word referring to the eating of a desirable meal.
 ## 
 HUANG JINGUI 2006
 FOOD 6. 進食。

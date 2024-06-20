@@ -21,10 +21,10 @@ zh: 要求
 ADDRESS someone so as to COMMAND that that person ACT:do something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for putting forward justified legal demands on someone is zé 責, and the word refers to any demand for the fulfillment of a duty.
-2. Zhēng 徵 refers to a state insisting on its legal rights and thus making demands on the people.
-3. Zhū 誅 refers to a fierce legal demand for something that is construed as one's right.
-4. Qiú 求 is often used to refer not to seeking something, but insistently demanding it. See also SEEK.
+1. The current word for putting forward justified legal demands on someone is zé [[責]], and the word refers to any demand for the fulfillment of a duty.
+2. Zhēng [[徵]] refers to a state insisting on its legal rights and thus making demands on the people.
+3. Zhū [[誅]] refers to a fierce legal demand for something that is construed as one's right.
+4. Qiú [[求]] is often used to refer not to seeking something, but insistently demanding it. See also SEEK.
 ## Modern Chinese Criteria
 要求 is the current modern word for a demand.
 渴求 refers to an urgent demand.

@@ -25,21 +25,21 @@ TRY to DESTROY OR DAMAGE USING WARFARE OR FIGHT.
 [COVERT/OVERT]
 [GENERAL/SPECIFIC]
 [LARGE-SCALE/SMALL-SCALE]
-1. The general word for any attack is gōng 攻 (ant. shǒu 守 "defend"; success kè 克 ) which can be used in a general sense referring to all kinds of attack, although that word does also have the specific meaning of a pointed campaign against a certain locality. (Note 戰必勝，攻必克。 )
+1. The general word for any attack is gōng [[攻]] (ant. shǒu [[守]] "defend"; success kè [[克]] ) which can be used in a general sense referring to all kinds of attack, although that word does also have the specific meaning of a pointed campaign against a certain locality. (Note [[戰必勝]]，[[攻必克]]。 )
 [GENERAL]
-2. Fá 伐 refers to a large-scale typically destructive formal attack by one state on another, typically formally announced, and with much beating of drums.
+2. Fá [[伐]] refers to a large-scale typically destructive formal attack by one state on another, typically formally announced, and with much beating of drums.
 [DESCENDING], [MILITARY!], [LARGE-SCALE!], [OVERT]
-3. Qīn 侵 refers to a less formal attack, typically unannounced beforehand, and typically aimed at taking the enemy's territory.
+3. Qīn [[侵]] refers to a less formal attack, typically unannounced beforehand, and typically aimed at taking the enemy's territory.
 [COVERT!], [DEROGATORY], [MILITARY], [SPECIFIC]
-4. Xí 襲 refers to a surreptitious attack, on the sly, without any self-righteous pomp.
+4. Xí [[襲]] refers to a surreptitious attack, on the sly, without any self-righteous pomp.
 [COVERT+], [MILITARY], [SPECIFIC]
-5. Zhēng 征 refers to a typically punitive campain of some size against a state, construed as being of lower status.
+5. Zhēng [[征]] refers to a typically punitive campain of some size against a state, construed as being of lower status.
 [COMMENDATORY], [DESCENDING], [MILITARY], [LARGE-SCALE], [OVERT]
-6. Tǎo 討 refers to a an extended explicitly punitive campaign by someone who construes himself as being in moral authority and entitled to uphold rectitude and morality through warfare. (Also figurative as in 天討有罪 "Heaven punishes those who are guilty". See PUNISH)
+6. Tǎo [[討]] refers to a an extended explicitly punitive campaign by someone who construes himself as being in moral authority and entitled to uphold rectitude and morality through warfare. (Also figurative as in [[天討有罪]] "Heaven punishes those who are guilty". See PUNISH)
 [COMMENDATORY], [DESCENDING+], [MILITARY], [OVERT]
-7. Wéi 圍 refers specifically to military attack by surrouding the enemy.
+7. Wéi [[圍]] refers specifically to military attack by surrouding the enemy.
 [MILITARY], [OVERT], [SPECIFIC]
-8. Kòu 寇 refers derogatorily to a wanton enemy attack.
+8. Kòu [[寇]] refers derogatorily to a wanton enemy attack.
 [DEROGATORY+], [MILITARY]
 ## Modern Chinese Criteria
 進攻

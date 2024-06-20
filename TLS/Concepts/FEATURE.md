@@ -24,8 +24,8 @@ zh: 特徵
 ABSTRACT OBJECT a THING is SAID to BE OR to HAVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no common word for a characteristic, feature, or property of something, but dé 德 and xiàng 象 are words that are used to refer to determining aspects of things. See NATURE
-2. Jiān bái 堅白 is an abstract philosophical term which refers to incommensurate features coexisting in a given object.
+1. There is no common word for a characteristic, feature, or property of something, but dé [[德]] and xiàng [[象]] are words that are used to refer to determining aspects of things. See NATURE
+2. Jiān bái [[堅白]] is an abstract philosophical term which refers to incommensurate features coexisting in a given object.
 ## Modern Chinese Criteria
 特徵
 特點

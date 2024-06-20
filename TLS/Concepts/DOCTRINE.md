@@ -19,8 +19,8 @@ zh: 主義
 SYSTEM of ARGUED TRANSMITTED BELIEFS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The closest term in classical Chinese for a theory is shuō 說 which can refer to a fixed explicit and explanatory intellectual position without implying systematicity or elaborate argumentation.
-2. Lùn 論 came to be used for the definitive content of an intellectual position without so much of a focus on the its articulation or explicitation.
+1. The closest term in classical Chinese for a theory is shuō [[說]] which can refer to a fixed explicit and explanatory intellectual position without implying systematicity or elaborate argumentation.
+2. Lùn [[論]] came to be used for the definitive content of an intellectual position without so much of a focus on the its articulation or explicitation.
 ## Modern Chinese Criteria
 學說
 主義

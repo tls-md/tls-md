@@ -17,14 +17,14 @@ och: 繼
 ACT OR EXIST RESEMBLE>as one has in the INTENSELY>very NEAR PAST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for continuing to do something and also for continuing a tradition is jì 繼 (ant. jué 絕 "disrupt a tradition") which concentrates on the original thing that is being continued or made longer.
-2. Xù 續 (ant. duàn 斷 "interrupt a tradition") focusses on what is being added in the lengthening process, and the dominant meaning of the word is spatial lengthening.
-3. Zhuǎn 轉 is refers to continuation by alternation of the agent and is translatable as "continuing in turn".
-4. Chéng 承 refers to the continuation of an abstract tradition.
-5. Yè 業 refers primarily to the continuation of the trade or tradition of one's own forebears.
-6. Réng 仍 focusses on the uninterrupted and continuous pursuance of an activity over a continuing period.
-7. Sì 嗣, which came to mean "succeed as an heir", was used in early texts to refer to the continuation of any tradition or practice.
-8. Yán 延 is current in the meaning "continue" in OBI.
+1. The most current general word for continuing to do something and also for continuing a tradition is jì [[繼]] (ant. jué [[絕]] "disrupt a tradition") which concentrates on the original thing that is being continued or made longer.
+2. Xù [[續]] (ant. duàn [[斷]] "interrupt a tradition") focusses on what is being added in the lengthening process, and the dominant meaning of the word is spatial lengthening.
+3. Zhuǎn [[轉]] is refers to continuation by alternation of the agent and is translatable as "continuing in turn".
+4. Chéng [[承]] refers to the continuation of an abstract tradition.
+5. Yè [[業]] refers primarily to the continuation of the trade or tradition of one's own forebears.
+6. Réng [[仍]] focusses on the uninterrupted and continuous pursuance of an activity over a continuing period.
+7. Sì [[嗣]], which came to mean "succeed as an heir", was used in early texts to refer to the continuation of any tradition or practice.
+8. Yán [[延]] is current in the meaning "continue" in OBI.
 ## Modern Chinese Criteria
 繼續
 連續

@@ -26,9 +26,9 @@ och: 狡
 WICKEDLY INTELLIGENT AND TENDENCY:tending to DECEIVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for craftiness as a negative quality is zhì 智, although very confusingly, this word can also refer to positive wisdom as a virtue.
-2. Jiǎo 狡 and huá 猾 (ant. dūn 敦 "obtuse" and perhaps dǔ 篤 "trusty but inept").
-3. Qiǎo 巧 (ant. zhuó 拙 "inept") is very common and emphasises the element of skill involved.
+1. The most general word for craftiness as a negative quality is zhì [[智]], although very confusingly, this word can also refer to positive wisdom as a virtue.
+2. Jiǎo [[狡]] and huá [[猾]] (ant. dūn [[敦]] "obtuse" and perhaps dǔ [[篤]] "trusty but inept").
+3. Qiǎo [[巧]] (ant. zhuó [[拙]] "inept") is very common and emphasises the element of skill involved.
 ## Modern Chinese Criteria
 狡猾
 狡獪

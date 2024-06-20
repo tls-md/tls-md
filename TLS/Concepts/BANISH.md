@@ -29,15 +29,15 @@ PUNISH someone so as to COMMAND HIM/HER to LEAVE the STATE of which he/she is a 
 [DRAMATIC/UNDRAMATIC]
 [GENERAL/SPECIFIC]
 [LASTING/TEMPORARY]
-1. The main general word is fàng 放 (ant. huán 還 "reinstate as a citizen and inhabitant of a country"), which refers to any official act of removing a person from his permanent abode for a certain time, or in perpetuity.
+1. The main general word is fàng [[放]] (ant. huán [[還]] "reinstate as a citizen and inhabitant of a country"), which refers to any official act of removing a person from his permanent abode for a certain time, or in perpetuity.
 [LASTING], [OFFICIAL]
-2. Chū 出 refers abstractly to the act of causing someone to leave a territory.
+2. Chū [[出]] refers abstractly to the act of causing someone to leave a territory.
 [GENERAL], [MARGINAL]
-3. Zhú 逐 refers informally and more dramatically to the action of driving away someone not necessarily on the basis of an official or legal decision.
+3. Zhú [[逐]] refers informally and more dramatically to the action of driving away someone not necessarily on the basis of an official or legal decision.
 [DRAMATIC]
-4. Qū 軀 is a dramatic term for the removal of a person or animal from one's presence.
+4. Qū [[軀]] is a dramatic term for the removal of a person or animal from one's presence.
 [DRAMATIC+], [MARGINAL]; [[RARE]]
-5. Chù 黜, biǎn 貶 and zhé 謫 "banish from office (and remove to lower office)" (ant. zhuó 擢 "appoint to a higher position") are perhaps marginal in this group, but these common bureaucratic term describing the demotion of a person from his position and often his banishment from the court. See DEMOTE.
+5. Chù [[黜]], biǎn [[貶]] and zhé [[謫]] "banish from office (and remove to lower office)" (ant. zhuó [[擢]] "appoint to a higher position") are perhaps marginal in this group, but these common bureaucratic term describing the demotion of a person from his position and often his banishment from the court. See DEMOTE.
 [OFFICIAL]
 ## Modern Chinese Criteria
 驅逐

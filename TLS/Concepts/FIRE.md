@@ -16,8 +16,8 @@ zh: 火
 HOT LIGHT which APPEARS ABOVE what BURNS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for fire is huǒ 火.
-2. Yán 炎 refers specifically to the flame.
+1. The standard word for fire is huǒ [[火]].
+2. Yán [[炎]] refers specifically to the flame.
 ## Modern Chinese Criteria
 火
 炎焰

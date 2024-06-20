@@ -24,16 +24,16 @@ zh: 輕視
 FEEL that a THING OR a HUMAN is UNIMPORTANT AND BAD AND DESERVES NO RESPECT
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most widely used general word for contempt is qīng 輕 (ant. zhòng 重 "rate as important"), and the word typically describes an attitude based on a critical judgment. See also UNIMPORTANT
-2. Yì 易 (ant. zhòng 重 "treat as important") focusses on the subjective failure to take someone or something seriously and does not necessarily involve a critical judgment.
-3. Bēi 卑 (ant. zūn 尊 "venerate as distinguished") refers to regarding a person as characterised by his or her low social standing.
-4. Jiàn 賤 (guì 貴 "hold in high esteem" and jìng 敬 "respect") are to regard someone as vulgar, and typically as of slight moral worth.
-5. Hòu 後 (ant. xiān 先 "put first") is to fail to show proper respect for someone.
-6. Xiǎo 小 and shǎo 少 (ant. duō 多 "rate highly") expresses a negative judgment on the significance of a person or thing.
-7. Ào 傲 adds the nuance of arrogance to the notion of contempt.
-8. Miè 蔑 "to regard someone with no respect" describes a purely psychological attitude.
-9.Mà4n 慢 refers to a demonstrative failure to show proper respect for someone.
-10. Dú 瀆 refers to a disrespectful attitude or disregard for someone or something.
+1. The most widely used general word for contempt is qīng [[輕]] (ant. zhòng [[重]] "rate as important"), and the word typically describes an attitude based on a critical judgment. See also UNIMPORTANT
+2. Yì [[易]] (ant. zhòng [[重]] "treat as important") focusses on the subjective failure to take someone or something seriously and does not necessarily involve a critical judgment.
+3. Bēi [[卑]] (ant. zūn [[尊]] "venerate as distinguished") refers to regarding a person as characterised by his or her low social standing.
+4. Jiàn [[賤]] (guì [[貴]] "hold in high esteem" and jìng [[敬]] "respect") are to regard someone as vulgar, and typically as of slight moral worth.
+5. Hòu [[後]] (ant. xiān [[先]] "put first") is to fail to show proper respect for someone.
+6. Xiǎo [[小]] and shǎo [[少]] (ant. duō [[多]] "rate highly") expresses a negative judgment on the significance of a person or thing.
+7. Ào [[傲]] adds the nuance of arrogance to the notion of contempt.
+8. Miè [[蔑]] "to regard someone with no respect" describes a purely psychological attitude.
+9.Mà4n [[慢]] refers to a demonstrative failure to show proper respect for someone.
+10. Dú [[瀆]] refers to a disrespectful attitude or disregard for someone or something.
 ## Modern Chinese Criteria
 輕視
 蔑視

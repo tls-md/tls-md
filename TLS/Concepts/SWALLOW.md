@@ -27,9 +27,9 @@ och: 咽
 DISPLACE FOOD FROM the MOUTH TOWARDS the STOMACH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word is yàn 嚥 / 咽 which refers to any act of swallowing, fast or slow, eager or relaxed.
-2. Tūn 吞 (ant. tǔ 吐 "gulp up") is to gulp down eagerly, typically in large chunks.
-3. Xiá 呷 is a very rare word apparently referring to sucking and swallowing.
+1. The most general word is yàn [[嚥]] / [[咽]] which refers to any act of swallowing, fast or slow, eager or relaxed.
+2. Tūn [[吞]] (ant. tǔ [[吐]] "gulp up") is to gulp down eagerly, typically in large chunks.
+3. Xiá [[呷]] is a very rare word apparently referring to sucking and swallowing.
 ## Modern Chinese Criteria
 咽
 噲

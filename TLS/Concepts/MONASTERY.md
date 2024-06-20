@@ -14,7 +14,7 @@ zh: 修道院
 DWELLING FOR MONKS. See TEMPLE
 # Criteria and general notes
 ## Old Chinese Criteria
-寺
+[[寺]]
 ## Modern Chinese Criteria
 修道院
 精舍

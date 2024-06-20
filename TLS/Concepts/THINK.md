@@ -36,16 +36,16 @@ och: 思
 ACT USING ONLY the MIND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for thought or reflection of any kind is perhaps sī 思 (ant. hū 忽 "fail to pay detailed attention to"), but this word tends to refer specifically to reflection.
-2. Huái 懷 (ant. wàng 忘 "forget all about") refers to emotionally loaded thinking about a absent person or an important subject.
-3. Móu 謀 refers to any act of planning by a private or public personality.
-4. Tú 圖 refer to deliberative strategic thinking about the future by a person in authority to decide on a future course of action.
-5. Xiǎng 想 is occasionally used to refer to fond thinking about absent persons, and in later times the word comes to refer to unrealistic imaginings in thought, and wàng xiǎng 妄想 "wild imaginings" is a symptomatic current phrase..
-6. Niàn 念 refers to intense intellectual effort and strenuous attention, and zhèng niàn 正念 refers to correct intellectual efforts in Buddhist Chinese.
-7. Zhēn zhuó 斟酌 refers to careful deliberation on the truth of a proposition or the moral quality of something.
-8. Jì 計 refers to subjecting something to rational often quantified consideration and judgment.
-9. Gù 顧 is inchoative and refers to the turning of one's attention to something one has not focussed on before.
-10. Lu �慮 refers to thoughtful long-term strategic (often personal) planning.
+1. The most current general word for thought or reflection of any kind is perhaps sī [[思]] (ant. hū [[忽]] "fail to pay detailed attention to"), but this word tends to refer specifically to reflection.
+2. Huái [[懷]] (ant. wàng [[忘]] "forget all about") refers to emotionally loaded thinking about a absent person or an important subject.
+3. Móu [[謀]] refers to any act of planning by a private or public personality.
+4. Tú [[圖]] refer to deliberative strategic thinking about the future by a person in authority to decide on a future course of action.
+5. Xiǎng [[想]] is occasionally used to refer to fond thinking about absent persons, and in later times the word comes to refer to unrealistic imaginings in thought, and wàng xiǎng [[妄想]] "wild imaginings" is a symptomatic current phrase..
+6. Niàn [[念]] refers to intense intellectual effort and strenuous attention, and zhèng niàn [[正念]] refers to correct intellectual efforts in Buddhist Chinese.
+7. Zhēn zhuó [[斟酌]] refers to careful deliberation on the truth of a proposition or the moral quality of something.
+8. Jì [[計]] refers to subjecting something to rational often quantified consideration and judgment.
+9. Gù [[顧]] is inchoative and refers to the turning of one's attention to something one has not focussed on before.
+10. Lu �[[慮]] refers to thoughtful long-term strategic (often personal) planning.
 ## Modern Chinese Criteria
 思考
 思量

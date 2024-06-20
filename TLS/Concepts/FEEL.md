@@ -15,7 +15,7 @@ zh: 感到
 PERCEIVE a FEELING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word referring to a person feeling certain emotions is hán 含, and I have not yet found any near-synonyms.
+1. The current word referring to a person feeling certain emotions is hán [[含]], and I have not yet found any near-synonyms.
 ## Modern Chinese Criteria
 感到
 感覺

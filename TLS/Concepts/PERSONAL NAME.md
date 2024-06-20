@@ -8,11 +8,11 @@ och: 名
 PROPER NAME of a HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a name for a person of any kind is míng 名. Míng 名 refers specifically to the name given to a person at the age of 3 months, and this name is informally chosen and often not chosen with great care. There are fixed rules for exactly when the mí2ng 名 of a person is to be used and when one must use the zì 字. (LIJI)
-2. Xìng 姓 refers to the general name of the clan defined by one's male lineage.
-3. Originally, it is said, there were only 25 surnames xìng 姓 established by the Son of Heaven. With time, the members of one of the original xìng 姓 gave different names shì 氏 to their sub-lineages so that shì 氏 came to refer to sub-lineages under a given xìng 姓. From late Warring States times onwards, xìng 姓 and shì 氏 came to be confused.
-4. Zì 字 refers to the courtesy name given to a person at the age of 20 for boys, and 15 for girls, and the purpose of this was to give the person an appellation that would distinguish her or him from the other members of the family and give him an identity. The zì 字 or a person was therefore something that was taken great care with.
-5. Hào 號 refers to an informal style or given name which is first given to a person as an adult for various social purposes. Among the typical hào 號 there came to be bié hào 別號, shǐ hào 諡號, miào hào 廟號 "temple name", post-Buddhist zūn hào 尊號, huī hào 徽號 and so on. The purpose of hào 號 was to express the way of thinking and the special character of a person.
+1. The general word for a name for a person of any kind is míng [[名]]. Míng [[名]] refers specifically to the name given to a person at the age of 3 months, and this name is informally chosen and often not chosen with great care. There are fixed rules for exactly when the mí2ng [[名]] of a person is to be used and when one must use the zì [[字]]. (LIJI)
+2. Xìng [[姓]] refers to the general name of the clan defined by one's male lineage.
+3. Originally, it is said, there were only 25 surnames xìng [[姓]] established by the Son of Heaven. With time, the members of one of the original xìng [[姓]] gave different names shì [[氏]] to their sub-lineages so that shì [[氏]] came to refer to sub-lineages under a given xìng [[姓]]. From late Warring States times onwards, xìng [[姓]] and shì [[氏]] came to be confused.
+4. Zì [[字]] refers to the courtesy name given to a person at the age of 20 for boys, and 15 for girls, and the purpose of this was to give the person an appellation that would distinguish her or him from the other members of the family and give him an identity. The zì [[字]] or a person was therefore something that was taken great care with.
+5. Hào [[號]] refers to an informal style or given name which is first given to a person as an adult for various social purposes. Among the typical hào [[號]] there came to be bié hào [[別號]], shǐ hào [[諡號]], miào hào [[廟號]] "temple name", post-Buddhist zūn hào [[尊號]], huī hào [[徽號]] and so on. The purpose of hào [[號]] was to express the way of thinking and the special character of a person.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 32. FAMILY NAME

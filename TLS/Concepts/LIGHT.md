@@ -30,12 +30,12 @@ och: 光
 FEATURE which CAUSES THINGS TO BECOME VISIBLE AND LACKING which they are NOT VISIBLE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word for light of any kind is guāng 光.
+1. The dominant general word for light of any kind is guāng [[光]].
 [GENERAL]; [[COMMON]]
-2. Huǒ 火 refers primarily to artificial light from burning lamps etc..
+2. Huǒ [[火]] refers primarily to artificial light from burning lamps etc..
 [ARTIFICIAL]
-3. Xī 曦 refers to the nascent sunlight of the rising sun.
-4. Yào 耀 and huī 輝 refer to bright sunlight.
+3. Xī [[曦]] refers to the nascent sunlight of the rising sun.
+4. Yào [[耀]] and huī [[輝]] refer to bright sunlight.
 ## Modern Chinese Criteria
 光線
 光

@@ -19,23 +19,23 @@ ACT so as to CAUSE ONESELF NOT to ENCOUNTER OR SUFFER something.
 [GENERAL/SPECIFIC]
 [GRAMMATICALISED/LEXICAL]
 [HIGH-DEGREE/LOW-DEGREE]
-1. The general word is miǎn 免 (ant. zāo 遭 "encounter"), and this refers to any voluntary or involuntary process leading to one's escape from what otherwise might occur, especially one's being spared a negative experience.
+1. The general word is miǎn [[免]] (ant. zāo [[遭]] "encounter"), and this refers to any voluntary or involuntary process leading to one's escape from what otherwise might occur, especially one's being spared a negative experience.
 [CONCRETE], [GENERAL]
-2. Bì 避 (ant. mào 冒 "expose oneself to"), unlike miǎn 免, is always deliberate and describes a strategy of action which successfully avoids an undesirable impending danger.
+2. Bì [[避]] (ant. mào [[冒]] "expose oneself to"), unlike miǎn [[免]], is always deliberate and describes a strategy of action which successfully avoids an undesirable impending danger.
 [DELIBERATE]
-3. Yuàn 遠 (ant. jìn 近 "move close to") is a specific strategy of avoidance which is well within one's control and consists in keeping what is undesirable at a long distance from one.
+3. Yuàn [[遠]] (ant. jìn [[近]] "move close to") is a specific strategy of avoidance which is well within one's control and consists in keeping what is undesirable at a long distance from one.
 [DELIBERATE], [HIGH-DEGREE]
-4. Lí 離 differs from yuàn 遠 in the fact that no great distance, concrete or abstract, is implied in the word.
+4. Lí [[離]] differs from yuàn [[遠]] in the fact that no great distance, concrete or abstract, is implied in the word.
 [DELIBERATE]; [[DERIVED]]
-5. Chú 除 refers to the avoidance or removal of something that is perceived as posing a powerful threat. See REMOVE
+5. Chú [[除]] refers to the avoidance or removal of something that is perceived as posing a powerful threat. See REMOVE
 [CAUSATIVE], [DELIBERATE]; [[DERIVED]]
-6. Qù 去 (ant. lí 罹 "get exposed to") is avoidance through getting rid of what is threatening.
+6. Qù [[去]] (ant. lí [[罹]] "get exposed to") is avoidance through getting rid of what is threatening.
 [CAUSATIVE], [DELIBERATE]; [[DERIVED]]
-7. Jué 絕 refers to avoidance through getting rid completely and definitively of what is threatening.
+7. Jué [[絕]] refers to avoidance through getting rid completely and definitively of what is threatening.
 [ABSTRACT], [CAUSATIVE], [DELIBERATE], [HIGH-DEGREE]
-8. Tuì 退 refers to avoidance by withdrawing from what exposes one to what is threatening.
+8. Tuì [[退]] refers to avoidance by withdrawing from what exposes one to what is threatening.
 [DELIBERATE], [SPECIFIC]
-9. Wù 勿 is a negation referring to an instruction to avoid doing something, and the word often has an object pronoun understood. See NOT.
+9. Wù [[勿]] is a negation referring to an instruction to avoid doing something, and the word often has an object pronoun understood. See NOT.
 [GRAMMATICALISED]
 ## Modern Chinese Criteria
 避免 is the current standard word for avoiding anything undesirable.

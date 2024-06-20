@@ -25,8 +25,8 @@ och: 報
 DAMAGE someone who one BELIEVES has ACTED:committed WICKED ACTS AGAINST one OR AGAINST one's FRIENDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for revenge is bào 報 (ant.* shè 赦 "let off").
-2. Fù 復 (ant. miǎn 免 "let off") is occasionally used to refer to revenge in limited idiomatic contexts like fù chóu 復仇.
+1. The standard word for revenge is bào [[報]] (ant.* shè [[赦]] "let off").
+2. Fù [[復]] (ant. miǎn [[免]] "let off") is occasionally used to refer to revenge in limited idiomatic contexts like fù chóu [[復仇]].
 ## Modern Chinese Criteria
 報仇 is the current modern word for revenge.
 復仇 is a more literary current word for revenge.

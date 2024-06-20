@@ -20,15 +20,15 @@ och: 墓
 PLACE OR BUILDING which SHOWS where one has BURIED a HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general old word for a tomb of any kind with or without planted trees or a mound is mù 墓, and the term comes to refer specifically to the subterranean part of the tomb.
-2. Fén 墳 refers to the visible part of the tomb in the shape of a sizeable tumulus typically planted with trees.
-3. Qiū 丘 "tumulus" is an old way of referring to a tomb with special reference to its appearance above ground, and the suggestion is that it is of considerable size suitable for leading personalities.
-4. Lǒng 壟 refers to a tomb with special reference to its appearance above ground as an imposing tumulus, but the reference is not normally to a ruler's tomb.
-5. Zhǒng 冢 was occasionally used in Warring States times but became more current in Han times, and the word refers to an impressive tomb as a whole, including its subterraneous and its visible parts.
-6. Yíng 塋 refers generally to the piece of land with the tomb on it.
-7. Líng 陵 refers specifically to an imperial tomb compound with high tombs, surrounding parks, and surrounding tombs for close relatives, queen, brothers, and sisters.
-8. Shān 山 can come to refer to an imperial tomb.
-9. Xuè 穴 "cave" is occasionally used to refer to the underground part of a tomb.
+1. The current general old word for a tomb of any kind with or without planted trees or a mound is mù [[墓]], and the term comes to refer specifically to the subterranean part of the tomb.
+2. Fén [[墳]] refers to the visible part of the tomb in the shape of a sizeable tumulus typically planted with trees.
+3. Qiū [[丘]] "tumulus" is an old way of referring to a tomb with special reference to its appearance above ground, and the suggestion is that it is of considerable size suitable for leading personalities.
+4. Lǒng [[壟]] refers to a tomb with special reference to its appearance above ground as an imposing tumulus, but the reference is not normally to a ruler's tomb.
+5. Zhǒng [[冢]] was occasionally used in Warring States times but became more current in Han times, and the word refers to an impressive tomb as a whole, including its subterraneous and its visible parts.
+6. Yíng [[塋]] refers generally to the piece of land with the tomb on it.
+7. Líng [[陵]] refers specifically to an imperial tomb compound with high tombs, surrounding parks, and surrounding tombs for close relatives, queen, brothers, and sisters.
+8. Shān [[山]] can come to refer to an imperial tomb.
+9. Xuè [[穴]] "cave" is occasionally used to refer to the underground part of a tomb.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 58. TOMB TUMULUS

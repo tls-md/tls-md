@@ -13,7 +13,7 @@ zh: 舒服
 PEACEFUL:at-ease BECAUSE what one NEEDS is PREPARED:provided.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for material and psychological comfort is ān 安.
+1. The standard word for material and psychological comfort is ān [[安]].
 ## Modern Chinese Criteria
 舒服
 恬適

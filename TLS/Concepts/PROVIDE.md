@@ -35,10 +35,10 @@ och: 備
 PRODUCE, OR CAUSE it TO BE POSSIBLE TO USE, something USEFUL OR to MOVE something USEFUL to a certain PLACE WHERE it is NEEDED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for preparing something or supplying something in good time is bèi 備, and what is thus supplied is typically part of some larger scheme.
-2. Jù 具 refers to providing something or assuring supplies of something without much emphasis on what these things are to be used for in concrete terms.
-3. Jǐ 給 focusses on insuring a sufficiency of supply of some basic necessity.
-4. Wán 完 refers to the complete preparation of something without omission.
+1. The current general word for preparing something or supplying something in good time is bèi [[備]], and what is thus supplied is typically part of some larger scheme.
+2. Jù [[具]] refers to providing something or assuring supplies of something without much emphasis on what these things are to be used for in concrete terms.
+3. Jǐ [[給]] focusses on insuring a sufficiency of supply of some basic necessity.
+4. Wán [[完]] refers to the complete preparation of something without omission.
 ## Modern Chinese Criteria
 準備
 預備

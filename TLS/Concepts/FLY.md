@@ -19,12 +19,12 @@ och: 飛
 MOVE THROUGH AIR, TYPICALLY USING WINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word in this group is fēi 飛 which usually refers to the flying in a certain direction.
-2. Áo xiáng 翱翔, yǐ nǐ 旖旎, fān 翻, fēn fēn 翂翂, zhì zhì 翐翐, and the rare nǐ 旎 are poetic words referring to the fluttering back and forth of birds, the latter mostly to the fluttering of a flag.
-3. 翔 refers to soaring high, according to learned commentators without much movement of the wings.
-4. Áo 翱 is to soar high, according to learned commentators fluttering back and forth.
-5. 翩 refers to short distance fluttering or flaying.
-6. Téng 騰 refers to the soaring high up into the sky, typically of big and impressive creatures like birds and dragons.
+1. The dominant word in this group is fēi [[飛]] which usually refers to the flying in a certain direction.
+2. Áo xiáng [[翱翔]], yǐ nǐ [[旖旎]], fān [[翻]], fēn fēn [[翂翂]], zhì zhì [[翐翐]], and the rare nǐ [[旎]] are poetic words referring to the fluttering back and forth of birds, the latter mostly to the fluttering of a flag.
+3. [[翔]] refers to soaring high, according to learned commentators without much movement of the wings.
+4. Áo [[翱]] is to soar high, according to learned commentators fluttering back and forth.
+5. [[翩]] refers to short distance fluttering or flaying.
+6. Téng [[騰]] refers to the soaring high up into the sky, typically of big and impressive creatures like birds and dragons.
 ## 
 HUANG JINGUI 2006
 ANIMALS 33.

@@ -10,10 +10,10 @@ zh: 借出
 GIVE something to someone, ASSUMING that s/he will GIVE it BACK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Jiè 借 (ant. huán 還 "return to the owner") is the standard general word lending something one has to somebody else for use.
-2. Jiǎ 假 is the granting or requesting permission to use something, and the word is often somewhat more abstract than jiè 借.
-3. Dài 貸 is a technical fiscal term referring to the giving of loans, typically from some institution or public body.
-4. Shē 賒 is to sell on credit, but the term is rare.
+1. Jiè [[借]] (ant. huán [[還]] "return to the owner") is the standard general word lending something one has to somebody else for use.
+2. Jiǎ [[假]] is the granting or requesting permission to use something, and the word is often somewhat more abstract than jiè [[借]].
+3. Dài [[貸]] is a technical fiscal term referring to the giving of loans, typically from some institution or public body.
+4. Shē [[賒]] is to sell on credit, but the term is rare.
 ## Modern Chinese Criteria
 出借
 借予

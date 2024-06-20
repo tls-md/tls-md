@@ -9,14 +9,14 @@ och: 穀
 SEED of cereal PLANTS. []
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Gǔ 谷 / 穀 is general term for a food grain; in some local dialects, it can also refer to foxtail millet (Setaria italica).
-2. Mài 麥 is a general term for wheat, barley, etc.
-3. Suì 穗 refers to an ear of grain.
-4. Kāng 糠 refers to husks of grain.
-5. Suì 穟 refers to an awn.
-6. Jǐ 穖 refers to the branches of an awn.
-7. Miǎo 秒 refers to the beard of grain.
-8. Gǔ 榖 refers to Broussonetia papyrifera (Shi)
+1. Gǔ [[谷]] / [[穀]] is general term for a food grain; in some local dialects, it can also refer to foxtail millet (Setaria italica).
+2. Mài [[麥]] is a general term for wheat, barley, etc.
+3. Suì [[穗]] refers to an ear of grain.
+4. Kāng [[糠]] refers to husks of grain.
+5. Suì [[穟]] refers to an awn.
+6. Jǐ [[穖]] refers to the branches of an awn.
+7. Miǎo [[秒]] refers to the beard of grain.
+8. Gǔ [[榖]] refers to Broussonetia papyrifera (Shi)
 ## 
 HUANG JINGUI 2006
 FOOD 30. 乾糧。

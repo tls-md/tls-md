@@ -11,10 +11,10 @@ zh: 掃帚
 INTENSELY BIG BRUSH USED FOR:in order to CAUSE ROOMS TO BECOME CLEAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the broom, which standardly cooccurs with jī1 箕 "dustpan", is zhǒu 帚.
-2. Liè 鬣 refers specifically to a broom made of the mane of a horse.
-3. Sáo 埽 refers to the process of sweeping something clean, and this process is standardly accompanied by xǐ 灑 / 洒 "sprinkling with water". See SWEEP
-4. Shuā 刷 refers to a broom-like brush, but the word is rare in pre-Han texts. See BRUSH
+1. The current word for the broom, which standardly cooccurs with jī1 [[箕]] "dustpan", is zhǒu [[帚]].
+2. Liè [[鬣]] refers specifically to a broom made of the mane of a horse.
+3. Sáo [[埽]] refers to the process of sweeping something clean, and this process is standardly accompanied by xǐ [[灑]] / [[洒]] "sprinkling with water". See SWEEP
+4. Shuā [[刷]] refers to a broom-like brush, but the word is rare in pre-Han texts. See BRUSH
 ## Modern Chinese Criteria
 掃帚 is the current modern word for using a broom to clean an area.
 掃

@@ -15,14 +15,14 @@ och: 洗
 CLEANSE USING WATER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zhuó 濯 is a flexible word for washing anything, from parts of the body to other objects, and the word even has figurative abstract uses where it comes close to meaning "purify", as in purifying one's heart.
-2. Xǐ 洗 refers primarily to the washing of feet but does have a wide generalised use.
-3. Dí 滌 refers primarily to the washing of dishes, but also has considerable extended and generalised uses.
-4. Huǎn 澣 refers to the washing of dirty clothes we are told.
-5. Huàn 浣 refers to the washing off of manifest dirt.
-6. Shù 漱 refers to the washing of clothes that are not especially dirty.
-7. There is a particular proliferation for ritual cleansing in classical Chinese like wò 沃 "cleanse hands ritually, see also gài 摡 / 溉, mí 渳, sōu 溲 ).
-8. Xuě 雪 is only used in transferred figurative senses (xuě 雪 "wash away (guilt etc)").
+1. Zhuó [[濯]] is a flexible word for washing anything, from parts of the body to other objects, and the word even has figurative abstract uses where it comes close to meaning "purify", as in purifying one's heart.
+2. Xǐ [[洗]] refers primarily to the washing of feet but does have a wide generalised use.
+3. Dí [[滌]] refers primarily to the washing of dishes, but also has considerable extended and generalised uses.
+4. Huǎn [[澣]] refers to the washing of dirty clothes we are told.
+5. Huàn [[浣]] refers to the washing off of manifest dirt.
+6. Shù [[漱]] refers to the washing of clothes that are not especially dirty.
+7. There is a particular proliferation for ritual cleansing in classical Chinese like wò [[沃]] "cleanse hands ritually, see also gài [[摡]] / [[溉]], mí [[渳]], sōu [[溲]] ).
+8. Xuě [[雪]] is only used in transferred figurative senses (xuě [[雪]] "wash away (guilt etc)").
 ## Modern Chinese Criteria
 洗
 浣

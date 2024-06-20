@@ -8,7 +8,7 @@ zh: 政治
 LEGITIMATE CONCRETE PUBLIC DISCUSSION of DIFFERENT METHODS to GOVERN a DEFINITE STATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-文 is the standard term identifying the political versus the military realm, the latter being 武.
+[[文]] is the standard term identifying the political versus the military realm, the latter being [[武]].
 ## Modern Chinese Criteria
 政治
 政

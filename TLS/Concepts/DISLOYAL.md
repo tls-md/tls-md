@@ -35,7 +35,7 @@ Be WICKED so as to LACK APPROPRIATE FAITHFULNESS.
 WICKED so as NOT to be LOYAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for disloyalty is èr 貳／二.
+1. The standard word for disloyalty is èr [[貳]]／[[二]].
 ## Modern Chinese Criteria
 不忠
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

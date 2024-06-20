@@ -17,8 +17,8 @@ zh: 沒收
 TAKE something from ANOTHER, ACTING as an OFFICIAL CONFORMING to a LAW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current term for any kind of confiscation is shōu 收.
-2. Liǎn 斂 refers to the collecting of dues in an official capacity.
+1. The general current term for any kind of confiscation is shōu [[收]].
+2. Liǎn [[斂]] refers to the collecting of dues in an official capacity.
 ## Modern Chinese Criteria
 沒收
 充公

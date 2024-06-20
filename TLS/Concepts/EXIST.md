@@ -8,9 +8,9 @@ och: 有／存
 BE-IN the UNIVERSE of SPACE AND TIME.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for existence is yǒu 有 and this word is also used inchoatively.
-2. Cún 存 focusses continued existence as opposed to disappearance or annihilation. See PERSIST.
-3. Zài 在 focusses on the presence in a certain place. See BE IN.
+1. The standard word for existence is yǒu [[有]] and this word is also used inchoatively.
+2. Cún [[存]] focusses continued existence as opposed to disappearance or annihilation. See PERSIST.
+3. Zài [[在]] focusses on the presence in a certain place. See BE IN.
 ## Modern Chinese Criteria
 存在
 在

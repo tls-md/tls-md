@@ -30,12 +30,12 @@ zh: 孔
 EMPTY SPACE in a SURFACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a rift or gap that is naturally present between different parts of an object is xì 隙, and the word refers to a rift between things that basically belong together.
-2. Féng 縫 is a popular word for the above.
-3. Jì 際 referes to a rift between what is basically separate but is conjoined. See BOUNDARY
-4. Jiān 間 refers to a large rift that is naturally present between different parts of an object.
-5. Xià 罅 is a rare late word referring to a small rift in something produced by wear and tear.
-6. Xìn 釁／舋 refers to a small rift in something produced by wear and tear.
+1. The general word for a rift or gap that is naturally present between different parts of an object is xì [[隙]], and the word refers to a rift between things that basically belong together.
+2. Féng [[縫]] is a popular word for the above.
+3. Jì [[際]] referes to a rift between what is basically separate but is conjoined. See BOUNDARY
+4. Jiān [[間]] refers to a large rift that is naturally present between different parts of an object.
+5. Xià [[罅]] is a rare late word referring to a small rift in something produced by wear and tear.
+6. Xìn [[釁]]／[[舋]] refers to a small rift in something produced by wear and tear.
 ## Modern Chinese Criteria
 漏洞
 漏子

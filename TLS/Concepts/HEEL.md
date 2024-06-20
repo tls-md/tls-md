@@ -8,8 +8,8 @@ och: 踵
 BACK PART of the FOOT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the heel is zhǒng 踵.
-NB: Gēn 跟 is post-Buddhist.
+1. The current general word for the heel is zhǒng [[踵]].
+NB: Gēn [[跟]] is post-Buddhist.
 ## Modern Chinese Criteria
 腳跟
 腳後跟

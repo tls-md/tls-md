@@ -8,11 +8,11 @@ och: 牢
 DOMESTIC ANIMAL USED in SACRIFICE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for sacrificial animals is xī shēng 犧牲.
-2. Xī 犧 refers specifically for an animal that has been used in sacrifice.
-3. Shēng 牲 refers specifically to an animal that one intends to use for sacrificial purposes.
-4. Quán 牷 refers to an animal that has been selected for special rearing for sacrificial purposes because of it's unified colour.
-5. Láo 牢 refers collectively to a set of animals used for sacrificing, usually consistic of an ox, a sheep and a pig, as in the Roman suovetaurilia.
+1. The general term for sacrificial animals is xī shēng [[犧牲]].
+2. Xī [[犧]] refers specifically for an animal that has been used in sacrifice.
+3. Shēng [[牲]] refers specifically to an animal that one intends to use for sacrificial purposes.
+4. Quán [[牷]] refers to an animal that has been selected for special rearing for sacrificial purposes because of it's unified colour.
+5. Láo [[牢]] refers collectively to a set of animals used for sacrificing, usually consistic of an ox, a sheep and a pig, as in the Roman suovetaurilia.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 16.

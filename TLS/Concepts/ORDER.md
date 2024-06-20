@@ -22,9 +22,9 @@ och: 次
 JUXTAPOSITION of THINGS OR EVENTS BEFORE OR AFTER EACH OTHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for the orderly sequential arrangement of things is cì 次.
-2. Xù 序 refers to the proper (often hierarchical) sequence of things.
-3. Zhì 秩 simply refers abstractly to the absence of arbitrariness in a sequence.
+1. The current general term for the orderly sequential arrangement of things is cì [[次]].
+2. Xù [[序]] refers to the proper (often hierarchical) sequence of things.
+3. Zhì [[秩]] simply refers abstractly to the absence of arbitrariness in a sequence.
 ## Modern Chinese Criteria
 次序
 次第

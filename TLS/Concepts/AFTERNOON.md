@@ -8,11 +8,11 @@ PERIOD LATE IN-RELATION-TO MID-DAY AND BEFORE EVENING. 
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The general term for the afternoon, already attested in OBI, is zè 昃.
+1. The general term for the afternoon, already attested in OBI, is zè [[昃]].
 [GENERAL]
-2. Bū 晡 refers to the time of the afternoon meal bū 餔, and is a rare word that is first current in HANSHU.
+2. Bū [[晡]] refers to the time of the afternoon meal bū [[餔]], and is a rare word that is first current in HANSHU.
 [SPECIFIC]
-3. Hūn 昏 refers to the time when dusk has set in properly, but before it is dark, i.e. "dusk".
+3. Hūn [[昏]] refers to the time when dusk has set in properly, but before it is dark, i.e. "dusk".
 [SPECIFIC]
 ## Modern Chinese Criteria
 下午

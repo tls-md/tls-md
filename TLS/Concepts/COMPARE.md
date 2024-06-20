@@ -14,9 +14,9 @@ zh: 對比
 EXPLAIN HOW TWO OR MORE THINGS MUTUALLY RESEMBLE:are-similar OR are MUTUALLY DIFFERENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for lining up things for comparison is bǐ 比, and the comparison may be expressed in language or pure psychological. Any two things compared may often be of similar importance to the person who is doing the comparing.
-2. Yù 喻 is to illustrate a point by the rhetorical means of comparison (and thus make one's meaning clear).
-3. Pì 譬 is close in meaning to bǐ 比, but the word always refers to comparisons that are made linguistically explicit, and there is always one thing (typically something hard to understand) which is illustrated by something else that is much easier to understand. Syntactically, pì 譬 is special in that it standardly takes the object pronoun zhī 之.
+1. The standard word for lining up things for comparison is bǐ [[比]], and the comparison may be expressed in language or pure psychological. Any two things compared may often be of similar importance to the person who is doing the comparing.
+2. Yù [[喻]] is to illustrate a point by the rhetorical means of comparison (and thus make one's meaning clear).
+3. Pì [[譬]] is close in meaning to bǐ [[比]], but the word always refers to comparisons that are made linguistically explicit, and there is always one thing (typically something hard to understand) which is illustrated by something else that is much easier to understand. Syntactically, pì [[譬]] is special in that it standardly takes the object pronoun zhī [[之]].
 ## Modern Chinese Criteria
 對比 refers standardly to comparison between two items only.
 對照 focusses on contrastive comparison.

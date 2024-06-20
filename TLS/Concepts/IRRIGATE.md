@@ -13,12 +13,12 @@ och: 灌寖
 POUR WATER into FIELDS FOR CAUSING PLANTS TO FLOURISH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term refering to irrigation is guànjìn 灌寖.
-2. Guàn 灌 is a later general term for irrigation.
-3. Jiāo 澆 refers to irrigation with a small amount of water.
-4. Gài 溉 is the original general term refering to irrigation.
-5. Jìn 浸 refers to irrigation with a certain amount of water.
-6. Wò 沃 is another term meaning to irrigate.
+1. The current general term refering to irrigation is guànjìn [[灌寖]].
+2. Guàn [[灌]] is a later general term for irrigation.
+3. Jiāo [[澆]] refers to irrigation with a small amount of water.
+4. Gài [[溉]] is the original general term refering to irrigation.
+5. Jìn [[浸]] refers to irrigation with a certain amount of water.
+6. Wò [[沃]] is another term meaning to irrigate.
 ## Modern Chinese Criteria
 灌溉
 澆灌

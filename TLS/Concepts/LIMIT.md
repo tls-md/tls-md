@@ -20,12 +20,12 @@ och: 極
 MOMENT OR PLACE which DEFINES what is INSIDE AND what is OUTSIDE something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word for the extreme limit of anything, especially of abstract things, is jí 極.
-2. Jì 際 commonly refers to the interface between two realms of things.
-3. Yín 垠 refers to a distant limit on earth.
-4. Gāi 垓 is a rare and rarified word referring to cosmological limits.
-5. Yá 涯 and the etymologically related yá 崖 refer poetically to the limitations of things in time.
-6. Liàng 量 can refer abstractly to the fixed limit to something, for example the use of wine at meals.
+1. The most common word for the extreme limit of anything, especially of abstract things, is jí [[極]].
+2. Jì [[際]] commonly refers to the interface between two realms of things.
+3. Yín [[垠]] refers to a distant limit on earth.
+4. Gāi [[垓]] is a rare and rarified word referring to cosmological limits.
+5. Yá [[涯]] and the etymologically related yá [[崖]] refer poetically to the limitations of things in time.
+6. Liàng [[量]] can refer abstractly to the fixed limit to something, for example the use of wine at meals.
 ## Modern Chinese Criteria
 限度
 限

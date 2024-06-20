@@ -24,7 +24,7 @@ zh: 糞
 EXCREMENT USED FOR FERTILISING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term for manure as fertiliser is fèn 糞, hence also the current derived meaning "fertilise" of the word.
+1. The standard term for manure as fertiliser is fèn [[糞]], hence also the current derived meaning "fertilise" of the word.
 ## Modern Chinese Criteria
 糞
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

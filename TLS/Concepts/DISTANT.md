@@ -16,16 +16,16 @@ och: 遠
 RELATION between TWO THINGS that are NOT MUTUALLY NEAR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant term for distance in general is yuǎn 遠 (ant. jìn 近 "close").
-2. Shū 疏 (ant. qīn 親 "close") often refers to distance of relation in a more than purely physical sense.
-3. Yōu 悠 and jiǒng 迥 is a poetic word describing as distant something which one wishes was near.
-4. Liáo 遼 is a poetic referring to what is distant and remote in space and therefore an obscure place. Note liáo yuǎn 遼遠.
-5. Miǎo 邈 is a rare poetic word, and from the few usages we have it seems more frequently to refer to distance in time.
-6. Yáo 遙 is an elusive poetic word referring to a mystical distance, typically the distance into which one roams freely xiāo yáo 逍遙.
-7. Qù 去 can refer to concrete or abstract distance, and in the abstract case the distance is close in meaning to difference.
-8. Lí 離 in this sense is a purely geometrical terms that can sometimes refer to the distance of some object from another.
-9. Jué 絕 "cut-off, distant" is a fairly elevated way of referring to the remoteness of a region.
-10. Xiá 遐 (ant. ěr 邇 "close"), a distinctly rare and archaic word, describes something as not only distant, but also ethereal, remote and difficult of access.
+1. The clearly dominant term for distance in general is yuǎn [[遠]] (ant. jìn [[近]] "close").
+2. Shū [[疏]] (ant. qīn [[親]] "close") often refers to distance of relation in a more than purely physical sense.
+3. Yōu [[悠]] and jiǒng [[迥]] is a poetic word describing as distant something which one wishes was near.
+4. Liáo [[遼]] is a poetic referring to what is distant and remote in space and therefore an obscure place. Note liáo yuǎn [[遼遠]].
+5. Miǎo [[邈]] is a rare poetic word, and from the few usages we have it seems more frequently to refer to distance in time.
+6. Yáo [[遙]] is an elusive poetic word referring to a mystical distance, typically the distance into which one roams freely xiāo yáo [[逍遙]].
+7. Qù [[去]] can refer to concrete or abstract distance, and in the abstract case the distance is close in meaning to difference.
+8. Lí [[離]] in this sense is a purely geometrical terms that can sometimes refer to the distance of some object from another.
+9. Jué [[絕]] "cut-off, distant" is a fairly elevated way of referring to the remoteness of a region.
+10. Xiá [[遐]] (ant. ěr [[邇]] "close"), a distinctly rare and archaic word, describes something as not only distant, but also ethereal, remote and difficult of access.
 ## Modern Chinese Criteria
 遠
 遙

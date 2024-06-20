@@ -43,9 +43,9 @@ zh: 困難
 POSSIBLE BUT EVEN-IF TRIED ONLY ACHIEVED RARELY OR ONLY by USING BIG EFFORT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant word for anything that is hard to achieve or hard to sustain is nán 難 (ant. yì 易 "easy").
-2. Jiān 艱 refers to hardship and diffuculties, typically with respect to certain tasks.
-3. Jù 劇 "critical, virulent" sometimes has usages that come close to "troublesome, difficult".
+1. The clearly dominant word for anything that is hard to achieve or hard to sustain is nán [[難]] (ant. yì [[易]] "easy").
+2. Jiān [[艱]] refers to hardship and diffuculties, typically with respect to certain tasks.
+3. Jù [[劇]] "critical, virulent" sometimes has usages that come close to "troublesome, difficult".
 ## Modern Chinese Criteria
 困難
 艱難

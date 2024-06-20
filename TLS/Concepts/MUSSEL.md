@@ -8,11 +8,11 @@ och: 蚌
 AQUATIC ANIMAL LIVING INSIDE A SHELL. []
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Bàng 蚌 refers to the pearl-oyster. The word can be also used as a general term for mussels.
-2. Gé 蛤 to the clam of a round shape.
-3. Shèn 蜃 refers to a large clam.
-4. Pí 蜱 is one kind of clam.
-5. Hān 蚶 is a kind of clam living in a log on the bottom of shallow seas.
+1. Bàng [[蚌]] refers to the pearl-oyster. The word can be also used as a general term for mussels.
+2. Gé [[蛤]] to the clam of a round shape.
+3. Shèn [[蜃]] refers to a large clam.
+4. Pí [[蜱]] is one kind of clam.
+5. Hān [[蚶]] is a kind of clam living in a log on the bottom of shallow seas.
 ## Modern Chinese Criteria
 殼菜
 貽貝

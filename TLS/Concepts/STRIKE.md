@@ -33,14 +33,14 @@ och: 擊
 DISPLACE something VIOLENTLY TOWARDS something, OFTEN IN-ORDER-TO DAMAGE IT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for striking against anything is jī 擊. Compare the late dǎ 打 which remains exceedingly rare in pre-Buddhist times.
-2. Bó 搏, ōu 毆 refer to boxing someone or beating him up.
-3. Tà 撻 and zhuā 撾 refer to beating someone with sticks or whips.
-4. Chī 笞, chuí 捶 refer specifically to beating someone with a stick. See PUNISH
-5. Pū 扑 is to cane someone, often in a domestic context, and this is currently mentioned together with biān 鞭 "flaying".
-6. Qiāo 敲, chuāng 撞, and pī 批 refer to beating against a physical object of any kind. See KNOCK
-7. Pì 擗 refers specifically to beating one's breast.
-8. Biān 鞭 refers specifically to striking someone with a leather whip, typically by way of an official non-domestic punishment. See FLAY for other words with related meanings.
+1. The current general word for striking against anything is jī [[擊]]. Compare the late dǎ [[打]] which remains exceedingly rare in pre-Buddhist times.
+2. Bó [[搏]], ōu [[毆]] refer to boxing someone or beating him up.
+3. Tà [[撻]] and zhuā [[撾]] refer to beating someone with sticks or whips.
+4. Chī [[笞]], chuí [[捶]] refer specifically to beating someone with a stick. See PUNISH
+5. Pū [[扑]] is to cane someone, often in a domestic context, and this is currently mentioned together with biān [[鞭]] "flaying".
+6. Qiāo [[敲]], chuāng [[撞]], and pī [[批]] refer to beating against a physical object of any kind. See KNOCK
+7. Pì [[擗]] refers specifically to beating one's breast.
+8. Biān [[鞭]] refers specifically to striking someone with a leather whip, typically by way of an official non-domestic punishment. See FLAY for other words with related meanings.
 ## Modern Chinese Criteria
 撞
 擊

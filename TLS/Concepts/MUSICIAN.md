@@ -15,9 +15,9 @@ zh: 音樂家
 ARTIST PRODUCING MUSIC.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for female musical entertainers is nǚ yuè 女樂.
-2. Shī 師 (also expanded to refers to yuè shī 樂師 ) refers to a male music master whose competence is supposed to be practical as well as theoretical.
-3. Gǔ gōng 瞽工 is a colloquial word for a musician.
+1. The current word for female musical entertainers is nǚ yuè [[女樂]].
+2. Shī [[師]] (also expanded to refers to yuè shī [[樂師]] ) refers to a male music master whose competence is supposed to be practical as well as theoretical.
+3. Gǔ gōng [[瞽工]] is a colloquial word for a musician.
 ## 
 HUANG JINGUI 2006
 ART 4.

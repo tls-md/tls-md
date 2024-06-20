@@ -20,8 +20,8 @@ och: 穴
 A DEEP HOLE IN a SURFACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a hole with a cavity beneath it, natural or artificial, is xuè 穴.
-2. Kǒng 孔 refers to a small cavity or aperture.
+1. The general term for a hole with a cavity beneath it, natural or artificial, is xuè [[穴]].
+2. Kǒng [[孔]] refers to a small cavity or aperture.
 ## Modern Chinese Criteria
 洞
 孔

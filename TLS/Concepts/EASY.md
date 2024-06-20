@@ -28,9 +28,9 @@ och: 易／輕
 POSSIBLE AND IF TRIED OFTEN ACHIEVED LACKING:without EFFORT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for easiness of actions is yì 易 (ant. nán 難 "difficult").
-2. Qīng 輕 "light" is sometimes used to effortlessness of every kind.
-3. Líng 泠 is a poetic word referring to graceful effortless ease of movement.
+1. The current general word for easiness of actions is yì [[易]] (ant. nán [[難]] "difficult").
+2. Qīng [[輕]] "light" is sometimes used to effortlessness of every kind.
+3. Líng [[泠]] is a poetic word referring to graceful effortless ease of movement.
 ## Modern Chinese Criteria
 容易
 簡易

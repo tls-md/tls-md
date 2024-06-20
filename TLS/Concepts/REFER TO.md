@@ -7,7 +7,7 @@ zh: 指
 SPEAK OR ACT so as to CAUSE ONE TO HAVE:pay ATTENTION to something.
 # Criteria and general notes
 ## Old Chinese Criteria
-謂
+[[謂]]
 ## Modern Chinese Criteria
 指
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

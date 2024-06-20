@@ -21,12 +21,12 @@ och: 湖
 INTENSELY BIG ACCUMULATION OF WATER IN a LANDSCAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a lake of any shape or kind is hú 湖, but that term does exclude the ocean.
-2.. Yuān 淵 refers to a very deep pool.
-3. Zé 澤 refers to a large natural lake (and also to the marshy landscape around such a lake).
-4. Hǎi 海 can, from Han times onwards, come to refer to large lakes.
-5. Tán 潭 is a small but rather deep (typically natural) pool.
-8. Shǔ 藪 refers to a large shallow lake rich in water plants.
+1. The current general word for a lake of any shape or kind is hú [[湖]], but that term does exclude the ocean.
+2.. Yuān [[淵]] refers to a very deep pool.
+3. Zé [[澤]] refers to a large natural lake (and also to the marshy landscape around such a lake).
+4. Hǎi [[海]] can, from Han times onwards, come to refer to large lakes.
+5. Tán [[潭]] is a small but rather deep (typically natural) pool.
+8. Shǔ [[藪]] refers to a large shallow lake rich in water plants.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 10. 天然水池。

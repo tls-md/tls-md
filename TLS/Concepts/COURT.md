@@ -12,10 +12,10 @@ och: 庭
 PUBLIC-BUILDING in which the RULER ACTS:conducts GOVERNMENT. See also LAWCOURT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current dominant word for the royal court with its courtyard as a building complex is tíng 廷 / 庭, although the same word can also be used to refer to the courtyard as opposed to the main court building, i.e. the yard in front of the táng 堂. According to ZHENGZITONG, tíng 廷 / 庭 were originally unroofed, later they were covered with a roof. See also COURTYARD.
-2. Cháo 朝 refers to the court as the venue of court asemblies rather than as the building as such. See also TEMPLE
-3. Táng 堂 is sometimes used to refer specifically to the (typically elevated) main hall at court, but the word is more common as the general term for "main hall". It seems that táng 堂 served mainly ceremonial and since the Warring States also political purposes. From Han times táng 堂 in its original meaning was replaced by diàn 殿.
-4. Diàn 殿 is a Han time bureaucratic term for a large and high hall, often used for audiences, in the palace or in the temple. In this meaning the word came to use in the late Warring States, and in Han times replaced term táng 堂.
+1. The current dominant word for the royal court with its courtyard as a building complex is tíng [[廷]] / [[庭]], although the same word can also be used to refer to the courtyard as opposed to the main court building, i.e. the yard in front of the táng [[堂]]. According to ZHENGZITONG, tíng [[廷]] / [[庭]] were originally unroofed, later they were covered with a roof. See also COURTYARD.
+2. Cháo [[朝]] refers to the court as the venue of court asemblies rather than as the building as such. See also TEMPLE
+3. Táng [[堂]] is sometimes used to refer specifically to the (typically elevated) main hall at court, but the word is more common as the general term for "main hall". It seems that táng [[堂]] served mainly ceremonial and since the Warring States also political purposes. From Han times táng [[堂]] in its original meaning was replaced by diàn [[殿]].
+4. Diàn [[殿]] is a Han time bureaucratic term for a large and high hall, often used for audiences, in the palace or in the temple. In this meaning the word came to use in the late Warring States, and in Han times replaced term táng [[堂]].
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 3.

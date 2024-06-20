@@ -19,12 +19,12 @@ och: 臥
 REST INTENSELY so as to LACK AWARENESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Wò 臥 (ant. qǐ 起 "get up") is often used as a very general term referring to any form of sleep or rest whatsoever, but specifically the word does also refer to taking a brief nap, typically leaning on an object like a low table.
-2. Mèi 寐 (ant. jué 覺 "wake up") is to fall fast asleep.
-3. Qǐn 寢 (ant. xǐng 醒 "be wide awake") is to go to bed (typically in a designated bedroom) in order to rest or sleep, and the word does not indicate to what extent one actually does fall asleep or merely rests.
-4. Mián 眠 refers to the action of closing one's eyes in order to fall asleep anywhere, at any time, and in any position.
-5. Shuì 睡 (ant. wù 悟 "wake up") refers specifically to falling asleep, typically not in bed, and for a short time, in ancient Chinese.
-6. Zhé 蟄 is to hibernate.
+1. Wò [[臥]] (ant. qǐ [[起]] "get up") is often used as a very general term referring to any form of sleep or rest whatsoever, but specifically the word does also refer to taking a brief nap, typically leaning on an object like a low table.
+2. Mèi [[寐]] (ant. jué [[覺]] "wake up") is to fall fast asleep.
+3. Qǐn [[寢]] (ant. xǐng [[醒]] "be wide awake") is to go to bed (typically in a designated bedroom) in order to rest or sleep, and the word does not indicate to what extent one actually does fall asleep or merely rests.
+4. Mián [[眠]] refers to the action of closing one's eyes in order to fall asleep anywhere, at any time, and in any position.
+5. Shuì [[睡]] (ant. wù [[悟]] "wake up") refers specifically to falling asleep, typically not in bed, and for a short time, in ancient Chinese.
+6. Zhé [[蟄]] is to hibernate.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 47.

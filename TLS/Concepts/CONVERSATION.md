@@ -7,8 +7,8 @@ zh: 聊天
 FREE AND NOT OFFICIAL DIALOGUE AMONG FRIENDS, TYPICALLY ABOUT IMORTANT QUESTIONS OF COMMON INTEREST.
 # Criteria and general notes
 ## Old Chinese Criteria
-[[[ 語 in 論語 is the relevant term. 世說新語 is a most relevant record.
-But 語錄 are predominantly records of sayings rather than dialogues.
+[[[ [[語]] in [[論語]] is the relevant term. [[世說新語]] is a most relevant record.
+But [[語錄]] are predominantly records of sayings rather than dialogues.
 Records of inconsequential small-talk must be distinguished. They are certainly prominent in Ming literature, but not so much in evidence before. They are richly represented in Plato's dialogues.
 Cf. sermo convivialis]]]
 # Ontology

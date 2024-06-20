@@ -12,9 +12,9 @@ zh: 祝酒
 DRINK TOGETHER with OTHERS AND SAY that one CONGRATULATES someone OR CELEBRATES SOMETHING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The host offering a first toast to his guest is xiàn 獻 (xiàn jiǔ 獻酒 ) "offer a toast to the guest".
-2. The guest toasting back at a feast is zuò 醋 / 酢 "offer a toast back to the host".
-3. The host responding to the guest's toast is chóu 酬 "toast back to the guest".
+1. The host offering a first toast to his guest is xiàn [[獻]] (xiàn jiǔ [[獻酒]] ) "offer a toast to the guest".
+2. The guest toasting back at a feast is zuò [[醋]] / [[酢]] "offer a toast back to the host".
+3. The host responding to the guest's toast is chóu [[酬]] "toast back to the guest".
 ## 
 HUANG JINGUI 2006
 FOOD 5.

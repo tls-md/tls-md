@@ -21,7 +21,7 @@ ENDURINGLY BELIEVE something that is NOT TRUE to be TRUE OR IMAGINE SOMETHING as
 ENDURINGLY IMAGINED to be REAL WHEN IT is NOT REAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-This concept was elaborated in Buddhism, but transferred uses of words like xū 虛 "empty, illusory" do perhaps convey the meaning in pre-Buddhist Chinese.
+This concept was elaborated in Buddhism, but transferred uses of words like xū [[虛]] "empty, illusory" do perhaps convey the meaning in pre-Buddhist Chinese.
 ## Modern Chinese Criteria
 幻想
 空想

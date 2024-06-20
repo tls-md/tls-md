@@ -16,11 +16,11 @@ och: 喪
 GRIEF RITUALLY SHOWN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word is sāng 喪 which embraces all phases and aspects of complex process of mourning in ancient China.
-2. Diào 弔 / 吊 (ant. qìng 慶 "congratulate") is to publicly express one's sorrow on the occasion of the death of someone outside one's own immedidate family.
-3. Dào 悼 is to publicly bemoan any major disaster regarding a person, including serious disease or serious accidents.
-4. Kū 哭 (ant. xiào 笑 "laugh with joy") is often used as a generalised verb referring to participation in all sorts of mourning rituals and activities.
-5. Āi 哀 refers to engaging in mourning primarily for a near relative, but the word also has common extending meanings where it extends to any kind of grief. See GRIEF.
+1. The most general current word is sāng [[喪]] which embraces all phases and aspects of complex process of mourning in ancient China.
+2. Diào [[弔]] / [[吊]] (ant. qìng [[慶]] "congratulate") is to publicly express one's sorrow on the occasion of the death of someone outside one's own immedidate family.
+3. Dào [[悼]] is to publicly bemoan any major disaster regarding a person, including serious disease or serious accidents.
+4. Kū [[哭]] (ant. xiào [[笑]] "laugh with joy") is often used as a generalised verb referring to participation in all sorts of mourning rituals and activities.
+5. Āi [[哀]] refers to engaging in mourning primarily for a near relative, but the word also has common extending meanings where it extends to any kind of grief. See GRIEF.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 56. 悼念死者。

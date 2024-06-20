@@ -8,11 +8,11 @@ och: 足／趾
 MOST LOW HORIZONTAL PART of the LEG.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a foot is zú 足.
-2. Zhǐ 趾／止 is an archaic word for the foot.
-3. Fán 蹯／膰 refers to the paws of predatory animals.
-4. Zhí 跖 (to be distinguished from the also anciently homophonous zhí 蹠 "jump over") is a (probably colloquial) exceedingly rare word for the sole of a foot.
-5. Jiǎo 腳 is exceedingly rare in pre-Buddhist times.
+1. The general word for a foot is zú [[足]].
+2. Zhǐ [[趾]]／[[止]] is an archaic word for the foot.
+3. Fán [[蹯]]／[[膰]] refers to the paws of predatory animals.
+4. Zhí [[跖]] (to be distinguished from the also anciently homophonous zhí [[蹠]] "jump over") is a (probably colloquial) exceedingly rare word for the sole of a foot.
+5. Jiǎo [[腳]] is exceedingly rare in pre-Buddhist times.
 ## 
 HUANG JINGUI 2006
 BODY 39.

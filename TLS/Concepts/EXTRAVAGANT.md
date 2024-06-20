@@ -16,12 +16,12 @@ och: 奢
 WASTE:wasteful so as to OFTEN EXCESSIVELY USE PROPERTY OR MONEY FOR AMUSEMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Sh1ē 奢 (ant. jiǎn 儉 "parsimonious") is excessive conspicuous consumption or use of money for one's private purposes, with or without demonstrative large scale extravagance, and the word is not necessarily pejorative.
-2. Chǐ 侈 (ant. jié 節 "moderate in the use of resources") always refers to manifestly reprehensible extravagance with no connotation of laudable generosity.
-3. Mǐ 靡 (ant. jiǎn 簡 "unextravagant") is pointless and wasteful luxuriousness, and the term is always strongly pejorative.
-4. Huá 華 is purely demonstrative conspicuous and aesthetically elaborate consumption.
-5. Tài 泰 (ant. yuē 約 "restrained in the use of resources") is grandiose and demonstrative extravagance.
-6. Yín 淫 can come to refer to extravagance as a symptom of general indulgence.
+1. Sh1ē [[奢]] (ant. jiǎn [[儉]] "parsimonious") is excessive conspicuous consumption or use of money for one's private purposes, with or without demonstrative large scale extravagance, and the word is not necessarily pejorative.
+2. Chǐ [[侈]] (ant. jié [[節]] "moderate in the use of resources") always refers to manifestly reprehensible extravagance with no connotation of laudable generosity.
+3. Mǐ [[靡]] (ant. jiǎn [[簡]] "unextravagant") is pointless and wasteful luxuriousness, and the term is always strongly pejorative.
+4. Huá [[華]] is purely demonstrative conspicuous and aesthetically elaborate consumption.
+5. Tài [[泰]] (ant. yuē [[約]] "restrained in the use of resources") is grandiose and demonstrative extravagance.
+6. Yín [[淫]] can come to refer to extravagance as a symptom of general indulgence.
 ## Modern Chinese Criteria
 奢侈
 奢華

@@ -19,10 +19,10 @@ zh: 靈魂
 MIND:mental/psychological ORGAN OF THE HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shén 神 is primarily a subtle physical substance which gives man his spiritual dimension (ant. xíng 形 "body")) and the body xíngtǐ 形體 is the abode shè 舍 of the soul..
-2. Líng 靈 (ant. qū 軀 "body") is a spiritual part of man which links him to the higher religious realm of the spirits.
-3. Jīng 精 "spiritual subtle substance" is the seminal supremely subtle material substance that gives man his spiritual energies.
-4. Hún 魂 "male soul which returns to Heaven at death" and pò 魄 "female soul which returns to Earth at death" (all ant. xíng 形 "body") inhabit man in the general mode of spiritual possession.
+1. Shén [[神]] is primarily a subtle physical substance which gives man his spiritual dimension (ant. xíng [[形]] "body")) and the body xíngtǐ [[形體]] is the abode shè [[舍]] of the soul..
+2. Líng [[靈]] (ant. qū [[軀]] "body") is a spiritual part of man which links him to the higher religious realm of the spirits.
+3. Jīng [[精]] "spiritual subtle substance" is the seminal supremely subtle material substance that gives man his spiritual energies.
+4. Hún [[魂]] "male soul which returns to Heaven at death" and pò [[魄]] "female soul which returns to Earth at death" (all ant. xíng [[形]] "body") inhabit man in the general mode of spiritual possession.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 21. 人的精神、靈魂。

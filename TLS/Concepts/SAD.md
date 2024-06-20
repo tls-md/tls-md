@@ -36,16 +36,16 @@ DISTRESS ARISING from BAD THOUGHTS NOW IN ONE'S MIND which CAUSE one to LACK DEL
 NB: The words I have chosen to include in this group pose special problems of contrastive analysis. There is something irretrievably diffuse about their usage, in many cases, and in many others the number of relevant examples in the early literature is so small that it is impossible to get anything like a firm grip on their precise semantics. Under these circumstances I have tried to compensate for lack of neat analysis with more quotation, especially from Chǔcí. Throughout this section I quote my teacher David Hawkes' translations, mindful of the fact that many of these were written in the third year of his study of Chinese...
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for sadness of any kind is bēi 悲 (ant. huān 歡 "joyful" and xǐ 喜 "delighted").
-2. Yōu 悠 refers to a pensive listlessness, a wistful kind of sadness.
-3. Qī 悽 (ant. lè 樂 "feel acute profound joy") refers to acute profound unhappiness.
-4. Yù 鬱 (ant. xīn 欣 "in high spirits") refers to largely endogenic sadness or depression.
-5. Shāng 傷 (ant. yuè 悅 "be pleased") refers to sadness caused by identifiable external conditions.
-6. Cǎn 慘／憯 refers poetically to a kind of despondency.
-7. Mǐn 閔 / 憫 is a very poetic word which typically refers to a kind of sadness that has external causes and can be close to compassion.
-8. Chóu 愁 refers to an internalised sadness one is reluctant to show openly.
-9. Qī 戚 / 慽 is an archaising elevated word for sadness that is common in poetry.
-10. Qī chuàng 悽愴 refers to sadness typically associated with regret or even remorse.
+1. The general word for sadness of any kind is bēi [[悲]] (ant. huān [[歡]] "joyful" and xǐ [[喜]] "delighted").
+2. Yōu [[悠]] refers to a pensive listlessness, a wistful kind of sadness.
+3. Qī [[悽]] (ant. lè [[樂]] "feel acute profound joy") refers to acute profound unhappiness.
+4. Yù [[鬱]] (ant. xīn [[欣]] "in high spirits") refers to largely endogenic sadness or depression.
+5. Shāng [[傷]] (ant. yuè [[悅]] "be pleased") refers to sadness caused by identifiable external conditions.
+6. Cǎn [[慘]]／[[憯]] refers poetically to a kind of despondency.
+7. Mǐn [[閔]] / [[憫]] is a very poetic word which typically refers to a kind of sadness that has external causes and can be close to compassion.
+8. Chóu [[愁]] refers to an internalised sadness one is reluctant to show openly.
+9. Qī [[戚]] / [[慽]] is an archaising elevated word for sadness that is common in poetry.
+10. Qī chuàng [[悽愴]] refers to sadness typically associated with regret or even remorse.
 NB: The vocabulary of sadness in Chinese poses very special problems because it is to huge: in many cases I am quite unable to determine the exact nuances. This subject requires a special monograph.
 ## Modern Chinese Criteria
 悲痛 is a current word for intense sadness.

@@ -33,11 +33,11 @@ och: 堅
 STRONG so that one CAN NOT CHANGE its SHAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for internal inherent solidity is jiān 堅 (ant. cuì 脆 "brittle"), and the standard word for external firmness, sturdiness and immobility is gù 固.
-2. Gāng 剛 (ant. róu 柔 "pliable") focusses on physical hardness as the core of inflexibility and firmness, and the word has related figurative meanings, with both positive and negative connotations.
-3. Zhuàng 壯 and jìng 勁 (all ant. ruò 弱 "weak") add the notion of engergy and vigour to that of firmness.
+1. The standard word for internal inherent solidity is jiān [[堅]] (ant. cuì [[脆]] "brittle"), and the standard word for external firmness, sturdiness and immobility is gù [[固]].
+2. Gāng [[剛]] (ant. róu [[柔]] "pliable") focusses on physical hardness as the core of inflexibility and firmness, and the word has related figurative meanings, with both positive and negative connotations.
+3. Zhuàng [[壯]] and jìng [[勁]] (all ant. ruò [[弱]] "weak") add the notion of engergy and vigour to that of firmness.
 See STRONG.
-NP: Yìng 硬 (ant. ruǎn 軟 "soft") is a post-Han word.
+NP: Yìng [[硬]] (ant. ruǎn [[軟]] "soft") is a post-Han word.
 ## Modern Chinese Criteria
 硬
 堅

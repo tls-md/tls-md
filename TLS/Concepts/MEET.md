@@ -18,11 +18,11 @@ och: 遇／見
 ENCOUNTER HUMANS, OFTEN VOLUNTARILY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for meeting someone by coincidence is yù 遇, and going to meet someone is jiàn 見.
-2. Huì 會 refers to an arranged meeting, usually between more than two persons.
-3. Zāo 遭 refers to being exposed to something or running into someone, and the focus is on the fact that the encounter is generally hostile ( 遭宋司馬，將要而殺之 "ran into the Marshal of Sòng and wanted to kill him").
-4. Féng 逢 seems to be a dialect word for encountering something, but in early times this word has a much more limited range of syntactic functions, while from Han times it tended to replace yù 遇 as the standard word for encountering a person, later to be replaced in colloquial Chinese by its cognate pèng 碰.
-5. Chù 觸 is occasionally used to refer to someone bumping into someone else.
+1. The current general word for meeting someone by coincidence is yù [[遇]], and going to meet someone is jiàn [[見]].
+2. Huì [[會]] refers to an arranged meeting, usually between more than two persons.
+3. Zāo [[遭]] refers to being exposed to something or running into someone, and the focus is on the fact that the encounter is generally hostile ( [[遭宋司馬]]，[[將要而殺之]] "ran into the Marshal of Sòng and wanted to kill him").
+4. Féng [[逢]] seems to be a dialect word for encountering something, but in early times this word has a much more limited range of syntactic functions, while from Han times it tended to replace yù [[遇]] as the standard word for encountering a person, later to be replaced in colloquial Chinese by its cognate pèng [[碰]].
+5. Chù [[觸]] is occasionally used to refer to someone bumping into someone else.
 ## Modern Chinese Criteria
 相遇
 相逢

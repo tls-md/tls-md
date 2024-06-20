@@ -22,10 +22,10 @@ och: 禦/御
 HINDER someone who ATTACKS so as to CAUSE him TO LEAVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for keeping someone or something at a distance or hindering an advance against one is yù 禦 / 御.
-2. Jù 拒 concentrates on the maintenance of physical distance by some superior force.
-3. Dǐ 抵 refers to a defensive way of preventing something from getting close to one.
-4. Kàng 抗 refers to keeping something at a distance by force.
+1. The current general word for keeping someone or something at a distance or hindering an advance against one is yù [[禦]] / [[御]].
+2. Jù [[拒]] concentrates on the maintenance of physical distance by some superior force.
+3. Dǐ [[抵]] refers to a defensive way of preventing something from getting close to one.
+4. Kàng [[抗]] refers to keeping something at a distance by force.
 ## Modern Chinese Criteria
 抗拒
 抗

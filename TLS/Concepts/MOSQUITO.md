@@ -8,10 +8,10 @@ och: 蚊
 COMMON SMALL INSECT which STINGS AND SUCKS BLOOD FROM HUMANS AND ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Common general term refering to mosquitos is wén 蚊.
-2. Ruì 蚋 refers to a gnat.
-3. Mí 蠓 refers to midges.
-4. Hūn chóng 昏虫 "dusk insects" is another term for mosquitos.
+1. Common general term refering to mosquitos is wén [[蚊]].
+2. Ruì [[蚋]] refers to a gnat.
+3. Mí [[蠓]] refers to midges.
+4. Hūn chóng [[昏虫]] "dusk insects" is another term for mosquitos.
 ## 
 HUANG JINGUI 2006
 ANIMALS 23. 蚊，蚊子總稱。蚋，酒蚊子；又指蚋科微小蠅類，雌蟲白天吸血。

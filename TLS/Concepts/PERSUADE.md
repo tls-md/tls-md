@@ -28,10 +28,10 @@ och: 說(shui4)
 ADVISE so as to CAUSE someone to CHANGE his/her BELIEF OR TO DECIDE to ACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general words for persuasion are shuì 說 "persuade of a point of view or a course of action" versus quàn 勸 "persuade someone to engage in a certain course of action he or she was not originally planning to enage in".
-2. Jiàn 諫 refers specifically to remonstration or dissuasion of a superior. See REMONSTRATE.
-3. Fěng 諷 refers to persuasion of a superior by subtle indirect means.
-NB: Practical "persuasion" of the quàn 勸 kind differs from quàn 勸 "to encourage" in that it contains a clear element of intellectual persuasion that it is right to do what one is encouraging someone to do.
+1. The current general words for persuasion are shuì [[說]] "persuade of a point of view or a course of action" versus quàn [[勸]] "persuade someone to engage in a certain course of action he or she was not originally planning to enage in".
+2. Jiàn [[諫]] refers specifically to remonstration or dissuasion of a superior. See REMONSTRATE.
+3. Fěng [[諷]] refers to persuasion of a superior by subtle indirect means.
+NB: Practical "persuasion" of the quàn [[勸]] kind differs from quàn [[勸]] "to encourage" in that it contains a clear element of intellectual persuasion that it is right to do what one is encouraging someone to do.
 ## Modern Chinese Criteria
 說服 refers to primarily intellectual persuasion.
 勸說 refers to primarily practical persuasion, sometimes in the form of argumentative encouragement.

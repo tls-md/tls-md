@@ -23,8 +23,8 @@ och: 改
 CAUSE TO BECOME MORE GOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for changing something for the better is gǎi 改.
-2. Fù 復 is to improve something so as to restore it to its original shape.
+1. The standard word for changing something for the better is gǎi [[改]].
+2. Fù [[復]] is to improve something so as to restore it to its original shape.
 ## Modern Chinese Criteria
 好轉
 改善

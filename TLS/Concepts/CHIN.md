@@ -9,9 +9,9 @@ och: 頤
 MOST LOW PART of the FACE BELOW the MOUTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and the most general word for the lower part of the face is yí 頤, but the word does include the cheeks. See CHEEK.
-2. Hàn 頷 is used to refer to the jaw of a dragon, but the word is rare in ancient texts and hard to fix semantically with any precision.
-3. Hǎi 頦 is post-Buddhist (TANG) colloquial.
+1. The most current and the most general word for the lower part of the face is yí [[頤]], but the word does include the cheeks. See CHEEK.
+2. Hàn [[頷]] is used to refer to the jaw of a dragon, but the word is rare in ancient texts and hard to fix semantically with any precision.
+3. Hǎi [[頦]] is post-Buddhist (TANG) colloquial.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 38. 下巴。

@@ -13,9 +13,9 @@ och: 迎
 ACT so as to SHOW that one DELIGHTS in someone's ARRIVING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for welcoming someone is yíng 迎 (ant. bèi 背 "turn one's back on" and zhú 逐 "drive away").
-2. Nì 逆 is a dialect variant for yíng 迎 and is typically used for welcoming brides into a family, but in later times the word came to be used predominantly in the meaning "to oppose".
-3. Yà 迓 refers to a special effort to go to meet someone in oder to entice him to come.
+1. The current general word for welcoming someone is yíng [[迎]] (ant. bèi [[背]] "turn one's back on" and zhú [[逐]] "drive away").
+2. Nì [[逆]] is a dialect variant for yíng [[迎]] and is typically used for welcoming brides into a family, but in later times the word came to be used predominantly in the meaning "to oppose".
+3. Yà [[迓]] refers to a special effort to go to meet someone in oder to entice him to come.
 ## Modern Chinese Criteria
 迎接 is the current modern word for welcoming someone.
 迎迓 (lit) refers to a formal welcome.

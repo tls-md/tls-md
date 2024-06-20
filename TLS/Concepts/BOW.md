@@ -11,13 +11,13 @@ WEAPON one USES to SHOOT ARROWS with.
 # Criteria and general notes
 ## Old Chinese Criteria
 [CONGERIES]
-1. The current general word for the bow is gōng 弓, and it must be remembered that in early times the bow was used not only to shoot arrows but also mud pellets and the like.
-2. Nǔ 弩 refers specifically to the crossbow which became current in Warring States times.
-3. Hú 弧 refers specifically to an ancient "primitive" bow.
-4. Dǐ 弤 refers to a beautifully crafted lacquered bow, and it is the rare name of the legendary emperor Shùn's 舜 mythical bow.
+1. The current general word for the bow is gōng [[弓]], and it must be remembered that in early times the bow was used not only to shoot arrows but also mud pellets and the like.
+2. Nǔ [[弩]] refers specifically to the crossbow which became current in Warring States times.
+3. Hú [[弧]] refers specifically to an ancient "primitive" bow.
+4. Dǐ [[弤]] refers to a beautifully crafted lacquered bow, and it is the rare name of the legendary emperor Shùn's [[舜]] mythical bow.
 NB: The following are late words relevant to this group:
-5. Chāo 弨 refers to an unstrung bow.
-6.Shāo 弰 refers to the end of a bow.
+5. Chāo [[弨]] refers to an unstrung bow.
+6.Shāo [[弰]] refers to the end of a bow.
 ## 
 HUANG JINGUI 2006
 WARFARE 12. 彈射兵器。

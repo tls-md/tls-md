@@ -18,13 +18,13 @@ och: 蓋
 INTENSELY POSSIBLE AND EXPECTED to be TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word for probability is the particle gài 蓋／盍 (ant.* bì 必 "certainly, undoubtedly"), which emphasises that a statement is not based on direct objective evidence.
-2. Qí 其 indicates that a statement must be true, for everything one knows, but could conceivably be false.
-3. The final particle yún 云 is used in historical sources to indicate that something is not based on direct historical evidence but on hearsay or secondary sources only.
-4. Yì 意 and yì zh3ě 意者 emphasise that a statement is a mere matter of subjective surmising.
-5. Kě 可 (ant. bì 必 "certainly, undoubtedly") is occasionally used to refer to something being only possibly, not necessarily, the case.
-6. Hào 好 refers to a proneness to do something, typically something one is not supposed to be prone to do.
-7. Shàn 善 refers generally to any proneness or tendency to do something.
+1. The general current word for probability is the particle gài [[蓋]]／[[盍]] (ant.* bì [[必]] "certainly, undoubtedly"), which emphasises that a statement is not based on direct objective evidence.
+2. Qí [[其]] indicates that a statement must be true, for everything one knows, but could conceivably be false.
+3. The final particle yún [[云]] is used in historical sources to indicate that something is not based on direct historical evidence but on hearsay or secondary sources only.
+4. Yì [[意]] and yì zh3ě [[意者]] emphasise that a statement is a mere matter of subjective surmising.
+5. Kě [[可]] (ant. bì [[必]] "certainly, undoubtedly") is occasionally used to refer to something being only possibly, not necessarily, the case.
+6. Hào [[好]] refers to a proneness to do something, typically something one is not supposed to be prone to do.
+7. Shàn [[善]] refers generally to any proneness or tendency to do something.
 ## Modern Chinese Criteria
 大概
 大略

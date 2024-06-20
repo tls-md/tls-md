@@ -8,9 +8,9 @@ och: 皮
 The COMPLEX BODY TISSUE which WRAPS the WHOLE BODY of HUMANS AND ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word is pí 皮 which refers to all aspects of the skin, typically skin of animals with its natural fur.
-2. The word fú 膚 refers primarily to human skin, and the surface as such, the surface including the tissue below is jī 肌 (and pí 皮 in its non-general specific use).
-3. Gé 革 refers to animal hide. See LEATHER
+1. The general word is pí [[皮]] which refers to all aspects of the skin, typically skin of animals with its natural fur.
+2. The word fú [[膚]] refers primarily to human skin, and the surface as such, the surface including the tissue below is jī [[肌]] (and pí [[皮]] in its non-general specific use).
+3. Gé [[革]] refers to animal hide. See LEATHER
 ## 
 HUANG JINGUI 2006
 BODY 27.

@@ -43,10 +43,10 @@ och: 走
 WALK USING JUMPING STEPS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for running is zǒu 走 (ant. bù 步 "go along without running").
-2. Bēn 奔 refers to running fast, often in order to avoid a dangerous situation. See also FLEE.
-3. Bèn 奔 refers to running fast in order to avoid a dangerous situation, and in a certain direction, particularly in order to seek refuge. See FLEE
-NB: Pǎo 跑 is post-Han (TANG).
+1. The current general word for running is zǒu [[走]] (ant. bù [[步]] "go along without running").
+2. Bēn [[奔]] refers to running fast, often in order to avoid a dangerous situation. See also FLEE.
+3. Bèn [[奔]] refers to running fast in order to avoid a dangerous situation, and in a certain direction, particularly in order to seek refuge. See FLEE
+NB: Pǎo [[跑]] is post-Han (TANG).
 ## Modern Chinese Criteria
 奔波 / 奔忙 / 奔走
 跑

@@ -8,8 +8,8 @@ och: 虱
 SMALL INSECT which LEAPS and which SUCKS BLOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. A general term for parasites of various kind including a flea is shī 虱.
-2. Zǎo 蚤 refers specifically to the flea.
+1. A general term for parasites of various kind including a flea is shī [[虱]].
+2. Zǎo [[蚤]] refers specifically to the flea.
 ## Modern Chinese Criteria
 虱
 虱子

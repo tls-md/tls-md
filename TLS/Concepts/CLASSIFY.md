@@ -27,8 +27,8 @@ och: 類
 SAY OR THINK that something to be of a certain CATEGORY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for classifying something is lèi 類.
-2. Guī 歸 is occasionally used for things being classified as belonging to a certain class.
+1. The general term for classifying something is lèi [[類]].
+2. Guī [[歸]] is occasionally used for things being classified as belonging to a certain class.
 ## Modern Chinese Criteria
 分類 is the current modern word for establishing a classification.
 歸納 is the current modern word for subsuming under a classification.

@@ -8,8 +8,8 @@ och: 木
 INTENSELY LARGE COMMON PLANT [BIOLOGY].
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for a tree is mù 木. In Shang times times this word was a count noun for trees, later it also referred to felled trees and in particular to timber as a material. Thus in Warring States times the special feature of this word is that it is a mass noun as well as a count noun.
-2. Shù 樹 "tree" derives etymologically from the verb shù 樹 "to plant", and then came to mean, by extension "what is planted". The word always functions as a count noun.
+1. The current word for a tree is mù [[木]]. In Shang times times this word was a count noun for trees, later it also referred to felled trees and in particular to timber as a material. Thus in Warring States times the special feature of this word is that it is a mass noun as well as a count noun.
+2. Shù [[樹]] "tree" derives etymologically from the verb shù [[樹]] "to plant", and then came to mean, by extension "what is planted". The word always functions as a count noun.
 ## Modern Chinese Criteria
 樹木
 樹

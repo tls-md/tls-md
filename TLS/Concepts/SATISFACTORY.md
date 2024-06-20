@@ -32,9 +32,9 @@ och: 適
 CONFORM to the NEEDS of.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word referring to something satisfying conditions or demands one might make on it is shì 適 (ant. guāi 乖 "go against")
-2. Zú 足 can occasionally come to refer to the feeling that something is satisfactory.
-3. Qiè 愜 (ant. qiǎn 慊 "be dissatisfied with") is a rare and elevated word describing subjective feelings of intense satisfaction. See DELIGHT
+1. The current general word referring to something satisfying conditions or demands one might make on it is shì [[適]] (ant. guāi [[乖]] "go against")
+2. Zú [[足]] can occasionally come to refer to the feeling that something is satisfactory.
+3. Qiè [[愜]] (ant. qiǎn [[慊]] "be dissatisfied with") is a rare and elevated word describing subjective feelings of intense satisfaction. See DELIGHT
 ## Modern Chinese Criteria
 滿足
 滿意

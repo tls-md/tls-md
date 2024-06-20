@@ -12,8 +12,8 @@ zh: 尾巴
 BODY PART RESEMBLING a ROPE which HANGS FROM ABOVE the ANUS of an ANIMAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a tail of any animal, including birds, is wěi 尾.
-2. Máo 旄 can refer specifically to the tail of a bovine.
+1. The general word for a tail of any animal, including birds, is wěi [[尾]].
+2. Máo [[旄]] can refer specifically to the tail of a bovine.
 ## Modern Chinese Criteria
 尾
 尾巴

@@ -18,11 +18,11 @@ LACKING REFER-TO:reference to CONCRETE THINGS.
 ## Old Chinese Criteria
 [COMMENDATORY/DEROGATORY]
 [EXPLICIT/IMPLICIT]
-1. Xū 虛 derives its sense from the meaning "physically insubstantial" and refers negatively to something having only tenuous links with concrete things.
+1. Xū [[虛]] derives its sense from the meaning "physically insubstantial" and refers negatively to something having only tenuous links with concrete things.
 [EXPLICIT]
-2. Wēi 微 derives its sense from the meaning "slight; tenuous" refers to something being so subtle and only indirectly suggestive as to have no direct manifest reference to any concrete reality or meaning.
+2. Wēi [[微]] derives its sense from the meaning "slight; tenuous" refers to something being so subtle and only indirectly suggestive as to have no direct manifest reference to any concrete reality or meaning.
 [IMPLICIT]
-3. Kōng 空 derives from the meaning "physically empty (space)" and refers to something being empty in a transferred sense so as to have no manifest reference to concrete reality.
+3. Kōng [[空]] derives from the meaning "physically empty (space)" and refers to something being empty in a transferred sense so as to have no manifest reference to concrete reality.
 [DEROGATORY], [EXPLICIT]
 ## Modern Chinese Criteria
 抽象

@@ -9,8 +9,8 @@ och: 蛙
 GREEN OR BROWN AQUATIC ANIMAL which has LONG LEGS AND CAN JUMP. [RANA]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. General term for a frog is wā 蛙.
-2. Měng 黽 is a specific term for one kind of a frog.
+1. General term for a frog is wā [[蛙]].
+2. Měng [[黽]] is a specific term for one kind of a frog.
 ## Modern Chinese Criteria
 蛙
 青蛙

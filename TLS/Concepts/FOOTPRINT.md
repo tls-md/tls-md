@@ -7,9 +7,9 @@ zh: 足跡
 TRACE PRODUCED by a FOOT ON a SURFACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a footprint or even more abstractly of a trace left is jī 跡, which should be written with rad. 162.
-2. Wǔ 武 refers to the footprint as a standard of length.
-3. Zōng 蹤 refers literally to footprints.
+1. The standard word for a footprint or even more abstractly of a trace left is jī [[跡]], which should be written with rad. 162.
+2. Wǔ [[武]] refers to the footprint as a standard of length.
+3. Zōng [[蹤]] refers literally to footprints.
 ## Modern Chinese Criteria
 蹤跡
 蹤

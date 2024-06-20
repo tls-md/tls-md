@@ -12,8 +12,8 @@ zh: 經典
 DOCUMENT of INTENSELY BIG AUTHORITY, TYPICALLY USED in EDUCATION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The pre-Han general term which became culturally crucial in Han times is jīng 經 (opp. zhuàn 傳 "commentary, tradition attached to classic") which can refer to any canonised codified "classical" text.
-2. Diǎn 典 is highly archaic and begins to be obsolete by Warring States times though the word did survive as a deliberate archaism.
+1. The pre-Han general term which became culturally crucial in Han times is jīng [[經]] (opp. zhuàn [[傳]] "commentary, tradition attached to classic") which can refer to any canonised codified "classical" text.
+2. Diǎn [[典]] is highly archaic and begins to be obsolete by Warring States times though the word did survive as a deliberate archaism.
 See also DECREE and LAW
 ## 
 HUANG JINGUI 2006

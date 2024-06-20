@@ -10,15 +10,15 @@ CREATURE ABLE to FEEL AND MOVE.
 [ARCHAIC/CURRENT]
 [[COMMON/RARE]]
 [TECHNICAL-TERM/CURRENT-WORD]
-1. Chóng 蟲 is sometimes referred to animals of any kind, and not only to insect-like creatures.
+1. Chóng [[蟲]] is sometimes referred to animals of any kind, and not only to insect-like creatures.
 [GENERAL]
-2. The current general word for an animal of any kind would appear to be qín shòu 禽獸, although this word definitely excludes snails, insects, snakes and the like.
+2. The current general word for an animal of any kind would appear to be qín shòu [[禽獸]], although this word definitely excludes snails, insects, snakes and the like.
 [CURRENT], [GENERAL]
-3. Niǎo shòu 鳥獸 refers specifically to all birds and beasts.
+3. Niǎo shòu [[鳥獸]] refers specifically to all birds and beasts.
 [SPECIFIC]
-4. Wù 物 is sometimes used to refer to what in Christian parlance are "creatures" of any kind. See CREATURE
+4. Wù [[物]] is sometimes used to refer to what in Christian parlance are "creatures" of any kind. See CREATURE
 [ARCHAIC?], [GENERAL]; [[RARE]]
-5. Dòng wù 動物 refers quite generally to all animals as opposed to plants and inanimate creatures, but the word is really a technical term and is rarely used.
+5. Dòng wù [[動物]] refers quite generally to all animals as opposed to plants and inanimate creatures, but the word is really a technical term and is rarely used.
 [GENERAL], [TECHNICAL]; [[RARE]]
 ## Modern Chinese Criteria
 生物

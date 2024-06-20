@@ -8,8 +8,8 @@ och: 蹄
 HARD BOTTOM of the FOOT of HORSES ETC..
 # Criteria and general notes
 ## Old Chinese Criteria
-1.Tí 蹄 is the most current general term refering to a hoof.
-2. Dí 蹢 is a rare general word for a hoof.
+1.Tí [[蹄]] is the most current general term refering to a hoof.
+2. Dí [[蹢]] is a rare general word for a hoof.
 ## Modern Chinese Criteria
 蹄子
 蹄

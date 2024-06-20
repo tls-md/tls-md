@@ -9,10 +9,10 @@ och: 漁
 HUNT FISH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Yú 漁 is the general word for fishing of any kind, particularly of the professional activity of fishing.
-2. Fishing with a fishing rod and a line, mainly as an amateur activity and a leisure activity, is diào 釣.
-3. Fishing with a net, typically as a professional activity, is wǎng 網.
-4. Cè 矠 refers specifically to fishing with a spear.
+1. Yú [[漁]] is the general word for fishing of any kind, particularly of the professional activity of fishing.
+2. Fishing with a fishing rod and a line, mainly as an amateur activity and a leisure activity, is diào [[釣]].
+3. Fishing with a net, typically as a professional activity, is wǎng [[網]].
+4. Cè [[矠]] refers specifically to fishing with a spear.
 ## Modern Chinese Criteria
 捕魚
 捉魚

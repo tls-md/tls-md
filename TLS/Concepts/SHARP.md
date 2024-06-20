@@ -11,9 +11,9 @@ zh: 尖銳
 ABLE to CUT OR PIERCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for sharpness both of a point and of a blade is lì 利.
-2. Ruì 銳 refers to sharpness as pointedness, and typically a sign of excellence.
-3. Lì 厲／礪 is causative and refers to the sharpening of a tool or a weapon.
+1. The most general current word for sharpness both of a point and of a blade is lì [[利]].
+2. Ruì [[銳]] refers to sharpness as pointedness, and typically a sign of excellence.
+3. Lì [[厲]]／[[礪]] is causative and refers to the sharpening of a tool or a weapon.
 ## Modern Chinese Criteria
 尖
 溜尖

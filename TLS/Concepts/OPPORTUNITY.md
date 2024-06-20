@@ -20,8 +20,8 @@ zh: 機會
 SITUATION APPROPRIATE FOR ACHIEVING something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for an opportunity presenting itself is shí 時.
-2. Huì 會 refers to a coincidental opportunity.
+1. The current word for an opportunity presenting itself is shí [[時]].
+2. Huì [[會]] refers to a coincidental opportunity.
 ## Modern Chinese Criteria
 機會
 火候

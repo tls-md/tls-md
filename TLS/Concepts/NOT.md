@@ -1,5 +1,6 @@
 ---
-labels: NEGATION
+labels: 
+ - NEGATION
 zh: 不
 och: 不
 ---
@@ -8,14 +9,14 @@ och: 不
 BE CONTRARY to what is SAID in the WORDS that FOLLOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general all-purpose pre-verbal negation is 不 which generally has the whole predicate it precedes as its scope. 不 can be inchoative "not get to begin", continuative "not continuously", discontinuative "stop doing" or resultative "not get to complete doing". By the rhetorical device of litotes 不 can create antonymic opposites as in 不少 “quite a lot". 
-2. Fēi 非 negates categorising subsumptive judgments when it precedes predicative nominals; when preceding verbs 非 "it is not as if" negates not the verbal verbal proposition but metalinguistically the making of a statement that can usefully be paraphrased as  "the claim is not that".
-3. Wú 無 "in no way; in no way i.e. regarding no object", when used as a straight negation (contrast SHOULD NOT) is descriptively generalising and not straightforwardly narrative or descriptive.
-4. Fú 弗 "would not; could not" prototypically refers to a refusal or inability to do something which in principle one might intend to do.
-5. Wèi 未 "not yet; not quite" refers to either temporal or logical incompleteness in verbal predication.
-6. Fǒu 否 "It is not the case" is a negative pro-form, and there remains a suspicion that the graph 不 is to be read as fǒu 否 when it is used as a pro-form.
-7. Mò 莫 "none" is protoypically resumptive of an explicit or implicit subject.
-8. Wú 毋 "don't" and wù 勿 don't the object" when not used injunctively, are negations restricted to the position after such causative verbs as 使.
+1. The general all-purpose pre-verbal negation is [[不]] which generally has the whole predicate it precedes as its scope. [[不]] can be inchoative "not get to begin", continuative "not continuously", discontinuative "stop doing" or resultative "not get to complete doing". By the rhetorical device of litotes [[不]] can create antonymic opposites as in [[不少]] “quite a lot". 
+2. Fēi [[非]] negates categorising subsumptive judgments when it precedes predicative nominals; when preceding verbs [[非]] "it is not as if" negates not the verbal verbal proposition but metalinguistically the making of a statement that can usefully be paraphrased as  "the claim is not that".
+3. Wú [[無]] "in no way; in no way i.e. regarding no object", when used as a straight negation (contrast SHOULD NOT) is descriptively generalising and not straightforwardly narrative or descriptive.
+4. Fú [[弗]] "would not; could not" prototypically refers to a refusal or inability to do something which in principle one might intend to do.
+5. Wèi [[未]] "not yet; not quite" refers to either temporal or logical incompleteness in verbal predication.
+6. Fǒu [[否]] "It is not the case" is a negative pro-form, and there remains a suspicion that the graph [[不]] is to be read as fǒu [[否]] when it is used as a pro-form.
+7. Mò [[莫]] "none" is protoypically resumptive of an explicit or implicit subject.
+8. Wú [[毋]] "don't" and wù [[勿]] don't the object" when not used injunctively, are negations restricted to the position after such causative verbs as [[使]].
 ## Modern Chinese Criteria
 不
 非

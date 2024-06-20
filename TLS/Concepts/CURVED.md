@@ -21,12 +21,12 @@ zh: 曲線的
 SHAPE that is NOT STRAIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for anything bent or curved rather than straight is qǔ 曲 (ant. zhí 直 "straight"), and this word has a range of metaphorical uses.
-2. Qū 屈 refers to something being bent or twisted and therefore not stretched out to its full potential length (ant. shēn 伸 "stretch out") is mostly literal in meaning, except when referring to being bowed down by humiliation.
-3. Wān 彎 refers to naturally curved objects of any kind without any suggestion of them having been bent into this shape.
-4. Yǔ 傴 refers especially to the deformation of the human body through various diseases which cause humans to have curved backs. See HUNCHBACK
-5. Gōu 枸 refers especially to bent wood without any indication of why this wood has become bent.
-6. Róu 輮 is a rare word referring - always very literally - to the bending (especially of wood) into round shape and the resulting bent shape of wood.
+1. The standard general word for anything bent or curved rather than straight is qǔ [[曲]] (ant. zhí [[直]] "straight"), and this word has a range of metaphorical uses.
+2. Qū [[屈]] refers to something being bent or twisted and therefore not stretched out to its full potential length (ant. shēn [[伸]] "stretch out") is mostly literal in meaning, except when referring to being bowed down by humiliation.
+3. Wān [[彎]] refers to naturally curved objects of any kind without any suggestion of them having been bent into this shape.
+4. Yǔ [[傴]] refers especially to the deformation of the human body through various diseases which cause humans to have curved backs. See HUNCHBACK
+5. Gōu [[枸]] refers especially to bent wood without any indication of why this wood has become bent.
+6. Róu [[輮]] is a rare word referring - always very literally - to the bending (especially of wood) into round shape and the resulting bent shape of wood.
 ## Modern Chinese Criteria
 曲
 曲折

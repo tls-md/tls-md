@@ -10,19 +10,19 @@ och: 羊
 SMALL FURRY DOMESTIC ANIMAL USED FOR PRODUCING WOOL OR MILK. []
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Yáng 羊 is the general word referring indifferently to what in English is a sheep, a goat, or a ram.
-2. Gāo 羔 refers to a young goat or sheep.
-3. Zāng 牂 refers to a female goat or sheep.
-4. Yú 妤羭 is a colloquialism for a goat or a sheep.
-5. Jié 羯 castrated sheep.
-NB: According to ERYA fán 羳 refers to a goat/sheep with yellow belly, and goats/sheep with curved horns are called guǐ 觤 (ERYA). Fèn 羒 refers to a male goat or sheep.
+1. Yáng [[羊]] is the general word referring indifferently to what in English is a sheep, a goat, or a ram.
+2. Gāo [[羔]] refers to a young goat or sheep.
+3. Zāng [[牂]] refers to a female goat or sheep.
+4. Yú [[妤羭]] is a colloquialism for a goat or a sheep.
+5. Jié [[羯]] castrated sheep.
+NB: According to ERYA fán [[羳]] refers to a goat/sheep with yellow belly, and goats/sheep with curved horns are called guǐ [[觤]] (ERYA). Fèn [[羒]] refers to a male goat or sheep.
 
-ERYA （三）羊屬。
-19·28 羊，牡羒，牝牂。
-19·29 夏羊，牡羭，牝羖。
-19·30 角不齊，觤；角三觠，羷。
-19·31 羳羊，黃腹。
-19·32 未成羊，羜。
+ERYA （[[三]]）[[羊屬]]。
+19·28 [[羊]]，[[牡羒]]，[[牝牂]]。
+19·29 [[夏羊]]，[[牡羭]]，[[牝羖]]。
+19·30 [[角不齊]]，[[觤]]；[[角三觠]]，[[羷]]。
+19·31 [[羳羊]]，[[黃腹]]。
+19·32 [[未成羊]]，[[羜]]。
 ## Modern Chinese Criteria
 羊
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

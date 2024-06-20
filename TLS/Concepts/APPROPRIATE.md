@@ -24,17 +24,17 @@ EXCELLENT in a DEFINED SITUATION OR FOR a DEFINED NEED.
 [GENERAL/SPECIFIC]
 [LASTING/TRANSITORY]
 [OBJECTIVE/SUBJECTIVE]
-1. The current general word for appropriateness of any kind is yí 宜 (ant.* fáng 妨 "contravene standards, be inappropriate").
+1. The current general word for appropriateness of any kind is yí [[宜]] (ant.* fáng [[妨]] "contravene standards, be inappropriate").
 [GENERAL]
-2. Kě 可 refers primarily to what is subjectively or interpersonally-subjectively i.e. socially acceptable.
+2. Kě [[可]] refers primarily to what is subjectively or interpersonally-subjectively i.e. socially acceptable.
 [SUBJECTIVE]
-3. Shì 是 (ant. fēi 非 "what does not deserve intellectual or moral approval") refers primarily to what is right and deserving of intellectual and/or moral approval.
+3. Shì [[是]] (ant. fēi [[非]] "what does not deserve intellectual or moral approval") refers primarily to what is right and deserving of intellectual and/or moral approval.
 [MORAL]
-4. Shì 適 and dàng 當 (both ant. guāi 乖 "in conflict with certain prevailing circumstances") refer to what is objectively fitting in certain circumstances.
+4. Shì [[適]] and dàng [[當]] (both ant. guāi [[乖]] "in conflict with certain prevailing circumstances") refer to what is objectively fitting in certain circumstances.
 [OBJECTIVE], [TRANSITORY]
-5. Shùn 順 (ant. nì 逆 "in conflict with the natural flow of events") refers to action that fits naturally and painlessly into a certain flow of events or into a certain constellation.
+5. Shùn [[順]] (ant. nì [[逆]] "in conflict with the natural flow of events") refers to action that fits naturally and painlessly into a certain flow of events or into a certain constellation.
 [DYNAMIC]
-6. Qí 其 is a modal particle indicating weakly and abstractly that something should probably be done or happen. The word is thus marginal in this group. See SHOULD
+6. Qí [[其]] is a modal particle indicating weakly and abstractly that something should probably be done or happen. The word is thus marginal in this group. See SHOULD
 [padV]
 ## Modern Chinese Criteria
 適宜

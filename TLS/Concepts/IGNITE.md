@@ -15,7 +15,7 @@ zh: 燃
 CAUSE TO BEGIN to BURN.
 # Criteria and general notes
 ## Old Chinese Criteria
-燃
+[[燃]]
 ## Modern Chinese Criteria
 燃點
 著火點

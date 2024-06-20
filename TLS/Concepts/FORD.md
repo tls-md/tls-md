@@ -11,8 +11,8 @@ och: 津
 SHALLOW WAY ACROSS a RIVER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for a ford is jīn 津.
-NB: For dù 渡 "ford a river" see CROSS OVER.
+1. The standard general word for a ford is jīn [[津]].
+NB: For dù [[渡]] "ford a river" see CROSS OVER.
 ## 
 HUANG JINGUI 2006
 COMM 4.

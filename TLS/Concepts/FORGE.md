@@ -10,8 +10,8 @@ zh: 鍛爐
 PRODUCE IRON TOOLS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for forging something by the use of a hammer is duàn 段／鍛.
-NB: For liàn 煉 "melt, smelt" see MELT.
+1. The standard word for forging something by the use of a hammer is duàn [[段]]／[[鍛]].
+NB: For liàn [[煉]] "melt, smelt" see MELT.
 ## Modern Chinese Criteria
 鍛爐
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

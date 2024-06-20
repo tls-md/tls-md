@@ -14,7 +14,7 @@ zh: 妾
 FEMALE MATE who is NOT a WIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-Fēi 妃 (ant. wáng 王 "king") refers to a royal concubine.
+Fēi [[妃]] (ant. wáng [[王]] "king") refers to a royal concubine.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 小妻。

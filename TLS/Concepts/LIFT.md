@@ -26,12 +26,12 @@ och: 舉
 DISPLACE so as to CAUSE TO RISE, TYPICALLY USING ONE'S HANDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general and the most current word for lifting up anything, in literal as well as figurative senses is jǔ 舉.
-2. Jiē 揭 refers to the lifting up or raising of something light like clothes or a banner.
-3. Qíng 擎 refers to the lifting up of something with considerable effort.
-4. Gāng 扛 refers to the lifting up of something as a feat of strength.
-5. Shè 攝 and the rarer xī 扱 refer specifically to the lifting up of one's clothes or one's dress to avoid soiling them or stepping on them.
-6. Yǎng 仰 can be used to refer specifically to the raising of one's head. See LOOK UP
+1. The most general and the most current word for lifting up anything, in literal as well as figurative senses is jǔ [[舉]].
+2. Jiē [[揭]] refers to the lifting up or raising of something light like clothes or a banner.
+3. Qíng [[擎]] refers to the lifting up of something with considerable effort.
+4. Gāng [[扛]] refers to the lifting up of something as a feat of strength.
+5. Shè [[攝]] and the rarer xī [[扱]] refer specifically to the lifting up of one's clothes or one's dress to avoid soiling them or stepping on them.
+6. Yǎng [[仰]] can be used to refer specifically to the raising of one's head. See LOOK UP
 ## Modern Chinese Criteria
 舉起
 抬

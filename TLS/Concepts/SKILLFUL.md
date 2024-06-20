@@ -36,10 +36,10 @@ och: 巧
 ABLE to ACT:do something BECAUSE one has LEARNT NECESSARY METHODS. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for skilfulness is qiǎo 巧 (ant. zhuó 拙 "inept").
-2. Jié 捷 (ant. huǎn 緩 "slow and inefficient") emphasises a lightness of touch in the exercise of a high degree of skill.
-3. Mǐn 敏 (ant. yú 愚 "stupid and incompetent") refers to a very high degree of adeptness at a task.
-4. Jì 技 (ant. zhuó 拙 "incompetent") refers to a basic technical skill of no special distinction, and the word is almost always nominal.
+1. The standard word for skilfulness is qiǎo [[巧]] (ant. zhuó [[拙]] "inept").
+2. Jié [[捷]] (ant. huǎn [[緩]] "slow and inefficient") emphasises a lightness of touch in the exercise of a high degree of skill.
+3. Mǐn [[敏]] (ant. yú [[愚]] "stupid and incompetent") refers to a very high degree of adeptness at a task.
+4. Jì [[技]] (ant. zhuó [[拙]] "incompetent") refers to a basic technical skill of no special distinction, and the word is almost always nominal.
 ## Modern Chinese Criteria
 靈活
 靈敏

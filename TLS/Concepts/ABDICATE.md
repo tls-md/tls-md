@@ -14,8 +14,8 @@ zh: 讓位
 YIELD one's HIGH OFFICE as RULER to ANOTHER, CONFORMING to one's OWN DECISION.X
 # Criteria and general notes
 ## Old Chinese Criteria
-Ra4ng 讓 refers to abdication with a focus on this act being in favour of a successor.
-Sha4n 禪 refers to abdication with a focus on this act being one of selflessness or lack of mundane ambition.
+Ra4ng [[讓]] refers to abdication with a focus on this act being in favour of a successor.
+Sha4n [[禪]] refers to abdication with a focus on this act being one of selflessness or lack of mundane ambition.
 # Ontology
 
 ## Hypernym

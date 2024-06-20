@@ -21,8 +21,8 @@ zh: 濃密
 CONTAINING MANY SUBSTANCES OR THINGS CLOSE TOGETHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Nóng 濃 (ant. xī 稀 "thin (as of broth)") refers generally to the thickness of liquids and of substances.
-2. Nóng 醲 (ant. báo 薄 "thin (as of wine)"), a writing variant of the preceding, is used specifically for the thickness and undiluted character of liquor or wine.
+1. Nóng [[濃]] (ant. xī [[稀]] "thin (as of broth)") refers generally to the thickness of liquids and of substances.
+2. Nóng [[醲]] (ant. báo [[薄]] "thin (as of wine)"), a writing variant of the preceding, is used specifically for the thickness and undiluted character of liquor or wine.
 ## Modern Chinese Criteria
 茂密
 濃厚

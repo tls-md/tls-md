@@ -13,11 +13,11 @@ och: 禱
 ADDRESS DEITIES OFTEN:typically with RITUAL REQUESTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for prayers of all kinds is dǎo 禱, but the word primarily refers to requests made to the spirits.
-2. Zhù 祝 refers specifically to shamanistic incantations by a professional, and these incantations do not so directly involve requests.
-3. Fú 祓 refers specifically to exorcism.
-4. Zǔ 詛 (ant. qí 祈 "pray for blessings") refers to the calling down of the wrath of the gods and spirits on someone or something.
-5. Qí 祈 (ant. zǔ 詛 "call down the wrath of the spirits") refers to seeking supernatural aid or blessings from the gods and spirits.
+1. The current general word for prayers of all kinds is dǎo [[禱]], but the word primarily refers to requests made to the spirits.
+2. Zhù [[祝]] refers specifically to shamanistic incantations by a professional, and these incantations do not so directly involve requests.
+3. Fú [[祓]] refers specifically to exorcism.
+4. Zǔ [[詛]] (ant. qí [[祈]] "pray for blessings") refers to the calling down of the wrath of the gods and spirits on someone or something.
+5. Qí [[祈]] (ant. zǔ [[詛]] "call down the wrath of the spirits") refers to seeking supernatural aid or blessings from the gods and spirits.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 8.

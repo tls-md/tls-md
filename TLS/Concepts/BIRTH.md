@@ -20,17 +20,17 @@ BEGINNING of LIFE.
 [FACT/PROCESS]
 [+FIG/LITERAL]
 [GENERAL/SPECIFIC]
-1. Shēng 生 (ant. sǐ 死 "die") is a colourless general word for the fact of being delivered of offspring or for engendering offspring, and the word also has many derived and related meanings.
+1. Shēng [[生]] (ant. sǐ [[死]] "die") is a colourless general word for the fact of being delivered of offspring or for engendering offspring, and the word also has many derived and related meanings.
 [FACT], [+FIG], [GENERAL]; [[COMMON+]]
-2. Chǎn 產 can focus on the physical process of birth alone, but the word can connote the act of rearing or even breeding. See REAR.
+2. Chǎn [[產]] can focus on the physical process of birth alone, but the word can connote the act of rearing or even breeding. See REAR.
 [LITERAL], [PROCESS]; [[COMMON]]
-3. Zì 字 is a rare very archaic word referring to the production of offspring.
+3. Zì [[字]] is a rare very archaic word referring to the production of offspring.
 [ARCHAIC], [LITERAL]; [[RARE]]
-4. Yù 育 is a rare fairly archaic word for giving birth to and rearing offspring.
+4. Yù [[育]] is a rare fairly archaic word for giving birth to and rearing offspring.
 [ARCHAIC], [LITERAL], [PROCESS]
-5. Rǔ 乳 viewS the act of giving birth as immediately preceding and linked to the feeding of what one has given birth to.
+5. Rǔ [[乳]] viewS the act of giving birth as immediately preceding and linked to the feeding of what one has given birth to.
 [LITERAL], [MARGINAL], [PROCESS]; [[RARE]]
-4. Sū 穌 "be born again" belongs to the realm of religious discourse.
+4. Sū [[穌]] "be born again" belongs to the realm of religious discourse.
 [SPECIFIC]; [[RARE]]
 ## Modern Chinese Criteria
 誕生

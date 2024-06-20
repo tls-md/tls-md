@@ -10,10 +10,10 @@ och: 領
 BODY PART BETWEEN HEAD AND TRUNK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the neck is lǐng 領.
-2. Xiàng 項 was late to become current, and the word comes to refer specifically to the back of the neck.
-3. Jǐng 頸 is colloquial and refers to the front part of the neck, but the word can also refer to the neck as a whole.
-4. Dòu 脰 is rare and refers to the front of the neck.
+1. The current general word for the neck is lǐng [[領]].
+2. Xiàng [[項]] was late to become current, and the word comes to refer specifically to the back of the neck.
+3. Jǐng [[頸]] is colloquial and refers to the front part of the neck, but the word can also refer to the neck as a whole.
+4. Dòu [[脰]] is rare and refers to the front of the neck.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 38.

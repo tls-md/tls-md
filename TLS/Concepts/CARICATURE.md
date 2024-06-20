@@ -14,7 +14,7 @@ zh: 漫畫
 PICTURE which MOCKS.
 # Criteria and general notes
 ## Old Chinese Criteria
-漫畫
+[[漫畫]]
 # Ontology
 
 ## Hypernym

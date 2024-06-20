@@ -24,12 +24,12 @@ och: 佯
 CHEAT so as to CAUSE OTHERS to BELIEVE one COPULA:is RESEMBLING:as one SEEMS WHEN one is NOT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for pretending to be what one is not is yáng 佯 (ant.* zhēn xiàng 真相 "real shape").
-2. Wěi 偽 (ant. zhēn 真 "genuine") refers to the deliberate production of something artificial, and by extension the word comes to mean "pretend".
-3. Shì 飾 (ant. pǔ 樸 "basic and genuine, unadorned") refers to ostentatious pretence.
-4. Wū 誣 (ant. xìn 信 "trusty") emphaises the fraudulent aspect of pretense.
-5. Wēi fú 微服 and wēi xíng 微行 refer specifically to a notorious person going out and pretending to be an ordinary citizen of some kind or another.
-6. Jiǎ 假 (ant. zhēn 真 "genuine") is rare in pre-Buddhist times and refers to pretending to do something.
+1. The current general word for pretending to be what one is not is yáng [[佯]] (ant.* zhēn xiàng [[真相]] "real shape").
+2. Wěi [[偽]] (ant. zhēn [[真]] "genuine") refers to the deliberate production of something artificial, and by extension the word comes to mean "pretend".
+3. Shì [[飾]] (ant. pǔ [[樸]] "basic and genuine, unadorned") refers to ostentatious pretence.
+4. Wū [[誣]] (ant. xìn [[信]] "trusty") emphaises the fraudulent aspect of pretense.
+5. Wēi fú [[微服]] and wēi xíng [[微行]] refer specifically to a notorious person going out and pretending to be an ordinary citizen of some kind or another.
+6. Jiǎ [[假]] (ant. zhēn [[真]] "genuine") is rare in pre-Buddhist times and refers to pretending to do something.
 ## Modern Chinese Criteria
 假裝 is the current modern word for pretending.
 偽裝 focusses on the artificiality of the pretence.

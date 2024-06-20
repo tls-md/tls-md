@@ -22,10 +22,10 @@ och: 須
 LACK AND be DISTRESSED BECAUSE of that.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for needing something is xū 須, and this word does not refer to a general need, but only to a need for a certain purpose.
-2. Bì 必 can refer to a logical or practical precondition for something.
-3. Jí 急 (ant.* yǒu yú 有餘 "have more than enough") refers to a desperate state which can be said to be a state where one is in need of help and supplies.
-4. Yòng 用 is sometimes used to refer not to the use of something but the need for it, especially in rhetorical questions.
+1. The current general word for needing something is xū [[須]], and this word does not refer to a general need, but only to a need for a certain purpose.
+2. Bì [[必]] can refer to a logical or practical precondition for something.
+3. Jí [[急]] (ant.* yǒu yú [[有餘]] "have more than enough") refers to a desperate state which can be said to be a state where one is in need of help and supplies.
+4. Yòng [[用]] is sometimes used to refer not to the use of something but the need for it, especially in rhetorical questions.
 ## Modern Chinese Criteria
 需要
 需求

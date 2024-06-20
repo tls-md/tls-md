@@ -28,9 +28,9 @@ zh: 裙
 GARMENT WORN on the STOMACH AND HANGING LOOSELY on the SIDES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for lower garments is cháng 裳.
-2. Qún 裙 refers to the ankle-long skirt worn by women, but in ancient China this could also be worn by men. The term became current only in Eastern Han times.
-3. Chān 襜 refers to an apron worn by men, usually unembroidered, and the word is rare.
+1. The general term for lower garments is cháng [[裳]].
+2. Qún [[裙]] refers to the ankle-long skirt worn by women, but in ancient China this could also be worn by men. The term became current only in Eastern Han times.
+3. Chān [[襜]] refers to an apron worn by men, usually unembroidered, and the word is rare.
 ## Modern Chinese Criteria
 裙子
 裙

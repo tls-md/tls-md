@@ -16,9 +16,9 @@ och: 柵
 TIMBER ARTEFACT which SHOWS the BOUNDARY of a TYPICALLY SMALL TERRITORY and HINDERS OTHERS from ENTERING that TERRITORY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The common general term for a fence made either of wood, bamboo or ametal is zhà 柵.
-2. Lán 闌 / 欄 refers to a fence for raising domestic animals. During the northern and southern dynasties it came to be used as a general word for a fence, but with a strong colloquial taste.
-3. Jiàn 檻 refers to a fence for raising large and dangerous animals. It was an original general term for a fence.
+1. The common general term for a fence made either of wood, bamboo or ametal is zhà [[柵]].
+2. Lán [[闌]] / [[欄]] refers to a fence for raising domestic animals. During the northern and southern dynasties it came to be used as a general word for a fence, but with a strong colloquial taste.
+3. Jiàn [[檻]] refers to a fence for raising large and dangerous animals. It was an original general term for a fence.
 ## Modern Chinese Criteria
 籬笆
 籬

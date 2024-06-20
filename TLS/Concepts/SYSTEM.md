@@ -7,7 +7,7 @@ zh: 系統
 TRANSPARENTLY OR EXPLICITLY ORDERED COMPLEX WHOLE.
 # Criteria and general notes
 ## Old Chinese Criteria
-制度 refers to a legal system.
+[[制度]] refers to a legal system.
 ## Modern Chinese Criteria
 制度
 體系

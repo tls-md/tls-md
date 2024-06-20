@@ -12,7 +12,7 @@ zh: 詞典
 DOCUMENT which SYSTEMATICALLY EXPLAINS the WORDS of a LANGUAGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-字書 is quite late.
+[[字書]] is quite late.
 ## Modern Chinese Criteria
 詞典
 字典

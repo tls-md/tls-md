@@ -28,7 +28,7 @@ zh: 感覺到
 BECOME AWARE of BECAUSE one INTERACTS WITH.
 # Criteria and general notes
 ## Old Chinese Criteria
-接
+[[接]]
 ## Modern Chinese Criteria
 感受
 感觸

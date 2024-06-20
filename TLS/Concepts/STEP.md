@@ -16,8 +16,8 @@ och: 步
 WALK FORWARDso as to RAISE A FOOT AND THEN PUT it DOWN AGAIN; AND DISTANCE TYPICALLY COVERED by this ACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the length of two steps is bù 步.
-2. Kuǐ 跬／蹞／頃 refers to the ground covered by a single step, lifting only one foot.
+1. The general word for the length of two steps is bù [[步]].
+2. Kuǐ [[跬]]／[[蹞]]／[[頃]] refers to the ground covered by a single step, lifting only one foot.
 ## Modern Chinese Criteria
 步伐
 步履

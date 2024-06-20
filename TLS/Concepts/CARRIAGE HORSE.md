@@ -8,11 +8,11 @@ och: 駟
 A HORSE USED to PULL a CARRIAGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word referring to a team of horses pulling one carriage is sì 駟.
-2. Shèng 乘 is an archaic word for a team of four horses.
-3. Fú 服 refers to the two horses immediately next to the carriage pole yuán 轅 at the centre of the team.
-4. Cān 驂 can refer to a team of three horses, but the word can also refer to the outer two horses in a four-horse team.
-5. Pián 胼 refers to a team of two horses.
+1. The most common word referring to a team of horses pulling one carriage is sì [[駟]].
+2. Shèng [[乘]] is an archaic word for a team of four horses.
+3. Fú [[服]] refers to the two horses immediately next to the carriage pole yuán [[轅]] at the centre of the team.
+4. Cān [[驂]] can refer to a team of three horses, but the word can also refer to the outer two horses in a four-horse team.
+5. Pián [[胼]] refers to a team of two horses.
 ## 
 HUANG JINGUI 2006 COMM 17.
 駢，兩馬駕。

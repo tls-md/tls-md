@@ -36,14 +36,14 @@ INTENSELY GOOD FEELING IN-RELATION-TO something NOW.
 *The joy of the enjoyer X over something enjoyed Y.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word referring to the purely psychological notion of a transitory or temporary feeling of pleasure or delight is yuè 悅 (ant. yùn 慍 "feel intensely dissatisfied with, feel offended by").
-2. The equally current lè 樂 (ant. āi 哀 "grief") adds to yuè 悅 the dimensions of practical indulgence, psychological and often philosophical depth, and - very often - a dimension of joy that can be shared and appreciated by others, and that is typically lasting if not permanent. See ENJOY
-3. Xǐ 喜 (ant. yōu 憂 "worry") is openly manifested delight, manifested in an individual, visible to all, but not normally of any profound significance.
-4. Huān 歡 (ant. bēi 悲 "sadness" and chóu 愁 "worried sadness") refers to sociable temporary high spirits, not only visible to many but normally shared by a group.
-5. Kuài 快 refers to momentary elation related to or intense satisfaction with a concrete situation.
-6. Xīn 欣 refers to grateful delight in what is designed to gratify one's desires.
-7. Yú 娛 is often causative "give pleasure to", and when intransitive the word refers to a mild feeling of well-being and gratification, very close to yú 愉 "mild delight".
-8. Yí 怡 refers to a kind of open unhidden dignified satisfaction.
+1. The general current word referring to the purely psychological notion of a transitory or temporary feeling of pleasure or delight is yuè [[悅]] (ant. yùn [[慍]] "feel intensely dissatisfied with, feel offended by").
+2. The equally current lè [[樂]] (ant. āi [[哀]] "grief") adds to yuè [[悅]] the dimensions of practical indulgence, psychological and often philosophical depth, and - very often - a dimension of joy that can be shared and appreciated by others, and that is typically lasting if not permanent. See ENJOY
+3. Xǐ [[喜]] (ant. yōu [[憂]] "worry") is openly manifested delight, manifested in an individual, visible to all, but not normally of any profound significance.
+4. Huān [[歡]] (ant. bēi [[悲]] "sadness" and chóu [[愁]] "worried sadness") refers to sociable temporary high spirits, not only visible to many but normally shared by a group.
+5. Kuài [[快]] refers to momentary elation related to or intense satisfaction with a concrete situation.
+6. Xīn [[欣]] refers to grateful delight in what is designed to gratify one's desires.
+7. Yú [[娛]] is often causative "give pleasure to", and when intransitive the word refers to a mild feeling of well-being and gratification, very close to yú [[愉]] "mild delight".
+8. Yí [[怡]] refers to a kind of open unhidden dignified satisfaction.
 ## Modern Chinese Criteria
 高興
 開心

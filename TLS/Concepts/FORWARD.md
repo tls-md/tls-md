@@ -7,7 +7,7 @@ zh: 往前
 TOWARDS IN-FRONT of ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-前
+[[前]]
 # Ontology
 
 ## Hypernym

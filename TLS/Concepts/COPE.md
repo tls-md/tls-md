@@ -21,9 +21,9 @@ zh: 應付
 ACHIEVE a DIFFICULT WORK:task.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shèng 勝 refers to the coping with an especially difficult task.
-2. Nài 奈 refers to the successful coping with a challenging task.
-3. Fàn 犯 can occasionally come to refer to the successful overcoming of resistance.
+1. Shèng [[勝]] refers to the coping with an especially difficult task.
+2. Nài [[奈]] refers to the successful coping with a challenging task.
+3. Fàn [[犯]] can occasionally come to refer to the successful overcoming of resistance.
 ## Modern Chinese Criteria
 巧妙地應付
 應付

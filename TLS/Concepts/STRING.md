@@ -7,8 +7,8 @@ zh: 弦
 A THREAD WHICH one MOVES WHEN PLAYING a STRING INSTRUMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a string of any kind, on any bow or any string instrument, is xián 弦.
-2. Xián 絃 tends to be specialised on strings used on musical instruments.
+1. The general word for a string of any kind, on any bow or any string instrument, is xián [[弦]].
+2. Xián [[絃]] tends to be specialised on strings used on musical instruments.
 ## Modern Chinese Criteria
 絲弦
 弦索

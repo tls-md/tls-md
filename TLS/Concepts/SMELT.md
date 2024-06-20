@@ -8,11 +8,11 @@ och: 冶
 CAUSE METAL TO BECOME LIQUID.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Yě 冶 refers to smelting of an ore and refining of a metal.
-2. Xiāo 銷 also refers to smelting of a metal.
-3. Liàn 鍊 refers to smelting of an ore or metal under high temperature.
-4. Róng 鎔 is a general term for smelting of a metal.
-5. Zhù 鑄 refers to a casting of a metal into a certain form.
+1. Yě [[冶]] refers to smelting of an ore and refining of a metal.
+2. Xiāo [[銷]] also refers to smelting of a metal.
+3. Liàn [[鍊]] refers to smelting of an ore or metal under high temperature.
+4. Róng [[鎔]] is a general term for smelting of a metal.
+5. Zhù [[鑄]] refers to a casting of a metal into a certain form.
 ## Modern Chinese Criteria
 冶煉
 冶金

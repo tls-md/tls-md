@@ -18,7 +18,7 @@ och: 重
 BIG WEIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant term is zhòng 重 (ant. qīng 輕 "light").
+1. The dominant term is zhòng [[重]] (ant. qīng [[輕]] "light").
 ## Modern Chinese Criteria
 重
 沉

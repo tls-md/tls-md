@@ -17,12 +17,12 @@ och: 年／壤
 GRAIN, FRUITS ETC. REAPED in AUTUMN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general old and current word for a harvest, particularly a good harvest is nián 年.
-2. Suì 歲 refers to the harvest of a year without any current reference to good or bad harvests.
-3. Rǎng 穰 refers to an abundant harvest.
-4. Jià 稼 refers generally to the grain crop.
-5. Sè 穡 refers generally to the grain crop as garnered in and properly stored.
-6. Shōu 收 regularly refers to the harvest as what is garnered and collected for future use.
+1. The general old and current word for a harvest, particularly a good harvest is nián [[年]].
+2. Suì [[歲]] refers to the harvest of a year without any current reference to good or bad harvests.
+3. Rǎng [[穰]] refers to an abundant harvest.
+4. Jià [[稼]] refers generally to the grain crop.
+5. Sè [[穡]] refers generally to the grain crop as garnered in and properly stored.
+6. Shōu [[收]] regularly refers to the harvest as what is garnered and collected for future use.
 ## Modern Chinese Criteria
 秋
 年頭

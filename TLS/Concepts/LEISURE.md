@@ -17,13 +17,13 @@ och: 閑
 PEACEFUL BECAUSE one LACKS DUTY to WORK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for the period of time not occupied by working is xián 閒 (ant. QIMIN YAOSHU 忙 "busy").
-2. Xiá 暇 refers specifically to the time of leisure between working spells.
-3. Jià 假 refers to an extended period free from official obligations, a holiday, and the word is marginal in this group.
-4. Yóu 游 / 遊 refers to the leisure-activities during one's free time.
-5. Kòng 空 refers abstractly to unoccupied time as such.
-6. Xián 嫻 / 閑 refers specifically to the kind of free and easy attitude one has during one's free time, but also to the work-free nature of something, and the word is often used as an adjective.
-7. Yàn 燕 and yàn 宴 refers to leisure time with a special focus on this time as an occasion for pleasure and enjoyment, often including food and music.
+1. The current general term for the period of time not occupied by working is xián [[閒]] (ant. QIMIN YAOSHU [[忙]] "busy").
+2. Xiá [[暇]] refers specifically to the time of leisure between working spells.
+3. Jià [[假]] refers to an extended period free from official obligations, a holiday, and the word is marginal in this group.
+4. Yóu [[游]] / [[遊]] refers to the leisure-activities during one's free time.
+5. Kòng [[空]] refers abstractly to unoccupied time as such.
+6. Xián [[嫻]] / [[閑]] refers specifically to the kind of free and easy attitude one has during one's free time, but also to the work-free nature of something, and the word is often used as an adjective.
+7. Yàn [[燕]] and yàn [[宴]] refers to leisure time with a special focus on this time as an occasion for pleasure and enjoyment, often including food and music.
 ## Modern Chinese Criteria
 安閒 / 安閑
 安適

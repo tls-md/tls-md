@@ -16,11 +16,11 @@ och: 待
 EXPECT an EVENT and THINK about this EXPECTATION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for waiting is dài 待.
-2. Sì 俟 and the rare archaic xī 徯 refers to awaiting something urgently.
-3. Hòu 候 refers to lying in waiting for something, literally or metaphorically, ready to act on it.
-4. Xū 須 typically refers to taking one's time waiting patiently for something.
-NB: Děng 等 is post-Han.
+1. The current general word for waiting is dài [[待]].
+2. Sì [[俟]] and the rare archaic xī [[徯]] refers to awaiting something urgently.
+3. Hòu [[候]] refers to lying in waiting for something, literally or metaphorically, ready to act on it.
+4. Xū [[須]] typically refers to taking one's time waiting patiently for something.
+NB: Děng [[等]] is post-Han.
 ## Modern Chinese Criteria
 等
 等候

@@ -39,9 +39,9 @@ och: 輕／浮
 UNRESTRAINED so as to LACK SERIOUSNESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general and neutral word for lack of seriousness is qīng 輕 (ant. zhuāng 莊 "serious").
-2. Fú 浮 sometimes refers to the kind of flippancy or frivolousness that might call for criticism but is not viewed as entirely serious.
-3. Fān fān 幡幡 is a poetic word referring to someone who has lost the dignified stance that would give him authority.
+1. The current general and neutral word for lack of seriousness is qīng [[輕]] (ant. zhuāng [[莊]] "serious").
+2. Fú [[浮]] sometimes refers to the kind of flippancy or frivolousness that might call for criticism but is not viewed as entirely serious.
+3. Fān fān [[幡幡]] is a poetic word referring to someone who has lost the dignified stance that would give him authority.
 ## Modern Chinese Criteria
 輕浮
 浮

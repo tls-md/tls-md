@@ -11,12 +11,12 @@ och: 車
 TOOL USED FOR TRAVELLING OR TRANSPORTING THINGS ACROSS LONG DISTANCES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a vehicle is chē 車, a term which also refers even more generally to all contraptions with wheels.
-2. Jià 駕 refers to a yoked carriage.
-3. Yù 御 refers to a yoked carriage, with driver in place, ready to go.
-4. Yú 輿 refers originally to the compartment xiāng 箱 of the carriage, but came to be used as a general term for a carriage used for transporting people. See CARRIAGE
-5. Chéng 乘 is the general noun classifier for all vehicles, and this word must be carefully from the shèng 乘 "war chariot". See CHARIOT
-6. Zhěn 軫 "back bord on a carriage" is often used to refer to a carriage as a whole, by synecdoche.
+1. The current general term for a vehicle is chē [[車]], a term which also refers even more generally to all contraptions with wheels.
+2. Jià [[駕]] refers to a yoked carriage.
+3. Yù [[御]] refers to a yoked carriage, with driver in place, ready to go.
+4. Yú [[輿]] refers originally to the compartment xiāng [[箱]] of the carriage, but came to be used as a general term for a carriage used for transporting people. See CARRIAGE
+5. Chéng [[乘]] is the general noun classifier for all vehicles, and this word must be carefully from the shèng [[乘]] "war chariot". See CHARIOT
+6. Zhěn [[軫]] "back bord on a carriage" is often used to refer to a carriage as a whole, by synecdoche.
 ## 
 HUANG JINGUI 2006
 COMM 6.

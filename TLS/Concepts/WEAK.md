@@ -25,14 +25,14 @@ och: 弱
 LACK STRENGTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for weakness of any physical or abstract kind, and of anything including states, persons, and animals is ruò 弱 (ant. qiáng 強 "strong").
-2. Léi 羸 (ant. jiàn 健 "strong and healthy") typically refers to physical weakness in humans.
-3. Bào 薄 (ant. zhuàng 壯 "strong and vigorous") can refer to a low or weak intensity of something.
-4. Cuì 脆 / 膬 (ant. jiān 堅 "strong and hard") refers to physical weakness as a result of brittleness and a propensity to break easily.
-5. Chí 弛 (ant. jiān 堅 "strong and hard") refers to weakness as a result of abstract or physical slackening.
-6. Shuāi 衰 (ant. shèng 盛 "strong and flourishing") refers to the process of weakening that attends any kind of decline.
-7. Hào 耗 (ant. kāng 康 "increasingly vigorous and healthy") refers to the process of weakening that results from using up available resources.
-8. Huǎ3n 緩 (ant. jié 捷 "nimble and vigorous in one's effort") is somewhat marginal in the group but can refer to habitual weakness of effort through slowness and lack of urgent and decisive action.
+1. The current general word for weakness of any physical or abstract kind, and of anything including states, persons, and animals is ruò [[弱]] (ant. qiáng [[強]] "strong").
+2. Léi [[羸]] (ant. jiàn [[健]] "strong and healthy") typically refers to physical weakness in humans.
+3. Bào [[薄]] (ant. zhuàng [[壯]] "strong and vigorous") can refer to a low or weak intensity of something.
+4. Cuì [[脆]] / [[膬]] (ant. jiān [[堅]] "strong and hard") refers to physical weakness as a result of brittleness and a propensity to break easily.
+5. Chí [[弛]] (ant. jiān [[堅]] "strong and hard") refers to weakness as a result of abstract or physical slackening.
+6. Shuāi [[衰]] (ant. shèng [[盛]] "strong and flourishing") refers to the process of weakening that attends any kind of decline.
+7. Hào [[耗]] (ant. kāng [[康]] "increasingly vigorous and healthy") refers to the process of weakening that results from using up available resources.
+8. Huǎ3n [[緩]] (ant. jié [[捷]] "nimble and vigorous in one's effort") is somewhat marginal in the group but can refer to habitual weakness of effort through slowness and lack of urgent and decisive action.
 ## Modern Chinese Criteria
 弱
 軟弱

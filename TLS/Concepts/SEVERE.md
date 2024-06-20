@@ -24,14 +24,14 @@ och: 嚴
 SERIOUS AND NOT TENDING to PARDON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general commendatory term for severeness is yán 嚴 (ant. kuān 寬 "lax").
-2. Zhuāng 莊 (ant. qīng 輕 "unserious") and the somewhat less common jīn 矜 add to the notion of a mild form of severeness the nuance of dignified appearance.
-3. Sù 肅 (ant. zī 恣 "easy-going") emphasises sternness of attitude.
-4. Lì 厲 (wēn 溫 "mild") emphasises a willingness to use violence in the administration of government without passing a strong negative or positive judgment on this attitude.
-5. Kè 刻 (ant. hé 和 "moderate") refers disparagingly to an excessive willingness to use violence in the administration of government.
-6. Zhòng 重 (ant. qīng 輕 "unserious") refers abstractly to the severeness of punishments.
-7. Jù4n 峻 (ant. píng 平 "even-handed") refers dramatically to the savageness of punishments.
-8. Kē 苛 and kù 酷 (ant.* rén 仁 "kind-hearted" and bù rěn 不忍 "be unable to stand") refer to flagrant extravagance in the severeness of punishments.
+1. The current general commendatory term for severeness is yán [[嚴]] (ant. kuān [[寬]] "lax").
+2. Zhuāng [[莊]] (ant. qīng [[輕]] "unserious") and the somewhat less common jīn [[矜]] add to the notion of a mild form of severeness the nuance of dignified appearance.
+3. Sù [[肅]] (ant. zī [[恣]] "easy-going") emphasises sternness of attitude.
+4. Lì [[厲]] (wēn [[溫]] "mild") emphasises a willingness to use violence in the administration of government without passing a strong negative or positive judgment on this attitude.
+5. Kè [[刻]] (ant. hé [[和]] "moderate") refers disparagingly to an excessive willingness to use violence in the administration of government.
+6. Zhòng [[重]] (ant. qīng [[輕]] "unserious") refers abstractly to the severeness of punishments.
+7. Jù4n [[峻]] (ant. píng [[平]] "even-handed") refers dramatically to the savageness of punishments.
+8. Kē [[苛]] and kù [[酷]] (ant.* rén [[仁]] "kind-hearted" and bù rěn [[不忍]] "be unable to stand") refer to flagrant extravagance in the severeness of punishments.
 ## Modern Chinese Criteria
 嚴厲
 嚴峻

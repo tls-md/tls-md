@@ -20,10 +20,10 @@ STATE THOUGHT of an ABSTRACT INSTITUTION.
 STATE AS ABSTRACT VENERABLE INSTITUTION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for the nation as represented by the leading families, and opposed to the state as mere territory and inhabitants, is guó jiā 國家.
-2. Shè jì 社稷 refers to the altars of the land and grain as symbols of the nation.
-3. Bāng guó 邦國 is an ancient general territorially focussed designation for a nation which continues in nostalgic use.
-4. Zōng miào 宗廟 "ancestral temples" is the very common metonymic designation for the nation as a primarily ritual and perhaps even religious entity, and it is important that the symbolic reference to the buildings often remains relevant to the abstract meaning of the term.
+1. The current standard word for the nation as represented by the leading families, and opposed to the state as mere territory and inhabitants, is guó jiā [[國家]].
+2. Shè jì [[社稷]] refers to the altars of the land and grain as symbols of the nation.
+3. Bāng guó [[邦國]] is an ancient general territorially focussed designation for a nation which continues in nostalgic use.
+4. Zōng miào [[宗廟]] "ancestral temples" is the very common metonymic designation for the nation as a primarily ritual and perhaps even religious entity, and it is important that the symbolic reference to the buildings often remains relevant to the abstract meaning of the term.
 ## Modern Chinese Criteria
 國家
 江山

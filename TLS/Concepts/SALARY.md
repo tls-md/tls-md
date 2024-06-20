@@ -19,9 +19,9 @@ och: 祿
 MONEY GIVEN to someone who WORKS for his/her WORK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for apanages, emoluments or salaries received by any person of high status is lù 祿.
-2. Gǔ 穀 refers specifically to salary in the form of grain, which was the most current form of payment, and the word sometimes refers in a generalised way to salaries of any kind.
-3. Fèng 奉／俸 is a formal and polite word for a salary, and the term became current from Han times onwards.
+1. The general word for apanages, emoluments or salaries received by any person of high status is lù [[祿]].
+2. Gǔ [[穀]] refers specifically to salary in the form of grain, which was the most current form of payment, and the word sometimes refers in a generalised way to salaries of any kind.
+3. Fèng [[奉]]／[[俸]] is a formal and polite word for a salary, and the term became current from Han times onwards.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 12.

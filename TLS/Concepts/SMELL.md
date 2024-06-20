@@ -12,8 +12,8 @@ och: 嗅
 PERCEIVE ODOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Xiù 臭／嗅 "try to smell" relates to wén 聞 "perceive the smell of" exactly like shì 視 "look at" to jiàn 見 "see".
-NB: Compare 嘗 "try to taste". See TASTE.
+1. Xiù [[臭]]／[[嗅]] "try to smell" relates to wén [[聞]] "perceive the smell of" exactly like shì [[視]] "look at" to jiàn [[見]] "see".
+NB: Compare [[嘗]] "try to taste". See TASTE.
 ## Modern Chinese Criteria
 嗅
 聞

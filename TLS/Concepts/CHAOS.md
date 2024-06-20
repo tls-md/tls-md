@@ -28,12 +28,12 @@ zh: 動亂
 SITUATION NOT APPROPRIATELY CONTROLLED OR LACKING APPROPRIATE ORDERLY:order.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The very dominant word in this group is luàn 亂 (ant. zhì 治 "state of good government, state of good order") which refers to all kinds of reprehensible lack of order.
-2. Èr 二 / 貳 "disunited" (ant. yī 一 "be properly united in attitude") refers to political dissension or duplicity.
-3. Fēn 紛 describes a mild form of physical disorder. See CONFUSED.
-4. Fén 棼 describes something as unprincipled and disorganised.
-5. Wèn 紊 is often inchoative and describes the process by which something concrete or abstract enters a disorderly state.
-6. Hún 混 refers to a kind of chaos that is close to objective confusion. See CONFUSED.
+1. The very dominant word in this group is luàn [[亂]] (ant. zhì [[治]] "state of good government, state of good order") which refers to all kinds of reprehensible lack of order.
+2. Èr [[二]] / [[貳]] "disunited" (ant. yī [[一]] "be properly united in attitude") refers to political dissension or duplicity.
+3. Fēn [[紛]] describes a mild form of physical disorder. See CONFUSED.
+4. Fén [[棼]] describes something as unprincipled and disorganised.
+5. Wèn [[紊]] is often inchoative and describes the process by which something concrete or abstract enters a disorderly state.
+6. Hún [[混]] refers to a kind of chaos that is close to objective confusion. See CONFUSED.
 ## Modern Chinese Criteria
 動亂
 變亂

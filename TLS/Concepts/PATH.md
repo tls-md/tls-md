@@ -23,10 +23,10 @@ zh: 小路
 SMALL WAY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Perhaps the most general term for a path is jìng 徑, but the word refers specifically to a shortcut, whereas the rarer xī 蹊 refers more generally to any path that has been trampled up, by humans or by animals.
-2. Qiān mò 阡陌 are the ubiquitous mudpaths between fields ideally qiān 阡 going north-south and mò 陌 east-west, but this latter commentarial tradition would seem to be an idealising rationalisation.
-3. Lǒng 壟 is occasionally used to refer to the raised borders between fields.
-4. Mǔ 畝 is an earlier word than 壟 referring to the raised borders between fields, and by extension to the fields themselves.
+1. Perhaps the most general term for a path is jìng [[徑]], but the word refers specifically to a shortcut, whereas the rarer xī [[蹊]] refers more generally to any path that has been trampled up, by humans or by animals.
+2. Qiān mò [[阡陌]] are the ubiquitous mudpaths between fields ideally qiān [[阡]] going north-south and mò [[陌]] east-west, but this latter commentarial tradition would seem to be an idealising rationalisation.
+3. Lǒng [[壟]] is occasionally used to refer to the raised borders between fields.
+4. Mǔ [[畝]] is an earlier word than [[壟]] referring to the raised borders between fields, and by extension to the fields themselves.
 ## 
 HUANG JINGUI 2006
 COMM 3. 塗，本指小的泥路，引申指指城中大路的分道。

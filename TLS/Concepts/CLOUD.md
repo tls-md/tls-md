@@ -12,11 +12,11 @@ och: 雲
 VISIBLE MASS of ASSEMBLED WATER OR ICE FLOATING IN the AIR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a cloud is yún 雲.
-2. Xiāo 霄 refers in an elevated style to high thin clouds, and the word is fairly rare.
-3. Xiá 霞 refers to misty, rosy-coloured clouds.
-4. Yùn 暈 refers to the halo round sun or moon which can occur when certain cloud formations surround the sun or moon, a phenomenon which attracted particular attention Shang dynasty astronomers.
-5. Bái hóng 白虹 refers to the palish rainbow-like structure which sometimes accompanies the halo round the moon or the sun.
+1. The current general word for a cloud is yún [[雲]].
+2. Xiāo [[霄]] refers in an elevated style to high thin clouds, and the word is fairly rare.
+3. Xiá [[霞]] refers to misty, rosy-coloured clouds.
+4. Yùn [[暈]] refers to the halo round sun or moon which can occur when certain cloud formations surround the sun or moon, a phenomenon which attracted particular attention Shang dynasty astronomers.
+5. Bái hóng [[白虹]] refers to the palish rainbow-like structure which sometimes accompanies the halo round the moon or the sun.
 ## Modern Chinese Criteria
 雲
 雲彩

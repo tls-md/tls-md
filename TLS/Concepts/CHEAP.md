@@ -28,8 +28,8 @@ zh: 便宜
 PRICE MORE SMALL THAN IMAGINED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word is jiàn 賤 (ant. guì 貴 "expensive"), which describes something as low in quality and therefore also in price.
-2. Qīng 輕 (ant. zhòng 重 "expensive") is an economic technical term for something being low in price.
+1. The dominant word is jiàn [[賤]] (ant. guì [[貴]] "expensive"), which describes something as low in quality and therefore also in price.
+2. Qīng [[輕]] (ant. zhòng [[重]] "expensive") is an economic technical term for something being low in price.
 ## Modern Chinese Criteria
 便宜
 賤

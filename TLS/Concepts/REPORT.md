@@ -23,13 +23,13 @@ och: 告
 ADDRESS others so as to CAUSE them to BECOME AWARE of a FACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for any report or the passing on of any information is gào 告. But see also ADDRESS.
-2. Yù 語 is a common word referring to informal oral notification or instruction.
-3. Bào 報 and the rarer fù 復 refer to an oral report to the authorities as required by these authorities.
-4. Yè 謁 refers to the transmitting of a message, typically by the ancient Chinese equivalent of a butler.
-5. Wén 聞 refers to making something known to a superior or to the public at large.
-6. Fěng 諷 refers to an informal (often subtly disguised) personal opinion passed on to superiors.
-7. Bái 白 refers to a personal report, often urgent, and typically by an inferior to a superior, and when used among equals it is a polite form of self-deprecation.
+1. The current word for any report or the passing on of any information is gào [[告]]. But see also ADDRESS.
+2. Yù [[語]] is a common word referring to informal oral notification or instruction.
+3. Bào [[報]] and the rarer fù [[復]] refer to an oral report to the authorities as required by these authorities.
+4. Yè [[謁]] refers to the transmitting of a message, typically by the ancient Chinese equivalent of a butler.
+5. Wén [[聞]] refers to making something known to a superior or to the public at large.
+6. Fěng [[諷]] refers to an informal (often subtly disguised) personal opinion passed on to superiors.
+7. Bái [[白]] refers to a personal report, often urgent, and typically by an inferior to a superior, and when used among equals it is a polite form of self-deprecation.
 ## Modern Chinese Criteria
 告訴 is the current colourless general word for passing on information.
 告知 is a more old-fashioned way of letting someone know something.

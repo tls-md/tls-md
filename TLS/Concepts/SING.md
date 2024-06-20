@@ -15,11 +15,11 @@ och: 歌
 SPEAK CONFORMING to a MELODY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for singing a song is gē 歌.
-2. Míng 鳴 refers to the singing of non-human agents.
-3. Chàng 唱 is to set the tune in singing, but the word later came to refer also to reciting prose texts in a dramatic drawn-out manner. See CHANT
-4. Hé 和 is to chime in singing according to a tune set by someone else.
-5. O!u 謳 and the rarer yáo 謠 refer specifically to unaccompanied singing of songs, typically folk songs.
+1. The current general word for singing a song is gē [[歌]].
+2. Míng [[鳴]] refers to the singing of non-human agents.
+3. Chàng [[唱]] is to set the tune in singing, but the word later came to refer also to reciting prose texts in a dramatic drawn-out manner. See CHANT
+4. Hé [[和]] is to chime in singing according to a tune set by someone else.
+5. O!u [[謳]] and the rarer yáo [[謠]] refer specifically to unaccompanied singing of songs, typically folk songs.
 ## 
 HUANG JINGUI 2006
 ART 3.

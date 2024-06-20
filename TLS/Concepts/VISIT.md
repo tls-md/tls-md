@@ -19,13 +19,13 @@ och: 見
 G0-TO someone so as to COMMUNICATE AND INTERACT with him/her for a SHORT PERIOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for paying a visit is jiàn 見.
-2. Yè 謁 refers to any formal visit, private or official.
-3. Pìn 聘 refers to a formal and official visit on behalf of some political authority.
-4. Wèn 問 refers to a visit to a sick person or to the bereaved.
-5. Cháo 朝 refers to a formal visit or general attendance at court.
-6. Guō 過 refers to informal visit en passant.
-7. Cān 參 refers to a visit to a superior.
+1. The most current general word for paying a visit is jiàn [[見]].
+2. Yè [[謁]] refers to any formal visit, private or official.
+3. Pìn [[聘]] refers to a formal and official visit on behalf of some political authority.
+4. Wèn [[問]] refers to a visit to a sick person or to the bereaved.
+5. Cháo [[朝]] refers to a formal visit or general attendance at court.
+6. Guō [[過]] refers to informal visit en passant.
+7. Cān [[參]] refers to a visit to a superior.
 ## 
 HUANG JINGUI 2006 13. AT COURT
 朝，一切朝見活動的總稱；西周特指春季諸侯拜見周見周天子。

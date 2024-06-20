@@ -10,9 +10,9 @@ zh: 傀儡
 TOY in the form of a SMALL STATUE of a HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. O ㄆ偶 refers to a small statue, typically of a person, buried with the dead, and the emphasis is on the likeness with a living person.
-2. Yǒng 俑 refers to the figurines put into tombs and buried with the dead, and the focus is on the fact that these figurines accompany a dead person into the ground.
-NB: Kuǐ lěi 傀儡 is post-Han.
+1. O ㄆ[[偶]] refers to a small statue, typically of a person, buried with the dead, and the emphasis is on the likeness with a living person.
+2. Yǒng [[俑]] refers to the figurines put into tombs and buried with the dead, and the focus is on the fact that these figurines accompany a dead person into the ground.
+NB: Kuǐ lěi [[傀儡]] is post-Han.
 ## Modern Chinese Criteria
 傀儡
 木偶

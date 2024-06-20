@@ -21,13 +21,13 @@ TERRITORY GOVERNED by an INDEPENDENT RULER.
 [[STAAT]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word is guó 國, and the word naturally focusses on the capital which defines the identity of the state, but from Warring States times the word does refer to the whole of the territory, as the term guó xiāo 國削 "the state was truncated" shows.
-2. Bāng 邦 is an area-orientated old word referring to an extended state (see the early 大邦 ) without emphasising the leading role of a capital in that state, and the word was increasingly replaced by guó 國 even before taboo rules related to the name of Liú Bāng had their impact.
-3. Tǔ 土 refers to territory as such, and occasionally comes to refer to the territory of a certain state, including one's own.
-4. Fāng 方 refers to a region other than one's own state, and note particularly the old phrase 方國.
-5. Tiān xià 天下 refers to the inhabited earth construed as dominated by the emperor or Son of Heaven, but by extension the expression also refers collectively to the the central states governed by the zhū hóu 諸侯. (NOTE THAT THE EMPIRE OF CHINA WAS NOT REGARDED AS A STATE.)
-6. Guó jiā 國家 refers to the nation as a social institution dominated by a certain clan. See NATION.
-7. Yì 邑 "capital" occasionally comes to refer to the state dominated by a certain city, its capital.
+1. The dominant word is guó [[國]], and the word naturally focusses on the capital which defines the identity of the state, but from Warring States times the word does refer to the whole of the territory, as the term guó xiāo [[國削]] "the state was truncated" shows.
+2. Bāng [[邦]] is an area-orientated old word referring to an extended state (see the early [[大邦]] ) without emphasising the leading role of a capital in that state, and the word was increasingly replaced by guó [[國]] even before taboo rules related to the name of Liú Bāng had their impact.
+3. Tǔ [[土]] refers to territory as such, and occasionally comes to refer to the territory of a certain state, including one's own.
+4. Fāng [[方]] refers to a region other than one's own state, and note particularly the old phrase [[方國]].
+5. Tiān xià [[天下]] refers to the inhabited earth construed as dominated by the emperor or Son of Heaven, but by extension the expression also refers collectively to the the central states governed by the zhū hóu [[諸侯]]. (NOTE THAT THE EMPIRE OF CHINA WAS NOT REGARDED AS A STATE.)
+6. Guó jiā [[國家]] refers to the nation as a social institution dominated by a certain clan. See NATION.
+7. Yì [[邑]] "capital" occasionally comes to refer to the state dominated by a certain city, its capital.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 29. 從商代起，隨著國家的發展先後出現國家的通稱 “ 方、邦、國 ” 。

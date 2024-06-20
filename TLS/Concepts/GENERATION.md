@@ -11,11 +11,11 @@ och: 世
 PERIOD EQUAL to that of the LIFE of a HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word for a generation is shì 世, and this word has strong temporal connotations referring to the period of one generation, and the word has a certain syntactic flexibility. Sān shì 三世 refers to three generations.
-2. Dài 代 refers to the length of a whole dynasty comprising several generations, and the word in this meaning has little syntactic flexibility. Sān dài 三代 refers to three dynasties Xià, Shāng, and Zhōu. See DYNASTY
-3. Jì 紀 refers to a cycle of 12 years, sān jì 三紀 refers to a period of thirty-six years, but from Later Han times, the reference is often more generally to a generation.
-4. Tiān xià 天下 "all under Heaven" often refers generally to all people alive at a certain time.
-5. Shí rén 時人 refers specifically and prosaically to the people of the time.
+1. The dominant general word for a generation is shì [[世]], and this word has strong temporal connotations referring to the period of one generation, and the word has a certain syntactic flexibility. Sān shì [[三世]] refers to three generations.
+2. Dài [[代]] refers to the length of a whole dynasty comprising several generations, and the word in this meaning has little syntactic flexibility. Sān dài [[三代]] refers to three dynasties Xià, Shāng, and Zhōu. See DYNASTY
+3. Jì [[紀]] refers to a cycle of 12 years, sān jì [[三紀]] refers to a period of thirty-six years, but from Later Han times, the reference is often more generally to a generation.
+4. Tiān xià [[天下]] "all under Heaven" often refers generally to all people alive at a certain time.
+5. Shí rén [[時人]] refers specifically and prosaically to the people of the time.
 ## Modern Chinese Criteria
 世代
 時世

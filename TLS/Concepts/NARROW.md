@@ -12,9 +12,9 @@ och: 狹
 SMALL in the MORE SMALL DIMENSION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for narrowness is xiá 狹 (ant. kuān 寬 "broad") which refers quite generally to the small size of any opening.
-2. Ài 隘 typically, but not always, connotes difficult military access.
-3. Lòu 陋 (ant.* kuò 闊 "in grand style") refers only indirectly to narrowness of a street as an indication of its undistinguished character. The word focusses on this undistinguished character and is quite marginal in this group.
+1. The current general word for narrowness is xiá [[狹]] (ant. kuān [[寬]] "broad") which refers quite generally to the small size of any opening.
+2. Ài [[隘]] typically, but not always, connotes difficult military access.
+3. Lòu [[陋]] (ant.* kuò [[闊]] "in grand style") refers only indirectly to narrowness of a street as an indication of its undistinguished character. The word focusses on this undistinguished character and is quite marginal in this group.
 ## Modern Chinese Criteria
 狹隘
 狹窄

@@ -18,8 +18,8 @@ zh: 拿來
 TAKE something so as to MOVE it to the PLACE where the SPEAKER IS-IN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for bringing something along with one is lái 來 and this focusses on the presence of the bearer.
-2. Zhì 致 is to convey or bring something to any place.
+1. The current word for bringing something along with one is lái [[來]] and this focusses on the presence of the bearer.
+2. Zhì [[致]] is to convey or bring something to any place.
 ## Modern Chinese Criteria
 拿來
 帶來

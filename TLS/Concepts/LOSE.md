@@ -15,11 +15,11 @@ och: 失
 to BEGIN to LACK something, NOT VOLUNTARILY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word for to lose is shī 失 (ant. dé 得 "get") which refers to any disappearance of something which belonged to one in any sense, but the emphasis tends to be on the loss being the result of a mistake rather than mere insouciance.
-2. Yí 遺 (ant. cún 存 "keep in one's possession) is to lose through inadvertency an object that one would like to have or to keep.
-3. Wà2ng 亡 (ant. yǒu 有 "have") refers to the the disappearance or loss of property, what one has control of or owns, not to the loss of e.g. parts of the body.
-4. Sàng 喪 (ant. dé 得 "get") is to lose something or someone dear to one or close to one, including objects of "inalienable possession", either momentarily for a time, or permanently.
-5. Juān 捐 is sometimes used to refer to seeing one's supply of something diminished or to have such a supply disappear.
+1. The dominant general word for to lose is shī [[失]] (ant. dé [[得]] "get") which refers to any disappearance of something which belonged to one in any sense, but the emphasis tends to be on the loss being the result of a mistake rather than mere insouciance.
+2. Yí [[遺]] (ant. cún [[存]] "keep in one's possession) is to lose through inadvertency an object that one would like to have or to keep.
+3. Wà2ng [[亡]] (ant. yǒu [[有]] "have") refers to the the disappearance or loss of property, what one has control of or owns, not to the loss of e.g. parts of the body.
+4. Sàng [[喪]] (ant. dé [[得]] "get") is to lose something or someone dear to one or close to one, including objects of "inalienable possession", either momentarily for a time, or permanently.
+5. Juān [[捐]] is sometimes used to refer to seeing one's supply of something diminished or to have such a supply disappear.
 ## Modern Chinese Criteria
 丟
 喪失

@@ -18,17 +18,17 @@ zh: 語言
 METHOD USING SOUND USING which HUMANS MUTUALLY COMMUNICATE AND EXPRESS MEANING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most abstract philosophical and general term for language is yán 言.
-2. Yǔ 語 refers to speech as part of a dialogue, but very often also generally to a language of one kind or another.
-3. Yīn 音 refers to language as primarily manifested in special forms of oral articulation, but the word also often refers to a specific language in general.
-4. Wén 文 refers to language as primarily manifested in specific ways of writing it down, but the word also often refers to a specific language in general. Gāosēngzhuàn p. 329 that someone 手執梵文口宣晉語。 "In his hand he held the Sanskrit text and with his mouth pronounced Jìn language."
-5. Huà 話 refers to language as concrete utterance, typically as part of dialogue, and the word which is so common in modern Chinese is quite rare in classical Chinese.
-6. Fāng yán 方言 (Míng dynasty occasional variant: 方語 ) refers to a local language or dialect, as spoken in a given place.
-7. Yányǔ 言語 and the somewhat rarer yǔyán 語言 refer to language and linguistic articulatory activity in a general abstract way.
-8. Yǔyīn 語音 and yányīn 言音 refer to oral articulatory aspects of language in a general and abstract way.
-9. Yīn yì 音義 is a rare expression referring abstractly to a local variety of linguistic conventions linking sound and meaning.
-10. Wén zì 文字 refers to the written language.
-T49n2038_p0910c26(05)║ 所以善吐番音。兼解諸國文字。
+1. The most abstract philosophical and general term for language is yán [[言]].
+2. Yǔ [[語]] refers to speech as part of a dialogue, but very often also generally to a language of one kind or another.
+3. Yīn [[音]] refers to language as primarily manifested in special forms of oral articulation, but the word also often refers to a specific language in general.
+4. Wén [[文]] refers to language as primarily manifested in specific ways of writing it down, but the word also often refers to a specific language in general. Gāosēngzhuàn p. 329 that someone [[手執梵文口宣晉語]]。 "In his hand he held the Sanskrit text and with his mouth pronounced Jìn language."
+5. Huà [[話]] refers to language as concrete utterance, typically as part of dialogue, and the word which is so common in modern Chinese is quite rare in classical Chinese.
+6. Fāng yán [[方言]] (Míng dynasty occasional variant: [[方語]] ) refers to a local language or dialect, as spoken in a given place.
+7. Yányǔ [[言語]] and the somewhat rarer yǔyán [[語言]] refer to language and linguistic articulatory activity in a general abstract way.
+8. Yǔyīn [[語音]] and yányīn [[言音]] refer to oral articulatory aspects of language in a general and abstract way.
+9. Yīn yì [[音義]] is a rare expression referring abstractly to a local variety of linguistic conventions linking sound and meaning.
+10. Wén zì [[文字]] refers to the written language.
+T49n2038_p0910c26(05)║ [[所以善吐番音]]。[[兼解諸國文字]]。
 ## Modern Chinese Criteria
 語言 is the general word for language.
 言語 is a more literary way of referring to what in French is parole "language use, speech".

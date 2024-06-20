@@ -31,15 +31,15 @@ och: 工
 Make an EFFORT ENDURINGLY CONFORMING to a PLAN, IN ORDER TO ACHIEVE an AIM, and OFTEN IN ORDER TO be PAID a SALARY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for work is gōng 工 (ant. xiū 休 "rest"), but the word refers specifically to skilled work.
-2. Shì 事 (ant. xián 閒 "be at leisure") refers primarily to an official or regular working effort made on behalf of and in the service of an employer or a ruler.
-3. Zuò 作 (ant. xí 息 "take a rest from work") refers to manual work.
-4. Chǎn 產 refers to the pursuance of a traditional family trade.
-5. Yè 業 refers to the pursuance of one's own professional career or one's career as a skilled artisan, farmer etc..
-6. Wù 務 refers to work imposed on one because of one's public employment.
-7. Shēng 生 can occasionally come to refer to something like one's daily work.
-8. Zhì 治 is mostly used verbally and refers to putting a coherent organised effort into something or work at something.
-9. Gān 干 is only used verbally and refers to the concerted effort or working towards an end.
+1. The current general term for work is gōng [[工]] (ant. xiū [[休]] "rest"), but the word refers specifically to skilled work.
+2. Shì [[事]] (ant. xián [[閒]] "be at leisure") refers primarily to an official or regular working effort made on behalf of and in the service of an employer or a ruler.
+3. Zuò [[作]] (ant. xí [[息]] "take a rest from work") refers to manual work.
+4. Chǎn [[產]] refers to the pursuance of a traditional family trade.
+5. Yè [[業]] refers to the pursuance of one's own professional career or one's career as a skilled artisan, farmer etc..
+6. Wù [[務]] refers to work imposed on one because of one's public employment.
+7. Shēng [[生]] can occasionally come to refer to something like one's daily work.
+8. Zhì [[治]] is mostly used verbally and refers to putting a coherent organised effort into something or work at something.
+9. Gān [[干]] is only used verbally and refers to the concerted effort or working towards an end.
 ## 
 HUANG JINGUI 2006
 TRADE 17. TRADE 17. 雇傭。

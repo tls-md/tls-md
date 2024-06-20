@@ -55,16 +55,16 @@ zh: 優秀
 FEATURE BECAUSE of which SOMETHING OR SOMEONE IS OR SHOULD BE PREFERRED to OTHERS
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current general word for anything or anyone who naturally meets certain generally accepted high standards of excellence is liáng 良 (ant. liè 劣 "inferior").
-2. Shàn 善 (ant. zhuó 拙 "inept"), when the word does not mean moral goodness, but is close in meaning to liáng 良, refers to an acquired specific skill or propensity for certain forms of action.
-3. Jīng 精 (of general application) (ant. cū 粗 "of only rough quality") and ruì 銳 (typically applied to military prowess) (ant. dùn 鈍 "of lesser quality") refer to above-average performance without suggestion individual excellence.
-4. Yōu 優 (ant. liè 劣 "inferior") and cháng 長 (ant. duǎn 短 "of lesser quality") refers to a distinct advantage in excellence compared with some reference group or some point of reference.
-5. Gōng 工 (ant. yú 寙 "fumbling, inept") is to be specialised in something concrete or even professional in an area, typically a craft.
-6. Jiā 佳 (ant. xià 下 "inferior in quality") implies manifestly recognised striking excellence regarding such qualities such as beauty or moral cultivation.
-7. Měi 美 (ant. è 惡 "of bad quality") when it does not have its standard meaning "beauty" indicates striking or admirable high quality of anything concrete or abstract.
-8. Jiā 嘉 (ant. yōng 庸 "mediocre") refers to manifestly recognised striking excellence, typically of an abstract kind.
-9. Zhǐ 旨 (ant. báo 薄 "of slight quality") refers specifically to excellence in the quality of wine, and sometimes to other foodstuffs.
-10. Jùn 駿 (ant. nú 駑 "miserable hag") refers specifically to excellence in horses, and by extension occasionally serves as metaphoric for outstanding personalities.
+1. The standard current general word for anything or anyone who naturally meets certain generally accepted high standards of excellence is liáng [[良]] (ant. liè [[劣]] "inferior").
+2. Shàn [[善]] (ant. zhuó [[拙]] "inept"), when the word does not mean moral goodness, but is close in meaning to liáng [[良]], refers to an acquired specific skill or propensity for certain forms of action.
+3. Jīng [[精]] (of general application) (ant. cū [[粗]] "of only rough quality") and ruì [[銳]] (typically applied to military prowess) (ant. dùn [[鈍]] "of lesser quality") refer to above-average performance without suggestion individual excellence.
+4. Yōu [[優]] (ant. liè [[劣]] "inferior") and cháng [[長]] (ant. duǎn [[短]] "of lesser quality") refers to a distinct advantage in excellence compared with some reference group or some point of reference.
+5. Gōng [[工]] (ant. yú [[寙]] "fumbling, inept") is to be specialised in something concrete or even professional in an area, typically a craft.
+6. Jiā [[佳]] (ant. xià [[下]] "inferior in quality") implies manifestly recognised striking excellence regarding such qualities such as beauty or moral cultivation.
+7. Měi [[美]] (ant. è [[惡]] "of bad quality") when it does not have its standard meaning "beauty" indicates striking or admirable high quality of anything concrete or abstract.
+8. Jiā [[嘉]] (ant. yōng [[庸]] "mediocre") refers to manifestly recognised striking excellence, typically of an abstract kind.
+9. Zhǐ [[旨]] (ant. báo [[薄]] "of slight quality") refers specifically to excellence in the quality of wine, and sometimes to other foodstuffs.
+10. Jùn [[駿]] (ant. nú [[駑]] "miserable hag") refers specifically to excellence in horses, and by extension occasionally serves as metaphoric for outstanding personalities.
 ## Modern Chinese Criteria
 優秀
 超卓 "sublime"

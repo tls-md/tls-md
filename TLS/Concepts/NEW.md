@@ -33,7 +33,7 @@ och: 新
 EXIST AND have BEGUN to EXIST RECENTLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for something newly invented is xīn 新 (ant. 舊 ) which generally tends to have negative connotations in cultural contexts but takes on positive connotations when referring to articles of daily use etc..
+1. The current word for something newly invented is xīn [[新]] (ant. [[舊]] ) which generally tends to have negative connotations in cultural contexts but takes on positive connotations when referring to articles of daily use etc..
 ## Modern Chinese Criteria
 新
 新鮮

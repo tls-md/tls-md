@@ -9,9 +9,9 @@ PRAISE SUPERNATURALLY AND HELP SUPERNATURALLY.
 # Criteria and general notes
 ## Old Chinese Criteria
 [PRACTICAL/VERBAL]
-1. Yòu 右／佑／祐 refers to the active blessings conferred on humans by the spirits or gods.
+1. Yòu [[右]]／[[佑]]／[[祐]] refers to the active blessings conferred on humans by the spirits or gods.
 [PRACTICAL]
-2. Zhù 祝 refers to the use of language to enlist the spirits in support for someone, and in a broader sense the word can refer to the formal expression of good wishes for someone on festive occasions.
+2. Zhù [[祝]] refers to the use of language to enlist the spirits in support for someone, and in a broader sense the word can refer to the formal expression of good wishes for someone on festive occasions.
 [VERBAL]
 ## Modern Chinese Criteria
 保佑

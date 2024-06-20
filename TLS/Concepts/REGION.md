@@ -20,8 +20,8 @@ och: 州
 LARGE TERRITORY of TERRITORIES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general old word for a region is zhōu 州 as in jiǔ zhōu 九州 "the Nine Regions of the World". Especially from Three Kingdom times onwards this word came to regularly replace the term jùn 郡 as the designation of a province. In Han times, under emperor Wǔdì, the leader of a zhōu 州 is called cì shǐ 刺史.
-2. Xiàn 縣 referred to a military region under states already in Spring and Autumn times, and these regions were in the border regions. Later, especially in the state of Qin, annexed states were converted into 36 jùn 郡 "commanderies" (governed by a tài shǒu 太守 "governor") which in turn were subdivided into xiàn 縣 "districts" (governed by a lìng 令 "commander" or zhǎng 長 "official-in-charge").
+1. The general old word for a region is zhōu [[州]] as in jiǔ zhōu [[九州]] "the Nine Regions of the World". Especially from Three Kingdom times onwards this word came to regularly replace the term jùn [[郡]] as the designation of a province. In Han times, under emperor Wǔdì, the leader of a zhōu [[州]] is called cì shǐ [[刺史]].
+2. Xiàn [[縣]] referred to a military region under states already in Spring and Autumn times, and these regions were in the border regions. Later, especially in the state of Qin, annexed states were converted into 36 jùn [[郡]] "commanderies" (governed by a tài shǒu [[太守]] "governor") which in turn were subdivided into xiàn [[縣]] "districts" (governed by a lìng [[令]] "commander" or zhǎng [[長]] "official-in-charge").
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 31.

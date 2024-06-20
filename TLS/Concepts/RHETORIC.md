@@ -7,7 +7,7 @@ zh: 修辭
 Oneof the ARTS, that of ELOQUENCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-辯
+[[辯]]
 ## Modern Chinese Criteria
 修辭 is the current modern word for rhetoric.
 筆勢

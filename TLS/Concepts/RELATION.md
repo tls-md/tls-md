@@ -19,7 +19,7 @@ zh: 關係
 FEATURE of TWO OR MORE THINGS TOGETHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard way of speaking of a relation in classical Chinese is the idiom “X zhī yú 之於 Y”.
+1. The standard way of speaking of a relation in classical Chinese is the idiom “X zhī yú [[之於]] Y”.
 ## Modern Chinese Criteria
 對
 關於

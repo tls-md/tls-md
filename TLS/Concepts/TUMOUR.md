@@ -8,12 +8,12 @@ och: 瘤
 An ILLNESS in the form of a SWELLING NOT CAUSED BY INFLAMMATION. [MEDICINE]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for any protumescence or tumour on the body is liú 瘤.
-2. Zhuì 贅 refers to any excrescence or wart.
-3. Yóu 疣 refers specifically to a wart.
-4. Yōng 癰 refers specifically to a carbuncle.
-5. Yǐng 癭 refers specifically to the enlargement of the thyroid gland, goitre.
-NB: Yān 癌／岩／嵒 is post-Han.
+1. The general word for any protumescence or tumour on the body is liú [[瘤]].
+2. Zhuì [[贅]] refers to any excrescence or wart.
+3. Yóu [[疣]] refers specifically to a wart.
+4. Yōng [[癰]] refers specifically to a carbuncle.
+5. Yǐng [[癭]] refers specifically to the enlargement of the thyroid gland, goitre.
+NB: Yān [[癌]]／[[岩]]／[[嵒]] is post-Han.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 17. TUMOUR 腫瘤。

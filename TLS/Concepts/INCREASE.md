@@ -62,10 +62,10 @@ och: 益/滋
 CAUSE TO BECOME MORE IN QUANTITY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and most general word for increase, both abstract and concrete is yì 益 (ant. sǔn 損 "decrease"). See MORE which overlaps considerably with this group.
-2. Zī 滋 is an archaic but not uncommon word referring to an overall natural increase or growth in quantity of something, but the most current use of the word is adverbial in the sense "increasing naturally".
-3. Zé1ng 增 (ant. shǎo 少 "beocme less") typically refers to concrete or material increase of something.
-4. Jiā 加 (ant. jiǎn 減 "decrease by taking away") typically focusses on the action of adding something which brings about the increase.
+1. The most current and most general word for increase, both abstract and concrete is yì [[益]] (ant. sǔn [[損]] "decrease"). See MORE which overlaps considerably with this group.
+2. Zī [[滋]] is an archaic but not uncommon word referring to an overall natural increase or growth in quantity of something, but the most current use of the word is adverbial in the sense "increasing naturally".
+3. Zé1ng [[增]] (ant. shǎo [[少]] "beocme less") typically refers to concrete or material increase of something.
+4. Jiā [[加]] (ant. jiǎn [[減]] "decrease by taking away") typically focusses on the action of adding something which brings about the increase.
 ## Modern Chinese Criteria
 增多
 增加

@@ -22,8 +22,8 @@ och: 痕
 TRACE of CURED INJURY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a scar is hén 痕, but this word is rather rare in pre-Buddhist times.
-2. Bān 瘢 refers to a large scar.
+1. The general word for a scar is hén [[痕]], but this word is rather rare in pre-Buddhist times.
+2. Bān [[瘢]] refers to a large scar.
 ## Modern Chinese Criteria
 傷痕 refers to the healed wound or scar rather than the injury.
 創痕 refers to the scar left behind by a laceration.

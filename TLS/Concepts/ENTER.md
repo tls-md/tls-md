@@ -16,11 +16,11 @@ och: 入／內
 MOVE so as to BEGIN to BE-IN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard dominant word is rù 入 (ant. chū 出 "go out") which refers to any kind of concrete or abstract entering of a thing into another.
-2. Nà 納 / 內 is causative and refers to letting enter or causing to enter.
-3. Zhù 注 refers to causing liquids to enter a a container. [See also POUR]
-4. Guàn 灌 refers to causing water to enter a location (prototypically for irrigation). [See POUR.]
-NB: Jìn 進 "to enter" occurs only from JIN DYNASTY times onwards, as far as I have been able to see.
+1. The standard dominant word is rù [[入]] (ant. chū [[出]] "go out") which refers to any kind of concrete or abstract entering of a thing into another.
+2. Nà [[納]] / [[內]] is causative and refers to letting enter or causing to enter.
+3. Zhù [[注]] refers to causing liquids to enter a a container. [See also POUR]
+4. Guàn [[灌]] refers to causing water to enter a location (prototypically for irrigation). [See POUR.]
+NB: Jìn [[進]] "to enter" occurs only from JIN DYNASTY times onwards, as far as I have been able to see.
 ## Modern Chinese Criteria
 進
 進入

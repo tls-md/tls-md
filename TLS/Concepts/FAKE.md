@@ -19,10 +19,10 @@ och: 矯
 CREATE SOMETHING WHICH PRETENDS TO BE WHAT IT IS NOT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for faking something is jiǎo 矯 and the typical focus is on fraudulence involved.
-2. Wěi 偽 (ant. zhēn 真 ) focusses on the artificiality rather than natural or proper provenance of the product.
-3. Xū 虛 (ant. shí 實 ) focusses on the insubstantiality of the product, and the word is normally used adnominally.
-NB: Jiǎ 假 (ant. zhēn 真 ) focusses on something standing in for something else that is the genuine thing, but this usage was late to develop (HOUHANSHU).
+1. The current general word for faking something is jiǎo [[矯]] and the typical focus is on fraudulence involved.
+2. Wěi [[偽]] (ant. zhēn [[真]] ) focusses on the artificiality rather than natural or proper provenance of the product.
+3. Xū [[虛]] (ant. shí [[實]] ) focusses on the insubstantiality of the product, and the word is normally used adnominally.
+NB: Jiǎ [[假]] (ant. zhēn [[真]] ) focusses on something standing in for something else that is the genuine thing, but this usage was late to develop (HOUHANSHU).
 ## Modern Chinese Criteria
 捏造
 偽造

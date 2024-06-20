@@ -22,17 +22,17 @@ WALK so as to BECOME NEAR to something.
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
 [LITERAL/TRANSFERRED]
-1. The most current general word for approaching or getting close to anything is jìn 近 (ant. yuàn 遠 "remove oneself far from").
+1. The most current general word for approaching or getting close to anything is jìn [[近]] (ant. yuàn [[遠]] "remove oneself far from").
 [GENERAL], [LITERAL!]
-2. Jí 即 and jiù 就 (all ant. lí 離 "leave, move away from") refer neutrally to moving close to a certain place.
+2. Jí [[即]] and jiù [[就]] (all ant. lí [[離]] "leave, move away from") refer neutrally to moving close to a certain place.
 [GENERAL]
-3. Bó 薄 and pò 迫 refers somewhat dramatically to moving (often precariously) close to something.
+3. Bó [[薄]] and pò [[迫]] refers somewhat dramatically to moving (often precariously) close to something.
 [DRAMATIC], [LITERAL]
-4. Fù 附 is to move very close up indeed to something, often getting attached to it.
+4. Fù [[附]] is to move very close up indeed to something, often getting attached to it.
 [HIGH-DEGREE], [LITERAL]
-5. Qīn 親 (NB: shū 疏 is not used as an antonym for this meaning.) refers primarily to moving intimately close to something.
+5. Qīn [[親]] (NB: shū [[疏]] is not used as an antonym for this meaning.) refers primarily to moving intimately close to something.
 [ELEVATED], [TRANSFERRED!]
-6. Lín 臨 is often used in ways characteristic of the dignified court style, but the word also commonly refers to getting close to a place or time in a natural course of events.
+6. Lín [[臨]] is often used in ways characteristic of the dignified court style, but the word also commonly refers to getting close to a place or time in a natural course of events.
 [ELEVATED!], [GENERAL]
 ## Modern Chinese Criteria
 接近

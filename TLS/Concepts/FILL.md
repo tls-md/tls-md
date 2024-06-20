@@ -13,11 +13,11 @@ och: 盈
 CAUSE TO BECOME FULL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general and current word in this group is probably yíng 盈 (ant. xū 虛 "empty out") which refers to any filling up or filling in, abstract or concrete.
-2. Chōng 充 refers to the concrete filling out completely of a container or a suitable empty space with (often desirable) physical substances.
-3. Sài 塞 emphasises the nuance of filling in a space not necessarily designed to be filled in so as to block the free passage of other substances.
-4. Mǎn 滿 is a word that was rather late to gain currency, replacing certain usages of yíng 盈, and it refers to the filling out of all of an empty space, with large amounts or large numbers of some specified kind of objects.
-5. Tián 填 is originally to fill out something so as to make a level surface.
+1. The most general and current word in this group is probably yíng [[盈]] (ant. xū [[虛]] "empty out") which refers to any filling up or filling in, abstract or concrete.
+2. Chōng [[充]] refers to the concrete filling out completely of a container or a suitable empty space with (often desirable) physical substances.
+3. Sài [[塞]] emphasises the nuance of filling in a space not necessarily designed to be filled in so as to block the free passage of other substances.
+4. Mǎn [[滿]] is a word that was rather late to gain currency, replacing certain usages of yíng [[盈]], and it refers to the filling out of all of an empty space, with large amounts or large numbers of some specified kind of objects.
+5. Tián [[填]] is originally to fill out something so as to make a level surface.
 ## Modern Chinese Criteria
 充塞 is a current modern for filling something up.
 充溢 refers to filling something so it flows over.

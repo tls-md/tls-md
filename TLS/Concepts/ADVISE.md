@@ -18,11 +18,11 @@ ADDRESS someone INTENDing to HELP  his/her PLANing. 
 [BASIC/MARGINAL]
 [[CURRENT/RARE]]
 [NON-OFFICIAL/OFFICIAL]
-1. The current standard word for fairly formal consultation and advice to superiors is móu 謀.
+1. The current standard word for fairly formal consultation and advice to superiors is móu [[謀]].
 [ASCENDING], [BASIC], [OFFICIAL]
-2. Jiào 教 sometimes refers to advice close to instruction to inferiors.
+2. Jiào [[教]] sometimes refers to advice close to instruction to inferiors.
 [DESCENDING], [MARGINAL]; [[RARE]]
-3. Quàn 勸 is sometimes used to refer to advice without essential reference to relative status. See ENCOURAGE
+3. Quàn [[勸]] is sometimes used to refer to advice without essential reference to relative status. See ENCOURAGE
 [NON-OFFICIAL]
 ## Modern Chinese Criteria
 勸告 refers to encouraging advice.

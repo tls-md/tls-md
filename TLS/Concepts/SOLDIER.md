@@ -15,15 +15,15 @@ och: 卒
 ADULT who is a MEMBER of an ARMY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no current general word for a soldier of any rank, and the collective term for soldiers is jūn 軍 "army". See ARMY
-2. Zú 卒 and the archaic tú 徒 refer to an ordinary infantry soldier, and these footsoldiers never ride chariots.
-3. Jiǎ 甲 refers to armoured soldiers riding in carriages.
-4. Jì 騎 refers to cavalry (Han dynasty).
-5. Nǔ 弩 refers to crossbowmen.
-6. Yì 役 refers to a conscript soldier.
-7. Xiǎo rén 小人 (jūn zǐ 君子 "soldier of a higher grade") refers generically to the lower grades in the army.
-8. Shì 士 refers to officers riding chariots in battle.
-NB: Bīng 兵 "soldier" may turn out to be post-Han. I have not yet found a clear example where the word refers to a soldier.
+1. There is no current general word for a soldier of any rank, and the collective term for soldiers is jūn [[軍]] "army". See ARMY
+2. Zú [[卒]] and the archaic tú [[徒]] refer to an ordinary infantry soldier, and these footsoldiers never ride chariots.
+3. Jiǎ [[甲]] refers to armoured soldiers riding in carriages.
+4. Jì [[騎]] refers to cavalry (Han dynasty).
+5. Nǔ [[弩]] refers to crossbowmen.
+6. Yì [[役]] refers to a conscript soldier.
+7. Xiǎo rén [[小人]] (jūn zǐ [[君子]] "soldier of a higher grade") refers generically to the lower grades in the army.
+8. Shì [[士]] refers to officers riding chariots in battle.
+NB: Bīng [[兵]] "soldier" may turn out to be post-Han. I have not yet found a clear example where the word refers to a soldier.
 ## 
 HUANG JINGUI 2006
 WARFARE 6.

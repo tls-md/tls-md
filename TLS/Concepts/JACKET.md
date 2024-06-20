@@ -72,12 +72,12 @@ zh: 上衣
 OUTER GARMENET FOR THE UPPER PART of the BODY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for upper garments is yī 衣, as opposed to cháng 裳 "lower garments".
-2. Rú 襦 refers to a long-sleeved type of short padded jacket convenient to wear while working.
-3. Yú 衧 very elegant long-sleeved jacket worn by women.
-4. Shù 裋 is rare in early texts and refers to a rather longish light plain jacket, and the focus is on the simple and plain style of the jacket rather than the material it is made of, mainly from Han times onwards.
-5. Hè 褐 refers to a rough jacket made of kudzo vine in early times, but later also of hemp.
-6. Shù hè 裋褐 "plain jackets" (often written duǎn hè 短褐 ) commonly refers to rough or plain jackets worn by persons of humble status.
+1. The general term for upper garments is yī [[衣]], as opposed to cháng [[裳]] "lower garments".
+2. Rú [[襦]] refers to a long-sleeved type of short padded jacket convenient to wear while working.
+3. Yú [[衧]] very elegant long-sleeved jacket worn by women.
+4. Shù [[裋]] is rare in early texts and refers to a rather longish light plain jacket, and the focus is on the simple and plain style of the jacket rather than the material it is made of, mainly from Han times onwards.
+5. Hè [[褐]] refers to a rough jacket made of kudzo vine in early times, but later also of hemp.
+6. Shù hè [[裋褐]] "plain jackets" (often written duǎn hè [[短褐]] ) commonly refers to rough or plain jackets worn by persons of humble status.
 ## Modern Chinese Criteria
 上裝
 上衣

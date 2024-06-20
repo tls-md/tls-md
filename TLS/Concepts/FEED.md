@@ -16,18 +16,18 @@ och: 飼
 CAUSE TO EAT NECESSARY FOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word is sì 食 / 飼 which refers to any action of feeding, and the action of given someone something to drink is yìn 飲.
-2. Yù 飫 is to provide abundant food or even to regale guests.
-3. Xiǎng 享 / 饗 is typically to offer food for the enjoyment and appreciation of the spirits, and very often also for guests. See FEAST.
-4. Xiǎng 餉 is to serve someone a good meal for enjoyment, as a ritual sign of respect.
-5. Cān 餐 is to treat someone to a regular meal, hú 餬 is sometimes used to feed others with a very simple meal.
-6. Shàn 膳 refers to serving an excellent meal to somebody.
-7. Huàn 豢 is specifically to feed grain to pigs.
-8. Mò 秣 is specifically to feed horses with grain.
-9. Bǔ 哺 is specifically to feed babies.
-10. Tuī 摧 refers to giving fodder to animals.
-11. Yè 饁 is to carry food out for informal consumption by people working in the open air.
-12. Wèi 喂 / 餵 refers to feeding animals.
+1. The current general word is sì [[食]] / [[飼]] which refers to any action of feeding, and the action of given someone something to drink is yìn [[飲]].
+2. Yù [[飫]] is to provide abundant food or even to regale guests.
+3. Xiǎng [[享]] / [[饗]] is typically to offer food for the enjoyment and appreciation of the spirits, and very often also for guests. See FEAST.
+4. Xiǎng [[餉]] is to serve someone a good meal for enjoyment, as a ritual sign of respect.
+5. Cān [[餐]] is to treat someone to a regular meal, hú [[餬]] is sometimes used to feed others with a very simple meal.
+6. Shàn [[膳]] refers to serving an excellent meal to somebody.
+7. Huàn [[豢]] is specifically to feed grain to pigs.
+8. Mò [[秣]] is specifically to feed horses with grain.
+9. Bǔ [[哺]] is specifically to feed babies.
+10. Tuī [[摧]] refers to giving fodder to animals.
+11. Yè [[饁]] is to carry food out for informal consumption by people working in the open air.
+12. Wèi [[喂]] / [[餵]] refers to feeding animals.
 ## 
 HUANG JINGUI 2006
 FOOD 4. 進獻食物。

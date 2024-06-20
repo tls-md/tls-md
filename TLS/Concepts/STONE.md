@@ -10,9 +10,9 @@ zh: 石頭
 COMMON INTENSELY HARD SUBSTANCE in LANDSCAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a stone is shí 石.
-2. Pán 磐 refers to a boulder.
-3. Lì 礫 refers to a pebble.
+1. The general word for a stone is shí [[石]].
+2. Pán [[磐]] refers to a boulder.
+3. Lì [[礫]] refers to a pebble.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 26.

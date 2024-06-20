@@ -8,7 +8,7 @@ och: 帷
 VEHICLE PART in the form of a CURTAIN which blocks the view inside the carriage.
 # Criteria and general notes
 ## Old Chinese Criteria
-The general term for a carriage curtain is wéi 帷, but the word also refers specifically to the side curtains on a carriage.
+The general term for a carriage curtain is wéi [[帷]], but the word also refers specifically to the side curtains on a carriage.
 ## Modern Chinese Criteria
 ???
 # Ontology

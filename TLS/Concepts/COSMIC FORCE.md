@@ -7,11 +7,11 @@ zh: 陰陽氣
 FORCE, PRINCIPLE, OR ELEMENT which CONTROLS PERCEIVED PHENOMENA in the WORLD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general term for physical principles operative in the dynamics of natural processes is qì 氣.
-2. Yīn 陰 refers to the female, dark principle in Chinese naturalist and cosmological speculation.
-3. Yáng 陽 refers to the male, bright principle in Chinese naturalist and cosmological speculation.
-4. Dào 道 is sometimes used to refer to the quintessential material/energetic basis for cosmic development.
-5. Lǐ 理 is sometimes used as a general concept referring to all manner of basic cosmic forces.
+1. The most general term for physical principles operative in the dynamics of natural processes is qì [[氣]].
+2. Yīn [[陰]] refers to the female, dark principle in Chinese naturalist and cosmological speculation.
+3. Yáng [[陽]] refers to the male, bright principle in Chinese naturalist and cosmological speculation.
+4. Dào [[道]] is sometimes used to refer to the quintessential material/energetic basis for cosmic development.
+5. Lǐ [[理]] is sometimes used as a general concept referring to all manner of basic cosmic forces.
 ## Modern Chinese Criteria
 陰陽
 氣

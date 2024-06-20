@@ -21,8 +21,8 @@ och: 嗇
 EXCESSIVELY FRUGAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. A4i 愛 refers to stinginess with respect to a certain item, or to a certain kind of items.
-2. The negative quality of stinginess is lìn 吝 (ant. POST-BUDDHIST kāng kǎi 慷慨 "generous (with friends)", and in pre-Buddhist times the less exact huì 惠 "generous (to inferiors)").
+1. A4i [[愛]] refers to stinginess with respect to a certain item, or to a certain kind of items.
+2. The negative quality of stinginess is lìn [[吝]] (ant. POST-BUDDHIST kāng kǎi [[慷慨]] "generous (with friends)", and in pre-Buddhist times the less exact huì [[惠]] "generous (to inferiors)").
 ## Modern Chinese Criteria
 吝嗇
 慳吝

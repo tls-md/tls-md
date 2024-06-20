@@ -7,10 +7,10 @@ zh: 時間
 ABSTRACT OBJECT that all EVENTS ARE-IN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. An abstract general word for time as such is rì yuè 日月 or nián suì 年歲.
-2. Shí 時 refers to any period of time or point in time.
-3. Jì 際 can refer to a juncture in time.
-4. Jī 機 comes to refer to a crucial juncture or point in time, but so far no pre-Buddhist examples have been found.
+1. An abstract general word for time as such is rì yuè [[日月]] or nián suì [[年歲]].
+2. Shí [[時]] refers to any period of time or point in time.
+3. Jì [[際]] can refer to a juncture in time.
+4. Jī [[機]] comes to refer to a crucial juncture or point in time, but so far no pre-Buddhist examples have been found.
 ## Modern Chinese Criteria
 時間
 時刻

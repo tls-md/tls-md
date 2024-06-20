@@ -14,13 +14,13 @@ och: 神
 SUPERNATURAL CREATURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general designation for the spirits is guǐ shén 鬼神, and for the higher and lower spirits of Heaven and Earth it is shén qí 神祇.
-2. Guǐ 鬼 is very often a spirit of the deceased (See GHOST), but the word can also refer to nature spirits of all kinds.
-3. Shén 神 refers to the ethereal supernatural spirits of all kinds, primarily associated with heaven, but the word also refers to a righteous person who turns into such a spirit after death.
-4. Míng shén 明神 refers to the luminous elevated higher spirits, and it is significant that there are not míng guǐ 明鬼.
-5. Qí 祇 refers to the spirits of the earth.
-6. Yāo 妖 are wicked spirits, and jiān 姦 can be used in the same sense. See DEVIL.
-7. Xiān 仙 refers to ethereal divinised creatures of any kind, typically to those who have attained an eternal life on earth, and it is striking that the word gained currency first in Eastern Han times, and that the word is very common in the verbal meaning "become an immortal", whereas guǐ 鬼 is very rarely so used.
+1. The general designation for the spirits is guǐ shén [[鬼神]], and for the higher and lower spirits of Heaven and Earth it is shén qí [[神祇]].
+2. Guǐ [[鬼]] is very often a spirit of the deceased (See GHOST), but the word can also refer to nature spirits of all kinds.
+3. Shén [[神]] refers to the ethereal supernatural spirits of all kinds, primarily associated with heaven, but the word also refers to a righteous person who turns into such a spirit after death.
+4. Míng shén [[明神]] refers to the luminous elevated higher spirits, and it is significant that there are not míng guǐ [[明鬼]].
+5. Qí [[祇]] refers to the spirits of the earth.
+6. Yāo [[妖]] are wicked spirits, and jiān [[姦]] can be used in the same sense. See DEVIL.
+7. Xiān [[仙]] refers to ethereal divinised creatures of any kind, typically to those who have attained an eternal life on earth, and it is striking that the word gained currency first in Eastern Han times, and that the word is very common in the verbal meaning "become an immortal", whereas guǐ [[鬼]] is very rarely so used.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 18.

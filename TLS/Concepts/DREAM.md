@@ -18,9 +18,9 @@ zh: 作夢
 IMAGINE WHILE SLEEPING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for a dream is mèng 夢.
-2. Xiōng mèng 凶夢 refers to a nightmare.
-ZHOULI 3 占夢：掌其歲時，觀天地之會，辨陰陽之氣。以日月星辰占六夢之吉凶，一曰正夢，二曰噩夢，三曰思夢，四曰寤夢，五曰喜夢，六曰懼夢。季冬，聘王夢，獻吉夢于王，王拜而受之。乃舍萌于四方，以贈惡夢，遂令始難驅疫。
+1. The current standard word for a dream is mèng [[夢]].
+2. Xiōng mèng [[凶夢]] refers to a nightmare.
+ZHOULI 3 [[占夢]]：[[掌其歲時]]，[[觀天地之會]]，[[辨陰陽之氣]]。[[以日月星辰占六夢之吉凶]]，[[一曰正夢]]，[[二曰噩夢]]，[[三曰思夢]]，[[四曰寤夢]]，[[五曰喜夢]]，[[六曰懼夢]]。[[季冬]]，[[聘王夢]]，[[獻吉夢于王]]，[[王拜而受之]]。[[乃舍萌于四方]]，[[以贈惡夢]]，[[遂令始難驅疫]]。
 ## Modern Chinese Criteria
 作夢
 做夢

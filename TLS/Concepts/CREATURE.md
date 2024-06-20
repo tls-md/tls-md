@@ -8,7 +8,7 @@ zh: 生物
 LIVING THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for any living creature of any kind is wù 物.
+1. The general term for any living creature of any kind is wù [[物]].
 ## Modern Chinese Criteria
 生物
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

@@ -9,9 +9,9 @@ och: 幹
 CENTRAL, TYPICALLY MOST BIG, PART of a PLANT TYPICALLY A TREE OR OF THE BODY OF AN ANIMAL
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word referring to the trunk of a plant, particularly of trees is gàn 幹.
-2. Běn 本 refers to the lower main bearing part of the trunk, and the word often includes the root.
-3. Zhū 株 refers to a truncated trunk, and the root can be implied in the meaning of the word. See ROOT
+1. The general word referring to the trunk of a plant, particularly of trees is gàn [[幹]].
+2. Běn [[本]] refers to the lower main bearing part of the trunk, and the word often includes the root.
+3. Zhū [[株]] refers to a truncated trunk, and the root can be implied in the meaning of the word. See ROOT
 ## Modern Chinese Criteria
 幹
 莖

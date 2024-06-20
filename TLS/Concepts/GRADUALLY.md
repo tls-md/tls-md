@@ -22,8 +22,8 @@ och: 漸
 SLOW IN CHANGING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for something happening gradually rather than abruptly is jiàn 漸.
-2. Shāo 稍 refers to something happening increasingly.
+1. The standard word for something happening gradually rather than abruptly is jiàn [[漸]].
+2. Shāo [[稍]] refers to something happening increasingly.
 ## Modern Chinese Criteria
 逐漸
 逐步

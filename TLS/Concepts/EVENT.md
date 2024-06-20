@@ -15,8 +15,8 @@ zh: 事件
 REALITY that ARISES in TIME.
 # Criteria and general notes
 ## Old Chinese Criteria
-Notions like "process", "development", "evolution", as opposed to "change", "transformation" are not current in ancient Chinese thought. In particular there is no word for "history". Gǔ shì 古事 is not current in ancient texts, and the combination gù shì 故事 is common, but it never belongs together, gù 故 always meaning "therefore".
-1. The current word for an event is shì 事.
+Notions like "process", "development", "evolution", as opposed to "change", "transformation" are not current in ancient Chinese thought. In particular there is no word for "history". Gǔ shì [[古事]] is not current in ancient texts, and the combination gù shì [[故事]] is common, but it never belongs together, gù [[故]] always meaning "therefore".
+1. The current word for an event is shì [[事]].
 ## Modern Chinese Criteria
 事件
 事變

@@ -13,8 +13,8 @@ zh: 矮子
 ADULT HUMAN of INTENSELY SMALL SIZE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a dwarf, typically employed as a clown, was the binome zhū rú 侏儒. See CLOWN; See HUNCHBACK
-2. Rú 儒 alone is sometimes used to refer to a weakling or a dwarf without strength.
+1. The current general term for a dwarf, typically employed as a clown, was the binome zhū rú [[侏儒]]. See CLOWN; See HUNCHBACK
+2. Rú [[儒]] alone is sometimes used to refer to a weakling or a dwarf without strength.
 ## Modern Chinese Criteria
 矮子
 矮個兒

@@ -18,7 +18,7 @@ zh: 分佈
 GIVE EQUAL QUANTITY to MANY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shī 施 is to give away to a general group of recipients, and as an act of generosity.
+1. Shī [[施]] is to give away to a general group of recipients, and as an act of generosity.
 ## Modern Chinese Criteria
 分布
 散布

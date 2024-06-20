@@ -15,8 +15,8 @@ och: 鬼
 VISIBLE SOUL AFTER DIE:death.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for all manner of ghosts is guǐ 鬼.
-2. Bù ruò 不若 are ghosts of the wicked kind.
+1. The current general word for all manner of ghosts is guǐ [[鬼]].
+2. Bù ruò [[不若]] are ghosts of the wicked kind.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 20.

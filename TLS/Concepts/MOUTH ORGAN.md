@@ -8,9 +8,9 @@ och: 竽
 MUSICAL INSTRUMENT CONTAINING MANY TUBES, AND BLOWN into USING the MOUTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current word for an upright pipe organ is yú 竽, which refers to an organ with 36 bamboo pipes arranged tightly together on a gourd. See ill..
-2. Shēng 笙 refers to smaller variety of the upright yú 竽 with between 13 and 19 pipes.
-3. Xiāo 簫 refers to a system of 32 pipes arranged on one plane. A smaller variety had 16 pipes so arranged. It was played in the manner of the modern mouth organ. It is also called cēn cī 參差.
+1. The most current word for an upright pipe organ is yú [[竽]], which refers to an organ with 36 bamboo pipes arranged tightly together on a gourd. See ill..
+2. Shēng [[笙]] refers to smaller variety of the upright yú [[竽]] with between 13 and 19 pipes.
+3. Xiāo [[簫]] refers to a system of 32 pipes arranged on one plane. A smaller variety had 16 pipes so arranged. It was played in the manner of the modern mouth organ. It is also called cēn cī [[參差]].
 ## 
 HUANG JINGUI 2006
 ART 8.

@@ -17,7 +17,7 @@ zh: 對待
 INTERACT with someone USING a DEFINED METHOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for treating (or dealing with) someone or something in a certain way is dài 待.
+1. The standard word for treating (or dealing with) someone or something in a certain way is dài [[待]].
 ## Modern Chinese Criteria
 對付
 應付

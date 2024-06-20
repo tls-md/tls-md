@@ -14,12 +14,12 @@ zh: 箱
 CLOSED HARD CONTAINER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Qiè 篋 refers generally to a box in pre-Han literature, and specifically to an oval bamboo basket with cover, used for saving precious things, but also books or cloth.
-2. Guì 匱 refers to a cabinet-like box with doors.
-3. Dú 櫝 refers to a small box with small doors.
-4. Xiá 匣／柙 refers to a small box for objects like maps.
-5. The most general current word for a box became xiāng 箱, but this word became current only in Han times.
-6. Hán 函 refers to a container box large enough to contain a skull.
+1. Qiè [[篋]] refers generally to a box in pre-Han literature, and specifically to an oval bamboo basket with cover, used for saving precious things, but also books or cloth.
+2. Guì [[匱]] refers to a cabinet-like box with doors.
+3. Dú [[櫝]] refers to a small box with small doors.
+4. Xiá [[匣]]／[[柙]] refers to a small box for objects like maps.
+5. The most general current word for a box became xiāng [[箱]], but this word became current only in Han times.
+6. Hán [[函]] refers to a container box large enough to contain a skull.
 ## Modern Chinese Criteria
 盒子
 匣子

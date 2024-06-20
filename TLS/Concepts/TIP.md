@@ -25,11 +25,11 @@ och: 末
 PLACE at the END of a LONG THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for the tip of any branch or twig is 末. This word is commonly used in transferred meanings.
-2. Miǎo 杪 refers to the end of any branches in a tree, and the word never has any transferred meaning.
-3. Biāo 標 refers to the tips of branches at the top of a tree.
-4. Duān 端 can be used to refer to the end of anything including a branch or twig, but it is abstract in basic meaning.
-NB: 2. Shāo 梢 is a Tang dynasty colloquial term referring to the top of twigs or very small twigs.
+1. The general term for the tip of any branch or twig is [[末]]. This word is commonly used in transferred meanings.
+2. Miǎo [[杪]] refers to the end of any branches in a tree, and the word never has any transferred meaning.
+3. Biāo [[標]] refers to the tips of branches at the top of a tree.
+4. Duān [[端]] can be used to refer to the end of anything including a branch or twig, but it is abstract in basic meaning.
+NB: 2. Shāo [[梢]] is a Tang dynasty colloquial term referring to the top of twigs or very small twigs.
 ## Modern Chinese Criteria
 端
 頭

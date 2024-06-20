@@ -7,9 +7,9 @@ zh: 砧板
 BIG TIMBER TOOL USED FOR CUTTING THINGS ON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zhì 鑕 is a chopping block used for beheading and cutting in the waist.
-2. Zhēn 砧 is a post Qín 秦 word for a block used to beat a silk and other fabrics; it can also refer to a block for executions by beheading or cutting in the waist.
-3. Zǔ 俎 refers to a small ritual table used for cutting fresh meat; it can also refer to a chopping block on which the food is cut.
+1. Zhì [[鑕]] is a chopping block used for beheading and cutting in the waist.
+2. Zhēn [[砧]] is a post Qín [[秦]] word for a block used to beat a silk and other fabrics; it can also refer to a block for executions by beheading or cutting in the waist.
+3. Zǔ [[俎]] refers to a small ritual table used for cutting fresh meat; it can also refer to a chopping block on which the food is cut.
 ## 
 HUANG JINGUI 2006
 FOOD 16.

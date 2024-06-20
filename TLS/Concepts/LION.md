@@ -7,7 +7,7 @@ zh: 獅子
 MOST STRONG AND MOST BIG FELINE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a lion is shī 獅, usually written 師, or 獅子／師子.
+1. The standard word for a lion is shī [[獅]], usually written [[師]], or [[獅子]]／[[師子]].
 ## Modern Chinese Criteria
 獅
 獅子

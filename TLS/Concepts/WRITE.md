@@ -31,11 +31,11 @@ och: 書
 PRODUCE a DOCUMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for writing something down or noting it down is shū 書, and this word can never refer to an act of literary creation.
-2. Zhù 著 and zhuàn 撰 are late words referring to the act of writing of a text.
-3. Xiě 寫 refers to copying and transcribing rather than writing as such.
-4. Lù 錄, zhì 志, and jì 記 refer to the act of recording, formally or informally.
-5. Biān 編, lí 離, and zhǔ 屬 refer to the compilation of texts.
+1. The standard current word for writing something down or noting it down is shū [[書]], and this word can never refer to an act of literary creation.
+2. Zhù [[著]] and zhuàn [[撰]] are late words referring to the act of writing of a text.
+3. Xiě [[寫]] refers to copying and transcribing rather than writing as such.
+4. Lù [[錄]], zhì [[志]], and jì [[記]] refer to the act of recording, formally or informally.
+5. Biān [[編]], lí [[離]], and zhǔ [[屬]] refer to the compilation of texts.
 ## 
 HUANG JINGUI 2006
 EDUCATION 14. 文獻複製。

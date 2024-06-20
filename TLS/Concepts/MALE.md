@@ -8,11 +8,11 @@ och: 男
 GENDER of an ANIMAL or ANIMAL which HAS the ORGANS FOR ENGENDERING AND CAN NOT give BIRTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term is nán 男 (opp. nǚ 女 "female) or, more administratively and technically nán zǐ 男子 (opp. nǚ zǐ 女子 "female").
-2. Mǔ 牡 refers to the male of birds and beasts in purely biological terms.
-3. Xióng 雄 denotes maleness, but often connotes virility, strength and domination as well.
-4. Zhàng fū 丈夫 (opp. fù rén 婦人 "woman") is a current, probably colloquial, word for an adult male.
-5. Fū 夫 is a dignified term for an adult male.
+1. The current general term is nán [[男]] (opp. nǚ [[女]] "female) or, more administratively and technically nán zǐ [[男子]] (opp. nǚ zǐ [[女子]] "female").
+2. Mǔ [[牡]] refers to the male of birds and beasts in purely biological terms.
+3. Xióng [[雄]] denotes maleness, but often connotes virility, strength and domination as well.
+4. Zhàng fū [[丈夫]] (opp. fù rén [[婦人]] "woman") is a current, probably colloquial, word for an adult male.
+5. Fū [[夫]] is a dignified term for an adult male.
 ## 
 HUANG JINGUI 2006
 ANIMALS 2.

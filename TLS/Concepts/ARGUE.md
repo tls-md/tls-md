@@ -22,7 +22,7 @@ DIALOGUE in which one COMPETES in EXPLAINing something USING REASONS to CONVINCE
 TRY TO PROVE BASED on REASONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-辯
+[[辯]]
 ## Modern Chinese Criteria
 爭論
 爭議

@@ -8,9 +8,9 @@ och: 雪
 WHITE FROZEN RAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word is xuě 雪.
-2. Xiàn 霰 are snowflakes, and the structure of these drew early Chinese attention.
-3. Bīng 冰 is ice. See ICE.
+1. The dominant word is xuě [[雪]].
+2. Xiàn [[霰]] are snowflakes, and the structure of these drew early Chinese attention.
+3. Bīng [[冰]] is ice. See ICE.
 ## Modern Chinese Criteria
 雪
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

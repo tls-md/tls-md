@@ -8,14 +8,14 @@ och: 疏
 PUBLIC LETTER ADDRESSED to a RULER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general (rare) word for a memorial is shù 疏.
-2. Zòu 奏 refers to the act of submission of a memorial, from Qin times onwards specifically directed to the emperor.
-2. Biǎo 表 refers in Han times to a formal request for imperial support, often in matters of funeral arrangements etc.
-3. Zhāng 章 refers to a memorial of thanks.
-4. Yì 議 refers to formal and often controversial contribution towards the discussion of a political issue which is at issue.
-5. Shū 書 "document; letter" is sometimes used to refer specifically to a memorial to the throne.
+1. The most general (rare) word for a memorial is shù [[疏]].
+2. Zòu [[奏]] refers to the act of submission of a memorial, from Qin times onwards specifically directed to the emperor.
+2. Biǎo [[表]] refers in Han times to a formal request for imperial support, often in matters of funeral arrangements etc.
+3. Zhāng [[章]] refers to a memorial of thanks.
+4. Yì [[議]] refers to formal and often controversial contribution towards the discussion of a political issue which is at issue.
+5. Shū [[書]] "document; letter" is sometimes used to refer specifically to a memorial to the throne.
 
-NB: The subtle distinctions between these forms of memorial are the subject of detailed discussion in Wénxīndiāolóng 文心雕龍, but the late date of this text must be kept in mind. Qǐ 啟 "expression of personal views addressed to the emperor" and zhuàng 狀 "formal accusation" are post-Han.
+NB: The subtle distinctions between these forms of memorial are the subject of detailed discussion in Wénxīndiāolóng [[文心雕龍]], but the late date of this text must be kept in mind. Qǐ [[啟]] "expression of personal views addressed to the emperor" and zhuàng [[狀]] "formal accusation" are post-Han.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW10. 臣屬向君王上書。

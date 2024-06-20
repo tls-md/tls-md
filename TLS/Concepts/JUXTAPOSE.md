@@ -14,10 +14,10 @@ och: 耦
 PUT things TOGETHER so as to PRODUCE a ROW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Liè 列 is to bring together and then bring in line objects or people that naturally belong together.
-2. Zǔ 詛 focusses on the intensity not of the commitment but of the swearing of the oath and the use of words.
-3. O ㄆ耦 refers to alligned pairs.
-4. Bìng 並 (and occasionally bìng 并 ), refer to alligning or putting side by side any number of objects.
+1. Liè [[列]] is to bring together and then bring in line objects or people that naturally belong together.
+2. Zǔ [[詛]] focusses on the intensity not of the commitment but of the swearing of the oath and the use of words.
+3. O ㄆ[[耦]] refers to alligned pairs.
+4. Bìng [[並]] (and occasionally bìng [[并]] ), refer to alligning or putting side by side any number of objects.
 ## Modern Chinese Criteria
 排列 is the current modern word for juxtaposing or lining up things.
 平列 focusses on the evenness of the alignment.

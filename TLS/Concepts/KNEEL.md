@@ -8,11 +8,11 @@ och: 坐
 BOW DOWN AND SUPPORT ONESELF on the FLOOR USING one's KNEES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for kneeling down while resting one's body on one's heels in an orderly but relaxed position is zuò 坐 (lì 立 "stand up"), a term often innocently mistranslated as "to sit".
-2. Guì 跪 refers to the polite act of submission which involves kneeling down with one's torso protruding forward, ready to show respect and submission
-3. Bài 拜 refers to the action of guì 跪 with the addition of moving one's head towards the ground. See BOW.
-4. Jì 跽 and cháng guì4 長跪 kneel with one's torso erect, as a sign of seriousness.
-5. Qǐ 啟 is a poetic word for the polite act of submitting which involves kneeling down which is current in SHI.
+1. The current general word for kneeling down while resting one's body on one's heels in an orderly but relaxed position is zuò [[坐]] (lì [[立]] "stand up"), a term often innocently mistranslated as "to sit".
+2. Guì [[跪]] refers to the polite act of submission which involves kneeling down with one's torso protruding forward, ready to show respect and submission
+3. Bài [[拜]] refers to the action of guì [[跪]] with the addition of moving one's head towards the ground. See BOW.
+4. Jì [[跽]] and cháng guì4 [[長跪]] kneel with one's torso erect, as a sign of seriousness.
+5. Qǐ [[啟]] is a poetic word for the polite act of submitting which involves kneeling down which is current in SHI.
 ## 
 HUANG JINGUI 2006　　
 古人席地而坐，西漢尚然。漢書雋不疑傳，登堂坐定，不疑據地曰，竊伏海濱，聞暴公子威名舊矣，是也。

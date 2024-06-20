@@ -26,10 +26,10 @@ och: 黨
 GROUP of PERSONS HAVING the SAME ASPIRATIONS AND OFTEN:typically VOLUNTARILY ESTABLISHED FOR INFLUENCING a GOVERNMENT OR INSTITUTION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a faction is dǎng 黨.
-2. Bǐ zhōu 比周 refers to political factions at royal courts.
-3. Péng dǎng 朋黨 refers to political "gangs" and friendship associations with clear political ambitions.
-4. Dǎng yǔ 黨與 refers to a group of political supporters, and the word has somewhat milder negative overtones.
+1. The current general word for a faction is dǎng [[黨]].
+2. Bǐ zhōu [[比周]] refers to political factions at royal courts.
+3. Péng dǎng [[朋黨]] refers to political "gangs" and friendship associations with clear political ambitions.
+4. Dǎng yǔ [[黨與]] refers to a group of political supporters, and the word has somewhat milder negative overtones.
 ## Modern Chinese Criteria
 黨派
 政派

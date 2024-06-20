@@ -26,10 +26,10 @@ och: 享
 ACT so as to CAUSE ONESELF to FEEL DELIGHT IN-RELATION-TO something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for active enjoyment and delighting in something is lè 樂 (ant. bēi 悲 "be saddened by"), as in 與民同樂 "share one's enjoyings/enjoyments with the people".
-2. Xiǎng 享 refers to enjoying material benefits or - when applied to gods and spirits - to the enjoyment of sacrifices.
-3. Lì 利 refers to the use and enjoyment of what one regards as profitable.
-4. NB: Hān 酣 refers to enjoying (prototypically alcohol) with gusto and enthusiasm, or in a transferred sense enjoying anything else in the way one might enjoy alcohol. The word is marginal to the group.
+1. The current general word for active enjoyment and delighting in something is lè [[樂]] (ant. bēi [[悲]] "be saddened by"), as in [[與民同樂]] "share one's enjoyings/enjoyments with the people".
+2. Xiǎng [[享]] refers to enjoying material benefits or - when applied to gods and spirits - to the enjoyment of sacrifices.
+3. Lì [[利]] refers to the use and enjoyment of what one regards as profitable.
+4. NB: Hān [[酣]] refers to enjoying (prototypically alcohol) with gusto and enthusiasm, or in a transferred sense enjoying anything else in the way one might enjoy alcohol. The word is marginal to the group.
 ## Modern Chinese Criteria
 享受
 消受

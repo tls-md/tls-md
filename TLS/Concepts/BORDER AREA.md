@@ -7,12 +7,12 @@ zh: 邊疆
 PLACE NEAR a BORDER AND TYPICALLY INSIDE ONE STATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for the border area of a state is biān 邊, and this word refers to the general area up to the border.
-2. Jìng 境, when referring to an area, describes a smaller area immediately surrounding the borderline.
-3. Chuí 陲 refers to the large tract of land next to the state border.
-4. Jiāng 疆 refers to any border between territories or fields of any kind, marked or unmarked, and the word can also refer to border regions.
-5. Fān 藩 occasionally has a derived sense referring to a state border insofar as this border implies defensive arrangements, or perhaps also demarkation by plants, originally.
-6. Bǐ 鄙 is an ancient word referring to a sparsely inhabited border region, with its attendant cultural peculiarities. See VULGAR
+1. The most general word for the border area of a state is biān [[邊]], and this word refers to the general area up to the border.
+2. Jìng [[境]], when referring to an area, describes a smaller area immediately surrounding the borderline.
+3. Chuí [[陲]] refers to the large tract of land next to the state border.
+4. Jiāng [[疆]] refers to any border between territories or fields of any kind, marked or unmarked, and the word can also refer to border regions.
+5. Fān [[藩]] occasionally has a derived sense referring to a state border insofar as this border implies defensive arrangements, or perhaps also demarkation by plants, originally.
+6. Bǐ [[鄙]] is an ancient word referring to a sparsely inhabited border region, with its attendant cultural peculiarities. See VULGAR
 ## Modern Chinese Criteria
 邊疆
 邊境

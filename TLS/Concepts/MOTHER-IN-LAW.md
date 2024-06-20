@@ -7,7 +7,7 @@ zh: 岳母
 MOTHER of HUSBAND OR WIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a mother-in-law is gū 姑, and this concept was of great importance in ritual practice.
+1. The standard word for a mother-in-law is gū [[姑]], and this concept was of great importance in ritual practice.
 ## Modern Chinese Criteria
 岳母
 太母

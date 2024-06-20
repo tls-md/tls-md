@@ -13,9 +13,9 @@ och: 冠
 GARMENT one WEARS on the HEAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for headdress designed to indicate status is guān 冠, and the practical purpose of this hat is not only to indicate status but also to hold together the bun of hair on the top of the head. At the age of twenty all males acquired the right to wear a guān 冠. The hat was held in position by a cord called yīng 纓.
-2. The general word for convenient headdress designed to keep the head warm is mào 帽 but this term is rarely used on its own, being usually modified by further descriptive terms. This headdress became current first in Three Kingdom times, but the felt hat is mentioned in FENGSUTONGYI.
-3. Miǎn 冕 is the general word for an official hat. See OFFICIAL HAT
+1. The general word for headdress designed to indicate status is guān [[冠]], and the practical purpose of this hat is not only to indicate status but also to hold together the bun of hair on the top of the head. At the age of twenty all males acquired the right to wear a guān [[冠]]. The hat was held in position by a cord called yīng [[纓]].
+2. The general word for convenient headdress designed to keep the head warm is mào [[帽]] but this term is rarely used on its own, being usually modified by further descriptive terms. This headdress became current first in Three Kingdom times, but the felt hat is mentioned in FENGSUTONGYI.
+3. Miǎn [[冕]] is the general word for an official hat. See OFFICIAL HAT
 ## Modern Chinese Criteria
 帽
 帽子

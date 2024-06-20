@@ -8,10 +8,10 @@ och: 翁
 OLD MALE ADULT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Sǒu 叟 (ant. tóng 童 "young boy") and the somewhat rarer zhàng rén 丈人 (ant. hái tí 孩提 "child") refer respectfully to a venerable old man of some status.
-2. Fǔ 父 is a southern dialect word referring to an old man.
-3. Lǎo 老 (ant. yòu 幼 "young person") is a neutral term referring generically to the aged, including men and women.
-4. Wēng 翁 (ant. ér 兒 "young child") refers generally to an old man without suggestions of venerability, but the word became current only in Han times.
+1. Sǒu [[叟]] (ant. tóng [[童]] "young boy") and the somewhat rarer zhàng rén [[丈人]] (ant. hái tí [[孩提]] "child") refer respectfully to a venerable old man of some status.
+2. Fǔ [[父]] is a southern dialect word referring to an old man.
+3. Lǎo [[老]] (ant. yòu [[幼]] "young person") is a neutral term referring generically to the aged, including men and women.
+4. Wēng [[翁]] (ant. ér [[兒]] "young child") refers generally to an old man without suggestions of venerability, but the word became current only in Han times.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 25. 老年男子。

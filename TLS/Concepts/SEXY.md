@@ -28,12 +28,12 @@ och: 色
 BEAUTIFUL so as to CAUSE OTHERS TO TEND to DESIRE to COPULATE WITH ONE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general noun is sè 色 "female beauty" which seems to be used only in nominal functions.
-2. The specific "adjective" would be yàn 艷 / 豔 which comes as close to "sexy" as any ancient Chinese word. ZUO: 美而艷
-3. Jiǎo 姣 (also applied to men) and jiāo 嬌 are less dramatic than yàn 艷 and refer to personal charm as well beauty as such.
-4. Yǎo tiǎo 窈窕 is the standard poetic cliche word for female attractiveness.
-5. Mèi 媚 "seductively beautiful" includes an idea of deliberate acting or deliberate use of make-up to please someone. See FLATTER.
-6. Kuā 姱 "lovely" is a highly poetic SHI and CC word of little currency in prose writing.
+1. The general noun is sè [[色]] "female beauty" which seems to be used only in nominal functions.
+2. The specific "adjective" would be yàn [[艷]] / [[豔]] which comes as close to "sexy" as any ancient Chinese word. ZUO: [[美而艷]]
+3. Jiǎo [[姣]] (also applied to men) and jiāo [[嬌]] are less dramatic than yàn [[艷]] and refer to personal charm as well beauty as such.
+4. Yǎo tiǎo [[窈窕]] is the standard poetic cliche word for female attractiveness.
+5. Mèi [[媚]] "seductively beautiful" includes an idea of deliberate acting or deliberate use of make-up to please someone. See FLATTER.
+6. Kuā [[姱]] "lovely" is a highly poetic SHI and CC word of little currency in prose writing.
 ## Modern Chinese Criteria
 紅顏
 容華

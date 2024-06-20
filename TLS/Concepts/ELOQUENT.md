@@ -39,9 +39,9 @@ och: 辯
 SKILLFUL in SPEAKING, DISCUSSING, OR PRODUCING POETRY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for articulate rhetorical ability is biàn 辯 (ant. nè 訥 "be tongue-tied").
-2. Nìng 佞 typically describes rhetorical skill as an unattractive negative attribute.
-3. Gǔ jí 滑稽 is an ambiguous word referring to elequence as either articulateness and fluency, or as loquaciousness.
+1. The current general term for articulate rhetorical ability is biàn [[辯]] (ant. nè [[訥]] "be tongue-tied").
+2. Nìng [[佞]] typically describes rhetorical skill as an unattractive negative attribute.
+3. Gǔ jí [[滑稽]] is an ambiguous word referring to elequence as either articulateness and fluency, or as loquaciousness.
 ## Modern Chinese Criteria
 口才 is the standard modern word referring to eloquence.
 文才 refers to written eloquence.

@@ -18,12 +18,12 @@ och: 泣
 REACT OR ACT by PRODUCING TEARS IN-RELATION-T0 something one INTENSELY FEELS is SAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for weeping as a spontaneous reaction is qì 泣.
-2. Kū 哭 (ant. xiào 笑 "laugh") refers primarily to the (often ritualised) act of lamentation and wailing which may or may not be accompanied by the shedding of tears, and the word is never used to refer to refer to a spontaneous breaking into tears. (Note HNZ: 其哭哀而無聲 )
-3. Háo 號 refers to noisy ritual wailing with no suggestion of any shedding of tears.
-4. Tí 啼 refers to plaintive long-drawn wailing.
-5. Tì 涕 focusses specifically on the shedding of tears, but there is often an admixture of snivel.
-6. Lìn 臨 refers to wailing, possibly accompanied by weeping, en groupe on the occasion of someone's death.
+1. The current general word for weeping as a spontaneous reaction is qì [[泣]].
+2. Kū [[哭]] (ant. xiào [[笑]] "laugh") refers primarily to the (often ritualised) act of lamentation and wailing which may or may not be accompanied by the shedding of tears, and the word is never used to refer to refer to a spontaneous breaking into tears. (Note HNZ: [[其哭哀而無聲]] )
+3. Háo [[號]] refers to noisy ritual wailing with no suggestion of any shedding of tears.
+4. Tí [[啼]] refers to plaintive long-drawn wailing.
+5. Tì [[涕]] focusses specifically on the shedding of tears, but there is often an admixture of snivel.
+6. Lìn [[臨]] refers to wailing, possibly accompanied by weeping, en groupe on the occasion of someone's death.
 ## Modern Chinese Criteria
 哭
 啼哭

@@ -7,8 +7,8 @@ zh: 狐貍
 RED BEAST which EATS MEAT, HAS FOUR LEGS AND a SHARP MOUTH. [VULPES]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a fox is hú 狐.
-2. Lí 狸 refers to a wild-cat or badger of some sort but is often linked to the fox in ancient Chinese literature. See FELINE
+1. The general word for a fox is hú [[狐]].
+2. Lí [[狸]] refers to a wild-cat or badger of some sort but is often linked to the fox in ancient Chinese literature. See FELINE
 ## 
 HUANG JINGUI 2006
 ANIMALS 11.

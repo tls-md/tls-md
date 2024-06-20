@@ -27,10 +27,10 @@ och: 身
 HUMAN as an ABSTRACT THING which FEELS, THINKS AND DECIDES, AND HAS RIGHTS AND DUTIES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shēn 身 regularly refers to the embodied person, as something to be cultivated and corrected, and as something to be morally careful about, but the word is originally widely used to refer to the physical body as such, and this usage continues throughout pre-Buddhist times being at times hard to distinguish from the figurative use discussed in this group. Moreover, the word is very often reflexive.
-2. Qū 軀 is a rare poetic word that can be used to refer to one's embodied person.
-3. Jǐ 己 can occasionally refer to one's own person rather than simply to oneself, but the distinction is not marked and should perhaps be disregarded lexically as being imposed by context only.
-For the concept of personality, see CHARACTER, and particularly the concept of 為人 "constitutive features of someone's character".
+1. Shēn [[身]] regularly refers to the embodied person, as something to be cultivated and corrected, and as something to be morally careful about, but the word is originally widely used to refer to the physical body as such, and this usage continues throughout pre-Buddhist times being at times hard to distinguish from the figurative use discussed in this group. Moreover, the word is very often reflexive.
+2. Qū [[軀]] is a rare poetic word that can be used to refer to one's embodied person.
+3. Jǐ [[己]] can occasionally refer to one's own person rather than simply to oneself, but the distinction is not marked and should perhaps be disregarded lexically as being imposed by context only.
+For the concept of personality, see CHARACTER, and particularly the concept of [[為人]] "constitutive features of someone's character".
 NB: The notion of the personality as something inner and disembodied, only inhabiting a physical as something outward, is alien to ancient Chinese thought. See, however, SOUL, where a number of mentalistic terms are in strict opposition to the physical body. The Chinese words for the person are not in this group.
 ## Modern Chinese Criteria
 人

@@ -30,12 +30,12 @@ och: 獄
 PUBLIC BUILDING IN which CONVICTED GUILTY HUMANS ARE CONDEMNED to DWELL, AND which they are NOT PERMITTED TO LEAVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general single-character word for a government prison is 獄, but this word first became current in Han times.
-2. Líng yǔ 囹圄／囹圉 is the standard pre-Qin word for a state prison.
-3. Láo 牢 is a colloquial word for an official prison.
-4. Àn 犴 refers originally to a fierce dog a statue of which was a guardian at prisons, but the name of this dog was then occasionally used by synecdoche as a word for a prison.
-5. Huán tǔ 圜土 refers to a small walled city-like compound that serves as a prison.
-6. Jiàn 轞 refers to a prisoner carriage. See PRISON VEHICLE
+1. The current general single-character word for a government prison is [[獄]], but this word first became current in Han times.
+2. Líng yǔ [[囹圄]]／[[囹圉]] is the standard pre-Qin word for a state prison.
+3. Láo [[牢]] is a colloquial word for an official prison.
+4. Àn [[犴]] refers originally to a fierce dog a statue of which was a guardian at prisons, but the name of this dog was then occasionally used by synecdoche as a word for a prison.
+5. Huán tǔ [[圜土]] refers to a small walled city-like compound that serves as a prison.
+6. Jiàn [[轞]] refers to a prisoner carriage. See PRISON VEHICLE
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 40.

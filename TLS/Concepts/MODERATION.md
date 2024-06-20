@@ -12,7 +12,7 @@ zh: 中庸
 CULTIVATE ONESELF so as to cause oneself to BE ENDURINGLY RESTRAINED.
 # Criteria and general notes
 ## Old Chinese Criteria
-節
+[[節]]
 ## Modern Chinese Criteria
 節制 refers to moderation.
 中庸

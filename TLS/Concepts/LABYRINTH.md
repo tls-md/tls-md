@@ -6,7 +6,7 @@ labels:
 GAME IN THE FORM OF A COMPLEX PATTERN OF PATHS FROM WHICH IT IS DIFFICULT TO ESCAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-迷宮
+[[迷宮]]
 # Ontology
 
 ## Hypernym

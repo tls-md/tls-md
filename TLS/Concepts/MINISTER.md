@@ -8,10 +8,10 @@ och: 相xia4ng
 A OFFICIAL who acts as as ASSISTANT to a RULER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a government minister at any level and of any kind is chén 臣, generically rén chén 人臣.
-2. Zuǒ yòu 左右 refers to the senior ministers in the immediate environment of a king or duke who were able, ex officio, to speak up in court.
-3. Xiàng 相 refers to the head of the group of ministers, the prime minister, also called yǐn 尹 or lìng yǐn 令尹 in the southern state of Chǔ.
-4. Qīng 卿 refers to a member of the group fo senior ministers, variously defined.
+1. The general word for a government minister at any level and of any kind is chén [[臣]], generically rén chén [[人臣]].
+2. Zuǒ yòu [[左右]] refers to the senior ministers in the immediate environment of a king or duke who were able, ex officio, to speak up in court.
+3. Xiàng [[相]] refers to the head of the group of ministers, the prime minister, also called yǐn [[尹]] or lìng yǐn [[令尹]] in the southern state of Chǔ.
+4. Qīng [[卿]] refers to a member of the group fo senior ministers, variously defined.
 The list of senior official titles in ancient China is long indeed. See Hucker and Zuo Yandong's monograph.
 ## Modern Chinese Criteria
 大官

@@ -18,17 +18,17 @@ och: 後
 HUMAN HAVING a DEFINED OTHER HUMAN as FATHER, MOTHER, OR ANCESTOR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current and common abstract term for offspring is hòu 後 (ant. xiān 先 "forbears").
-2. Yì 裔 (ant. zǔ 祖 "ancestors"), a fairly rare word in pre-Buddhist texts, can refer to any offspring of a clan or occasionally a people.
-3. Zhòu 冑 refers to royal offspring.
-4. Yìn 胤 refers to distant offspring.
-5. Zòng 從 (ant. dí 嫡 "direct heirs") refers to the younger generation members of the same clan who do not immediately inherit.
-6. Zǐ 子 refers to children of any sex. See CHILD
-7. Sūn 孫 refers to all descendants lower than the generation of children.
-8. Shù 庶 and niè 孽 (ant. zhèng 正 "descendant in direct line") refer to offspring by other women than the main wife.
-9. Dí 嫡 / 適 (ant. zòng 從 "descendants who are not heirs") refers specifically to the direct legitimate heir.
-10. Zǐ zhí 子姪 is a general term for descendants.
-11. Zǐ xìng 子姓 specifically refers to the sons and grandsons.
+1. The general current and common abstract term for offspring is hòu [[後]] (ant. xiān [[先]] "forbears").
+2. Yì [[裔]] (ant. zǔ [[祖]] "ancestors"), a fairly rare word in pre-Buddhist texts, can refer to any offspring of a clan or occasionally a people.
+3. Zhòu [[冑]] refers to royal offspring.
+4. Yìn [[胤]] refers to distant offspring.
+5. Zòng [[從]] (ant. dí [[嫡]] "direct heirs") refers to the younger generation members of the same clan who do not immediately inherit.
+6. Zǐ [[子]] refers to children of any sex. See CHILD
+7. Sūn [[孫]] refers to all descendants lower than the generation of children.
+8. Shù [[庶]] and niè [[孽]] (ant. zhèng [[正]] "descendant in direct line") refer to offspring by other women than the main wife.
+9. Dí [[嫡]] / [[適]] (ant. zòng [[從]] "descendants who are not heirs") refers specifically to the direct legitimate heir.
+10. Zǐ zhí [[子姪]] is a general term for descendants.
+11. Zǐ xìng [[子姓]] specifically refers to the sons and grandsons.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 23. 後代子孫。

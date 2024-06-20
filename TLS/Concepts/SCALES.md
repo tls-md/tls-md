@@ -7,11 +7,11 @@ zh: 秤
 TOOL USED FOR WEIGHING THINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. General word for scales is chèng 秤 / 稱, which occurs already in LSCQ. It refers to the whole implement, i.e. both to the weighing rod and the weight. Today, typical Chinese lever scales consists of the weighing rod and the weight suspended from it. The thing to be weighed is put on the bowl hanged down from the one end of the weighing beam, and its weight is determined by moving the weight till balance between the weight and weighed thing is reached. It seems that this type of scales came to be used only in Tang times. Scales known from the Warring States period consists of the wooden stick with two small bronze bowls suspended from its both sides; the things to be weighed were put on one bowl and weights on the other.
-2. Héng 衡 refers to the whole of the weighing contraption, the scales, but the term does not include a weight.
-3. Quán 權 refers to the weight. Weights known from the Warring States period are usually made of bronze. According to the late Warring States and Han texts, they were divided into five categories - zhū 銖, liǎng 兩, jīn 斤, jūn 鈞, and shí 石 - but it should be noted that situation was more complicated, and in Warring States times weights differred from state to state.
-4. Chuí 錘 refers to the weight. According to FANG YAN, in Han times the word was used in the area of ancient states of Lu and Song; later it came to be used as general word for the weight.
-5. Quán 銓, when used in the meaning "scales" is synonymous with chèng 秤, but the word is rare.
+1. General word for scales is chèng [[秤]] / [[稱]], which occurs already in LSCQ. It refers to the whole implement, i.e. both to the weighing rod and the weight. Today, typical Chinese lever scales consists of the weighing rod and the weight suspended from it. The thing to be weighed is put on the bowl hanged down from the one end of the weighing beam, and its weight is determined by moving the weight till balance between the weight and weighed thing is reached. It seems that this type of scales came to be used only in Tang times. Scales known from the Warring States period consists of the wooden stick with two small bronze bowls suspended from its both sides; the things to be weighed were put on one bowl and weights on the other.
+2. Héng [[衡]] refers to the whole of the weighing contraption, the scales, but the term does not include a weight.
+3. Quán [[權]] refers to the weight. Weights known from the Warring States period are usually made of bronze. According to the late Warring States and Han texts, they were divided into five categories - zhū [[銖]], liǎng [[兩]], jīn [[斤]], jūn [[鈞]], and shí [[石]] - but it should be noted that situation was more complicated, and in Warring States times weights differred from state to state.
+4. Chuí [[錘]] refers to the weight. According to FANG YAN, in Han times the word was used in the area of ancient states of Lu and Song; later it came to be used as general word for the weight.
+5. Quán [[銓]], when used in the meaning "scales" is synonymous with chèng [[秤]], but the word is rare.
 ## 
 HUANG JINGUI 2006
 TRADE 21.

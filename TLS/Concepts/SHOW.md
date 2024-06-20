@@ -30,16 +30,16 @@ och: 示
 ACT so as to TRY TO CAUSE something TO be PERCEIVED OR UNDERSTOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for making anything visible is shì 示 (ant. hán 含 "keep to oneself").
-2. Xiàn 見 / 現 (ant. bì 蔽 "make invisible to others,") refers to making visible what is there.
-3. Xiǎn 顯 (ant. yǐn 隱 "hide from sight") is to make something prominently visible to wider audience.
-4. Yáng 揚 (ant. yì 抑 "suppress and keep from general knowledge") is to make something universally visible to the general public.
-5. Zhù 著 (ant. bì 蔽 "block from sight") is to show something up as deserving great attention.
-6. Chén 陳 (ant. cáng 藏 "hide") is to lay out something so as to make it accessible to inspection.
-7. Zhāo 昭 (yōu 幽 "keep in obscurity") is to cast light over something so as to make it accessible to wide appreciation.
-8. Zhāng 彰 (ant. yì 抑 is to give proper illustrious public status to something that is held to clearly deserve such recognition.
-9. Zhú 燭 (ant. yǐn 隱 "keep in the dark") is to cast enought light on something dark in order to make it visible.
-10. Pù 暴 is to make accessible to view what is covered and therefore inaccessible to inspection.
+1. The most general word for making anything visible is shì [[示]] (ant. hán [[含]] "keep to oneself").
+2. Xiàn [[見]] / [[現]] (ant. bì [[蔽]] "make invisible to others,") refers to making visible what is there.
+3. Xiǎn [[顯]] (ant. yǐn [[隱]] "hide from sight") is to make something prominently visible to wider audience.
+4. Yáng [[揚]] (ant. yì [[抑]] "suppress and keep from general knowledge") is to make something universally visible to the general public.
+5. Zhù [[著]] (ant. bì [[蔽]] "block from sight") is to show something up as deserving great attention.
+6. Chén [[陳]] (ant. cáng [[藏]] "hide") is to lay out something so as to make it accessible to inspection.
+7. Zhāo [[昭]] (yōu [[幽]] "keep in obscurity") is to cast light over something so as to make it accessible to wide appreciation.
+8. Zhāng [[彰]] (ant. yì [[抑]] is to give proper illustrious public status to something that is held to clearly deserve such recognition.
+9. Zhú [[燭]] (ant. yǐn [[隱]] "keep in the dark") is to cast enought light on something dark in order to make it visible.
+10. Pù [[暴]] is to make accessible to view what is covered and therefore inaccessible to inspection.
 ## Modern Chinese Criteria
 表示 is the most current general word for showing or revealing someing.
 表現 refers to making something visible that might typically be itself invisible.

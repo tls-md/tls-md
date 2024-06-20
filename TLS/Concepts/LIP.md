@@ -7,7 +7,7 @@ zh: 嘴唇
 FLESH ABOVE AND BELOW the OPENING of the MOUTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the lips is chún 唇／脣.
+1. The standard word for the lips is chún [[唇]]／[[脣]].
 ## Modern Chinese Criteria
 唇
 嘴唇

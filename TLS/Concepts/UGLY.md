@@ -36,9 +36,9 @@ och: 惡
 BAD in APPEARANCE when SEEN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for ugliness and despicability is è 惡 (ant. měi 美 "attractive").
-2. Chǒu 醜 (ant. hǎo 好 "handsome") refers specifically to physical unsightliness and does not necessarily connote a general negative judgment on what is unsightly.
-3. Chī 蚩 / 媸 (ant. yán 妍 "attractive") refers primarily to the ugliness of human faces, but the word also has more general and abstract uses where it refers to anything unsightly.
+1. The current standard word for ugliness and despicability is è [[惡]] (ant. měi [[美]] "attractive").
+2. Chǒu [[醜]] (ant. hǎo [[好]] "handsome") refers specifically to physical unsightliness and does not necessarily connote a general negative judgment on what is unsightly.
+3. Chī [[蚩]] / [[媸]] (ant. yán [[妍]] "attractive") refers primarily to the ugliness of human faces, but the word also has more general and abstract uses where it refers to anything unsightly.
 ## Modern Chinese Criteria
 難看
 醜陋

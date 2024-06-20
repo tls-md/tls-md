@@ -10,9 +10,9 @@ och: 熊
 BIG BROWN WILD BEAST, DANGEROUS TO HUMANS. [BIOLOGY]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a bear is xióng 熊.
-2. Pí 羆 tends to refer to the brown bear.
-3. Xióng pí 熊羆 refers to a bear of any sort.
+1. The current general term for a bear is xióng [[熊]].
+2. Pí [[羆]] tends to refer to the brown bear.
+3. Xióng pí [[熊羆]] refers to a bear of any sort.
 ## Modern Chinese Criteria
 熊貓
 貓熊

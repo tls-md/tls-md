@@ -13,8 +13,8 @@ och: 客
 INVITED VISITOR FROM a DIFFERENT PLACE OR FAMILY IN-RELATION-TO someone in whose PLACE S/HE BE-IN:is in.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general neutral word for a guest is kè 客 (ant. zhǔ 主 "host"), but this word is also used to refer to strangers.
-2. Bīn 賓 (ant. zhǔ 主 "host") is an honorific term for an honoured guest.
+1. The current general neutral word for a guest is kè [[客]] (ant. zhǔ [[主]] "host"), but this word is also used to refer to strangers.
+2. Bīn [[賓]] (ant. zhǔ [[主]] "host") is an honorific term for an honoured guest.
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 42.
 賓，尊貴的客人。

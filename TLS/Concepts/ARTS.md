@@ -12,13 +12,13 @@ SKILLS BELIEVED to be IMPORTANT FOR EDUCATION OR AMUSEMENT.
 [[CURRENT/RARE]]
 [ELEVATED/VULGAR]
 [GENERAL/SPECIALISED]
-1. The most general word for the polite arts in ancient China is yì 藝.
+1. The most general word for the polite arts in ancient China is yì [[藝]].
 [GENERAL]
-2. Wén 文 (ant. wǔ 武 "martial arts) refers to higher literary fine arts including belles lettres as well as ritual.
+2. Wén [[文]] (ant. wǔ [[武]] "martial arts) refers to higher literary fine arts including belles lettres as well as ritual.
 [AESTHETIC], [ELEVATED], [SPECIALISED]; [[CURRENT]]
-3. Wǔ 武 refers specifically to the martial arts.
+3. Wǔ [[武]] refers specifically to the martial arts.
 [SPECIALISED]; [[CURRENT]]
-4. Yǎ 雅 sometimes describes something as belonging to the realm of what is formed in a dignified way in accordance with the arts. See ELEGANT
+4. Yǎ [[雅]] sometimes describes something as belonging to the realm of what is formed in a dignified way in accordance with the arts. See ELEGANT
 [ELEVATED], [MORAL]
 ## Modern Chinese Criteria
 文藝

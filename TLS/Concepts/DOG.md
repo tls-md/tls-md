@@ -16,11 +16,11 @@ och: 狗
 COMMON DOMESTIC OR WILD ANIMAL which HAS FOUR LEGS. [BIOLOGY; CANIS]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general literary word for a dog is quǎn 犬.
-2. Gǒu 狗 is a colloquial word for a dog (according to some early commentators a small dog, and it is plausible that the colloquial word may have referred to the small dog in particular).
-3. Máng 尨 refers to a shaggy, mangy dog, and this rare word has an archaic and poetic flavour.
+1. The current general literary word for a dog is quǎn [[犬]].
+2. Gǒu [[狗]] is a colloquial word for a dog (according to some early commentators a small dog, and it is plausible that the colloquial word may have referred to the small dog in particular).
+3. Máng [[尨]] refers to a shaggy, mangy dog, and this rare word has an archaic and poetic flavour.
 NB: The various other designations for dogs recorded in early dictionaries are not in general use.
-Inicdentally, already in Han times dogs' meat was regarded a delicacy. Fan Kuai 樊噲, the aide to the first emperor of the Han, was a dog-butcher.
+Inicdentally, already in Han times dogs' meat was regarded a delicacy. Fan Kuai [[樊噲]], the aide to the first emperor of the Han, was a dog-butcher.
 ## 
 HUANG JINGUI 2006
 ANIMALS 12.

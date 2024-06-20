@@ -8,8 +8,8 @@ zh: 斑駁
 MIXED in COLOURS in DIFFERENT PARTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Bān 斑 can be used to describe anything as being of more than one colour.
-2. Bó 駁 (ant. chún 純 "pure") refers to distinct variety in colour as a positive feature. But see also MIXED.
+1. Bān [[斑]] can be used to describe anything as being of more than one colour.
+2. Bó [[駁]] (ant. chún [[純]] "pure") refers to distinct variety in colour as a positive feature. But see also MIXED.
 ## Modern Chinese Criteria
 斑駁 is the currrent modern word for something motley or variegated.
 五彩

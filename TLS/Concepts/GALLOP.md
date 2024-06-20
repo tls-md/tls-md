@@ -35,10 +35,10 @@ och: 馳
 To HURRY of HORSES OR RIDING HORSES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for gallopping or - by extension - moving at a great speed is chí 馳.
-2. Qū 驅 refers to speeding along at maximum speed by any means of transport, and the speeding along is typically construed as the action of the driver, not of the horses pulling the convenance.
-3. Chěng 騁 refers to speeding along in a disciplined fashion at maximum speed, but the word usually occurs in the current binome chí chěng 馳騁 "gallop along".
-4. Wù 騖 refers to horses gallopping along, typically beyond control of a keeper, rider or driver.
+1. The current general word for gallopping or - by extension - moving at a great speed is chí [[馳]].
+2. Qū [[驅]] refers to speeding along at maximum speed by any means of transport, and the speeding along is typically construed as the action of the driver, not of the horses pulling the convenance.
+3. Chěng [[騁]] refers to speeding along in a disciplined fashion at maximum speed, but the word usually occurs in the current binome chí chěng [[馳騁]] "gallop along".
+4. Wù [[騖]] refers to horses gallopping along, typically beyond control of a keeper, rider or driver.
 ## 
 HUANG JINGUI 2006
 COMM 42.

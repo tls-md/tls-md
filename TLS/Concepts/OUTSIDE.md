@@ -16,8 +16,8 @@ The SPACE which does NOT BE-IN something.
 ATTACHED or DETACHED
 CONCRETE or ABSTRACT
 SPATIAL or TEMPORAL
-1. The dominant word for outside is wài 外, a word with great semantic and syntactic flexibility. Typically DETACHED, SPATIAL, CONCRETE and fig ABSTRACT.
-2. Biǎo 表 refers to the outside of something as surface part of what it is the outside of. ATTACHED, CONCRETE, SPATIAL.
+1. The dominant word for outside is wài [[外]], a word with great semantic and syntactic flexibility. Typically DETACHED, SPATIAL, CONCRETE and fig ABSTRACT.
+2. Biǎo [[表]] refers to the outside of something as surface part of what it is the outside of. ATTACHED, CONCRETE, SPATIAL.
 ## Modern Chinese Criteria
 外表
 外邊

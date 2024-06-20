@@ -9,10 +9,10 @@ zh: 抄寫
 IMITATE something so as to PRODUCE something BASICALLY RESEMBLING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general (but rare) word for producing a copy of something written or sculpted etc, is xiě 寫 (ant.* 著 "compose" and zuò 作 "make").
-2. Mó 摹 (ant.* shū 書 "produce calligraphy") refers to making a mechanical copy of a piece of calligraphy from Han times onwards.
-3. Xí 襲 (ant.* zuò 作 "create") refers to unauthorised or unacknowledged copying, but this usage is mostly post-Buddhist.
-NB: Lín 臨 "make a close copy of a painting" is post-Buddhist (TANG).
+1. The general (but rare) word for producing a copy of something written or sculpted etc, is xiě [[寫]] (ant.* [[著]] "compose" and zuò [[作]] "make").
+2. Mó [[摹]] (ant.* shū [[書]] "produce calligraphy") refers to making a mechanical copy of a piece of calligraphy from Han times onwards.
+3. Xí [[襲]] (ant.* zuò [[作]] "create") refers to unauthorised or unacknowledged copying, but this usage is mostly post-Buddhist.
+NB: Lín [[臨]] "make a close copy of a painting" is post-Buddhist (TANG).
 ## 
 HUANG JINGUI 2006
 EDUCATION 14. 文獻複製。

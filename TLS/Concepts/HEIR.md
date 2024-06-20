@@ -16,11 +16,11 @@ och: 嗣
 DESCENDENT who INHERITS something from someone.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general and neutral word referring to an heir is sì 嗣.
-2. Dí 嫡 / 適 (ant. shù 庶 "offspring by a woman other than one's main wife") emphasises the legitimacy of the succession.
-3. Hòu 後, zhòu 冑, and yìn 胤 are vague and include all offspring.
-4. Tài zǐ 太子 refers specifically to the formally established and declared heir apparent to a king or an emperor.
-5. Shì zǐ 世子 refers to the formally established and declared heir apparent of a duke, king or emperor.
+1. The most current general and neutral word referring to an heir is sì [[嗣]].
+2. Dí [[嫡]] / [[適]] (ant. shù [[庶]] "offspring by a woman other than one's main wife") emphasises the legitimacy of the succession.
+3. Hòu [[後]], zhòu [[冑]], and yìn [[胤]] are vague and include all offspring.
+4. Tài zǐ [[太子]] refers specifically to the formally established and declared heir apparent to a king or an emperor.
+5. Shì zǐ [[世子]] refers to the formally established and declared heir apparent of a duke, king or emperor.
 ## Modern Chinese Criteria
 後人
 後代

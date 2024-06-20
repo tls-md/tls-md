@@ -37,15 +37,15 @@ och: 視
 TRY to SEE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for looking at something close in general is shì 視, but the word can also occasionally refer specifically to looking down rather than up. (See also SEE.)
-2. Wàng 望 (and the much rarer tiào 眺 / 覜 and zhān 瞻 ) refer to looking at something from a distance (often with connotations of admiration), and the connoted direction is always upwards.
-3. Pàn 盼 refers to looking around with the expectation of finding something.
-4. Jiān 監 refers to looking at something so as to ascertain something about it or on the basis of it.
-5. Gù 顧 adds to the notion of looking at something the turning of one's head, or one's attention, from something to what is being looked at. Juàn 眷 is intensitive for gù 顧.
-6. Dǔ 睹 / 者 plus 見 on-right adds to the notion of looking at something the connotation of intense pleasure and typically the hope of establishing personal or erotic contract with the person one looks at by looking at her.
-7. Dì 睇 and lài 睞 are rare words referring to a flirtatious quick glance.
-8. Nì 睨 and miǎn 眄 refers to looking at someone sidewise as a show of demonstrative disrespect.
-9. Yáng 仰 (ant. fǔ 俯 "look down") refers to throwing one's head back and look up. See LOOK UP
+1. The current word for looking at something close in general is shì [[視]], but the word can also occasionally refer specifically to looking down rather than up. (See also SEE.)
+2. Wàng [[望]] (and the much rarer tiào [[眺]] / [[覜]] and zhān [[瞻]] ) refer to looking at something from a distance (often with connotations of admiration), and the connoted direction is always upwards.
+3. Pàn [[盼]] refers to looking around with the expectation of finding something.
+4. Jiān [[監]] refers to looking at something so as to ascertain something about it or on the basis of it.
+5. Gù [[顧]] adds to the notion of looking at something the turning of one's head, or one's attention, from something to what is being looked at. Juàn [[眷]] is intensitive for gù [[顧]].
+6. Dǔ [[睹]] / [[者]] plus [[見]] on-right adds to the notion of looking at something the connotation of intense pleasure and typically the hope of establishing personal or erotic contract with the person one looks at by looking at her.
+7. Dì [[睇]] and lài [[睞]] are rare words referring to a flirtatious quick glance.
+8. Nì [[睨]] and miǎn [[眄]] refers to looking at someone sidewise as a show of demonstrative disrespect.
+9. Yáng [[仰]] (ant. fǔ [[俯]] "look down") refers to throwing one's head back and look up. See LOOK UP
 ## Modern Chinese Criteria
 看
 觀看

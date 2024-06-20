@@ -7,7 +7,7 @@ zh: 舌頭
 SOFT ORGAN in the MOUTH BETWEEN the TEETH which is USED FOR TASTING FLAVOURS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for the tongue of humans or animals is shé 舌.
+1. The current standard word for the tongue of humans or animals is shé [[舌]].
 ## Modern Chinese Criteria
 舌頭
 舌

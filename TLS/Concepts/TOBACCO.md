@@ -7,7 +7,7 @@ zh: 煙草
 The PLANT SUBSTANCE one BURNS AND SUCKS the SMOKE of FOR ENJOYMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-000 擠
+000 [[擠]]
 ## Modern Chinese Criteria
 煙
 煙草

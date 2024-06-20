@@ -8,9 +8,9 @@ och: 足1
 LIMB ABOVE and INCLUDING the FOOT
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the leg as a whole is the same as that for the foot, zú 足, but the word can also be used in a broader meaning including the shin.
-2. Jiǎo 腳 is an exceedingly rare colloquial word for the foot but can occasionally be used to refer also to the shin.
-NB: Tuǐ 腿 is late colloquial (MING).
+1. The current general word for the leg as a whole is the same as that for the foot, zú [[足]], but the word can also be used in a broader meaning including the shin.
+2. Jiǎo [[腳]] is an exceedingly rare colloquial word for the foot but can occasionally be used to refer also to the shin.
+NB: Tuǐ [[腿]] is late colloquial (MING).
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 39.

@@ -15,9 +15,9 @@ och: 當
 NEEDED TO be PAID WHEN ONE INTENDS to BUY SOMETHING. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for something having a certain monetary worth or exchange value is dāng 當.
-2. Dé 得 is occasionally used to refer to the exhange value of something.
-NB: Dǐ 抵 and zhí 值 "be worth"is post-Buddhist (QING).
+1. The general word for something having a certain monetary worth or exchange value is dāng [[當]].
+2. Dé [[得]] is occasionally used to refer to the exhange value of something.
+NB: Dǐ [[抵]] and zhí [[值]] "be worth"is post-Buddhist (QING).
 ## Modern Chinese Criteria
 是
 算

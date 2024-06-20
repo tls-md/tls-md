@@ -15,17 +15,17 @@ LACKING GROWTH of LIVING PLANTS.
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The standard word is huāng 荒 (ant. féi 肥 "rich, fertile" and wò 沃 "fertile") which refers to any barren or uncultivated piece of land.
+1. The standard word is huāng [[荒]] (ant. féi [[肥]] "rich, fertile" and wò [[沃]] "fertile") which refers to any barren or uncultivated piece of land.
 [GENERAL], [GENERAL-USE]; [[COMMON]]
-2. Wú 蕪 (ant. fān 蕃 "rich in agricultural vegetation") refers specifically to land overgrown with weads and thus unable to yield agricultural produce.
+2. Wú [[蕪]] (ant. fān [[蕃]] "rich in agricultural vegetation") refers specifically to land overgrown with weads and thus unable to yield agricultural produce.
 [GENERAL-USE]; [[RARE]]
-3. Què 埆 refers to barren soil basically unsuitable for cultivation.
+3. Què [[埆]] refers to barren soil basically unsuitable for cultivation.
 [TECHNICAL-TERM]; [[RARE]]
-4. Qiāo 墝 refers to stony barren territory unsuitable for cultivation.
+4. Qiāo [[墝]] refers to stony barren territory unsuitable for cultivation.
 [TECHNICAL-TERM]; [[RARE]]
-5. Cǎo lái 草萊 refers to barren grasslands unsuitable for cultivation.
+5. Cǎo lái [[草萊]] refers to barren grasslands unsuitable for cultivation.
 [POETIC]; [[RARE]]
-6. Bù máo 不毛 refers simply to the striking absence of all vegetation.
+6. Bù máo [[不毛]] refers simply to the striking absence of all vegetation.
 [ELEVATED], [POETIC]
 ## Modern Chinese Criteria
 荒蕪

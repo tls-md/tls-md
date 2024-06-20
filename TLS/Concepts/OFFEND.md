@@ -16,14 +16,14 @@ och: 逆
 REFUSE TO OBEY OR CONFORM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current most general word for offending against what one is obliged to act in accordance with or going against a current is probably nì 逆 (ant. shùn 順 "follow and obey"), which refers to any action which goes against something.
-2. Fàn 犯 (ant. cǒng 從 "follow obediently") refers as a derogatory term to a deliberate and active breaking of a rule.
-3. Gān 干 and gān 奸 are rare words referring specifically to culpable breach of the law.
-4. Wéi 違 (ant. xún 循 "follow") and the rarer lí 離 as well as fēi 非 are neutral terms referring to a failure to comply with something.
-5. Fú 拂 refers to something grating against sensibilities or creating a conflict.
-6. Fáng 妨 adds to the failure of compliance the nuance of interference with what one fails to comply with.
-7. Kuī 虧 adds to the failure of compliance the nuance of inflicting harm or damage on what one fails to comply with.
-8. Shāng 傷, hài 害, and bài 敗 add to the failure of compliance the element of ruining what one has failed to comply with exactly by this failure of compliance; but hài 害 has developed a special related meaning of offending logically against something, i.e. being incompatible with it.
+1. The current most general word for offending against what one is obliged to act in accordance with or going against a current is probably nì [[逆]] (ant. shùn [[順]] "follow and obey"), which refers to any action which goes against something.
+2. Fàn [[犯]] (ant. cǒng [[從]] "follow obediently") refers as a derogatory term to a deliberate and active breaking of a rule.
+3. Gān [[干]] and gān [[奸]] are rare words referring specifically to culpable breach of the law.
+4. Wéi [[違]] (ant. xún [[循]] "follow") and the rarer lí [[離]] as well as fēi [[非]] are neutral terms referring to a failure to comply with something.
+5. Fú [[拂]] refers to something grating against sensibilities or creating a conflict.
+6. Fáng [[妨]] adds to the failure of compliance the nuance of interference with what one fails to comply with.
+7. Kuī [[虧]] adds to the failure of compliance the nuance of inflicting harm or damage on what one fails to comply with.
+8. Shāng [[傷]], hài [[害]], and bài [[敗]] add to the failure of compliance the element of ruining what one has failed to comply with exactly by this failure of compliance; but hài [[害]] has developed a special related meaning of offending logically against something, i.e. being incompatible with it.
 ## Modern Chinese Criteria
 違犯
 觸犯

@@ -20,7 +20,7 @@ SPEAK:say that something that has been SAID is UNTRUE.
 SPEAK:say that SOMETHING is NOT TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There are no common words for denial in pre-Buddhist Chinese. Fēi 非 has declarative transitive uses, I think, but I have not yet identified a clear relevant example.
+1. There are no common words for denial in pre-Buddhist Chinese. Fēi [[非]] has declarative transitive uses, I think, but I have not yet identified a clear relevant example.
 ## Modern Chinese Criteria
 否定 is the current modern word for denial.
 否決 is to make or pass a decision against something.

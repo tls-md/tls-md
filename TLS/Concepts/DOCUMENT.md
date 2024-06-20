@@ -17,16 +17,16 @@ och: 書
 ARTEFACT PRODUCED FOR CONTAINING WRITING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word for everything written is shū 書. (However, note that the word also refers specifically to a letter.)
-2. Zhì 志 typically refers to a systematic coherent record.
-3. Jì 記 refers to an ordered record designed to serve as an aide-memoire.
-4. Jí 籍 refers to a formal and official record, typically a population register or a written official statute.
-5. Zhuàn 傳 refers to an explanatory record, typically a record based on or commenting upon other written sources.
-6. Lǎn 覽 refers to a comprehensive survey on a subject.
-7. Xí 檄 refers to a written military command.
-8. Sān chǐ 三尺 refers to the text of a law formally inscribed on large three-foot tablets.
-9. Cè 冊／策 refers to a document, typically in the form of a bundle of bamboo strips.
-NB: Xìn 信 "letter" is post-Han.
+1. The dominant general word for everything written is shū [[書]]. (However, note that the word also refers specifically to a letter.)
+2. Zhì [[志]] typically refers to a systematic coherent record.
+3. Jì [[記]] refers to an ordered record designed to serve as an aide-memoire.
+4. Jí [[籍]] refers to a formal and official record, typically a population register or a written official statute.
+5. Zhuàn [[傳]] refers to an explanatory record, typically a record based on or commenting upon other written sources.
+6. Lǎn [[覽]] refers to a comprehensive survey on a subject.
+7. Xí [[檄]] refers to a written military command.
+8. Sān chǐ [[三尺]] refers to the text of a law formally inscribed on large three-foot tablets.
+9. Cè [[冊]]／[[策]] refers to a document, typically in the form of a bundle of bamboo strips.
+NB: Xìn [[信]] "letter" is post-Han.
 ## 
 HUANG JINGUI 2006
 COMMUNICATIONS 4.

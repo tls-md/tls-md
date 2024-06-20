@@ -49,10 +49,10 @@ och: 老／舊
 Of BIG AGE OR having EXISTED for an ENDURING PERIOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for old age of living creatures is lǎo 老 "of old age" (ant. shào 少 "still youthful" and yòu 幼 "young"), whereas the general term for things not new is jiù 舊 (ant. xīn 新 "new").
-2. Wǎng 往 (ant. lái 來 "future") refers to times past.
-3. Gù 故 (ant. xīn 新 ) refers to what is a matter of the past which typically has an impact on, or traces in, the present.
-4. Chén 陳 (ant. xīn 新 ) refers to what is stale and no longer new and fresh.
+1. The general term for old age of living creatures is lǎo [[老]] "of old age" (ant. shào [[少]] "still youthful" and yòu [[幼]] "young"), whereas the general term for things not new is jiù [[舊]] (ant. xīn [[新]] "new").
+2. Wǎng [[往]] (ant. lái [[來]] "future") refers to times past.
+3. Gù [[故]] (ant. xīn [[新]] ) refers to what is a matter of the past which typically has an impact on, or traces in, the present.
+4. Chén [[陳]] (ant. xīn [[新]] ) refers to what is stale and no longer new and fresh.
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS OLD PERSON: 31. 老人。
 老，指五十歲以上者，通稱，也常用作尊稱。

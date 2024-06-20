@@ -18,12 +18,12 @@ och: 名
 SPEAK so as to REFER to something OR WORD USED for REFERRING to something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a name is míng 名 (ant. shí 實 "reality").
-2. Wèi 謂 refers generally to the act of calling something by a certain name.
-3. Yuē 曰 is weaker in meaning and often refers to something being known as or called X.
-4. Mìng 命 typically refers to what is construed as a deliberate act of creating a name or making creative use of a name with the assumption that others should follow the practice.
-5. Chēng 稱 typically refers simply to establishing a new name for something or using a name in a special way.
-6. Shì 諡 refers as a technical term to formally conferring a posthumous name on someone or to that name itself. (See PERSONAL NAME)
+1. The current general word for a name is míng [[名]] (ant. shí [[實]] "reality").
+2. Wèi [[謂]] refers generally to the act of calling something by a certain name.
+3. Yuē [[曰]] is weaker in meaning and often refers to something being known as or called X.
+4. Mìng [[命]] typically refers to what is construed as a deliberate act of creating a name or making creative use of a name with the assumption that others should follow the practice.
+5. Chēng [[稱]] typically refers simply to establishing a new name for something or using a name in a special way.
+6. Shì [[諡]] refers as a technical term to formally conferring a posthumous name on someone or to that name itself. (See PERSONAL NAME)
 ## Modern Chinese Criteria
 名字 refers to the name of anything.
 叫名兒 refers colloquially to what something is called.

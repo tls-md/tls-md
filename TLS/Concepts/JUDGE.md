@@ -21,11 +21,11 @@ DECIDE, as HAVING AUTHORITY, whether someone is GUILTY OR INNOCENT, OR whether a
 DECIDE IN-RELATION-TO the FACTS
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general legal term for passing judgement is lùn 論.
-2. Dāng 當 is to sit in judgment of a matter and determine guilt.
-3. Duàn 斷 is the conclusion of the process of legal investigation.
-4. Bào 報 refers to the announcement of the judgment passed.
-5. Lǐ 理 refers to the office of the person who is professionally in charge of passing judgment, the judge.
+1. The general legal term for passing judgement is lùn [[論]].
+2. Dāng [[當]] is to sit in judgment of a matter and determine guilt.
+3. Duàn [[斷]] is the conclusion of the process of legal investigation.
+4. Bào [[報]] refers to the announcement of the judgment passed.
+5. Lǐ [[理]] refers to the office of the person who is professionally in charge of passing judgment, the judge.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 39.

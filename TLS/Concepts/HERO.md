@@ -28,16 +28,16 @@ och: 雄
 ADMIRED PERSON of INTENSELY EXCELLENT TALENT AND EXCELLENT REPUTATION EVERYWHERE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a person of almost superhuman strength or talent is xióng 雄 (ant. yōng 庸 "ordinary person").
-2. Jié 傑 / 桀 refers to an outstanding hero.
-3. Yīng 英 focusses on the hero as an illustrious figure.
-4. Jùn 俊 focus on the hero as a remarkable figure towering above ordinary man.
-5. Háo 豪 focusses on the hero as possessed of very great strength.
-6. Shèng 聖 (ant. fán 凡 "ordinary person") focusses on the hero as possessed of very great superior creativity and wisdom, and the word is mostly expanded to shèng rén 聖人.
-7. Xián 賢 (ant. bù xiào 不肖 "the incompetent") focusses on the hero as possessed of very unusually high moral, political, and practical talents.
+1. The current general term for a person of almost superhuman strength or talent is xióng [[雄]] (ant. yōng [[庸]] "ordinary person").
+2. Jié [[傑]] / [[桀]] refers to an outstanding hero.
+3. Yīng [[英]] focusses on the hero as an illustrious figure.
+4. Jùn [[俊]] focus on the hero as a remarkable figure towering above ordinary man.
+5. Háo [[豪]] focusses on the hero as possessed of very great strength.
+6. Shèng [[聖]] (ant. fán [[凡]] "ordinary person") focusses on the hero as possessed of very great superior creativity and wisdom, and the word is mostly expanded to shèng rén [[聖人]].
+7. Xián [[賢]] (ant. bù xiào [[不肖]] "the incompetent") focusses on the hero as possessed of very unusually high moral, political, and practical talents.
 
-WENZI, shangli: 智過百人謂之杰，十人謂之豪，千人謂之俊，萬人謂之英。
-HUAINAN, taizu: 故智過萬人者謂之英，千人者謂之俊，百人者謂之豪，十人者謂之杰。
+WENZI, shangli: [[智過百人謂之杰]]，[[十人謂之豪]]，[[千人謂之俊]]，[[萬人謂之英]]。
+HUAINAN, taizu: [[故智過萬人者謂之英]]，[[千人者謂之俊]]，[[百人者謂之豪]]，[[十人者謂之杰]]。
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 43. 才智出眾者。
 英，重在美好。

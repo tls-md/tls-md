@@ -8,11 +8,11 @@ och: 鐮
 CUTTING TOOL for HARVESTING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for a sickle is lián 鐮／鎌.
-2. Bá 鈸 is a sickle with a long handle.
-3. Zhì 銍 is a kind of hoe used not for weedig but for harvesting.
-4. Gōu 鉤 is a kind of hook-shaped sickle
-NB: Yì 刈 "reaping sickle" is post-Han.
+1. The current word for a sickle is lián [[鐮]]／[[鎌]].
+2. Bá [[鈸]] is a sickle with a long handle.
+3. Zhì [[銍]] is a kind of hoe used not for weedig but for harvesting.
+4. Gōu [[鉤]] is a kind of hook-shaped sickle
+NB: Yì [[刈]] "reaping sickle" is post-Han.
 ## Modern Chinese Criteria
 鐮刀
 鐮

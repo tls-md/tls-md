@@ -27,15 +27,15 @@ och: 毀
 CRITICISE INTENSELY, LACKING APPROPRIATE REASONS, NOT ADDRESSING the HUMAN BLAMED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for speaking ill of a person is huǐ 毀 (ant. yù 譽 "praise"), and the slander involved can be of all kinds.
-2. Chán 讒 (ant. zàn 贊 "praise justly") refers to popular slander, sometimes by persons without significant political influence.
-3. Bàng 謗 "vilify a person" (ant. chēng 稱 "praise") refers to public serious criticism, sometimes coming close to public abuse; increasingly, the word tended to refer to unjustified such accusations, i.e. slander, but the word is also used for justified serious criticism in public.
-4. Fěi 誹 (ant. yáng 揚 "spread good reports about") refers to critical comments on a person, and these may come from persons of influence or from the common people. See CRITICISE
-5. Zèn 譖 (ant. zhāng 彰 "be full of public praise for") refers specifically to a secret malicious whispering campaign.
-6. Jī 譏 refers to subtle satirical slander.
-7. Wū 誣 (ant. zàn 贊 "praise justly") refers specifically to unjustified slander.
-8. Shàn 訕 (ant. sòng 頌 "sing the praises of") adds an element of ridicule to that of speaking ill of a person.
-9. Wù 惡 (ant. měi 美 "speak well of") can be used to focus on maligning someone to his superiors.
+1. The standard current word for speaking ill of a person is huǐ [[毀]] (ant. yù [[譽]] "praise"), and the slander involved can be of all kinds.
+2. Chán [[讒]] (ant. zàn [[贊]] "praise justly") refers to popular slander, sometimes by persons without significant political influence.
+3. Bàng [[謗]] "vilify a person" (ant. chēng [[稱]] "praise") refers to public serious criticism, sometimes coming close to public abuse; increasingly, the word tended to refer to unjustified such accusations, i.e. slander, but the word is also used for justified serious criticism in public.
+4. Fěi [[誹]] (ant. yáng [[揚]] "spread good reports about") refers to critical comments on a person, and these may come from persons of influence or from the common people. See CRITICISE
+5. Zèn [[譖]] (ant. zhāng [[彰]] "be full of public praise for") refers specifically to a secret malicious whispering campaign.
+6. Jī [[譏]] refers to subtle satirical slander.
+7. Wū [[誣]] (ant. zàn [[贊]] "praise justly") refers specifically to unjustified slander.
+8. Shàn [[訕]] (ant. sòng [[頌]] "sing the praises of") adds an element of ridicule to that of speaking ill of a person.
+9. Wù [[惡]] (ant. měi [[美]] "speak well of") can be used to focus on maligning someone to his superiors.
 ## Modern Chinese Criteria
 說壞話 "speak bad speech" is a very informal colloquial way of referring to slander.
 誣蔑 focusses on the unwarranted nature of the slander.

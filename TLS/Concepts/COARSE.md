@@ -13,8 +13,8 @@ zh: 粗
 THICK BECAUSE CONTAIING THICK PARTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for anything physically or otherwise coarsE and not fine or subtle is cū 粗 / 麤 (ant. xì 細 "fine" and jīng 精 "subtle and exquisite"). See also ORDINARY
-2. Shū 疏 (ant. liáng 粱 "exquisite (of food)") refers typically to poor quality coarse food.
+1. The dominant word for anything physically or otherwise coarsE and not fine or subtle is cū [[粗]] / [[麤]] (ant. xì [[細]] "fine" and jīng [[精]] "subtle and exquisite"). See also ORDINARY
+2. Shū [[疏]] (ant. liáng [[粱]] "exquisite (of food)") refers typically to poor quality coarse food.
 ## Modern Chinese Criteria
 粗
 粗糙

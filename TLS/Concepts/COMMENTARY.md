@@ -20,7 +20,7 @@ zh: 注釋
 DOCUMENT which SYSTEMATICALLY EXPLAINS the MEANING of ANOTHER DOCUMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-注
+[[注]]
 ## 
 HUANG JINGUI 2006
 EDUCATION 7.

@@ -13,7 +13,7 @@ och: 輕１
 Of SMALL WEIGHT, OR EASY TO LIFT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for something being of little weight is qīng 輕, and I have not found any current near-synonyms.
+1. The standard word for something being of little weight is qīng [[輕]], and I have not found any current near-synonyms.
 ## Modern Chinese Criteria
 輕
 輕省

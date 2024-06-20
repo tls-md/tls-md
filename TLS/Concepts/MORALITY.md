@@ -7,7 +7,7 @@ zh: 倫理道德
 VIRTUE of REFLECTING SYSTEMATICALLY on WHAT IS GOOD ACT:act AND a GOOD LIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-衷 could perhaps just as well be classed under EARNEST. The notions of morality and earnestness are closely related. This needs further study.
+[[衷]] could perhaps just as well be classed under EARNEST. The notions of morality and earnestness are closely related. This needs further study.
 # Ontology
 
 ## Hypernym

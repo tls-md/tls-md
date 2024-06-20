@@ -11,10 +11,10 @@ och: 歸
 TRAVEL to a PLACE FROM which one COMES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for returning to where one belongs is guī1 歸 (zhī 之 "go to").
-2. Fǎn 反 / 返 (ant. wǎng 往 "set out for") is to get back to where one came from, and the focus is on whereto one returns. 及反 is "when he had got back", 未反 is "before he had god back". 反哭 is wailing upon one's return, not while returning.
-3. Huán 還 (ant. wǎng 往 "set out for") typically refers to turning round and preparing to retrace one's steps or one's route, very often after a military or civil engagement, successful or unseccessful, and the focus is on wherefrom one returns. 還 as a subordinate sentence is "when he was on his way back". See TURN ROUND
-4. Fù 復 (ant. lí 離 "quit") is sometimes used for returning to or regaining a position.
+1. The standard general word for returning to where one belongs is guī1 [[歸]] (zhī [[之]] "go to").
+2. Fǎn [[反]] / [[返]] (ant. wǎng [[往]] "set out for") is to get back to where one came from, and the focus is on whereto one returns. [[及反]] is "when he had got back", [[未反]] is "before he had god back". [[反哭]] is wailing upon one's return, not while returning.
+3. Huán [[還]] (ant. wǎng [[往]] "set out for") typically refers to turning round and preparing to retrace one's steps or one's route, very often after a military or civil engagement, successful or unseccessful, and the focus is on wherefrom one returns. [[還]] as a subordinate sentence is "when he was on his way back". See TURN ROUND
+4. Fù [[復]] (ant. lí [[離]] "quit") is sometimes used for returning to or regaining a position.
 ## Modern Chinese Criteria
 返回
 歸來

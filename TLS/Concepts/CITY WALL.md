@@ -12,11 +12,11 @@ zh: 城郭
 FORTIFYING WALL ENCIRCLING a CITY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Chéng 城 refers to the inner city wall. It was originally built of rammed earth, but during the Han there were also walls built of bricks or stones. See also FORTIFY.
-2. Guō 郭 is an outer city wall. Sometimes this is also called kuò 廓.
-3. Dié 堞 refers both to the battlements on the wall and to the crenels of it. See RAMPART
-4. Nuχiáng 女牆 refers to the battlements on the wall. See RAMPART
-5. Yú 隅 refers to the corner of the wall, usually raised above the level of the wall and with building on it.
+1. Chéng [[城]] refers to the inner city wall. It was originally built of rammed earth, but during the Han there were also walls built of bricks or stones. See also FORTIFY.
+2. Guō [[郭]] is an outer city wall. Sometimes this is also called kuò [[廓]].
+3. Dié [[堞]] refers both to the battlements on the wall and to the crenels of it. See RAMPART
+4. Nuχiáng [[女牆]] refers to the battlements on the wall. See RAMPART
+5. Yú [[隅]] refers to the corner of the wall, usually raised above the level of the wall and with building on it.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 1.

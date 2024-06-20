@@ -22,12 +22,12 @@ och: 規
 ENDURINGLY USED METHOD, TYPICALLY GOVERNED by some AUTHORITY, CAUSING one to be ABLE to JUDGE something. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general words for a standard to be followed is guī 規.
-2. The current word referring specifically to physical standards and measurements is dù 度.
-3. The current general word for abstract moral standards is jié 節.
-4. Cháng 常 focusses on the lasting effectiveness of a standard.
-5. Cao 操 refers to a standard as a technique to be mastered and then exercised.
-6. Zhì 制 refers to a system in general. See SYSTEM
+1. The current general words for a standard to be followed is guī [[規]].
+2. The current word referring specifically to physical standards and measurements is dù [[度]].
+3. The current general word for abstract moral standards is jié [[節]].
+4. Cháng [[常]] focusses on the lasting effectiveness of a standard.
+5. Cao [[操]] refers to a standard as a technique to be mastered and then exercised.
+6. Zhì [[制]] refers to a system in general. See SYSTEM
 ## Modern Chinese Criteria
 標準
 基準

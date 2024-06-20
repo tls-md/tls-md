@@ -23,11 +23,11 @@ och: 德
 EXCELLENCE of CHARACTER IN a PERSON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for salient features and principles of charismatic moral potency, integrity and generosity is dé 德, when used as a term of ethical evalutation.
-2. Other general terms for subjectively construed general moral commendation include měi 美 "point of moral distinction" (ant. è 惡 "point of moral decrepitude"), and occasionally gāo 高 "elevated points, elevated spirit" (ant. jiàn 賤 "point of vulgar decrepitude"). NB that shàn 善 "excellent" is not used as a general term of positive moral appreciation in pre-Buddhist texts.
-3. The most current dé 德 "virtues" recognised in pre-Buddhist China are rén 仁 "kind-heartedness", yì 義 "rectitude", lǐ 禮 "propriety", zhì 智 "wisdom", and xìn 信 "good faith".
-4. Further important virtues are xiào 孝 "filial piety", zhōng 忠 "loyal diligence", tì 悌 / 弟 "brotherly affection", lián 廉 "impeccable probity", jié 節 "moderation", and perhaps yǒng 勇 "the courage of one's moral convictions". ( 說苑 : 百行 (xìng) 孝為先 )
-5. Zhōng yōng 中庸 "the mean in action" may be mentioned as a a central Confucian virtue, jiān ài 兼愛 "unIversal love" as a Mohist virtue, wú wéi 無為 "unobtrusive action" as a non-moralistic Taoist virtue.
+1. The current general term for salient features and principles of charismatic moral potency, integrity and generosity is dé [[德]], when used as a term of ethical evalutation.
+2. Other general terms for subjectively construed general moral commendation include měi [[美]] "point of moral distinction" (ant. è [[惡]] "point of moral decrepitude"), and occasionally gāo [[高]] "elevated points, elevated spirit" (ant. jiàn [[賤]] "point of vulgar decrepitude"). NB that shàn [[善]] "excellent" is not used as a general term of positive moral appreciation in pre-Buddhist texts.
+3. The most current dé [[德]] "virtues" recognised in pre-Buddhist China are rén [[仁]] "kind-heartedness", yì [[義]] "rectitude", lǐ [[禮]] "propriety", zhì [[智]] "wisdom", and xìn [[信]] "good faith".
+4. Further important virtues are xiào [[孝]] "filial piety", zhōng [[忠]] "loyal diligence", tì [[悌]] / [[弟]] "brotherly affection", lián [[廉]] "impeccable probity", jié [[節]] "moderation", and perhaps yǒng [[勇]] "the courage of one's moral convictions". ( [[說苑]] : [[百行]] (xìng) [[孝為先]] )
+5. Zhōng yōng [[中庸]] "the mean in action" may be mentioned as a a central Confucian virtue, jiān ài [[兼愛]] "unIversal love" as a Mohist virtue, wú wéi [[無為]] "unobtrusive action" as a non-moralistic Taoist virtue.
 ## 
 HUANG JINGUI 2006
 EDUCATION 18.

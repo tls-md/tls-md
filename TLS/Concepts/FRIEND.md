@@ -44,14 +44,14 @@ och: 友
 HUMAN with whom one INTERACTS with MUTUAL LOVE AND RESPECT BECAUSE s/he has RESEMBLING ASPIRATIONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for a friend is yǒu 友 (ant. dí 敵 "enemy"), and the specific nuance indicated by this word is that of a commonality of feelings and interests, although it must be noted that the etymological link of the word is with the notion of "help", and in pre-SHI times the word tended to refer to cooperating associates rather than friends.
-2. Péng 朋 typically refers to a person of similar educational background and a similar political or social agenda.
-3. Dǎng 黨 refers to group of péng 朋 pursuing a common aim, and the word is normally derogatory in meaning.
-4. Bàn 伴 and lu# 侶 refer to a companion during a specified period of time.
-5. Pǐ 匹 and chóu 儔 refer to a person of similar professional or social background who for this reason has connections with one.
-6. Jiù 舊, gù rén 故人, gù zhī 故知, and jiù gù 舊故 (all ant. shēng rén 生人 "stranger") refer to old acquaintances linked together by common experiences in the distant past.
-7. Zhī yīn 知音 refers to person who has a proper sense for the special qualities of another in such a way that he is linked to him by deep bonds of spiritual friendship.
-8. Hǎo 好 often refers to relations of friendship and good-will between states and communities, but also between individuals.
+1. The most general current word for a friend is yǒu [[友]] (ant. dí [[敵]] "enemy"), and the specific nuance indicated by this word is that of a commonality of feelings and interests, although it must be noted that the etymological link of the word is with the notion of "help", and in pre-SHI times the word tended to refer to cooperating associates rather than friends.
+2. Péng [[朋]] typically refers to a person of similar educational background and a similar political or social agenda.
+3. Dǎng [[黨]] refers to group of péng [[朋]] pursuing a common aim, and the word is normally derogatory in meaning.
+4. Bàn [[伴]] and lu# [[侶]] refer to a companion during a specified period of time.
+5. Pǐ [[匹]] and chóu [[儔]] refer to a person of similar professional or social background who for this reason has connections with one.
+6. Jiù [[舊]], gù rén [[故人]], gù zhī [[故知]], and jiù gù [[舊故]] (all ant. shēng rén [[生人]] "stranger") refer to old acquaintances linked together by common experiences in the distant past.
+7. Zhī yīn [[知音]] refers to person who has a proper sense for the special qualities of another in such a way that he is linked to him by deep bonds of spiritual friendship.
+8. Hǎo [[好]] often refers to relations of friendship and good-will between states and communities, but also between individuals.
 ## Modern Chinese Criteria
 朋友
 友人

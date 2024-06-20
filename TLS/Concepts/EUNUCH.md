@@ -8,7 +8,7 @@ och: 寺人
 CASTRATED MALE OFFICIAL GOVERNING A HAREM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term for a eunuch is sì rén 寺人.
+1. The standard term for a eunuch is sì rén [[寺人]].
 ## Modern Chinese Criteria
 閹寺 is the most explicit current word for a eunuch.
 閹宦

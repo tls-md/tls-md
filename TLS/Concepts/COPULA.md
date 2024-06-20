@@ -8,18 +8,18 @@ och: 維
 RELATION between a CATEGORY AND THINGS of that CATEGORY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Classical Chinese had several common copulas at an early stage: wéi 維 / 唯 / 惟 (ant. fēi 非 "is not") was common in SHI and SHU, but discontinued later.
-2. The final particle yě 也 is interpreted by some as a sentence-final copula, but it is properly regarded as a sentential particle marking non-narrative modes of predication.
-3. The standard copula in Warring States Chinese is wéi 為, which tends to have human subjects and is by no means as common in Chinese as the copula is in Western languages.
-4. Yuē 曰 is current as a copula in listings of items and the like.
-5. Yún 云 is a rare archaising copula in ZUO.
-6. Zé 則 is copula-like after contrastive subjects.
-7. Nǎi 乃 is copula-like and contrastive and stresses that the subject is none other than the predicate.
-8. Dāng 當 "act as, fulfill the function of" is copula-like, but there is only a slight degree of grammaticalisation in the direction of a copula.
-9. Wèi 謂 "be counted as, count as" sometimes moves in the direction of copula-like uses.
-10. Shì 是 is a resumptive demonstrative pronoun which on very rare occasions can come to function very much as a copula.
-11. Zhòng 中 has some copula-like uses in GUAN, when the word means "amount to, cost" and sometimes even stands before ordinary nominal predicates.
-12. Yǐ 以 "as a SUBJECT" functions quite regularly as a subordinate copula in classical Chinese.
+1. Classical Chinese had several common copulas at an early stage: wéi [[維]] / [[唯]] / [[惟]] (ant. fēi [[非]] "is not") was common in SHI and SHU, but discontinued later.
+2. The final particle yě [[也]] is interpreted by some as a sentence-final copula, but it is properly regarded as a sentential particle marking non-narrative modes of predication.
+3. The standard copula in Warring States Chinese is wéi [[為]], which tends to have human subjects and is by no means as common in Chinese as the copula is in Western languages.
+4. Yuē [[曰]] is current as a copula in listings of items and the like.
+5. Yún [[云]] is a rare archaising copula in ZUO.
+6. Zé [[則]] is copula-like after contrastive subjects.
+7. Nǎi [[乃]] is copula-like and contrastive and stresses that the subject is none other than the predicate.
+8. Dāng [[當]] "act as, fulfill the function of" is copula-like, but there is only a slight degree of grammaticalisation in the direction of a copula.
+9. Wèi [[謂]] "be counted as, count as" sometimes moves in the direction of copula-like uses.
+10. Shì [[是]] is a resumptive demonstrative pronoun which on very rare occasions can come to function very much as a copula.
+11. Zhòng [[中]] has some copula-like uses in GUAN, when the word means "amount to, cost" and sometimes even stands before ordinary nominal predicates.
+12. Yǐ [[以]] "as a SUBJECT" functions quite regularly as a subordinate copula in classical Chinese.
 ## Modern Chinese Criteria
 是 is the standard modern copula.
 為 is literary in flavour.

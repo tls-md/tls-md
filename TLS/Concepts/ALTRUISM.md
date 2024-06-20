@@ -10,7 +10,7 @@ zh: 利他主義
 DOCTRINE that OTHERS are MORE IMPORTANT THAN ONSELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-公
+[[公]]
 # Ontology
 
 ## Antonym

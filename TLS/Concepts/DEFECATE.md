@@ -17,13 +17,13 @@ zh: 排泄
 ISSUE NATURALLY what IS-IN one's INNARDS AND BLADDER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The rather rare general word including all forms of defecation is sōu 溲, but this word has a polite literary ring and is first attested in Han times.
-2. Biàn 便 is a colloquial informal way of referring to informal defecation in places other than latrines.
-3. Niào 溺／尿 is the standard colloquial term for urine or urination. See URINATE.
-4. Yí 遺 the exrements excreted because of incontinence.
-5. Sī 私 and the later xuán 旋 refers to males urinating. See URINATE.
-6. Shǐ 矢／屎 refers specifically to shit.
-7. Fèn 糞 refers originally to dung including rice straw etc, but came to refer to animal excrement used for fertilisation, dung. See MANURE.
+1. The rather rare general word including all forms of defecation is sōu [[溲]], but this word has a polite literary ring and is first attested in Han times.
+2. Biàn [[便]] is a colloquial informal way of referring to informal defecation in places other than latrines.
+3. Niào [[溺]]／[[尿]] is the standard colloquial term for urine or urination. See URINATE.
+4. Yí [[遺]] the exrements excreted because of incontinence.
+5. Sī [[私]] and the later xuán [[旋]] refers to males urinating. See URINATE.
+6. Shǐ [[矢]]／[[屎]] refers specifically to shit.
+7. Fèn [[糞]] refers originally to dung including rice straw etc, but came to refer to animal excrement used for fertilisation, dung. See MANURE.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 13. 泄瀉。

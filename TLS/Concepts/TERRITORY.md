@@ -8,15 +8,15 @@ och: 方
 PLACE INSIDE DEFINED BOUNDARIES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for an area is fāng 方.
-2. Dì 地 refers to a well-defined bounded piece of territory.
-3. Qū 區 typically refers to what is regarded as a subdivision of some territory, according to some criterion.
-4. Yǔ 宇 typically refers to what is construed as a comprehensive unbounded area.
-5. Yù 域 refers to a bounded large area under someone's political control, or belonging to someone as a habitat.
-6. Bāng 邦 (primarily "state") can be used to refer in a dignified way to large tracts of land in so far as these are under the political control from some centre or capital. and occasionally the word is expanded to bāng yù 邦域 "territory".
-7. Fēng 封 is an archaic word used to refer in a dignified way to large tracts of land in so far as these are under the political control from some centre or captial, and the special emphasis is on the bounded nature of this territory.
-8. Jī 畿 refers to the metropolitan area or a central territory under the direct control of a ruler.
-9. Tián 田 can be used to refer to bounded pieces of land belonging to someone.
+1. The current general term for an area is fāng [[方]].
+2. Dì [[地]] refers to a well-defined bounded piece of territory.
+3. Qū [[區]] typically refers to what is regarded as a subdivision of some territory, according to some criterion.
+4. Yǔ [[宇]] typically refers to what is construed as a comprehensive unbounded area.
+5. Yù [[域]] refers to a bounded large area under someone's political control, or belonging to someone as a habitat.
+6. Bāng [[邦]] (primarily "state") can be used to refer in a dignified way to large tracts of land in so far as these are under the political control from some centre or capital. and occasionally the word is expanded to bāng yù [[邦域]] "territory".
+7. Fēng [[封]] is an archaic word used to refer in a dignified way to large tracts of land in so far as these are under the political control from some centre or captial, and the special emphasis is on the bounded nature of this territory.
+8. Jī [[畿]] refers to the metropolitan area or a central territory under the direct control of a ruler.
+9. Tián [[田]] can be used to refer to bounded pieces of land belonging to someone.
 ## Modern Chinese Criteria
 領土
 疆土

@@ -9,17 +9,17 @@ och: 獻
 TRANSMIT to a SUPERIOR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for handing something up to superiors is xiàn 獻 (ant. cì 賜 "present to inferior").
-2. Jìn 進 is a very common bureaucratic word for submitting something to a superior.
-3. Fèng 奉 is a rather dramatic word depicting a person handing something up with both hands (possibly with the intention of making a formal gift of it, xiàn 獻.
-4. Nà 納 is a cold strictly bureaucratic term referring to the handing some upwards in the hierarchy.
-5. Gòng 貢 refers to the formal and ritual handing up or pledging of something to high authorities (typically tribute) in the course of one's ritual or political duties (the two being not held apart in ancient Chinese society). This tribute may even consist of lands or populations.
-6. Bǐng 稟 refers to handing up something to high authority (typically reports) with a show of extreme but customary deferential politeness.
-7. Xiào 效 typically refers to the offering up of abstract things such as effort on behalf of high authority.
-8. Zòu 奏 refers to the formal submission of a text to the highest authorities, and typically to the emperor.
-9. Shàng 上 is a neutral word referring to the submission of anything to someone higher up in the official hierarchy.
-10. Gōng 供／共 refers to the provision of what is necessary to the higher authorities.
-11. Nà 納 is to hand in formally to the authorities.
+1. The current general word for handing something up to superiors is xiàn [[獻]] (ant. cì [[賜]] "present to inferior").
+2. Jìn [[進]] is a very common bureaucratic word for submitting something to a superior.
+3. Fèng [[奉]] is a rather dramatic word depicting a person handing something up with both hands (possibly with the intention of making a formal gift of it, xiàn [[獻]].
+4. Nà [[納]] is a cold strictly bureaucratic term referring to the handing some upwards in the hierarchy.
+5. Gòng [[貢]] refers to the formal and ritual handing up or pledging of something to high authorities (typically tribute) in the course of one's ritual or political duties (the two being not held apart in ancient Chinese society). This tribute may even consist of lands or populations.
+6. Bǐng [[稟]] refers to handing up something to high authority (typically reports) with a show of extreme but customary deferential politeness.
+7. Xiào [[效]] typically refers to the offering up of abstract things such as effort on behalf of high authority.
+8. Zòu [[奏]] refers to the formal submission of a text to the highest authorities, and typically to the emperor.
+9. Shàng [[上]] is a neutral word referring to the submission of anything to someone higher up in the official hierarchy.
+10. Gōng [[供]]／[[共]] refers to the provision of what is necessary to the higher authorities.
+11. Nà [[納]] is to hand in formally to the authorities.
 ## Modern Chinese Criteria
 獻上
 交

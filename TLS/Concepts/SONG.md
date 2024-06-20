@@ -21,13 +21,13 @@ och: 歌
 POEM SUNG CONFORMING to a MELODY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a song with or without accompanying music of any kind is gē 歌.
-2. Shī 詩 refers to a regularly rhymed song with a generally regular number of syllables per line.
-3. Fēng 風 refers to a folk song with a given melody.
-4. Fù 賦 refers originally to any narrative or descriptive song in early texts but came to refer to the genre of rhyme prose.
-5. Yáo 謠 refers to a folksong, mostly in ancient texts to a children's ditty, with a more or less fixed melody, but the focus seems to be on the text and there is no accompanying music involved.
-6. O!u 謳 is a dialect word (state of Qi) referring to popular work-songs with a more or less fixed melody.
-7. Yín 吟 is occasionally used, from late Han and Three Kingdoms times onwards, as a noun and refers to a popular song.
+1. The current general word for a song with or without accompanying music of any kind is gē [[歌]].
+2. Shī [[詩]] refers to a regularly rhymed song with a generally regular number of syllables per line.
+3. Fēng [[風]] refers to a folk song with a given melody.
+4. Fù [[賦]] refers originally to any narrative or descriptive song in early texts but came to refer to the genre of rhyme prose.
+5. Yáo [[謠]] refers to a folksong, mostly in ancient texts to a children's ditty, with a more or less fixed melody, but the focus seems to be on the text and there is no accompanying music involved.
+6. O!u [[謳]] is a dialect word (state of Qi) referring to popular work-songs with a more or less fixed melody.
+7. Yín [[吟]] is occasionally used, from late Han and Three Kingdoms times onwards, as a noun and refers to a popular song.
 ## 
 HUANG JINGUI 2006
 ART 3.

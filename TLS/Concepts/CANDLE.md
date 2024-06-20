@@ -10,8 +10,8 @@ zh: 燭
 SIMPLE SMALL LAMP in the form of a STICK of WAX AND a WICK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zhú 燭 refers to the hand-held torch made ussually of hemp stalks or reed. The word is also used for the torch put in a lamp. Some scholars suggest that the term refers to the candle. WANG 1993: 255; HUANG 1995: 1372; SUN 1991: 351.
-2. Là zhú 蠟燭 is the post-Buddhist word for a wax candle. Note that bees were not raised in ancient China, therefore candles were rather valuable artefacts. [WANG 1993: 256]
+1. Zhú [[燭]] refers to the hand-held torch made ussually of hemp stalks or reed. The word is also used for the torch put in a lamp. Some scholars suggest that the term refers to the candle. WANG 1993: 255; HUANG 1995: 1372; SUN 1991: 351.
+2. Là zhú [[蠟燭]] is the post-Buddhist word for a wax candle. Note that bees were not raised in ancient China, therefore candles were rather valuable artefacts. [WANG 1993: 256]
 ## Modern Chinese Criteria
 蠟燭
 蠟炬

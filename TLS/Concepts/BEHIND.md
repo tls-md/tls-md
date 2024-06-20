@@ -12,7 +12,7 @@ och: 後
 PLACE on the MORE DISTANT SIDE of a THING as SEEN FROM the HUMAN WHO SEES THIS THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term is hòu 後 (ant. qián 前 "before") which has both temporal and spatial meanings, the spatial meaning being the primary one. The term has no competitors in the spatial sphere.
+1. The standard term is hòu [[後]] (ant. qián [[前]] "before") which has both temporal and spatial meanings, the spatial meaning being the primary one. The term has no competitors in the spatial sphere.
 ## Modern Chinese Criteria
 後
 後面

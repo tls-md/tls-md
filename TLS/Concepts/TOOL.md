@@ -8,7 +8,7 @@ zh: 工具
 ARTEFACT PRODUCED FOR USE USING a DEFINED METHOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a tool for use of any kind is qì 器, but the primary meaning of the word remains "container, vessel". (For complex mechanical tools see CONTRAPTION.)
+1. The general word for a tool for use of any kind is qì [[器]], but the primary meaning of the word remains "container, vessel". (For complex mechanical tools see CONTRAPTION.)
 ## Modern Chinese Criteria
 工具
 用具

@@ -24,15 +24,15 @@ och: 助
 TRY to PROFIT someone OR to CAUSE a person TO ACHIEVE something one BELIEVES is DIFFICULT for that person.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for helping someone else to perform a task is probably zhù 助 (ant. zǔ 阻 "hinder") which can refer to support given to men or other creatures.
-2. Yuán 援 typically refers to spontaneous unsolicited and enthusiastic help.
-3. Zuǒ 佐, yòu 佑 (deriving their meaning from the position of aides near the ruler), and also fǔ 輔 refer to official assistance in a formal context.
-4. Fú 扶 is specifially help to those much in need of support.
-5. Yì 益 (ant. sǔn 損 "act to hinder someone's progress") refers to support for someone who is already fairly well equipped for the task he or she gets support for.
-6. Jiǎ 假 refers to - not necessarily overt - discreet support.
-7. Zī 資 refers primarily to providing material support, but the word came to have common wider, generalised applications.
-8. Jì 濟 refers to acute help for a current difficult task.
-9. Yòu 祐 is a very ancient word referring specifically to assistance afforded by supernatural forces.
+1. The most general current word for helping someone else to perform a task is probably zhù [[助]] (ant. zǔ [[阻]] "hinder") which can refer to support given to men or other creatures.
+2. Yuán [[援]] typically refers to spontaneous unsolicited and enthusiastic help.
+3. Zuǒ [[佐]], yòu [[佑]] (deriving their meaning from the position of aides near the ruler), and also fǔ [[輔]] refer to official assistance in a formal context.
+4. Fú [[扶]] is specifially help to those much in need of support.
+5. Yì [[益]] (ant. sǔn [[損]] "act to hinder someone's progress") refers to support for someone who is already fairly well equipped for the task he or she gets support for.
+6. Jiǎ [[假]] refers to - not necessarily overt - discreet support.
+7. Zī [[資]] refers primarily to providing material support, but the word came to have common wider, generalised applications.
+8. Jì [[濟]] refers to acute help for a current difficult task.
+9. Yòu [[祐]] is a very ancient word referring specifically to assistance afforded by supernatural forces.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 14. 輔佐。 ACT AS ADMINISTRATIVE ASSISITANT

@@ -29,13 +29,13 @@ och: 效
 CONFORM to TYPICAL ACTIONS of a HUMAN OR ANIMAL so as to RESEMBLE THAT HUMAN OR ANIMAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for imitation is xiào 效.
-2. Xué 學 refers to a systematic attempt to imitate an admired model, often as a method of self-cultivation.
-3. Fǎ 法 refers to modelling oneself on distant ideals, typical abstract, or historically placed in the distant mythical past.
-4. Zé 則 refers to taking something abstract and authoritative as one's fixed obligatory guideline.
-5. Xiàng 象 refers to an abstract, almost metaphysical making oneself into a living icon of a higher authoritative model, typically of an abstract or cosmological kind.
-6. Nǐ 擬 and fǎng 倣 / 仿 refer to an attempt to produce a true copy or a true representation of another representation.
-7. Xiě 寫 refers primarily to the production of a true pictorial representation of another representation. See COPY
+1. The current general word for imitation is xiào [[效]].
+2. Xué [[學]] refers to a systematic attempt to imitate an admired model, often as a method of self-cultivation.
+3. Fǎ [[法]] refers to modelling oneself on distant ideals, typical abstract, or historically placed in the distant mythical past.
+4. Zé [[則]] refers to taking something abstract and authoritative as one's fixed obligatory guideline.
+5. Xiàng [[象]] refers to an abstract, almost metaphysical making oneself into a living icon of a higher authoritative model, typically of an abstract or cosmological kind.
+6. Nǐ [[擬]] and fǎng [[倣]] / [[仿]] refer to an attempt to produce a true copy or a true representation of another representation.
+7. Xiě [[寫]] refers primarily to the production of a true pictorial representation of another representation. See COPY
 ## Modern Chinese Criteria
 模仿
 效仿

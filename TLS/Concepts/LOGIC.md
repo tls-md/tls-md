@@ -7,7 +7,7 @@ zh: 邏輯
 SYSTEMATIC SCIENCE of CORRECT PROOF.
 # Criteria and general notes
 ## Old Chinese Criteria
-因明
+[[因明]]
 ## Modern Chinese Criteria
 邏輯  論理  道理  理路  事理  理
 # Ontology

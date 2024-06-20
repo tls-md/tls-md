@@ -19,8 +19,8 @@ och: 命
 SUPERNATURAL FORCE which FIXES CONTINGENT EVENTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word referring to what is fated, determined or decreed by Heaven, and thus invested with unquestionable moral or metaphysical authority is mìng 命, sometimes expanded to tiān mìng 天命.
-2. Shù 數 construes fate as something which can be ascertained by the relevant specialists of prognostication.
+1. The current word referring to what is fated, determined or decreed by Heaven, and thus invested with unquestionable moral or metaphysical authority is mìng [[命]], sometimes expanded to tiān mìng [[天命]].
+2. Shù [[數]] construes fate as something which can be ascertained by the relevant specialists of prognostication.
 ## Modern Chinese Criteria
 命運 is the current general word for fate.
 天命 is a popular but literary word for fate as ordained by Heaven.

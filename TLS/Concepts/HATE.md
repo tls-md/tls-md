@@ -37,16 +37,16 @@ och: 惡／怨
 ENDURING ANGER AND DESIRE to HARM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word referring to intense dislike is wù 惡 (ant. ài 愛 "love") which can relate to all kinds of concrete or abstract objects.
-2. Yuàn 怨 is resentment due to identified concrete causes, and the emotion is typically directed towards superiors or equals.
-3. Zēng 憎 (ant. ài 愛 "love") is a rather mild and lingering form of resentment directed at a person.
-4. Jí 疾 / 嫉 can refer to intense personally focussed resentment.
-5. Jì 忌, jí 嫉, and dù 妒 refer to intense personal resentment typically occasioned by envy for some success in love (jealousy) or in politics.
-6. Hèn 恨 "nourish feelings of hatred" is relatively rare in this meaning in pre-Qin times, and it stresses the emotional aspect of hatred.
-7. Yàn 厭 "come to be fed up with" (ant. hào 好 "be fond of") is a resentment due to overexposure to some condition or to a person's behaviour.
-8. Fán 煩 "be irritated at, be annoyed with" refers to a dissatisfaction due to overexposure to some condition or to a person's behaviour.
-9. Kǔ 苦 "resent bitterly", huàn 患 "REGARD AS DISASTROUS> be upset by", and bìng 病 "feel profoundly offended" focus on resentment of some prevailing condition as insufferable and may be directed at responsible officials but not primarily in a personal way.
-10. Wàng 望 is archaising word typically referrring to resentment against superiors.
+1. The dominant general word referring to intense dislike is wù [[惡]] (ant. ài [[愛]] "love") which can relate to all kinds of concrete or abstract objects.
+2. Yuàn [[怨]] is resentment due to identified concrete causes, and the emotion is typically directed towards superiors or equals.
+3. Zēng [[憎]] (ant. ài [[愛]] "love") is a rather mild and lingering form of resentment directed at a person.
+4. Jí [[疾]] / [[嫉]] can refer to intense personally focussed resentment.
+5. Jì [[忌]], jí [[嫉]], and dù [[妒]] refer to intense personal resentment typically occasioned by envy for some success in love (jealousy) or in politics.
+6. Hèn [[恨]] "nourish feelings of hatred" is relatively rare in this meaning in pre-Qin times, and it stresses the emotional aspect of hatred.
+7. Yàn [[厭]] "come to be fed up with" (ant. hào [[好]] "be fond of") is a resentment due to overexposure to some condition or to a person's behaviour.
+8. Fán [[煩]] "be irritated at, be annoyed with" refers to a dissatisfaction due to overexposure to some condition or to a person's behaviour.
+9. Kǔ [[苦]] "resent bitterly", huàn [[患]] "REGARD AS DISASTROUS> be upset by", and bìng [[病]] "feel profoundly offended" focus on resentment of some prevailing condition as insufferable and may be directed at responsible officials but not primarily in a personal way.
+10. Wàng [[望]] is archaising word typically referrring to resentment against superiors.
 ## Modern Chinese Criteria
 仇恨
 憎恨

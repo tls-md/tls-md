@@ -7,8 +7,8 @@ zh: 黃金
 MOST EXPENSIVE SOFT METAL. []
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The specific term for gold is huáng jīn 黃金.
-2. Jīn 金 "metal" is sometimes used as short for huáng jīn 黃金.
+1. The specific term for gold is huáng jīn [[黃金]].
+2. Jīn [[金]] "metal" is sometimes used as short for huáng jīn [[黃金]].
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 29. 銅是一種淡紫紅色或藍綠色的礦石，冶煉後可成青銅。

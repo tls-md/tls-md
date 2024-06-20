@@ -17,11 +17,11 @@ BEing-IN a GROUP of THINGS. 
 ## Old Chinese Criteria
 [[COMMON/RARE]]
 [BASIC/DERIVED]
-1. The standard general word for "among" is zhōng 中.
+1. The standard general word for "among" is zhōng [[中]].
 [[COMMON]]; [npostN]
-2. Jiān 間 is primarily spatial and comes to mean "among" only by figurative extension.
+2. Jiān [[間]] is primarily spatial and comes to mean "among" only by figurative extension.
 [DERIVED]; [npostN]
-3. Yú 於 "in, at" can sometimes come to be used in an extended figurative meaning "among".
+3. Yú [[於]] "in, at" can sometimes come to be used in an extended figurative meaning "among".
 [[RARE]]; [vtpostV]
 ## Modern Chinese Criteria
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／ LU JIANMING

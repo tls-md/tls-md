@@ -28,10 +28,10 @@ och: 枉
 LACK JUSTICE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for injustice suffered is yuān 冤 (ant. píng 平 "proper balanced treatment").
-2. Wǎng 枉 (ant. zhí 直 "straight and lawful treatment") often refers to perversion of justice (althouth the word comes to mean "injustice suffered" by Eastern Han times).
-3. Qǔ 曲 refers to a slightly lesser injustice one is guilty of than wǎng 枉.
-4. Qū 屈 refers to a mild injustice suffered, milder than yuān 冤.
+1. The current general term for injustice suffered is yuān [[冤]] (ant. píng [[平]] "proper balanced treatment").
+2. Wǎng [[枉]] (ant. zhí [[直]] "straight and lawful treatment") often refers to perversion of justice (althouth the word comes to mean "injustice suffered" by Eastern Han times).
+3. Qǔ [[曲]] refers to a slightly lesser injustice one is guilty of than wǎng [[枉]].
+4. Qū [[屈]] refers to a mild injustice suffered, milder than yuān [[冤]].
 ## Modern Chinese Criteria
 冤屈
 冤枉

@@ -8,7 +8,7 @@ och: 胎
 BABY of ANIMAL OR HUMAN BEFORE BIRTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a foetus is tāi 胎 and I have found no near-synonyms.
+1. The standard word for a foetus is tāi [[胎]] and I have found no near-synonyms.
 ## Modern Chinese Criteria
 胎
 胎兒

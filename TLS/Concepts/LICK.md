@@ -12,9 +12,9 @@ och: 舐
 TOUCH USING one's TONGUE CAUSE TO BECOME MOIST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for licking is shì 舐.
-2. Shǔn 吮 adds to the notion of licking that of sucking.
-NB: Tiǎn 舔 is post-Buddhist.
+1. The current word for licking is shì [[舐]].
+2. Shǔn [[吮]] adds to the notion of licking that of sucking.
+NB: Tiǎn [[舔]] is post-Buddhist.
 ## Modern Chinese Criteria
 舔
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

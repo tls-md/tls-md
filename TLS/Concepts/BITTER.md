@@ -20,11 +20,11 @@ BASIC BAD FLAVOUR CONTRARY of SWEET.
 [+FIG/LITERAL]
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
-1. The general word for bitterness is kǔ 苦 (ant. gān 甘 "sweet; tasty"), and this word is often metaphorical.
+1. The general word for bitterness is kǔ [[苦]] (ant. gān [[甘]] "sweet; tasty"), and this word is often metaphorical.
 [+FIG], [GENERAL]; [[COMMON]]
-2. Xīn 辛 refers to a more peppery, pungent bitterness, taken to be quite different from kǔ 苦, and the word has few metaphorical uses in pre-Buddhist Chinese.
+2. Xīn [[辛]] refers to a more peppery, pungent bitterness, taken to be quite different from kǔ [[苦]], and the word has few metaphorical uses in pre-Buddhist Chinese.
 [HIGH-DEGREE], [LITERAL]
-3. Tú 荼 (ant.* yí 飴 "sweetener") refers to a plant known for its bitterness, and by extension the rare word means "bitter thing". The word is marginal in this group.
+3. Tú [[荼]] (ant.* yí [[飴]] "sweetener") refers to a plant known for its bitterness, and by extension the rare word means "bitter thing". The word is marginal in this group.
 [SPECIFIC]
 ## Modern Chinese Criteria
 苦 is the current modern word for bitter.

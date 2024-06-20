@@ -13,8 +13,8 @@ zh: 宮殿
 BIG PUBLIC-BUILDING USED as a DWELLING by a RULER OR an ARISTOCRAT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a palace is gōng 宮, often expanded to wáng gōng 王宮 "royal palace".
-2. Gōng diàn 宮殿 is generic.
+1. The standard word for a palace is gōng [[宮]], often expanded to wáng gōng [[王宮]] "royal palace".
+2. Gōng diàn [[宮殿]] is generic.
 NB: For the palace as the place for official functions see COURT.
 ## Modern Chinese Criteria
 宮殿

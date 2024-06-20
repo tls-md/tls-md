@@ -24,11 +24,11 @@ och: 忽
 QUICKLY AND in a way NOT EXPECTED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word for suddenness is hū 忽.
-2. Tū 突 and zhà4 乍 "out of the blue" refer to the unforeseen onset of something one has imagined was likely or even possible.
-3. Cù 卒 / 猝 refers to the sudden onset of something before it was expected to occur.
-4. E@ 俄 and é ér 俄而 refer to the abrupt occurrence of an event of strikingly short duration.
-5. Bó 勃 is typically limited in application to the suddenness of the initial emergence of a phenomenon.
+1. The most common word for suddenness is hū [[忽]].
+2. Tū [[突]] and zhà4 [[乍]] "out of the blue" refer to the unforeseen onset of something one has imagined was likely or even possible.
+3. Cù [[卒]] / [[猝]] refers to the sudden onset of something before it was expected to occur.
+4. E@ [[俄]] and é ér [[俄而]] refer to the abrupt occurrence of an event of strikingly short duration.
+5. Bó [[勃]] is typically limited in application to the suddenness of the initial emergence of a phenomenon.
 ## Modern Chinese Criteria
 突然
 忽然

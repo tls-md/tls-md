@@ -23,15 +23,15 @@ ADDRESS OTHERS so as to TRY to CAUSE them to HAVE SKILLS OR TALENTS.
 *Teaching by the teacher X, to learner Y, of content Z.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for training, instructing, and disciplining others is jiào 教 (ant. xué 學 "study") and the standard main aim of jiào 教 is unquestioning obedience, professional skill, and intellectual conformity to the standard set by the teacher, and the word connotes use of authority and sometimes even coercion. The primary aim of jiào 教 is action conforming to a standard, and the word is commonly nominalised.
-2. Huì 誨 (ant. xí 習 "study persistently") refers to systematic and persistent efforts to teach and inculcate intellectual or practical skills ( 誨之琴 "taught him to play the zither") and moral understanding of students ( 誨女知之 "I will teach you so you understand"), and the word never implies coercion or any threat of force. Huì 誨 can be mutual, or refer to equals teaching equals, even subordinates teaching superiors 諫誨 "remonstrate with and instruct". The word is not commonly nominalised. The primary aim of huì 誨 is understanding.
-3. Huà 化 refers to successful disciplining and teaching, typically on a large social scale. See INFLUENCE
-4. Qǐ 啟 and fā 發 refer to the opening up of new intellectual and moral dimensions for others.
-5. Xùn 訓 refers in a rather abstract way to formal strict instruction and training aimed primarily at professional skill.
-6. Zhào 詔 refers to instruction by means of useful information or warning.
-7. Fēng 風 is occasionally used to refer to teaching by example.
-8. Liàn 練 refers specifically to military training and only occasionally to other forms of drill.
-9. Dào 道 refers to the content of what is taught, and is largely restricted to postnominal position, as in 儒道 "Confucian teaching".
+1. The current general word for training, instructing, and disciplining others is jiào [[教]] (ant. xué [[學]] "study") and the standard main aim of jiào [[教]] is unquestioning obedience, professional skill, and intellectual conformity to the standard set by the teacher, and the word connotes use of authority and sometimes even coercion. The primary aim of jiào [[教]] is action conforming to a standard, and the word is commonly nominalised.
+2. Huì [[誨]] (ant. xí [[習]] "study persistently") refers to systematic and persistent efforts to teach and inculcate intellectual or practical skills ( [[誨之琴]] "taught him to play the zither") and moral understanding of students ( [[誨女知之]] "I will teach you so you understand"), and the word never implies coercion or any threat of force. Huì [[誨]] can be mutual, or refer to equals teaching equals, even subordinates teaching superiors [[諫誨]] "remonstrate with and instruct". The word is not commonly nominalised. The primary aim of huì [[誨]] is understanding.
+3. Huà [[化]] refers to successful disciplining and teaching, typically on a large social scale. See INFLUENCE
+4. Qǐ [[啟]] and fā [[發]] refer to the opening up of new intellectual and moral dimensions for others.
+5. Xùn [[訓]] refers in a rather abstract way to formal strict instruction and training aimed primarily at professional skill.
+6. Zhào [[詔]] refers to instruction by means of useful information or warning.
+7. Fēng [[風]] is occasionally used to refer to teaching by example.
+8. Liàn [[練]] refers specifically to military training and only occasionally to other forms of drill.
+9. Dào [[道]] refers to the content of what is taught, and is largely restricted to postnominal position, as in [[儒道]] "Confucian teaching".
 ## 
 HUANG JINGUI 2006
 EDUCATION 11.

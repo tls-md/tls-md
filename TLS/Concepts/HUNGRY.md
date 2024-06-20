@@ -28,11 +28,11 @@ och: 飢
 NEED FOOD FOR ONESELF NOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common current and general word for insufficiency of food supplies is probably jī 飢 (ant. bǎo 飽 "have eaten enough"), and this word refers to any such insufficiency, temporary or lasting, serious or minor. Presumably, the word can also refer to insufficiency of food among animals.
-2. È 餓 refers to famine as a serious condition threatening the lives of the persons involved.
-3. Jǐn 殣 refers to serious famine often resulting in death.
-4. Jī 饑 (NOT ANCIENTLY HOMOPHONOUS WITH 飢 in ancient Chinese), and the rarer jín 饉 as well as the very rare qiàn 歉 refer to insufficiency of food as a result of bad harvest.
-5. Něi 餒 refers to the state of being hungry in an individual, and at a certain time.
+1. The most common current and general word for insufficiency of food supplies is probably jī [[飢]] (ant. bǎo [[飽]] "have eaten enough"), and this word refers to any such insufficiency, temporary or lasting, serious or minor. Presumably, the word can also refer to insufficiency of food among animals.
+2. È [[餓]] refers to famine as a serious condition threatening the lives of the persons involved.
+3. Jǐn [[殣]] refers to serious famine often resulting in death.
+4. Jī [[饑]] (NOT ANCIENTLY HOMOPHONOUS WITH [[飢]] in ancient Chinese), and the rarer jín [[饉]] as well as the very rare qiàn [[歉]] refer to insufficiency of food as a result of bad harvest.
+5. Něi [[餒]] refers to the state of being hungry in an individual, and at a certain time.
 ## 
 HUANG JINGUI 2006
 FOOD 10. 飢餓。

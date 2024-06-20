@@ -15,11 +15,11 @@ och: 從
 CONFORM to COMMANDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for obedience is probably cóng 從 (ant. jù 拒 "refuse to carry out an order"), which refers literally to the following of orders on particular occasions, and more generally to showing obedience to a person.
-2. Shùn 順 (ant. nì 逆 "refuse to conform") can refer to the conforming with a standard set by someone or an intention someone has.
-3. Fú 服 (ant. jiàng 強 "stubbornly refuse") is to submit to higher authority through obedience to its orders, and this submission may be either voluntary or enforced by circumstances.
-4. Tīng 聽 (ant. fú tīng 弗聽 "refuse to listen") refers primarily to following advice from inferiors, but the word is also used for being mindful of an order one has heard so as to carry it out.
-5. Nuò 諾 (ant. fǒu 否 "refuse to comply") is to declare an intention to do as one is told when one normally has no alternative but to obey.
+1. The most current general word for obedience is probably cóng [[從]] (ant. jù [[拒]] "refuse to carry out an order"), which refers literally to the following of orders on particular occasions, and more generally to showing obedience to a person.
+2. Shùn [[順]] (ant. nì [[逆]] "refuse to conform") can refer to the conforming with a standard set by someone or an intention someone has.
+3. Fú [[服]] (ant. jiàng [[強]] "stubbornly refuse") is to submit to higher authority through obedience to its orders, and this submission may be either voluntary or enforced by circumstances.
+4. Tīng [[聽]] (ant. fú tīng [[弗聽]] "refuse to listen") refers primarily to following advice from inferiors, but the word is also used for being mindful of an order one has heard so as to carry it out.
+5. Nuò [[諾]] (ant. fǒu [[否]] "refuse to comply") is to declare an intention to do as one is told when one normally has no alternative but to obey.
 ## Modern Chinese Criteria
 聽從 is the current modern Chinese word for obeying.
 聽話 is the current colloquial term for obeying.

@@ -8,9 +8,9 @@ och: 代
 PUT something IN the PLACE of.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for replacing one thing with another is yì 易, "to exchange", which is also often used to refer to replacing one thing with another 以羊易之 "replace it with a sheep".dài 代.
-2. Gēng 更 refers to replacing something and changing it into something new.
-3. Dài 代 can refer to any deliberate or non-deliberate replacement of one thing by another, but the replacement tends to be conceived of as reversible.
+1. The current general word for replacing one thing with another is yì [[易]], "to exchange", which is also often used to refer to replacing one thing with another [[以羊易之]] "replace it with a sheep".dài [[代]].
+2. Gēng [[更]] refers to replacing something and changing it into something new.
+3. Dài [[代]] can refer to any deliberate or non-deliberate replacement of one thing by another, but the replacement tends to be conceived of as reversible.
 ## Modern Chinese Criteria
 代替
 替換

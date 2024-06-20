@@ -32,16 +32,16 @@ VIRTUE in the form of an ENDURING LOVE for OTHERS AND a DESIRE to HELP OTHERS.
 [EMOTIONAL/UNEMOTIONAL]
 [HIGH-DEGREE/LOW-DEGREE]
 [PRACTICAL/PSYCHOLOGICAL]
-1. Rén 仁 (ant. cán 殘 "cruel" and perhaps ant.* rěn 忍 "be callous, unfeeling") which refers to kind-heartedness and deep human sensibility as a constitutive feature of man as a moral being, is the standard word since Confucius.
+1. Rén [[仁]] (ant. cán [[殘]] "cruel" and perhaps ant.* rěn [[忍]] "be callous, unfeeling") which refers to kind-heartedness and deep human sensibility as a constitutive feature of man as a moral being, is the standard word since Confucius.
 [ETHICAL], [HIGH-DEGREE]
-2. Cí 慈 (ant. rěn 忍 "callous, unfeeling") is primarily the intimate emotional concern of mothers/parents for their children, and by extension such concern of a fatherly ruler for his people. (See LOVE)
+2. Cí [[慈]] (ant. rěn [[忍]] "callous, unfeeling") is primarily the intimate emotional concern of mothers/parents for their children, and by extension such concern of a fatherly ruler for his people. (See LOVE)
 [EMOTIONAL], [PRACTICAL]
-3. Xiào 孝 refers to caring love for one's parents and one's ancestors. SEE LOVE.
-4. Huì 惠 "kind generosity" (ant. sè 嗇 "stinginess") is kind-heartedness in generous action of various kinds and displayed towards inferiors. See GENEROUS
+3. Xiào [[孝]] refers to caring love for one's parents and one's ancestors. SEE LOVE.
+4. Huì [[惠]] "kind generosity" (ant. sè [[嗇]] "stinginess") is kind-heartedness in generous action of various kinds and displayed towards inferiors. See GENEROUS
 [PRACTICAL]
-5. Shàn 善 "goodness in action" (ant. è 惡 "wicked") belongs more properly into the group GOOD, but the word does come to refer to altruistic moral concern for others and thus relates to the present group.
+5. Shàn [[善]] "goodness in action" (ant. è [[惡]] "wicked") belongs more properly into the group GOOD, but the word does come to refer to altruistic moral concern for others and thus relates to the present group.
 [ETHICAL], [GRADED], [MARGINAL]; [[RARE]]
-6. Mín 旻 refers in a ritual elevated manner to the beneficence and compassion of Heaven and of the sky (in CC).
+6. Mín [[旻]] refers in a ritual elevated manner to the beneficence and compassion of Heaven and of the sky (in CC).
 [ARCHAIC], [ELEVATED], [HIGH-DEGREE]; [[RARE]]
 ## Modern Chinese Criteria
 仁慈

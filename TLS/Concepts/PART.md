@@ -21,8 +21,8 @@ och: 體
 OBJECT which COMBINES with OTHER OBJECTS to BECOME ONE LARGER WHOLE OBJECT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a part integrated into a whole is tǐ 體 "member" (ant. jiān 兼 "MO: composite whole").
-2. Fèn 分 (ant. zǒng 總 "whole") refers to a part of a whole in so far as this part is separated off.
+1. The current general word for a part integrated into a whole is tǐ [[體]] "member" (ant. jiān [[兼]] "MO: composite whole").
+2. Fèn [[分]] (ant. zǒng [[總]] "whole") refers to a part of a whole in so far as this part is separated off.
 ## Modern Chinese Criteria
 部分
 有些

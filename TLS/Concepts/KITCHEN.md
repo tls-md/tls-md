@@ -8,8 +8,8 @@ och: 庖
 ROOM USED FOR PRODUCING MEALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the kitchen is páo 庖／炮.
-2. Chú 廚 is said to be a colloquial expression for a kitchen.
+1. The current word for the kitchen is páo [[庖]]／[[炮]].
+2. Chú [[廚]] is said to be a colloquial expression for a kitchen.
 ## Modern Chinese Criteria
 廚房
 灶間

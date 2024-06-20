@@ -14,9 +14,9 @@ labels:
 INTENSE IN-RELATION-TO ALL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for something having the highest degree in a set of comparables is zuì 最.
-2. Zhì 至 refers to something being of the highest degree in any set of comparables. See PERFECT.
-3. Jìn 盡 refers to something being consummately possessed of a quality.
+1. The general word for something having the highest degree in a set of comparables is zuì [[最]].
+2. Zhì [[至]] refers to something being of the highest degree in any set of comparables. See PERFECT.
+3. Jìn [[盡]] refers to something being consummately possessed of a quality.
 ## Modern Chinese Criteria
 了不得 refers to something being extreme in a positive sense, i.e. extraordinary.　
 不得了 refers generally to something being extreme.

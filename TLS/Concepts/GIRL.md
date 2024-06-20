@@ -15,9 +15,9 @@ FEMALE YOUNG HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
 NB: The distinction between "girl" and "daughter" is very often unclear.
-1. A current general word for a girl is rú zǐ 孺子, and in the plural nu � mèi 女妹.
-2. Zǐ nu �子女 refers to post-puberty girls often used as gifts or as bribes.
-3. Nu �女 can refer to a girl.
+1. A current general word for a girl is rú zǐ [[孺子]], and in the plural nu � mèi [[女妹]].
+2. Zǐ nu �[[子女]] refers to post-puberty girls often used as gifts or as bribes.
+3. Nu �[[女]] can refer to a girl.
 ## Modern Chinese Criteria
 女孩子
 姑娘

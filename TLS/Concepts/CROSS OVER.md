@@ -13,16 +13,16 @@ och: 過
 WALK ACROSS something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for crossing over something is guò 過.
-2. Dù 渡 typically refers to crossing water by foot or boat, and the word became exceedingly common from Han times onwards.
-3. Shè 涉 typically refers to crossing water by foot.
-4. Jīng 經 typically refers to crossing or passing through territory.
-5. Lì 歷 refers to passing through territories or time spans. For the latter meaning the character 曆 came to be used in later times.
-6. Yuè 越 and chāo 超 refer to leaping or striding across something. See also LEAP OVER
-7. Kuà 跨 refers to striding across something, see LEAP OVER.
-8. Jué 絕 refers in a somewhat elevated style to crossing a river or a desert by any means of transport.
-9. Fàn 犯 refers to managing to get across something that is hard to cross, but this usage is rare.
-10. Háng 杭／航 is an ancient word for crossing a river by ferry.
+1. The most general current word for crossing over something is guò [[過]].
+2. Dù [[渡]] typically refers to crossing water by foot or boat, and the word became exceedingly common from Han times onwards.
+3. Shè [[涉]] typically refers to crossing water by foot.
+4. Jīng [[經]] typically refers to crossing or passing through territory.
+5. Lì [[歷]] refers to passing through territories or time spans. For the latter meaning the character [[曆]] came to be used in later times.
+6. Yuè [[越]] and chāo [[超]] refer to leaping or striding across something. See also LEAP OVER
+7. Kuà [[跨]] refers to striding across something, see LEAP OVER.
+8. Jué [[絕]] refers in a somewhat elevated style to crossing a river or a desert by any means of transport.
+9. Fàn [[犯]] refers to managing to get across something that is hard to cross, but this usage is rare.
+10. Háng [[杭]]／[[航]] is an ancient word for crossing a river by ferry.
 ## Modern Chinese Criteria
 渡河
 渡江

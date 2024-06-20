@@ -22,15 +22,15 @@ BE ONLY ONE AND NOT TOGETHER WITH OTHERS.  
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
 [NEGATIVE/POSITIVE]
-1. Dān 單 (ant. qún 群 "in a group") has no emotional nuances and simply refers to the single member of a set.
+1. Dān [[單]] (ant. qún [[群]] "in a group") has no emotional nuances and simply refers to the single member of a set.
 [GENERAL]
-2. Dú 獨 (ant. ǒu 偶 "as a pair") usually has no nuances of loneliness, but can sometimes come to connote an intense feeling of personal uniqueness. (LAO)
+2. Dú [[獨]] (ant. ǒu [[偶]] "as a pair") usually has no nuances of loneliness, but can sometimes come to connote an intense feeling of personal uniqueness. (LAO)
 [GENERAL], [NEGATIVE!]
-3. Gū 孤 (ant. zhòng 眾 "as a large group", but this lacks the emotional nuance of the counterpart) tends to connote feelings of loneliness and/or of being bereaved or suffering under the absence of associates in the place where one is.
+3. Gū [[孤]] (ant. zhòng [[眾]] "as a large group", but this lacks the emotional nuance of the counterpart) tends to connote feelings of loneliness and/or of being bereaved or suffering under the absence of associates in the place where one is.
 [NEGATIVE+]
-4. Tè 特 "alone" (etymologically related to dān 單 ) is abstract and conceptual and often emphasises the positively valued absence of other members in a general set.
+4. Tè [[特]] "alone" (etymologically related to dān [[單]] ) is abstract and conceptual and often emphasises the positively valued absence of other members in a general set.
 [POSITIVE!]
-5. Guǎ 寡 refers to the state of being alone ore bereaved which is currently referred to in polite speech by rulers. See also BEREAVED.
+5. Guǎ [[寡]] refers to the state of being alone ore bereaved which is currently referred to in polite speech by rulers. See also BEREAVED.
 [NEGATIVE]
 ## Modern Chinese Criteria
 一個人

@@ -36,11 +36,11 @@ och: 食／飯
 SUBSTANCE USED by CREATURES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for food is shí 食 and this includes food as well as drink and can refer generally to one's livelihood, also to staple foods as opposed to delicacies involving meat, such as kuài 膾 "minced meat, raw".
-2. Fàn 飯 which refers to basic foodstuff, usually rice and cereals.
-3. Shū 疏, sūn 飧, cū 粗 refer to crude foodstuffs, grain-based or vegetable based.
-4. Liáng 糧 refers to grain-based ordinary plain food.
-5. Hūn 葷 refers to non-vegetarian food.
+1. The general term for food is shí [[食]] and this includes food as well as drink and can refer generally to one's livelihood, also to staple foods as opposed to delicacies involving meat, such as kuài [[膾]] "minced meat, raw".
+2. Fàn [[飯]] which refers to basic foodstuff, usually rice and cereals.
+3. Shū [[疏]], sūn [[飧]], cū [[粗]] refer to crude foodstuffs, grain-based or vegetable based.
+4. Liáng [[糧]] refers to grain-based ordinary plain food.
+5. Hūn [[葷]] refers to non-vegetarian food.
 NB: This group needs to be elaborated.
 ## 
 HUANG JINGUI 2006

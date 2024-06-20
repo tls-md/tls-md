@@ -22,7 +22,7 @@ och: 誕
 SAY what one KNOWS to be NOT TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The are no very current words for lying in pre-Buddhist Chinese. Dàn 誕 "lie" and huǎng 謊 "lie" are both rare.
+1. The are no very current words for lying in pre-Buddhist Chinese. Dàn [[誕]] "lie" and huǎng [[謊]] "lie" are both rare.
 ## Modern Chinese Criteria
 說謊 is the current modern word for lying.
 打謊 (coll) is a colloquial word for lying.

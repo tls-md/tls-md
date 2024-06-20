@@ -17,10 +17,10 @@ och: 園
 SMALL FIELD CONTAINING FLOWERS, FRUIT TREES AND VEGETABLES ETC. FOR HOME USE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a garden is yuán 園, and such gardens are primarily for fruit and vegetables, and they are walled for protection against theft, and often include artificial lakes.
-2. Pǔ 圃 refers to a garden tended by a gardener, the art of gardening being written with the same character (see AGRICULTURE).
-3. Yòu 囿 refers to a large garden or park used by the aristocracy for hunting and for pleasure rides to view animals reared.
-4. Yuàn 苑 is a large-scale park for the general delectation of rulers, typically of the same type as the smaller 囿.
+1. The general term for a garden is yuán [[園]], and such gardens are primarily for fruit and vegetables, and they are walled for protection against theft, and often include artificial lakes.
+2. Pǔ [[圃]] refers to a garden tended by a gardener, the art of gardening being written with the same character (see AGRICULTURE).
+3. Yòu [[囿]] refers to a large garden or park used by the aristocracy for hunting and for pleasure rides to view animals reared.
+4. Yuàn [[苑]] is a large-scale park for the general delectation of rulers, typically of the same type as the smaller [[囿]].
 See ZHU ZUGENG 1.93, note 3.
 ## 
 HUANG JINGUI 2006

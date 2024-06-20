@@ -38,10 +38,10 @@ och: 立／即
 AFTER an INTENSELY SHORT PERIOD, LACKING DELAY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and general word referring to something being about to happen in the immediate future is qiě 且.
-2. Jí 即 is a rather colourless word referring to action being performed without delay after another action.
-3. Jù 遽 (ant. huǎn 緩 "in due course, after a while") is a rather dramatic word refer to an action being performed without the slightest delay, post-haste.
-4. Zhé 輒 adds to the notion of immediate and undelayed action that of the regularity of this immediate action.
+1. The most current and general word referring to something being about to happen in the immediate future is qiě [[且]].
+2. Jí [[即]] is a rather colourless word referring to action being performed without delay after another action.
+3. Jù [[遽]] (ant. huǎn [[緩]] "in due course, after a while") is a rather dramatic word refer to an action being performed without the slightest delay, post-haste.
+4. Zhé [[輒]] adds to the notion of immediate and undelayed action that of the regularity of this immediate action.
 ## Modern Chinese Criteria
 立刻
 即刻

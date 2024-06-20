@@ -18,12 +18,12 @@ och: 親／狎
 INTERACT HARMONIOUSLY BECAUSE of MUTUAL LOVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for close familiarity is qīn 親 (ant. shū 疏 "have only distant relations with"), but the word often retains connotations of kinship relations.
-2. Xiá 狎 can refer both to positive initimacy between friends, and more currently to inappropriate and excessive intimate behaviour with those with whom one is not entitled to be intimate.
-3. Niǔ 狃 and xiè 褻 (ant. jìng 敬 "show proper respect to"(!)) refers to excessive and reprehensible and often even indecent overfamiliarity.
-4. Mì 密 (ant. shū 疏 "have only distant relations with") refers to close political or ideological relations.
-5. Nì 暱 refers to close emotional or personal links.
-6. Xìng 倖 refers specifically to closeness to superiors which is based on favour on the part of the latter.
+1. The general word for close familiarity is qīn [[親]] (ant. shū [[疏]] "have only distant relations with"), but the word often retains connotations of kinship relations.
+2. Xiá [[狎]] can refer both to positive initimacy between friends, and more currently to inappropriate and excessive intimate behaviour with those with whom one is not entitled to be intimate.
+3. Niǔ [[狃]] and xiè [[褻]] (ant. jìng [[敬]] "show proper respect to"(!)) refers to excessive and reprehensible and often even indecent overfamiliarity.
+4. Mì [[密]] (ant. shū [[疏]] "have only distant relations with") refers to close political or ideological relations.
+5. Nì [[暱]] refers to close emotional or personal links.
+6. Xìng [[倖]] refers specifically to closeness to superiors which is based on favour on the part of the latter.
 ## Modern Chinese Criteria
 親密
 密切

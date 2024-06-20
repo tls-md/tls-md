@@ -15,7 +15,7 @@ zh: 光環
 BRIGHT CLOUD AROUND SUN OR MOON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the pale ring of light around the moon or the sun is yūn 暈.
+1. The current general word for the pale ring of light around the moon or the sun is yūn [[暈]].
 ## Modern Chinese Criteria
 光波
 光帶

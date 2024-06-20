@@ -30,11 +30,11 @@ och: 輕
 LACK IMPORTANCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for unimportance is qīng 輕 (ant. zhòng 重 "important").
-2. Mò 末 (ant. běn 本 "basic and important")) refers to something being marginal as opposed to other things that are central or crucial.
-3. Xì 細 (ant. jù 巨 "of tremendous importance") and wēi 微 (ant. dà 大 "of great importance") refer to things being trifling and without serious impact on a situation.
-4. Huǎn 緩 (ant. jí 急 "urgent and important") refers to something being less important because it is less urgent.
-5. Xiǎo 小 (ant. dà 大 "of great importance") is sometimes used as a colourless term denying the importance of something.
+1. The current general term for unimportance is qīng [[輕]] (ant. zhòng [[重]] "important").
+2. Mò [[末]] (ant. běn [[本]] "basic and important")) refers to something being marginal as opposed to other things that are central or crucial.
+3. Xì [[細]] (ant. jù [[巨]] "of tremendous importance") and wēi [[微]] (ant. dà [[大]] "of great importance") refer to things being trifling and without serious impact on a situation.
+4. Huǎn [[緩]] (ant. jí [[急]] "urgent and important") refers to something being less important because it is less urgent.
+5. Xiǎo [[小]] (ant. dà [[大]] "of great importance") is sometimes used as a colourless term denying the importance of something.
 ## Modern Chinese Criteria
 輕微
 微薄

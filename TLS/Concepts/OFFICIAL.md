@@ -20,15 +20,15 @@ och: 官
 ADULT who WORKS IN a PUBLIC OFFICE OR IN A PUBLIC FUNCTION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Officials are referred to as shì 士 and daì fū 大夫. The word shì 士 can also include daì fū 大夫, therefore the term is often used for a whole body of officials.
-2. Dà fū 大夫 "notables" is a general formal term for high officials.
-3. Lì 吏 refers to officials in charge of concrete practical matters, often policing and the like.
-4. Gōng 工 can be used as a general term for clerks.
-5. Yǒu sī 有司 can refer to a person in charge of an office.
-6. Guān 官 refers quite generally to the persons in charge of an office.
-7. Shì zhě 仕者 refers to any person in public employment of any kind.
-8. Lǎo 老 originally politely referred to higher officials (>gōng 公, >qīng 卿, >dài fū 大夫 ), therefore it came to be used as a general term referring to high officials.
-9. Yuán 員 originally refers to officials as counted units, and the word came to be used as a general term for officials.
+1. Officials are referred to as shì [[士]] and daì fū [[大夫]]. The word shì [[士]] can also include daì fū [[大夫]], therefore the term is often used for a whole body of officials.
+2. Dà fū [[大夫]] "notables" is a general formal term for high officials.
+3. Lì [[吏]] refers to officials in charge of concrete practical matters, often policing and the like.
+4. Gōng [[工]] can be used as a general term for clerks.
+5. Yǒu sī [[有司]] can refer to a person in charge of an office.
+6. Guān [[官]] refers quite generally to the persons in charge of an office.
+7. Shì zhě [[仕者]] refers to any person in public employment of any kind.
+8. Lǎo [[老]] originally politely referred to higher officials (>gōng [[公]], >qīng [[卿]], >dài fū [[大夫]] ), therefore it came to be used as a general term referring to high officials.
+9. Yuán [[員]] originally refers to officials as counted units, and the word came to be used as a general term for officials.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 5.

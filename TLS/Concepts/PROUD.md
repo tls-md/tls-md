@@ -30,7 +30,7 @@ zh: 高傲
 DELIGHT in what one BELIEVES to be one's SELF:own EXCELLENCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for justified pride as a commendable feeling is jīn 矜, but it is often unclear where the word connotes bragging and negative features of pride.
+1. The current word for justified pride as a commendable feeling is jīn [[矜]], but it is often unclear where the word connotes bragging and negative features of pride.
 ## Modern Chinese Criteria
 驕矜
 矜誇

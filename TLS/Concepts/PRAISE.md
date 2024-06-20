@@ -29,14 +29,14 @@ och: 譽
 SPEAK about something GOOD and NOT COMMON in ANOTHER HUMAN, ANIMAL OR THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for praise is yù 譽 (ant. huǐ 毀 "speak ill of"), and the word often refers to straightforward objective praise rather than eulogy..
-2. Chēng 稱 (ant. bang 謗 "speak ill of behind his back") refers to "honourable mentioning" in public contexts and favourable public assessment of someone.
-3. Bāo 褒 (ant. biǎn 貶 "make derogatory remarks about") refers to a person with a certain authority passing a positive judgment on someone.
-4. Jiā 嘉 (ant. sǔn 損 "make belittling remarks about") refers to commending someone for a certain action or for past behaviour.
-5. Zàn 讚／贊 "eulogise" (ant. dǐ 詆 "speak ill of") refers to lyrical, typically exaggerated and overly enthusiastic praise.
-6. Sòng 頌 (ant. zhòu 咒 "make calumniatory remarks about") refers literally to the singing of someone's praises, but as in English, the praising thus described may actually be in ornate prose.
-7. Měi 美 and shàn 善 (all ant. wù 惡 "speak ill of") refer to the bringing out of positive, admirable or morally commendable aspects in something or someone through discourse.
-8. Yáng 揚 (ant. yì 抑 "do down") refers to the spreading of the good name of someone or something.
+1. The current general word for praise is yù [[譽]] (ant. huǐ [[毀]] "speak ill of"), and the word often refers to straightforward objective praise rather than eulogy..
+2. Chēng [[稱]] (ant. bang [[謗]] "speak ill of behind his back") refers to "honourable mentioning" in public contexts and favourable public assessment of someone.
+3. Bāo [[褒]] (ant. biǎn [[貶]] "make derogatory remarks about") refers to a person with a certain authority passing a positive judgment on someone.
+4. Jiā [[嘉]] (ant. sǔn [[損]] "make belittling remarks about") refers to commending someone for a certain action or for past behaviour.
+5. Zàn [[讚]]／[[贊]] "eulogise" (ant. dǐ [[詆]] "speak ill of") refers to lyrical, typically exaggerated and overly enthusiastic praise.
+6. Sòng [[頌]] (ant. zhòu [[咒]] "make calumniatory remarks about") refers literally to the singing of someone's praises, but as in English, the praising thus described may actually be in ornate prose.
+7. Měi [[美]] and shàn [[善]] (all ant. wù [[惡]] "speak ill of") refer to the bringing out of positive, admirable or morally commendable aspects in something or someone through discourse.
+8. Yáng [[揚]] (ant. yì [[抑]] "do down") refers to the spreading of the good name of someone or something.
 ## Modern Chinese Criteria
 表揚 is to speak highly of someone so as to comend him.
 稱贊 is a common formal word for approval and praise.

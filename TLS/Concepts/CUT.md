@@ -16,15 +16,15 @@ zh: 割
 DISPLACE a SHARP INSTRUMENT INTO a THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The commonest general word for "cut" is ancient Chinese kat, modern reading gē 割.
-2. Qiē 切 is to cut into pieces.
-3. Duàn 斷 is to cut a part off a whole.
-4. Zhǎn 斬, fá 伐, zhuó 斫, zhuó 斲 describe the violent hacking off of a part from a whole.
-5. Shān 芟 is to cut grass or shrubs.
-6. Pī 披 "pare" refer to the treatment of surfaces of objects by cutting into them to produce smoothness of surface or a pointed end.
-7. Pǒu 剖 refers to cutting into something so as to reveal its inner structure. See SPLIT
-8. Xiāo 削 typically refers to cutting something off so as to reduce its size.
-9. Jiǎn 翦 refers specifically to the clipping of something that grows on a living structure.
+1. The commonest general word for "cut" is ancient Chinese kat, modern reading gē [[割]].
+2. Qiē [[切]] is to cut into pieces.
+3. Duàn [[斷]] is to cut a part off a whole.
+4. Zhǎn [[斬]], fá [[伐]], zhuó [[斫]], zhuó [[斲]] describe the violent hacking off of a part from a whole.
+5. Shān [[芟]] is to cut grass or shrubs.
+6. Pī [[披]] "pare" refer to the treatment of surfaces of objects by cutting into them to produce smoothness of surface or a pointed end.
+7. Pǒu [[剖]] refers to cutting into something so as to reveal its inner structure. See SPLIT
+8. Xiāo [[削]] typically refers to cutting something off so as to reduce its size.
+9. Jiǎn [[翦]] refers specifically to the clipping of something that grows on a living structure.
 NB: The size of the vocabulary in this field is extraordinary: over 70 wods are listed under this meaning.
 ## Modern Chinese Criteria
 割 is a neutral general modern word for cutting.

@@ -15,10 +15,10 @@ och: 脅
 SPEAK OR ACT so as to CAUSE ANOTHER to FEAR one's FUTURE ACTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for threatening is xié 脅.
-2. Pò 迫 emphasises the direct or even physical element of coercion, proximity between actor and patient, and the word is remarkably common in passive usages.
-3. Bī 逼 / 偪 refers to a mild form of often emotionally based more indirect pressure, and the word is commonly an active transitive verb with a direct object.
-4. Xié 挾 refers to gaining control over someone and then trying to force him to do as one tells him.
+1. The current general word for threatening is xié [[脅]].
+2. Pò [[迫]] emphasises the direct or even physical element of coercion, proximity between actor and patient, and the word is remarkably common in passive usages.
+3. Bī [[逼]] / [[偪]] refers to a mild form of often emotionally based more indirect pressure, and the word is commonly an active transitive verb with a direct object.
+4. Xié [[挾]] refers to gaining control over someone and then trying to force him to do as one tells him.
 ## Modern Chinese Criteria
 威脅
 威懾

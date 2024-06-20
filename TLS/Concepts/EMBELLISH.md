@@ -23,9 +23,9 @@ och: 飾
 CAUSE-TO BECOME MORE BEAUTIFUL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for embellishment of anything concrete or abstract is shì 飾.
-2. Rùn 潤 refers to adding lustre and giving something a sumptuous appearance, and the word is always used in literal senses.
-3. Xiū 修 refers to an effort of elevated figurative embellishment and cultivation typically of an abstract kind, as in 修身.
+1. The current general word for embellishment of anything concrete or abstract is shì [[飾]].
+2. Rùn [[潤]] refers to adding lustre and giving something a sumptuous appearance, and the word is always used in literal senses.
+3. Xiū [[修]] refers to an effort of elevated figurative embellishment and cultivation typically of an abstract kind, as in [[修身]].
 ## Modern Chinese Criteria
 裝飾
 裝點

@@ -28,9 +28,9 @@ och: 淫
 UNRESTRAINED NOT APPROPRIATE TENDENCY towards SEEKING INTERCOURSE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for lewdness and lasciviousness in attitude and in action is yín 淫 (ant. jié 節 "decently restrained").
-2. Yù 慾 refers to a lustful attitude.
-3. Dàng 蕩 (ant. zhēn 貞 refers primarily to lewdness in action).
+1. The current general word for lewdness and lasciviousness in attitude and in action is yín [[淫]] (ant. jié [[節]] "decently restrained").
+2. Yù [[慾]] refers to a lustful attitude.
+3. Dàng [[蕩]] (ant. zhēn [[貞]] refers primarily to lewdness in action).
 ## Modern Chinese Criteria
 淫蕩
 淫亂

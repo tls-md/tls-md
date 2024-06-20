@@ -29,22 +29,22 @@ ABSTRACT/CONCRETE
 ARTIFICIAL/NATURAL
 HIGH-DEGREE/LOW-DEGREE
 SPECIALISED/UNSPECIFIC
-1. The general word for abundance of any kind, man-made or natural, concrete or abstract, is shèng 盛 (ant.*xī 稀 "sparse").
+1. The general word for abundance of any kind, man-made or natural, concrete or abstract, is shèng [[盛]] (ant.*xī [[稀]] "sparse").
 [GENERAL]
-2. Fēng 豐 (ant.*qiàn 歉 "poor natural harvest") refers primarily to the natural abundance of some feature or resource, but in elevated archaic discourse the word may also refer to abundance of sacrifice and the like. NB: The rare fēng 丰 was not homophonous in ancient times, and the meaning emphasises beauty as well as abundance.
+2. Fēng [[豐]] (ant.*qiàn [[歉]] "poor natural harvest") refers primarily to the natural abundance of some feature or resource, but in elevated archaic discourse the word may also refer to abundance of sacrifice and the like. NB: The rare fēng [[丰]] was not homophonous in ancient times, and the meaning emphasises beauty as well as abundance.
 [NATURAL!]
-3. Hòu 厚 (ant. báo 薄 "meagerly supplied with something") primarily refers to man-made or man-caused generous abundance, prototypically in contexts such as hospitality or exchange of presents.
+3. Hòu [[厚]] (ant. báo [[薄]] "meagerly supplied with something") primarily refers to man-made or man-caused generous abundance, prototypically in contexts such as hospitality or exchange of presents.
 [ARTIFICIAL]
-4. Yōu 優 (ant.* liè 劣 "in short supply") refers to special (often commendable) abundance.
+4. Yōu [[優]] (ant.* liè [[劣]] "in short supply") refers to special (often commendable) abundance.
 [HIGH DEGREE], [ABSTRACT!]
-5. Ráng 穰 often refers specifically to abundance of harvest. See HARVEST.
+5. Ráng [[穰]] often refers specifically to abundance of harvest. See HARVEST.
 [NATURAL], [SPECIFIC]
-5. Pèi rán 沛然 typically refers to the abundance of a flow of things, prototypically rain.
-7. Yáng 洋 typically refers specifically to abundance of water over a wide area, but the word is occasionally used in transferred senses to refer to wide-spread abundance. The image of water remains distantly present.
+5. Pèi rán [[沛然]] typically refers to the abundance of a flow of things, prototypically rain.
+7. Yáng [[洋]] typically refers specifically to abundance of water over a wide area, but the word is occasionally used in transferred senses to refer to wide-spread abundance. The image of water remains distantly present.
 [NATURAL], [SPECIFIC]
-8. Wò 渥 (ant. báo 薄 "not very abundant, poorly supplied with liquid or vital energy etc.") typically refers to an abundance of liquids or gases.
+8. Wò [[渥]] (ant. báo [[薄]] "not very abundant, poorly supplied with liquid or vital energy etc.") typically refers to an abundance of liquids or gases.
 [NATURAL], SPECIFIC]
-9. Duō 多 is the general word for a large number or a large amount of things. See MANY
+9. Duō [[多]] is the general word for a large number or a large amount of things. See MANY
 ## Modern Chinese Criteria
 豐富 is the current general modern word for quantitative abundance and qualitative variation, viewed as a positive feature. (ZHANG ZHIYI 1981: 72)
 豐厚 typically adds the notion that what is abundant is also important or valuable, and the word normally refers to concrete rather than abstract things, although it may occasionally refer to a range of knowledge etc.. (Cf. ZHANG ZHIYI 1981: 72, LIU SHUXIN 1987: 175)

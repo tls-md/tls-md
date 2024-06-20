@@ -36,13 +36,13 @@ CRIME of CAUSING OTHERS TO BELIEVE to be TRUE what one KNOWS is NOT TRUE AND TYP
 CRIME of TRYING TO DAMAGE OTHERS BY CAUSING THEM TO BELIEVE to be TRUE what one KNOWS is NOT TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard common word for cheating is qī 欺 (ant. chéng 誠 ) and it refers to any deliberate act of deception, self-interested or not, even occasionally self-deception.
-2. Zhà 詐 (ant. què 愨 "honest") is a fraudulent act of cheating designed to harm the interests of others.
-3. Wěi 偽 (ant. zhēn 真 "true, unfaked") is dissumulation and pretense, not necessarily with an intent to harm others.
-4. Guǐ 詭 and jué 譎 (all ant. zhèng 正 "straight and not deceitful") are dishonesty with an intent to deceive and harm others.
-5. Wū 誣 is to deliberately mislead someone through lying.
-6. Dàn 誕 is to deceive through boastful exaggeration. See EXAGGERATE
-7. Mán 謾 refers primarily to the speaking without being serious about what one says.
+1. The standard common word for cheating is qī [[欺]] (ant. chéng [[誠]] ) and it refers to any deliberate act of deception, self-interested or not, even occasionally self-deception.
+2. Zhà [[詐]] (ant. què [[愨]] "honest") is a fraudulent act of cheating designed to harm the interests of others.
+3. Wěi [[偽]] (ant. zhēn [[真]] "true, unfaked") is dissumulation and pretense, not necessarily with an intent to harm others.
+4. Guǐ [[詭]] and jué [[譎]] (all ant. zhèng [[正]] "straight and not deceitful") are dishonesty with an intent to deceive and harm others.
+5. Wū [[誣]] is to deliberately mislead someone through lying.
+6. Dàn [[誕]] is to deceive through boastful exaggeration. See EXAGGERATE
+7. Mán [[謾]] refers primarily to the speaking without being serious about what one says.
 NB: There is an extraordinary wealth of rare vocabulary of possibly colloquial origin within this field.
 ## Modern Chinese Criteria
 欺騙 is the current modern word for cheating.

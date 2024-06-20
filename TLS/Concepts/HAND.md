@@ -15,10 +15,10 @@ och: 手
 LOWEST MAJOR PART of the ARM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word is shǒu 手 "hand", which can refer to the arm as a whole.
-2. Quán 拳 "fist" refers to the clenched fist.
-3. Zuǒ 左 and yòu 右 are words used for the left and right hand respectively.
-4. Wàn 腕／掔 refers to the wrist.
+1. The standard word is shǒu [[手]] "hand", which can refer to the arm as a whole.
+2. Quán [[拳]] "fist" refers to the clenched fist.
+3. Zuǒ [[左]] and yòu [[右]] are words used for the left and right hand respectively.
+4. Wàn [[腕]]／[[掔]] refers to the wrist.
 ## Modern Chinese Criteria
 手
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

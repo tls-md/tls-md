@@ -24,7 +24,7 @@ zh: 文體
 CATEGORY of LITERATURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The abstract notion of a literary genre is wén tǐ 文體, but this term is post-Han.
+1. The abstract notion of a literary genre is wén tǐ [[文體]], but this term is post-Han.
 ## Modern Chinese Criteria
 文體
 THERE MUST BE MORE TERMINOLOGY, BUT I CANNOT THINK OF IT.

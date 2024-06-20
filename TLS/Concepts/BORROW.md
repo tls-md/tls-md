@@ -14,12 +14,12 @@ zh: 借來
 RECEIVE SOMETHING FROM SOMEONE PROMISING to GIVE IT BACK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for borrowing anything is jiè 借 and.
+1. The general term for borrowing anything is jiè [[借]] and.
 [GENERAL]
-2. Jiǎ 假 emphasises the temporary aspect of borrowing, and the lender's discretion, and the focus is on the ability to make practical use of what is borrowed, the latter meaning being also common for the same word.
+2. Jiǎ [[假]] emphasises the temporary aspect of borrowing, and the lender's discretion, and the focus is on the ability to make practical use of what is borrowed, the latter meaning being also common for the same word.
 [
-3. Dài 貸 is a technical financial term for borrowing money or resources is but the word for "to borrow" pimarily meant "to lend out".
-4. Tè 貣 is the technical term for making a demand for a loan of a sum money.
+3. Dài [[貸]] is a technical financial term for borrowing money or resources is but the word for "to borrow" pimarily meant "to lend out".
+4. Tè [[貣]] is the technical term for making a demand for a loan of a sum money.
 [CONATIVE]
 ## 
 HUANG JINGUI 2006

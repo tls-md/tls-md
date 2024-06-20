@@ -17,12 +17,12 @@ zh: 學生
 ADULT who is TEACH:taught PERSONALLY by a TEACHER OR who is STUDYING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a disciple of any kind, or a follower of a school or any line of thought, is tú 徒.
-2. Mén rén 門人 stresses the physical abode near a master.
-3. Dì zǐ 弟子 refers rather intimately to disciples of a master as the object of his affection.
-4. Shǔ 屬 is a cold general word referring to someone who belongs to a certain group and under a certain leadership.
-5. Cóng zhě 從者 like the English "followers" primarily focusses on the idea of following a master wherever he goes, but this nuance is weakened with time so that the term comes to mean quite abstractly "follower".
-6. Xiǎo zǐ 小子 is an affectionate term only used in the vocative.
+1. The current general word for a disciple of any kind, or a follower of a school or any line of thought, is tú [[徒]].
+2. Mén rén [[門人]] stresses the physical abode near a master.
+3. Dì zǐ [[弟子]] refers rather intimately to disciples of a master as the object of his affection.
+4. Shǔ [[屬]] is a cold general word referring to someone who belongs to a certain group and under a certain leadership.
+5. Cóng zhě [[從者]] like the English "followers" primarily focusses on the idea of following a master wherever he goes, but this nuance is weakened with time so that the term comes to mean quite abstractly "follower".
+6. Xiǎo zǐ [[小子]] is an affectionate term only used in the vocative.
 ## 
 HUANG JINGUI 2006
 EDUCATION 41.

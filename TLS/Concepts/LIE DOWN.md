@@ -21,11 +21,11 @@ och: 臥
 REMAIN OR DISPLACE ONESELF so as to BECOME in VERTICAL POSITION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general words are wò 臥 (ant. lì 立 "stand up") which can refer to lying in any position, on the side, on the back, or indeed on the stomach, and the purpose of this action is rest or sleep.
-2. Fú 伏 (ant. qǐ 起 "rise") refers specifically to lying face down on the ground, often with the purpose of hiding, never with the purpose of resting.
-3. Yǎn 偃 refers to reclining and lying on one's back, often so as to rest.
-4. Jiā1ng 僵 is said to refer to lying flat on one's back.
-NB: Tǎng 躺 "lie" is post-Han.
+1. The current general words are wò [[臥]] (ant. lì [[立]] "stand up") which can refer to lying in any position, on the side, on the back, or indeed on the stomach, and the purpose of this action is rest or sleep.
+2. Fú [[伏]] (ant. qǐ [[起]] "rise") refers specifically to lying face down on the ground, often with the purpose of hiding, never with the purpose of resting.
+3. Yǎn [[偃]] refers to reclining and lying on one's back, often so as to rest.
+4. Jiā1ng [[僵]] is said to refer to lying flat on one's back.
+NB: Tǎng [[躺]] "lie" is post-Han.
 ## Modern Chinese Criteria
 躺
 臥

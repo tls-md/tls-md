@@ -18,9 +18,9 @@ och: 武
 TOOL USED FOR ATTACK OR DEFENSE IN WARFARE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for weapons and the military political realm which dominates this semantic field is wǔ 武 (ant. wén 文 "civil affairs") which refers to any military force or weaponry of any kind, defensive or offensive, and the word is very often abstract in meaning, referring to the abstract matters of military policy.
-2. Bīng 兵 refers to warfare as a military practice rather than as a political means to achieve ends, and it is significant that the word has no obvious antonym.
-3. Gān gē 干戈 is a current expression for weapons of war in general.
+1. The general term for weapons and the military political realm which dominates this semantic field is wǔ [[武]] (ant. wén [[文]] "civil affairs") which refers to any military force or weaponry of any kind, defensive or offensive, and the word is very often abstract in meaning, referring to the abstract matters of military policy.
+2. Bīng [[兵]] refers to warfare as a military practice rather than as a political means to achieve ends, and it is significant that the word has no obvious antonym.
+3. Gān gē [[干戈]] is a current expression for weapons of war in general.
 ## Modern Chinese Criteria
 武器
 火器

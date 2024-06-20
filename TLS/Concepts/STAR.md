@@ -13,9 +13,9 @@ och: 辰
 VISIBLE THING IN the NIGHT SKY LACKING CLOUDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for stars is the not very common chén 辰, but the word can also be used to refer to specific stars. (Note however, that in early times chén 辰 currently referred to specific stars such as the North Pole Star.)
-2. The common use word for a star is xīng 星 and this term does not incluce sun and moon.
-3. Xiù 宿 refers specifically to a constellation of stars.
+1. The most general word for stars is the not very common chén [[辰]], but the word can also be used to refer to specific stars. (Note however, that in early times chén [[辰]] currently referred to specific stars such as the North Pole Star.)
+2. The common use word for a star is xīng [[星]] and this term does not incluce sun and moon.
+3. Xiù [[宿]] refers specifically to a constellation of stars.
 ## 
 HUANG JINGUI 2006
 ASTRONOMY 3.

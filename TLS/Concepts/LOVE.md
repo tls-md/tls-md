@@ -65,15 +65,15 @@ och: 愛
 INTENSE AND OFTEN PARTIAL DESIRE to be INTIMATE with a PERSON OR to POSSESS a THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant word referring to love is ài 愛 (ant. hèn 恨 "dislike"; rarely zēng 憎 "dislike"; and wù 惡 "hate"), and this word refers both to the feelings of love and to the expression of love in loving care for another person as well as in sexual relations. (Occasionally, the word may refer to the emotional preference that a small child feels for its parents. For this meaning see PREFER.)
-2. Cí 慈 (ant. xiōng 凶 "vicious") refers to loving care, prototypically by mothers for minors or their offspring. When the word refers to ordinary love, it always connotes a high degree of intensity of the caring emotion.
-3. Tì 悌 refers to love between brothers, particularly the love one owes one's eldest brother, and the word is rarely extended to mean brotherly as opposed to erotic or commiserating love.
-4. Xiào 孝 refers to loving respect for one's parents and ancestors in attitude and action, and is a major traditional virtue.
-5. Chǒng 寵 refers to enjoying the attentions and/or affections of a superior.
-6. Xìng 幸 "give sexual favours to (a subject)" and xìng yú 幸於 "enjoy the sexual favours of (a ruler) refer to love sexually expressed.
-7. Bì 嬖 refers to the enjoying of favourite status with a superior, and the term often connotes sexual relations, occasionally even of the homosexual kind.
-8. Mù 慕 prototypically refers to loving devotion of a distant kind, but the word is also used in a more generalised way to refer to affection.
-9. Hào 好 refers to love as a matter of a strong and habitual emotional preference for something. (See PREFER)
+1. The clearly dominant word referring to love is ài [[愛]] (ant. hèn [[恨]] "dislike"; rarely zēng [[憎]] "dislike"; and wù [[惡]] "hate"), and this word refers both to the feelings of love and to the expression of love in loving care for another person as well as in sexual relations. (Occasionally, the word may refer to the emotional preference that a small child feels for its parents. For this meaning see PREFER.)
+2. Cí [[慈]] (ant. xiōng [[凶]] "vicious") refers to loving care, prototypically by mothers for minors or their offspring. When the word refers to ordinary love, it always connotes a high degree of intensity of the caring emotion.
+3. Tì [[悌]] refers to love between brothers, particularly the love one owes one's eldest brother, and the word is rarely extended to mean brotherly as opposed to erotic or commiserating love.
+4. Xiào [[孝]] refers to loving respect for one's parents and ancestors in attitude and action, and is a major traditional virtue.
+5. Chǒng [[寵]] refers to enjoying the attentions and/or affections of a superior.
+6. Xìng [[幸]] "give sexual favours to (a subject)" and xìng yú [[幸於]] "enjoy the sexual favours of (a ruler) refer to love sexually expressed.
+7. Bì [[嬖]] refers to the enjoying of favourite status with a superior, and the term often connotes sexual relations, occasionally even of the homosexual kind.
+8. Mù [[慕]] prototypically refers to loving devotion of a distant kind, but the word is also used in a more generalised way to refer to affection.
+9. Hào [[好]] refers to love as a matter of a strong and habitual emotional preference for something. (See PREFER)
 ## Modern Chinese Criteria
 愛 is the general modern word for loving, and the word is much stronger than 喜歡. The objects of this love can be concrete or abstract and are often persons.
 好 refers to a strong preference or predilection for something other than a concrete person.

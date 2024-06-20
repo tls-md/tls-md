@@ -11,7 +11,7 @@ zh: 鑰匙
 METAL TOOL PRODUCED for USE TO OPEN a DEFINED:certain LOCK with.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Keys are rarely mentioned, but the general term is guǎn 管.
+1. Keys are rarely mentioned, but the general term is guǎn [[管]].
 ## Modern Chinese Criteria
 鑰匙
 鎖匙

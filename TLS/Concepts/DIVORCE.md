@@ -11,8 +11,8 @@ zh: 離婚
 STOP one's MARRIAGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for divorce refers only to the husband sending away his wife: chū 出.
-NB: Xiū 休 is post-Han, Tang.
+1. The standard word for divorce refers only to the husband sending away his wife: chū [[出]].
+NB: Xiū [[休]] is post-Han, Tang.
 ## Modern Chinese Criteria
 離婚
 離異

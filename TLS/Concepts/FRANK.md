@@ -39,11 +39,11 @@ och: 直
 EARNEST AND NOT CONCEALING what one FEELS OR BELIEVES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for directness of expression and frankness of attitude is zhí 直 (ant. nìng 佞 "be wily in one's use of language; glib-tongued" and qǔ 曲 "devious").
-2. Zhèng 正 (ant. 譎 "deceitful") refers to a directness and straightforwardness in the expression of what what one thinks is right.
-3. Qíng 情 refers to a disposition to speak honestly of what is at the bottom of one's heart.
-4. Jiǎn 謇 is a fairly rare poetic word referring to fearlessly and frankly uttering one's opinion.
-NB: Tǎn 坦 "frank" is post-Buddhist (NANBEICHAO)
+1. The current standard word for directness of expression and frankness of attitude is zhí [[直]] (ant. nìng [[佞]] "be wily in one's use of language; glib-tongued" and qǔ [[曲]] "devious").
+2. Zhèng [[正]] (ant. [[譎]] "deceitful") refers to a directness and straightforwardness in the expression of what what one thinks is right.
+3. Qíng [[情]] refers to a disposition to speak honestly of what is at the bottom of one's heart.
+4. Jiǎn [[謇]] is a fairly rare poetic word referring to fearlessly and frankly uttering one's opinion.
+NB: Tǎn [[坦]] "frank" is post-Buddhist (NANBEICHAO)
 ## Modern Chinese Criteria
 直率
 率直

@@ -16,14 +16,14 @@ och: 帳
 HANGING CLOTH USED FOR BLOCKING OR CONCEALING something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Wéi 帷 refers to any decorative curtain hung around openings like windows or doors, but the term can also be used to refer to low curtain hung close to the floor.
-2. Mù 幕 refers to a curtain suspended from above as a kind curtain-roof, but reaching down to the ground. See TENT
-3. Wò 幄 refers to a tent-like structure built up within a building. See TENT
-4. Yì 帟, an exceedingly rare word, refers to a roof-like flat baldachin used within buildings to guard against dust and dirt that keeps falling off the ceiling.
-5. Màn 幔 refers to a largish piece of cloth used to cover anything in the house.
-6. Chéng chén 承塵 refers to dust-protector hung above a seat to prevent dust from the ceiling falling on person seated below.
-7. The general term for any material used as a curtain of any sort is zhàng 帳, and the word became current in Han times.
-8. Lián 簾 refers to a bamboo curtain or screen, typically used in doors to prevent draft, and the word is still rare in Han times.
+1. Wéi [[帷]] refers to any decorative curtain hung around openings like windows or doors, but the term can also be used to refer to low curtain hung close to the floor.
+2. Mù [[幕]] refers to a curtain suspended from above as a kind curtain-roof, but reaching down to the ground. See TENT
+3. Wò [[幄]] refers to a tent-like structure built up within a building. See TENT
+4. Yì [[帟]], an exceedingly rare word, refers to a roof-like flat baldachin used within buildings to guard against dust and dirt that keeps falling off the ceiling.
+5. Màn [[幔]] refers to a largish piece of cloth used to cover anything in the house.
+6. Chéng chén [[承塵]] refers to dust-protector hung above a seat to prevent dust from the ceiling falling on person seated below.
+7. The general term for any material used as a curtain of any sort is zhàng [[帳]], and the word became current in Han times.
+8. Lián [[簾]] refers to a bamboo curtain or screen, typically used in doors to prevent draft, and the word is still rare in Han times.
 ## 
 HUANG JINGUI 2006 ARCHITECTURE 21.
 帷，室內無頂帳，或由上懸垂，或立支架鋪展，也可用於野外。

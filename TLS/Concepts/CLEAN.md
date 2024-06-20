@@ -30,8 +30,8 @@ zh: 乾淨
 LACK DIRT OR NOT CONTAIN DIRT, TYPICALLY on the SURFACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for cleanness, both physical and moral, is jié 潔／絜.
-2. Qīng 清 focusses on translucence in its literal meaning.
+1. The most general word for cleanness, both physical and moral, is jié [[潔]]／[[絜]].
+2. Qīng [[清]] focusses on translucence in its literal meaning.
 ## Modern Chinese Criteria
 清潔
 潔靜

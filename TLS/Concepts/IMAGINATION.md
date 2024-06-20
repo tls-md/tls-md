@@ -8,7 +8,7 @@ zh: 想像
 THINK so as to HAVE OR PRODUCE a PICTURE in one's MIND of an ABSENT OBJECT OR SITUATION.
 # Criteria and general notes
 ## Old Chinese Criteria
-The poetic imagination, German Phantasie, as a positive force was surely recognised in traditional China as an important part of poetic talent. The related notions that seems to be fairly current in China is that of "mere imaginings, sheer phantasy", and that of 以為 "unjustified belief", but even these still needs close investigation. It is interesting how rarely one is tempted to use words like "imagination" in translating ancient Chinese texts. This conceptual area badly needs careful study also in pre-Buddhist China. Unfortunately, I have not so far been able to get a handle on this phenomenon. This concept is directly relevant to many literary notions such as that of fiction.
+The poetic imagination, German Phantasie, as a positive force was surely recognised in traditional China as an important part of poetic talent. The related notions that seems to be fairly current in China is that of "mere imaginings, sheer phantasy", and that of [[以為]] "unjustified belief", but even these still needs close investigation. It is interesting how rarely one is tempted to use words like "imagination" in translating ancient Chinese texts. This conceptual area badly needs careful study also in pre-Buddhist China. Unfortunately, I have not so far been able to get a handle on this phenomenon. This concept is directly relevant to many literary notions such as that of fiction.
 ## Modern Chinese Criteria
 想像
 設想

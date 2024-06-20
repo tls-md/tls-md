@@ -18,9 +18,9 @@ och: 浮
 MOVE ON the SURFACE of of OR IN a LIQUID.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for floating of any kind, also of clouds in the air, is fú 浮 (ant. chén 沉 ).
-2. Piāo 漂 refers to floating in the air.
-3. Fàn 泛, fàn 氾, and fàn 汎 seem to be dialect variants of a word for drifting on water, typically aimlessly. (It is to be noted that the three words, though close in pronunciation, are by no means homophonous in ancient pronunciation. One should think they must be etymologically related.)
+1. The general word for floating of any kind, also of clouds in the air, is fú [[浮]] (ant. chén [[沉]] ).
+2. Piāo [[漂]] refers to floating in the air.
+3. Fàn [[泛]], fàn [[氾]], and fàn [[汎]] seem to be dialect variants of a word for drifting on water, typically aimlessly. (It is to be noted that the three words, though close in pronunciation, are by no means homophonous in ancient pronunciation. One should think they must be etymologically related.)
 ## 
 HUANG JINGUI 2006
 COMMUNICATIONS 43. 浮，泛舟、水行。

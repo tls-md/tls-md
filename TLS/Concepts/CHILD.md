@@ -38,14 +38,14 @@ zh: 孩子
 YOUNG DESCENDENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The commonest word for a child is zǐ 子 "son; child (male or female); rarely: baby".
-2. Ér 兒 refers to children of fairly young age.
-3. Tóng 童 refers to a person as a young child without focusing on whose child it is and the word is often used in compounds.
-4. Gōng zǐ 公子 refers specifically to a prince or son by a royal father and his main wife. See PRINCE.
-5. Chì zǐ 赤子 refers to a fairly small or new-born child.
-6. Ruò zǐ 弱子 and 童子 refer to a very young child.
-7. Xiǎo zǐ 小子 is often used for small children but can also refer to people lower in hierachy as for example the disciples of a master (often when the master is addressing them); in addition it is sometimes used by the ruler (when mourning for his parents) and by high officers as humble first person pronoun.
-8. Rǔ zǐ 孺子 can refer to very young children, but the word can also refer more generally to youths, especially girls.
+1. The commonest word for a child is zǐ [[子]] "son; child (male or female); rarely: baby".
+2. Ér [[兒]] refers to children of fairly young age.
+3. Tóng [[童]] refers to a person as a young child without focusing on whose child it is and the word is often used in compounds.
+4. Gōng zǐ [[公子]] refers specifically to a prince or son by a royal father and his main wife. See PRINCE.
+5. Chì zǐ [[赤子]] refers to a fairly small or new-born child.
+6. Ruò zǐ [[弱子]] and [[童子]] refer to a very young child.
+7. Xiǎo zǐ [[小子]] is often used for small children but can also refer to people lower in hierachy as for example the disciples of a master (often when the master is addressing them); in addition it is sometimes used by the ruler (when mourning for his parents) and by high officers as humble first person pronoun.
+8. Rǔ zǐ [[孺子]] can refer to very young children, but the word can also refer more generally to youths, especially girls.
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 30.
 子，幼兒的通稱，構詞能力強。

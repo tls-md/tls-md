@@ -16,13 +16,13 @@ SPEAK OR WRITE INTENDING ANOTHER TO HEAR OR READ AND TO REACT to IT. 
 [IMPORTANT/INSIGNIFICANT]
 [PRESCRIBED/SPONTANEOUS]
 [PRIVATE/PUBLIC]
-1. Duì 對 "respond" (opp. wèn 問 "ask") refers to responses to superiors (See REPLY) whereas wèi 謂 often addresses inferiors. Yán 言 is neutral in this respect.
+1. Duì [[對]] "respond" (opp. wèn [[問]] "ask") refers to responses to superiors (See REPLY) whereas wèi [[謂]] often addresses inferiors. Yán [[言]] is neutral in this respect.
 [ASCENDING], [FORMAL], [PRESCRIBED]
-2. Wèi 謂 is a common word referrring to any form of addressing (often of inferiors) for which the subject has taken an independent initiative.
+2. Wèi [[謂]] is a common word referrring to any form of addressing (often of inferiors) for which the subject has taken an independent initiative.
 [DESCENDING!], [SPONTANEOUS]
-3. Yán 言 (ant. mò 默 "fail to speak up, remain silent") typically involves addressing someone with a formal (often public and political) suggestion, taking the initiative to speak up.
+3. Yán [[言]] (ant. mò [[默]] "fail to speak up, remain silent") typically involves addressing someone with a formal (often public and political) suggestion, taking the initiative to speak up.
 [FORMAL], [PUBLIC!], [SPONTANEOUS]
-4. Gào 告 is typically to address an individual or a group in a formal way or in an important matter, and the content of the address is most often information, but there are also often questions or suggestions involved, when these questions and suggestions are passed on as a message from someone else than the speaker himself.
+4. Gào [[告]] is typically to address an individual or a group in a formal way or in an important matter, and the content of the address is most often information, but there are also often questions or suggestions involved, when these questions and suggestions are passed on as a message from someone else than the speaker himself.
 [FORMAL], [IMPORTANT], [SPONTANEOUS]
 ## Modern Chinese Criteria
 對... 說

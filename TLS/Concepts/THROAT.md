@@ -16,9 +16,9 @@ och: 喉
 The BODY PART LINKING MOUTH AND STOMACH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the throat is hóu 喉, but the word refers more specifically to the place where one breathes.
-2. Yān 咽 refers primarily to the place where the food passes at the opening of the throat.
-3. Yì 嗌 can refer to the throat as the place where food passes in the process of eating or the place through which one breathes and is thus in a sense the most general word, but the word always remained rare.
+1. The current general word for the throat is hóu [[喉]], but the word refers more specifically to the place where one breathes.
+2. Yān [[咽]] refers primarily to the place where the food passes at the opening of the throat.
+3. Yì [[嗌]] can refer to the throat as the place where food passes in the process of eating or the place through which one breathes and is thus in a sense the most general word, but the word always remained rare.
 ## Modern Chinese Criteria
 咽喉
 喉嚨

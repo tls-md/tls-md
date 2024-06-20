@@ -10,7 +10,7 @@ zh: 屠夫
 MERCHANT KILLING ANIMALS SELLING their MEAT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word is tú 屠, and this word has no competitors, although compounds show that butchers could specialise in beef, lamb and dog. The default meat sold was pork.
+1. The general word is tú [[屠]], and this word has no competitors, although compounds show that butchers could specialise in beef, lamb and dog. The default meat sold was pork.
 ## Modern Chinese Criteria
 屠夫
 屠伯

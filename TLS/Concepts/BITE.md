@@ -19,15 +19,15 @@ CUT into something USING ONE'S TEETH.
 [GENERAL/SPECIFIC]
 [HABITUAL/OCCASIONAL]
 NB: Curiously, none of the words for "to bite" are particularly common in ancient Chinese literature.
-1. Hé 齕 is a general word for biting, especially by dogs, and this word is not used adjectivally for "snappy, snappish".
+1. Hé [[齕]] is a general word for biting, especially by dogs, and this word is not used adjectivally for "snappy, snappish".
 [GENERAL]
-2. Shì 噬 and refers to any person or animal biting into anything, also for dogs being prone to bite, snappy.
+2. Shì [[噬]] and refers to any person or animal biting into anything, also for dogs being prone to bite, snappy.
 [HABITUAL!]
-3. Zhuó 啄 is the pecking (or biting) of birds.
+3. Zhuó [[啄]] is the pecking (or biting) of birds.
 [SPECIFIC]
-4. Yǎo 咬 refers very occasionally to the noise of gnashing one's teeth and the word is only mentioned in this group because by Tang times it came to mean "bite".
+4. Yǎo [[咬]] refers very occasionally to the noise of gnashing one's teeth and the word is only mentioned in this group because by Tang times it came to mean "bite".
 [SPECIFIC]; [[RARE+]]
-5. Niè 齧／囓 is occasionally used to refer to the biting by a dog.
+5. Niè [[齧]]／[[囓]] is occasionally used to refer to the biting by a dog.
 [[RARE]]
 ## 
 HUANG JINGUI 2006

@@ -18,11 +18,11 @@ och: 引
 TRY TO DISPLACE something towards ONESELF USING ONE'S HANDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word for pulling anything in any direction is yǐn 引, and the word is also used in figurative senses.
-2. Yì 曳 refers to dragging something behind one.
-3. Qiān 牽 refers to pulling and leading something in a desired direction.
-4. Chōu 抽 and yú 揄 refer to pulling something outward from an inside, typically in order to use it or in order to take and have it.
-5. Zhuó 擢 is to pull something up and out of its base.
+1. The general current word for pulling anything in any direction is yǐn [[引]], and the word is also used in figurative senses.
+2. Yì [[曳]] refers to dragging something behind one.
+3. Qiān [[牽]] refers to pulling and leading something in a desired direction.
+4. Chōu [[抽]] and yú [[揄]] refer to pulling something outward from an inside, typically in order to use it or in order to take and have it.
+5. Zhuó [[擢]] is to pull something up and out of its base.
 ## Modern Chinese Criteria
 拉
 拉扯

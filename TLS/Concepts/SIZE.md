@@ -23,8 +23,8 @@ zh: 大小
 QUANTITY of a DIMENSION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The abstract notion of size is standardly expressed by dà xiǎo 大小.
-2. Cháng duǎn 長短 refers to relative length.
+1. The abstract notion of size is standardly expressed by dà xiǎo [[大小]].
+2. Cháng duǎn [[長短]] refers to relative length.
 ## Modern Chinese Criteria
 大小
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

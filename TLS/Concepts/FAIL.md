@@ -20,11 +20,11 @@ och: 失
 TRY to ACHIEVE something BUT NOT SUCCEED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for failure is shī 失 (ant. dé 得 "get somewhere").
-2. Qióng 窮 (ant. dá 達 "successful") refers to getting into an impasse, a situation from which there is no way out, or being hopelessly unsuccessful with what one is trying to do.
-3. Bài 敗 (ant. chéng 成 "achieve one's purpose") construes failure as a defeat in some personal or social undertaking or campaign.
-4. Bēng 崩 construes a failure as a momentous disaster.
-5. Fù 負 refers specifically to a defeat versus a victory.
+1. The current general word for failure is shī [[失]] (ant. dé [[得]] "get somewhere").
+2. Qióng [[窮]] (ant. dá [[達]] "successful") refers to getting into an impasse, a situation from which there is no way out, or being hopelessly unsuccessful with what one is trying to do.
+3. Bài [[敗]] (ant. chéng [[成]] "achieve one's purpose") construes failure as a defeat in some personal or social undertaking or campaign.
+4. Bēng [[崩]] construes a failure as a momentous disaster.
+5. Fù [[負]] refers specifically to a defeat versus a victory.
 ## Modern Chinese Criteria
 失敗
 不成功

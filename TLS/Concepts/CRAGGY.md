@@ -14,10 +14,10 @@ zh: 崎嶇的
 HIGH AND STEEP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Xiǎn 險 (ant. píng 平 "level") refers to inaccessible precipitous and dangerous high terrain.
-2. Yán 巖 (or yán 岩 ) focusses on height and steepness in a rocky landscape.
-3. Qiào 峭 means extremely steep, and it lays an emphasis on a steepness of a mountain.
-4. Jùn 峻 emphasises the height of a mountain.
+1. Xiǎn [[險]] (ant. píng [[平]] "level") refers to inaccessible precipitous and dangerous high terrain.
+2. Yán [[巖]] (or yán [[岩]] ) focusses on height and steepness in a rocky landscape.
+3. Qiào [[峭]] means extremely steep, and it lays an emphasis on a steepness of a mountain.
+4. Jùn [[峻]] emphasises the height of a mountain.
 NB: A large number of poetic words should be added here.
 ## Modern Chinese Criteria
 高峻

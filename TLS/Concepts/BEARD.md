@@ -18,15 +18,15 @@ HAIR ON FACE.
 [BASIC/MARGINAL]
 [COMMON/RARE]
 [GENERAL/SPECIFIC]
-1. The general word is xū 鬚 referring to all kinds of facial hair, but the word cannot refer to hair on the crown.
+1. The general word is xū [[鬚]] referring to all kinds of facial hair, but the word cannot refer to hair on the crown.
 [GENERAL]
-2. Rán 髯 refers to long whiskers (and when substantial constitutes a remarkable thing among a people with little facial hair).
+2. Rán [[髯]] refers to long whiskers (and when substantial constitutes a remarkable thing among a people with little facial hair).
 [SPECIFIC]
-3. Liè 鬣 is primarily the mane of a horse and refers to a beard noted for its length.
+3. Liè [[鬣]] is primarily the mane of a horse and refers to a beard noted for its length.
 [MARGINAL], [SPECIFIC]; [[RARE]]
-4. Zī 髭 "moustache" was a rare word and a rare thing in ancient China.
+4. Zī [[髭]] "moustache" was a rare word and a rare thing in ancient China.
 [SPECIFIC]; [[RARE]]
-NB: Hú 鬍 "beard" is post-Buddhist.
+NB: Hú [[鬍]] "beard" is post-Buddhist.
 ## 
 HUANG JINGUI 2006
 BODY 37.

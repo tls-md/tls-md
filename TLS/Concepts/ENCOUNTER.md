@@ -16,12 +16,12 @@ och: 嘗
 CONTINGENTLY come to EXPERIENCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for having once encountered, actively tried or experienced something is cháng 嘗 and this word often feels more like an adverbial particle than a verb of experience.
-2. Yù 遇 refers to having been exposed to something (often something positive) by coincidence.
-3. Féng 逢 seems to be a dialect word synonymous with yù 遇, a word which it came to replace at later stages of the language as the standard word.
-4. Zāo 遭 refers to running into something (often something negative).
-5. Fàn 犯 refers to a deliberate encounter and to the facing up to what is encountered with energy and vigour.
-6. Lín 臨 refers to facing something with calm dignity and self-control.
+1. The current general word for having once encountered, actively tried or experienced something is cháng [[嘗]] and this word often feels more like an adverbial particle than a verb of experience.
+2. Yù [[遇]] refers to having been exposed to something (often something positive) by coincidence.
+3. Féng [[逢]] seems to be a dialect word synonymous with yù [[遇]], a word which it came to replace at later stages of the language as the standard word.
+4. Zāo [[遭]] refers to running into something (often something negative).
+5. Fàn [[犯]] refers to a deliberate encounter and to the facing up to what is encountered with energy and vigour.
+6. Lín [[臨]] refers to facing something with calm dignity and self-control.
 ## Modern Chinese Criteria
 碰到
 遭受

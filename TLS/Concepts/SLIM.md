@@ -18,10 +18,10 @@ och: 瘠
 THIN AND NOT FAT, of HUMANS AND ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for skinniness is probably jí 瘠 / 膌 (ant. féi 肥 "fat").
-2. Qú 臞 (ant. rǎng 壤 [ 肉字旁 ]) refers to skinniness in humans.
-3. Léi 羸 refers to skinniness as a result of famine or of disease.
-4. Shòu 瘦 is rare in pre-Buddhist times, and refers generally to emaciation.
+1. The most current general word for skinniness is probably jí [[瘠]] / [[膌]] (ant. féi [[肥]] "fat").
+2. Qú [[臞]] (ant. rǎng [[壤]] [ [[肉字旁]] ]) refers to skinniness in humans.
+3. Léi [[羸]] refers to skinniness as a result of famine or of disease.
+4. Shòu [[瘦]] is rare in pre-Buddhist times, and refers generally to emaciation.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 46.

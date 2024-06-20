@@ -17,9 +17,9 @@ och: 六合
 PLACE AND TIME which CONTAINS ALL ABSTRACT AND CONCRETE THINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current word for the whole universe is tiān dì 天地
-2. Liù hé 六合 is a technical term referring to the world in all its dimensions from east to west, south to north, below to above.
-3. Yǔ zhòu 宇宙 is a rather abstract cosmological word for the universe of space and time.
+1. The most current word for the whole universe is tiān dì [[天地]]
+2. Liù hé [[六合]] is a technical term referring to the world in all its dimensions from east to west, south to north, below to above.
+3. Yǔ zhòu [[宇宙]] is a rather abstract cosmological word for the universe of space and time.
 ## Modern Chinese Criteria
 宇宙
 天體

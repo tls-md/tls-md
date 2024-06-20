@@ -18,8 +18,8 @@ och: 赦
 PUBLICISE, CONFORMING to LAW, AND USING OFFICIAL AUTHORITY, the DECISION that a PERSON is NOT to be PUNISHED for a CRIME of which he is ACCUSED OR GUILTY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shè 赦 (ant. zuì 罪 "hold criminally responsible") refers specifically and technically to the legal act of pardoning a convicted culprit. The word has no current competitors in this technical meaning. But see FORGIVE.
-2. Shì 貰 is a rare word for a formal pardon.
+1. Shè [[赦]] (ant. zuì [[罪]] "hold criminally responsible") refers specifically and technically to the legal act of pardoning a convicted culprit. The word has no current competitors in this technical meaning. But see FORGIVE.
+2. Shì [[貰]] is a rare word for a formal pardon.
 ## Modern Chinese Criteria
 饒 is the current colloquial word for letting someone off.
 饒命 refers to acquitting someone guilty of a capital offence.

@@ -26,11 +26,11 @@ och: 旨／美
 EXCELLENT to SAVOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard words for something tasting good are the archaic zhǐ 旨 and the current měi 美 (ant.** sè 澀 "not pleasant to the palate").
-2. Gān 甘 refers primarily to sweetness but is often used for general tastiness of food.
-3. Xiāng 香 (ant. chòu 臭 "stinking and of bad taste") refers primarily to things that smell good, but the word is often used for general tastiness of food.
-4. Hòu 厚 refers the rich good taste of food.
-5. Nèn 嫩 refers to food in which unpleasant hardness has been removed during the boiling so that the food is soft and tasty.
+1. The standard words for something tasting good are the archaic zhǐ [[旨]] and the current měi [[美]] (ant.** sè [[澀]] "not pleasant to the palate").
+2. Gān [[甘]] refers primarily to sweetness but is often used for general tastiness of food.
+3. Xiāng [[香]] (ant. chòu [[臭]] "stinking and of bad taste") refers primarily to things that smell good, but the word is often used for general tastiness of food.
+4. Hòu [[厚]] refers the rich good taste of food.
+5. Nèn [[嫩]] refers to food in which unpleasant hardness has been removed during the boiling so that the food is soft and tasty.
 ## 
 HUANG JINGUI 2006
 FOOD 12.

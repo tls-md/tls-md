@@ -10,13 +10,13 @@ GUESSING the TRUE ANSWER to IMPORTANT QUESTIONS by ASKING DEITIES.
 TRY TO PREDICT THE FUTURE USING SUPERNATURAL MEANS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any form of divination is zhān 占.
-2. Bǔ 卜 refers to the whole process of divination by oracle bone from turtle or bovine, including the heating of the bones, causing the cracks to appear, and sometimes even the incision of inscriptions on the cracked bone.
-3. Shì 筮 refers to divination by milfoil.
-4. Zhuān 篿 refers to the practice of divination by bamboo slips.
-5. Guī 龜 refers to divination by turtle shell.
-6. Cè 策 is the general term for divinations stalks of any kind.
-7. Shī 蓍 refers specifically to milfoil stalks as used in divination.
+1. The current general word for any form of divination is zhān [[占]].
+2. Bǔ [[卜]] refers to the whole process of divination by oracle bone from turtle or bovine, including the heating of the bones, causing the cracks to appear, and sometimes even the incision of inscriptions on the cracked bone.
+3. Shì [[筮]] refers to divination by milfoil.
+4. Zhuān [[篿]] refers to the practice of divination by bamboo slips.
+5. Guī [[龜]] refers to divination by turtle shell.
+6. Cè [[策]] is the general term for divinations stalks of any kind.
+7. Shī [[蓍]] refers specifically to milfoil stalks as used in divination.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 25.

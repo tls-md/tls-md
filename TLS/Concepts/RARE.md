@@ -32,10 +32,10 @@ och: 罕
 HAPPEN FEW TIMES ONLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for seldom is hǎn 罕 (ant. lu# 屢 "fairly often), which tends to refer to a very low fequency of occurrence of something.
-2. Xiǎn 鮮 (ant. cháng 常 "frequently, in the natural course of events") refer to a dramatic degree of scarcity.
-3. Xī 希 / 稀 (ant. shuò 數 "repeatedly, many times, several times") refers to relative scarcity or sparseness both in time and in space.
-4. Shǎo 少 (ant. duō 多 "often") is a colourless word frequently used to indicate non-specifically that something is not often seen.
+1. The current general word for seldom is hǎn [[罕]] (ant. lu# [[屢]] "fairly often), which tends to refer to a very low fequency of occurrence of something.
+2. Xiǎn [[鮮]] (ant. cháng [[常]] "frequently, in the natural course of events") refer to a dramatic degree of scarcity.
+3. Xī [[希]] / [[稀]] (ant. shuò [[數]] "repeatedly, many times, several times") refers to relative scarcity or sparseness both in time and in space.
+4. Shǎo [[少]] (ant. duō [[多]] "often") is a colourless word frequently used to indicate non-specifically that something is not often seen.
 ## Modern Chinese Criteria
 稀少
 希罕

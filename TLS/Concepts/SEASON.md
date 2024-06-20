@@ -7,8 +7,8 @@ zh: 時節
 ONE of FOUR PERIODS into which the YEAR is DIVIDED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a season is shí 時, and the primary seasons are chūn 春 and qiū 秋, in Warring States times the names of the Four Seasons became current.
-2. Jì 季 refers to the last month of each season.
+1. The general term for a season is shí [[時]], and the primary seasons are chūn [[春]] and qiū [[秋]], in Warring States times the names of the Four Seasons became current.
+2. Jì [[季]] refers to the last month of each season.
 ## 
 HUANG JINGUI 2006
 ASTRONOMY 25. 一年內的時節、時段。

@@ -21,9 +21,9 @@ zh: 陰溝
 TUBE THROUGH which RAIN WATER FLOWS FROM the ROOF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The whole system of rainwater drainage from eaves down to the hole in the ground receiving the water, including the shuǐ cáo 水槽 along which the water is descending, is called liù 霤.
-2. Dòu 竇 refers specifically to the hole in the ground designed to receive water.
-NB: Dī shuǐ 滴水 is a post-Han term (MING) for the tile especially designed to receive the water.
+1. The whole system of rainwater drainage from eaves down to the hole in the ground receiving the water, including the shuǐ cáo [[水槽]] along which the water is descending, is called liù [[霤]].
+2. Dòu [[竇]] refers specifically to the hole in the ground designed to receive water.
+NB: Dī shuǐ [[滴水]] is a post-Han term (MING) for the tile especially designed to receive the water.
 ## Modern Chinese Criteria
 陰溝
 暗溝

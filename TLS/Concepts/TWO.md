@@ -8,12 +8,12 @@ och: 二
 The NUMBER which is the BIGGER successor of ONE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word is èr 二, a word which shows an extraordinary semantic and syntactic flexibility.
-2. Liǎng 兩 is common when the reference is to a natural pair, but there are also many cases where the definite reference is merely to an aforementioned couple of items, and there are even a good number of cases where the reference is to any indefinite number of two things. Also the word regularly means "both the objects" when it precedes a transitive verb, and the word is never used as an ordinal number. Moreover, in complex numbers the word is not used.
-3. O ㄆ偶 and ǒu 耦 refers to a man-made or artificial pair or pairing.
-4. Zài 再 is mostly adverbial and refers to an action being performed twice.
-5. Chóng 重 is mostly adnominal and refers to something being two-layered.
-6. Bèi 倍 "double" refers to twice the amount of something.
+1. The general word is èr [[二]], a word which shows an extraordinary semantic and syntactic flexibility.
+2. Liǎng [[兩]] is common when the reference is to a natural pair, but there are also many cases where the definite reference is merely to an aforementioned couple of items, and there are even a good number of cases where the reference is to any indefinite number of two things. Also the word regularly means "both the objects" when it precedes a transitive verb, and the word is never used as an ordinal number. Moreover, in complex numbers the word is not used.
+3. O ㄆ[[偶]] and ǒu [[耦]] refers to a man-made or artificial pair or pairing.
+4. Zài [[再]] is mostly adverbial and refers to an action being performed twice.
+5. Chóng [[重]] is mostly adnominal and refers to something being two-layered.
+6. Bèi [[倍]] "double" refers to twice the amount of something.
 ## Modern Chinese Criteria
 二
 兩

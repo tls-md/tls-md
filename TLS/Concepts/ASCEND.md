@@ -21,23 +21,23 @@ WALK to REACH a MORE HIGH PLACE. 
 [DIFFICULT/EASY]
 [ELEVATED/VULGAR]
 [+FIG/LITERAL]
-1. Shēng 升 (ant. jiàng 降 "descend") is perhaps the most general word dedicated to the meaning of "going up", and the word often has a literary, dignified flavour.
+1. Shēng [[升]] (ant. jiàng [[降]] "descend") is perhaps the most general word dedicated to the meaning of "going up", and the word often has a literary, dignified flavour.
 [GENERAL]; [[BASIC]], [[CURRENT]]
-2. Shàng 上 (ant. xià 下 "descend"), on the basis of the general meaning "above", comes to refer to the moving to the position on top of or above something else, and the word has no elevated literary flavour.
+2. Shàng [[上]] (ant. xià [[下]] "descend"), on the basis of the general meaning "above", comes to refer to the moving to the position on top of or above something else, and the word has no elevated literary flavour.
 [GENERAL]; [[CURRENT]], [[DERIVED]]
-3. Dēng 登 refers to one entering a vehicle or moving onto a higher surface of any kind, typically (but not always) in a dignified manner.
+3. Dēng [[登]] refers to one entering a vehicle or moving onto a higher surface of any kind, typically (but not always) in a dignified manner.
 [ELEVATED!]; [[CURRENT+]]
-4 Pān 攀 refers to an arduous movement across difficult terrain to a higher position, supporting oneself by objects that one can hold on to as one is moving upwards.
+4 Pān [[攀]] refers to an arduous movement across difficult terrain to a higher position, supporting oneself by objects that one can hold on to as one is moving upwards.
 [DIFFICULT+], [LITERAL]; [[BASIC]], [[CURRENT]]
-5. Yuán 緣 refers to an often arduous movement in difficult "terrain" and guided by certain features of that terrain.
+5. Yuán [[緣]] refers to an often arduous movement in difficult "terrain" and guided by certain features of that terrain.
 [DIFFICULT]; [[DERIVED]]
-6. Chéng 乘 refers to the mounting of a vehicle, specifically.
+6. Chéng [[乘]] refers to the mounting of a vehicle, specifically.
 [SPECIFIC]; [[CURRENT]]
-7. Jī 躋 refers to ascending a burial mound as part of ritual.
+7. Jī [[躋]] refers to ascending a burial mound as part of ritual.
 [ARCHAIC], [SPECIFIC]; [[RARE]]
-8. Zhì 陟 "poetic: scale a mountain" (ant. jiàng 降 "descend") is a rare archaising words with highly restricted usage.
+8. Zhì [[陟]] "poetic: scale a mountain" (ant. jiàng [[降]] "descend") is a rare archaising words with highly restricted usage.
 [ARCHAIC], [SPECIFIC]; [[RARE]]
-9. Jí 即 (ant.* xùn 遜 "resign a ruler's position", or perhaps also shàn 禪 "resign the throne") is always metaphorically "ascend (the throne)".
+9. Jí [[即]] (ant.* xùn [[遜]] "resign a ruler's position", or perhaps also shàn [[禪]] "resign the throne") is always metaphorically "ascend (the throne)".
 [SPECIFIC]; [[CURRENT]], [[DERIVED]]
 ## Modern Chinese Criteria
 登高

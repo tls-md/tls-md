@@ -21,10 +21,10 @@ zh: 義務
 VIRTUE which consists in an ENDURING DESIRE to ACT CONFORMING to what is APPROPRIATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word is yì 義 "rectitude" which is often used to refer to what is proper and what is one's proper duty in general and also duties in particular.
-2. Rèn 任 refers to duties insofar as these impose burdens of responsibility.
-3. Zé 責 refers to duties insofar as these represent demands that others do make or can make on one.
-4. Zhí 職 refers specifically to official public duties that are part of one's public office.
+1. The most general word is yì [[義]] "rectitude" which is often used to refer to what is proper and what is one's proper duty in general and also duties in particular.
+2. Rèn [[任]] refers to duties insofar as these impose burdens of responsibility.
+3. Zé [[責]] refers to duties insofar as these represent demands that others do make or can make on one.
+4. Zhí [[職]] refers specifically to official public duties that are part of one's public office.
 ## Modern Chinese Criteria
 義務
 任務

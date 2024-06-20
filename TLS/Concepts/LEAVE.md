@@ -31,10 +31,10 @@ och: 去
 MOVE so as to CEASE to BE-IN a PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for leaving one place for another is qù 去 (ant. liú 留 "remain").
-2. Chū 出 (ant. rù 入 "remain inside") refers to the leaving of an enclosed space.
-3. Wǎng 往 (ant.* jū 居 "stay at home") focusses not only on the leaving but especially on the direction a person takes after leaving.
-4. Lí 離 focusses on the distance established by leaving between a person and the place which he leaves.
+1. The general word for leaving one place for another is qù [[去]] (ant. liú [[留]] "remain").
+2. Chū [[出]] (ant. rù [[入]] "remain inside") refers to the leaving of an enclosed space.
+3. Wǎng [[往]] (ant.* jū [[居]] "stay at home") focusses not only on the leaving but especially on the direction a person takes after leaving.
+4. Lí [[離]] focusses on the distance established by leaving between a person and the place which he leaves.
 ## Modern Chinese Criteria
 離開
 撤離

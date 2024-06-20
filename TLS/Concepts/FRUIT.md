@@ -8,8 +8,8 @@ och: 果
 RIPE SEED ON PLANT or TREE, TYPICALLY HARVESTED by HUMANS FOR EATING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant common general word for edible fruit, typically as viewed from the consumer's point of view, is guǒ 果.
-2. The dominant common general word for the fruit viewed from a biological point of view is shí 實.
+1. The dominant common general word for edible fruit, typically as viewed from the consumer's point of view, is guǒ [[果]].
+2. The dominant common general word for the fruit viewed from a biological point of view is shí [[實]].
 ## Modern Chinese Criteria
 水果
 果品

@@ -12,15 +12,15 @@ och: 歎
 BREATHE out INTENSELY AND LOUDLY so as to SHOW one's SELF:own SADNESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any kind of sigh or groan is tàn 歎.
-2. Tài xí 太息 refers to sighing not as a sign of distress but of any heightened emotion.
-3. Kuì rán 喟然 refers almost onomatopoetically to the sound of sighing.
-4. Shēn 呻 refers to a slow and drawn-out sigh, according to tradition.
-5. Yín 吟 refers, according to tradition, to a somewhat shorter and more eruptive sigh.
-6. Wǎn 惋 refers to a sigh expressive of distress.
-7. Jiē 嗟 refers typically to a demonstrative sigh (or occasionally even lamentation), but this demonstrative sigh can also signify admiration.
-8. Kài 慨 refers to an intense sigh of heightened emotion of any kind.
-9. Xī xū 欷歔 and the earlier xū xī 歔欷 refer to tearful sighs of distress.
+1. The current general word for any kind of sigh or groan is tàn [[歎]].
+2. Tài xí [[太息]] refers to sighing not as a sign of distress but of any heightened emotion.
+3. Kuì rán [[喟然]] refers almost onomatopoetically to the sound of sighing.
+4. Shēn [[呻]] refers to a slow and drawn-out sigh, according to tradition.
+5. Yín [[吟]] refers, according to tradition, to a somewhat shorter and more eruptive sigh.
+6. Wǎn [[惋]] refers to a sigh expressive of distress.
+7. Jiē [[嗟]] refers typically to a demonstrative sigh (or occasionally even lamentation), but this demonstrative sigh can also signify admiration.
+8. Kài [[慨]] refers to an intense sigh of heightened emotion of any kind.
+9. Xī xū [[欷歔]] and the earlier xū xī [[歔欷]] refer to tearful sighs of distress.
 ## Modern Chinese Criteria
 嘆氣／歎氣 is the current general modern word for sighing.
 嘆息

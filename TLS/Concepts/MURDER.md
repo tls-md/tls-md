@@ -30,11 +30,11 @@ labels:
 KILL a HUMAN NOT LEGITIMATELY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for murder is the same as the general word for killing, shā 殺.
-2. Shì 弒 refers to assassination of a ruler, and always with negative connotations (the justified killing of a ruler would still be shā 殺 ).
-3. Cì 刺 is to stab and thereby kill.
-4. Zéi 賊 refers to an arranged murder, often through a hired assassin.
-5. Zhèn 鴆 is to kill with poison.
+1. The standard word for murder is the same as the general word for killing, shā [[殺]].
+2. Shì [[弒]] refers to assassination of a ruler, and always with negative connotations (the justified killing of a ruler would still be shā [[殺]] ).
+3. Cì [[刺]] is to stab and thereby kill.
+4. Zéi [[賊]] refers to an arranged murder, often through a hired assassin.
+5. Zhèn [[鴆]] is to kill with poison.
 ## Modern Chinese Criteria
 殺人
 故殺

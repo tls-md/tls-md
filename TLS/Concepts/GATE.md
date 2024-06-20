@@ -25,15 +25,15 @@ och: 門
 MOBILE TIMBER HINDER:barrier IN a BIG HOLE THROUGH WHICH ONE WALKS so as to ENTER something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a gate or door of any kind is mén 門, but the word also refers specifically to the two-leaf main gate rather than small doors inside a building complex.
-2. Fēi 扉 refers to a main gate which has only one leaf or to the leaf of a gate.
-3. Hé 闔 refers generally to the wing of a door. Specifically - according to the Zheng's commentary to the LIJI - the word refers to the wooden wing.
-4. Wéi 闈 (ant. dà mén 大門 ) refers to the minor gates to a compound or palace.
-5. Lu �閭 refers to a gate of a neighbourhood or a village.
-6. Hàn 閈 is another term for the gate of a village.
-7. Yán 閻 refers to the gate inside a village or neighbourhood; it also refers to the small street in a village.
-8. Hóng 閎 originally perhaps referred to the street gate inside a palace (??), but it can be also used as the general term for a gate.
-9. Tà 闥 refers to a small door and also to the space inside the door.
+1. The current general word for a gate or door of any kind is mén [[門]], but the word also refers specifically to the two-leaf main gate rather than small doors inside a building complex.
+2. Fēi [[扉]] refers to a main gate which has only one leaf or to the leaf of a gate.
+3. Hé [[闔]] refers generally to the wing of a door. Specifically - according to the Zheng's commentary to the LIJI - the word refers to the wooden wing.
+4. Wéi [[闈]] (ant. dà mén [[大門]] ) refers to the minor gates to a compound or palace.
+5. Lu �[[閭]] refers to a gate of a neighbourhood or a village.
+6. Hàn [[閈]] is another term for the gate of a village.
+7. Yán [[閻]] refers to the gate inside a village or neighbourhood; it also refers to the small street in a village.
+8. Hóng [[閎]] originally perhaps referred to the street gate inside a palace (??), but it can be also used as the general term for a gate.
+9. Tà [[闥]] refers to a small door and also to the space inside the door.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 17.

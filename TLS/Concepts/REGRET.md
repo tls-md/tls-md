@@ -16,9 +16,9 @@ och: 悔／恨
 DISSATISFIED IN-RELATION-TO one's SELF:own PAST ACTION.BECAUSE one BELIEVES them to have been WICKED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for regret of one's actions is huǐ 悔, whereas the current general word for regretting past experience is hèn 恨.　LH: 鳥與人異，謂之能悔。
-2. Jiù 疚 refers to specifically moral regret.
-3. Xí 惜 refers to emotional and sentimental regret.
+1. The current general word for regret of one's actions is huǐ [[悔]], whereas the current general word for regretting past experience is hèn [[恨]].　LH: [[鳥與人異]]，[[謂之能悔]]。
+2. Jiù [[疚]] refers to specifically moral regret.
+3. Xí [[惜]] refers to emotional and sentimental regret.
 ## Modern Chinese Criteria
 懊惱 / 懊悔
 後悔

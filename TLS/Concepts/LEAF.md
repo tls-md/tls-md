@@ -8,7 +8,7 @@ och: 葉
 THIN GREEN PLANT-PART which TYPICALLY GROWS on TWIGS OR FROM the ROOT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a leaf is yè 葉.
+1. The current general word for a leaf is yè [[葉]].
 # Ontology
 
 ## Hypernym

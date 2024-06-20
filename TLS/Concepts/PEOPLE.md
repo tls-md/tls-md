@@ -22,16 +22,16 @@ GROUP of HUMANS LIVING in a STATE OR TERRITORY.
 NOTE: For this section I have found it instructive to collect a large number of post-Buddhist binomes.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant current general word for the people is mín 民 (ant. jūn 君 "ruler"), and this term refers inclusively to all the people particularly insofar as they are ruled by a ruler or belong to a state (xiǎo mín 小民 are the ordinary people). [ 夫民之為言也暝也，萌之為言也（肓）〔盲〕也，故惟上之所扶而以之，民無不化也。故曰：「民萌。」民萌哉！ ( 直言其意而為之名也 ) Xinshu 9
-2. Bǎi xìng 百姓 (ant. jūn zhǔ 君主 "ruler") typically refers to the registered senior families in a state who are under the control of the ruler and contribute taxes as well as military service to him; but from earliest times this term was occasionally used to refer generally to the populace at large.
-3. Rén 人 (ant. wáng 王 "king") is sometimes used generically for those people who were taken to have a political voice, as in Yīn rén 殷人 "the people of Yīn".
-4. Méng 氓 / 萌 (ant.* shì mín 士民 "citizens") refers specifically to the common people belonging to the lower echelons of society.
-5. Zhòng 眾, shù 庶 and the rarer and more rarified words 蒸 and lí 黎 refer to the masses of the people under the aspect of their numerousness.
-6. Qián shǒu 黔首 "black-headed people" is the current word for the people especially promoted by the Qin dynasty.
-7. Shì mín 士民 refers to senior registered citizens with a certain political influence; but the term can also be used collectively to refer to the freemen/gentleman shì 士 on the one hand, and the common people mín 民 on the other.
-8. Guó rén 國人 refers not to the people in a state, but specifically to the senior citizens in the capital.
-9. Mín rén 民人 is a very current way of referring to the people without suggesting any low or high status.
-10. Shù rén 庶人 is the technical term for the non-office-holding commoners in a country.
+1. The dominant current general word for the people is mín [[民]] (ant. jūn [[君]] "ruler"), and this term refers inclusively to all the people particularly insofar as they are ruled by a ruler or belong to a state (xiǎo mín [[小民]] are the ordinary people). [ [[夫民之為言也暝也]]，[[萌之為言也]]（[[肓]]）〔[[盲]]〕[[也]]，[[故惟上之所扶而以之]]，[[民無不化也]]。[[故曰]]：「[[民萌]]。」[[民萌哉]]！ ( [[直言其意而為之名也]] ) Xinshu 9
+2. Bǎi xìng [[百姓]] (ant. jūn zhǔ [[君主]] "ruler") typically refers to the registered senior families in a state who are under the control of the ruler and contribute taxes as well as military service to him; but from earliest times this term was occasionally used to refer generally to the populace at large.
+3. Rén [[人]] (ant. wáng [[王]] "king") is sometimes used generically for those people who were taken to have a political voice, as in Yīn rén [[殷人]] "the people of Yīn".
+4. Méng [[氓]] / [[萌]] (ant.* shì mín [[士民]] "citizens") refers specifically to the common people belonging to the lower echelons of society.
+5. Zhòng [[眾]], shù [[庶]] and the rarer and more rarified words [[蒸]] and lí [[黎]] refer to the masses of the people under the aspect of their numerousness.
+6. Qián shǒu [[黔首]] "black-headed people" is the current word for the people especially promoted by the Qin dynasty.
+7. Shì mín [[士民]] refers to senior registered citizens with a certain political influence; but the term can also be used collectively to refer to the freemen/gentleman shì [[士]] on the one hand, and the common people mín [[民]] on the other.
+8. Guó rén [[國人]] refers not to the people in a state, but specifically to the senior citizens in the capital.
+9. Mín rén [[民人]] is a very current way of referring to the people without suggesting any low or high status.
+10. Shù rén [[庶人]] is the technical term for the non-office-holding commoners in a country.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 45.PEOPLE

@@ -20,7 +20,7 @@ zh: 空間
 What ALL THINGS BE-IN:are-in.
 # Criteria and general notes
 ## Old Chinese Criteria
-Note also 太虛，虛
+Note also [[太虛]]，[[虛]]
 ## Modern Chinese Criteria
 空間
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

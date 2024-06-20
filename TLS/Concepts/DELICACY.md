@@ -12,7 +12,7 @@ zh: 美味
 EXCELLENT SPECIAL FOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shàn 膳, yáo 肴 / 餚 / 殽, zhēn 珍, wèi 味, xiū 饈 / 羞 all refer generally to delicacies.
+1. Shàn [[膳]], yáo [[肴]] / [[餚]] / [[殽]], zhēn [[珍]], wèi [[味]], xiū [[饈]] / [[羞]] all refer generally to delicacies.
 ## Modern Chinese Criteria
 美食
 美味

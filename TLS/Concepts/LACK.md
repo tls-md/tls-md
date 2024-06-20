@@ -25,10 +25,10 @@ och: 無
 SITUATION OF NOT HAVING, OR NOT to BEING-IN the UNIVERSE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for the absence, lack or the failure to have something is wú 無 (ant. yǒu 有 "have").
-2. Quē 缺 refers to the absence of what ought to be there.
-3. Quē 闕 can refer specifically to the deliberate or inadvertent omission of what one might expect was there, but sometimes the word is used interchangeably with quē 缺.
-4. Fá 乏 (ant. zú 足 "have enough of") refers to the insufficiency of something needed or the absence of supplies.
+1. The general term for the absence, lack or the failure to have something is wú [[無]] (ant. yǒu [[有]] "have").
+2. Quē [[缺]] refers to the absence of what ought to be there.
+3. Quē [[闕]] can refer specifically to the deliberate or inadvertent omission of what one might expect was there, but sometimes the word is used interchangeably with quē [[缺]].
+4. Fá [[乏]] (ant. zú [[足]] "have enough of") refers to the insufficiency of something needed or the absence of supplies.
 # Ontology
 
 ## Hypernym

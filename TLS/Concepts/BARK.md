@@ -12,7 +12,7 @@ och: 吠
 LOUD ANIMAL SOUND PRODUCED by DOGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for barking is fèi 吠.
+1. The current word for barking is fèi [[吠]].
 NB: There are no current competing words in the vocabulary of classical Chinese, but SHUOWEN has a whole series of words most of which are so uncommon that they are not in the BIG5 font.
 ## Modern Chinese Criteria
 吠

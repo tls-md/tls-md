@@ -26,9 +26,9 @@ och: 詳
 DILIGENT so as to pay ATTENTION to EVEN UNIMPORTANT PARTS of something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for detail is xiáng 詳 (ant. lè 略 "without proper detail" and yào 要 "only in main outline").
-2. Xì 細 (ant. hūn 涽 "in a muddled generalising way") refers to petty detail.
-3. Xī 悉 refers to completeness of detail.
+1. The current general word for detail is xiáng [[詳]] (ant. lè [[略]] "without proper detail" and yào [[要]] "only in main outline").
+2. Xì [[細]] (ant. hūn [[涽]] "in a muddled generalising way") refers to petty detail.
+3. Xī [[悉]] refers to completeness of detail.
 ## Modern Chinese Criteria
 仔細
 細心

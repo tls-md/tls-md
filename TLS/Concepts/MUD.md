@@ -14,12 +14,12 @@ zh: 泥土
 INTENSELY MOIST SOIL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Ní 泥 refers derogatorily to wet earth or mud, and this is the most general word.
-2. Zhǐ 埴 refers neutrally to sticky soil.
-3. Tú 塗／涂 refers to very wet earth or mud.
-4. Nào 淖 refers derogatorily to mud in a mud puddle.
-5. Jìn 瑾 refers neutrally to the mixture of mud with straw that is used in building houses.
-6. Yū 淤 refers derogatorily to sludge on the bottom of water, or silt.
+1. Ní [[泥]] refers derogatorily to wet earth or mud, and this is the most general word.
+2. Zhǐ [[埴]] refers neutrally to sticky soil.
+3. Tú [[塗]]／[[涂]] refers to very wet earth or mud.
+4. Nào [[淖]] refers derogatorily to mud in a mud puddle.
+5. Jìn [[瑾]] refers neutrally to the mixture of mud with straw that is used in building houses.
+6. Yū [[淤]] refers derogatorily to sludge on the bottom of water, or silt.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 20. 和水的土成泥土。

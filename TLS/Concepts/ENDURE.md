@@ -25,11 +25,11 @@ och: 堪
 SUFFER DISTRESS AND NOT OPPOSE it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word is kān 堪 which refers to the ability to sustain negative experiences as well as to undertake demanding and/or dangerous tasks, and the word is especially frequent in negated form 不堪 "cannot endure; cannot manage to".
-2. Rěn 忍 refers to any callous ability to bear with something that is objectionable without interfering to stop it.
-3. Zhī 支 is occasionally used in the sense of "endure" and emphasises the strength needed to live with what one bears with.
-4. Rén 任 is not limited to putting up with undesirable conditions, it focusses on the the general ability to live gracefully burdens one is having to bear.
-5. Néng 能 is occasionally used as an ordinary transitive verb meaning "be able to put up with (climatic conditions and the like)".
+1. The general word is kān [[堪]] which refers to the ability to sustain negative experiences as well as to undertake demanding and/or dangerous tasks, and the word is especially frequent in negated form [[不堪]] "cannot endure; cannot manage to".
+2. Rěn [[忍]] refers to any callous ability to bear with something that is objectionable without interfering to stop it.
+3. Zhī [[支]] is occasionally used in the sense of "endure" and emphasises the strength needed to live with what one bears with.
+4. Rén [[任]] is not limited to putting up with undesirable conditions, it focusses on the the general ability to live gracefully burdens one is having to bear.
+5. Néng [[能]] is occasionally used as an ordinary transitive verb meaning "be able to put up with (climatic conditions and the like)".
 ## Modern Chinese Criteria
 忍耐
 忍

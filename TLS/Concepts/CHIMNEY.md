@@ -13,8 +13,8 @@ zh: 煙囪
 TUBE OR HOLE IN a ROOF THROUGH which SMOKE LEAVES a STOVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is only one term for a chimney, tū 突, and archeological evidence suggests that the chimney took the form of a hole in the roof.
-NB: Words like cōng 囪 and yān cōng 煙囪 are all late.
+1. There is only one term for a chimney, tū [[突]], and archeological evidence suggests that the chimney took the form of a hole in the roof.
+NB: Words like cōng [[囪]] and yān cōng [[煙囪]] are all late.
 ## Modern Chinese Criteria
 煙囪 yāncong is the current modern word for a chimney.
 煙筒

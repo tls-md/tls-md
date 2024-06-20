@@ -11,8 +11,8 @@ zh: 追到
 REACH AFTER PURSUING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Jí 及 emphasises the result of the successful pursuit, the reaching itself.
-2. Zhuī 追 emphasises the process of the pursuit which has resulted in catching up.
+1. Jí [[及]] emphasises the result of the successful pursuit, the reaching itself.
+2. Zhuī [[追]] emphasises the process of the pursuit which has resulted in catching up.
 ## Modern Chinese Criteria
 追到 is current modern Chinese for catching up with someone.
 趕上

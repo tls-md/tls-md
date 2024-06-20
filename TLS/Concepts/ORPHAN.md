@@ -6,7 +6,7 @@ labels:
 BEREAVED CHILD whose FATHER AND MOTHER are DEAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for an orphan is gū 孤.
+1. The standard word for an orphan is gū [[孤]].
 ## Modern Chinese Criteria
 孤
 孤兒

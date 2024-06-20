@@ -13,12 +13,12 @@ och: 賞
 GIVE someone something BECAUSE that person has ACTED:done something GOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for rewarding is shǎng 賞 (ant. fá 罰 "punish" and zhū 誅 "punish").
-2. Láo 勞 (ant. chéng 懲 "punish") focusses on the contribution by those who are being rewarded.
-3. Kào 犒 focusses on the festive character of the ceremony accompanying or constituting the reward.
-4. Bào 報 construes the reward as being an interaction between equals.
-5. Cí 賜 refers to a present to an inferior in recognition of the latter's worth. For most examples see GIVE.
-NB: The meaning of shǎng 賞 "give as a present" is post-Buddhist.
+1. The current general word for rewarding is shǎng [[賞]] (ant. fá [[罰]] "punish" and zhū [[誅]] "punish").
+2. Láo [[勞]] (ant. chéng [[懲]] "punish") focusses on the contribution by those who are being rewarded.
+3. Kào [[犒]] focusses on the festive character of the ceremony accompanying or constituting the reward.
+4. Bào [[報]] construes the reward as being an interaction between equals.
+5. Cí [[賜]] refers to a present to an inferior in recognition of the latter's worth. For most examples see GIVE.
+NB: The meaning of shǎng [[賞]] "give as a present" is post-Buddhist.
 ## Modern Chinese Criteria
 獎勵
 嘉獎

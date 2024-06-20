@@ -7,8 +7,8 @@ zh: 珠
 SMALL SHINING BALL which GROWS IN MUSSELS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a rounded pearl is zhū 珠.
-2. Jī 璣 refers to a smaller variety of a non-round pearl.
+1. The standard word for a rounded pearl is zhū [[珠]].
+2. Jī [[璣]] refers to a smaller variety of a non-round pearl.
 ## Modern Chinese Criteria
 珍珠
 真珠

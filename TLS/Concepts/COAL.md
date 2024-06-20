@@ -7,8 +7,8 @@ zh: 煤炭
 BLACK SUBSTANCE PRODUCED USING TIMBER, AND USED FOR BURNING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for charcoal is tàn 炭.
-Current post-Buddhist words for coal were 石煤，石墨，石炭. Méi tàn 煤炭 is first attested in Sòng times.
+1. The standard word for charcoal is tàn [[炭]].
+Current post-Buddhist words for coal were [[石煤]]，[[石墨]]，[[石炭]]. Méi tàn [[煤炭]] is first attested in Sòng times.
 ## Modern Chinese Criteria
 煤
 煤斤

@@ -26,21 +26,21 @@ CRITICISE someone as GUILTY of a WICKED:reprehensible MISTAKE OR a CRIME.
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
 [PRIVATE/PUBLIC]
-1. The current general word for declaring someone morally rather than criminally responsible for a misdeed is jiù 咎 (ant. yù 譽 "praise").
+1. The current general word for declaring someone morally rather than criminally responsible for a misdeed is jiù [[咎]] (ant. yù [[譽]] "praise").
 [ARCHAIC?], [NOT-FACE-TO-FACE!], [PRIVATE]
-2. Shǔ 數 refers to the recounting and publicly recounting and listing up of the misdeeds or mistakes someone has made.
+2. Shǔ [[數]] refers to the recounting and publicly recounting and listing up of the misdeeds or mistakes someone has made.
 [FACE-TO-FACE], [HIGH-DEGREE]
-3. Zé 責 (ant. chēng 稱 "praise someone for something") often refers to the public apportioning of blame without the threat of legal action. [see ACCUSE]
+3. Zé [[責]] (ant. chēng [[稱]] "praise someone for something") often refers to the public apportioning of blame without the threat of legal action. [see ACCUSE]
 [FORMAL], [FACE-TO-FACE]
-4. Ràng 讓 (ant. zàn 贊 "commend strongly, in public") refers to strong public blame and abuse.
+4. Ràng [[讓]] (ant. zàn [[贊]] "commend strongly, in public") refers to strong public blame and abuse.
 [DRAMATIC], [FACE-TO-FACE], [PUBLIC],
-5. Qiào 誚 refers to a strong and often abusive public reprimand.
+5. Qiào [[誚]] refers to a strong and often abusive public reprimand.
 [DRAMATIC], [FACE-TO-FACE], [FAMILIAR]; [[RARE]]
-5. Yóu 尤 often refers to official blame and censure, but there are archaic generalised uses of the word where it simply means "to apportion blame for something".
+5. Yóu [[尤]] often refers to official blame and censure, but there are archaic generalised uses of the word where it simply means "to apportion blame for something".
 [ARCHAIC+], [ELEVATED], [NOT-FACE-TO-FACE]
-6. Jí 疾 (ant. měi 美 "praise the splendid qualities of someone") refers to strong personal stricture.
+6. Jí [[疾]] (ant. měi [[美]] "praise the splendid qualities of someone") refers to strong personal stricture.
 [DRAMATIC], [FACE-TO-FACE], [INFORMAL]
-7. Guò 過 (ant. yù 譽 ) typically refers to a mild and/or subjective moral disagreement with someone. See MISTAKE
+7. Guò [[過]] (ant. yù [[譽]] ) typically refers to a mild and/or subjective moral disagreement with someone. See MISTAKE
 [LOW-DEGREE], [MARGINAL]
 ## Modern Chinese Criteria
 怪 is the current colloquial modern word for blaming someeone.

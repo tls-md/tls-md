@@ -21,8 +21,8 @@ zh: 堆
 ARTIFICIAL MOUND of MANY THINGS ACCUMULATED in the SAME PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for any heap of any material is duī 堆.
-2. Dié 垤 refers specifically to an anthill, and then more generally to any small heap of earth.
+1. The current word for any heap of any material is duī [[堆]].
+2. Dié [[垤]] refers specifically to an anthill, and then more generally to any small heap of earth.
 ## Modern Chinese Criteria
 堆
 墩

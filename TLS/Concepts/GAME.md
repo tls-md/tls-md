@@ -17,7 +17,7 @@ och: 戲
 CUSTOM of PLAYING.
 # Criteria and general notes
 ## Old Chinese Criteria
-!. The general term for public games, acrobatics and entertainment is xì 戲.
+!. The general term for public games, acrobatics and entertainment is xì [[戲]].
 ## Modern Chinese Criteria
 遊戲
 遊藝

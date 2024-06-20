@@ -26,11 +26,11 @@ och: 腐
 LACKING FRESHNESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for rottenness is fǔ 腐 (ant. xiān 鮮 "still fresh").
-2. Xiǔ 朽 (ant. xīn 新 "fresh") typically refers to the rottenness of trees or bones.
-3. Mí 糜 (ant. jiān 堅 "firm and unrotten") and the Han words làn 爛 emphasise the unretrievable state of complete rottenness.
-4. Bài 敗 (ant. gù 固 "firm and unimpaired") focusses on radical or essential changes brought about by the rotting process.
-5. Něi 餒 (ant. xiān 鮮 "still very fresh") refers specifically to the rottenness of fish.
+1. The current general word for rottenness is fǔ [[腐]] (ant. xiān [[鮮]] "still fresh").
+2. Xiǔ [[朽]] (ant. xīn [[新]] "fresh") typically refers to the rottenness of trees or bones.
+3. Mí [[糜]] (ant. jiān [[堅]] "firm and unrotten") and the Han words làn [[爛]] emphasise the unretrievable state of complete rottenness.
+4. Bài [[敗]] (ant. gù [[固]] "firm and unimpaired") focusses on radical or essential changes brought about by the rotting process.
+5. Něi [[餒]] (ant. xiān [[鮮]] "still very fresh") refers specifically to the rottenness of fish.
 ## Modern Chinese Criteria
 腐敗
 腐化

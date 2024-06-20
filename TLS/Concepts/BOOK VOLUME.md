@@ -8,10 +8,10 @@ och: 策
 DOCUMENT of MANY PAGES TIED TOGETHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Piān 篇 refers to any series of writing tablets strung together in the right order that represent some complete piece of writing.
-2. Biān 編 refers to any writing tablets strung together in the right order, and the word is often used as a very for arranging tablets in the right order.
-3. Cè 策／冊 refers to a bundle of writing tablets of any kind.
-4. Juàn 卷 refers originally to a roll of silk, especially inscribed silk, and by Han times the word came to refer to any roll of written material, including a roll of writing tablets strung together.
+1. Piān [[篇]] refers to any series of writing tablets strung together in the right order that represent some complete piece of writing.
+2. Biān [[編]] refers to any writing tablets strung together in the right order, and the word is often used as a very for arranging tablets in the right order.
+3. Cè [[策]]／[[冊]] refers to a bundle of writing tablets of any kind.
+4. Juàn [[卷]] refers originally to a roll of silk, especially inscribed silk, and by Han times the word came to refer to any roll of written material, including a roll of writing tablets strung together.
 ## Modern Chinese Criteria
 冊
 本

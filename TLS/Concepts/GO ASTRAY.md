@@ -10,7 +10,7 @@ och: 迷
 WALK so as to BECOME CONFUSED IN-RELATION-TO the WAY one DESIRES to FOLLOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for going astray is mí 迷, and this refers to any form of disorientation purely local and abstract.
+1. The standard word for going astray is mí [[迷]], and this refers to any form of disorientation purely local and abstract.
 ## Modern Chinese Criteria
 迷路
 迷途

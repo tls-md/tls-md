@@ -14,10 +14,10 @@ och: 刖
 CUT OFF PARTS of the BODY of a HUMAN OR ANIMAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The commonest form of mutilating punishment was yuè 刖 "amputation of the foot".
-2. Yì 劓 refers to the mutilation of the nose.
-3. Bìn 臏 refers to the mutilation of the knee-cap which gave its name to the famous warfare specialist Sūn Bìn 孫臏.
-4. Zhé xiě 折脅 refers to the crushing of ribs.
+1. The commonest form of mutilating punishment was yuè [[刖]] "amputation of the foot".
+2. Yì [[劓]] refers to the mutilation of the nose.
+3. Bìn [[臏]] refers to the mutilation of the knee-cap which gave its name to the famous warfare specialist Sūn Bìn [[孫臏]].
+4. Zhé xiě [[折脅]] refers to the crushing of ribs.
 NB: The other words in this group are mercifully rare.
 ## Modern Chinese Criteria
 肉刑 is the general modern word for punishment by mutilation.

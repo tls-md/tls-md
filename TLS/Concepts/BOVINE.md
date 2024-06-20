@@ -15,13 +15,13 @@ BIG BEAST or DOMESTIC ANIMAL which has HORNS, AND that SOMETIMES CAN be CAUSED T
 # Criteria and general notes
 ## Old Chinese Criteria
 [CONGERIES]
-1. The current general word for bovines of any kind is niú 牛.
-2. Xī 犀 is the standard word for a rhinoceros.
-3. Sì 兕 refers to an unidentified large wild ox which was currently hunted in Shang Dynasty times.
-4. Máo 旄 refers to the yak-ox generally, famous for profuse growth of hair all over the body and the limbs.
-5. Máo 犛 refers to the black yak-ox, but the word is as rare as was, presumably, the animal in central parts of China.
-6. Láo 牢 refers to an bovine specially reared for sacrificial person, and the word is ubiquitous in OBI.
-7. Xī sì 犀兕 is a generic term referring to rhino-like bovines, and the compound is never referential referring to one specific beast of this kind.
+1. The current general word for bovines of any kind is niú [[牛]].
+2. Xī [[犀]] is the standard word for a rhinoceros.
+3. Sì [[兕]] refers to an unidentified large wild ox which was currently hunted in Shang Dynasty times.
+4. Máo [[旄]] refers to the yak-ox generally, famous for profuse growth of hair all over the body and the limbs.
+5. Máo [[犛]] refers to the black yak-ox, but the word is as rare as was, presumably, the animal in central parts of China.
+6. Láo [[牢]] refers to an bovine specially reared for sacrificial person, and the word is ubiquitous in OBI.
+7. Xī sì [[犀兕]] is a generic term referring to rhino-like bovines, and the compound is never referential referring to one specific beast of this kind.
 ## Modern Chinese Criteria
 牛
 牛類

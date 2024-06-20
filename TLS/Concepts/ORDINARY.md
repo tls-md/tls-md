@@ -19,14 +19,14 @@ och: 凡
 COMMON AND INFERIOR to what is EXCELLENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for "ordinary" is fán 凡 (ant. qí 奇 "remarkable").
-2. Zhōng 中 (ant. yōu 優 "excellent") refers specifically to mediocrity.
-3. Yōng 庸 (ant. tè 特 "of special distinction") refers to what is regularly met and not unexpected, and the word focusses on that this does not distinguish itself through any positive features.
-4. Sǎn 散 (ant. jīng 精 "exquisite") refers to what can make no claim for special attention.
-5. Shù 庶 (ant. zhēn 珍 "extraordinarily precious") refers to kinds of persons that there are very many of.
-6. Cū 粗 (ant. jīng 精 "exquisitely civilised") refers to ordinariness as absence of cultural polish.
-7. Xì 細 (ant. kuí 魁 "great, towering") refers to ordinariness as absence of real power or significance.
-8. Wēi 微 (ant. jù 巨 "great") refers to relative slightness or insignificance without negative overtones.
+1. The current general word for "ordinary" is fán [[凡]] (ant. qí [[奇]] "remarkable").
+2. Zhōng [[中]] (ant. yōu [[優]] "excellent") refers specifically to mediocrity.
+3. Yōng [[庸]] (ant. tè [[特]] "of special distinction") refers to what is regularly met and not unexpected, and the word focusses on that this does not distinguish itself through any positive features.
+4. Sǎn [[散]] (ant. jīng [[精]] "exquisite") refers to what can make no claim for special attention.
+5. Shù [[庶]] (ant. zhēn [[珍]] "extraordinarily precious") refers to kinds of persons that there are very many of.
+6. Cū [[粗]] (ant. jīng [[精]] "exquisitely civilised") refers to ordinariness as absence of cultural polish.
+7. Xì [[細]] (ant. kuí [[魁]] "great, towering") refers to ordinariness as absence of real power or significance.
+8. Wēi [[微]] (ant. jù [[巨]] "great") refers to relative slightness or insignificance without negative overtones.
 ## Modern Chinese Criteria
 普通
 一般

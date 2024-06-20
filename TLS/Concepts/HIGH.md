@@ -17,13 +17,13 @@ och: 高
 BIG VERTICALLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The manifestly dominant general word is gāo 高 (ant. bēi 卑 "low" and xià 下 "low") which refers to concrete as well as abstract elevation.
-2. Shàng 上 (ant. xià 下 "lower") refers to the relatively high position of something, both abstractly and concretely.
-3. Chóng 崇 (ant. bēi 卑 "lowly") and lóng 隆 (ant. wū 污 ) adds the notion of impressiveness to that of high elevation.
-4. Qiáo 喬 refers specifically to the imposing tallness of trees.
-5. Jùn 峻, wéi 巍, yán 巖, é 峨 are among the large number of poetic words referring to the imposing height of mountains.
-6. Wēi 危 adds to the notion of the imposing (almost threatening) hight of something that of steepness of the slope, and the difficulty of access.
-7. Lóng 隆 refers to imposing and impressive height, typically - but not always - of something artificial.
+1. The manifestly dominant general word is gāo [[高]] (ant. bēi [[卑]] "low" and xià [[下]] "low") which refers to concrete as well as abstract elevation.
+2. Shàng [[上]] (ant. xià [[下]] "lower") refers to the relatively high position of something, both abstractly and concretely.
+3. Chóng [[崇]] (ant. bēi [[卑]] "lowly") and lóng [[隆]] (ant. wū [[污]] ) adds the notion of impressiveness to that of high elevation.
+4. Qiáo [[喬]] refers specifically to the imposing tallness of trees.
+5. Jùn [[峻]], wéi [[巍]], yán [[巖]], é [[峨]] are among the large number of poetic words referring to the imposing height of mountains.
+6. Wēi [[危]] adds to the notion of the imposing (almost threatening) hight of something that of steepness of the slope, and the difficulty of access.
+7. Lóng [[隆]] refers to imposing and impressive height, typically - but not always - of something artificial.
 ## Modern Chinese Criteria
 高
 高級 is always figurative referring to a high level.

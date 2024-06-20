@@ -13,8 +13,8 @@ och: 息／滅
 CAUSE TO STOP BURNING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for extinguishing a fire is xí 息.
-2. Miè 滅 "destroy" is occasionally used to refer to the extinguishing of fires.
+1. The standard word for extinguishing a fire is xí [[息]].
+2. Miè [[滅]] "destroy" is occasionally used to refer to the extinguishing of fires.
 ## Modern Chinese Criteria
 熄滅
 熄

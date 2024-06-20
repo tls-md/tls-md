@@ -7,7 +7,7 @@ zh: 使肥沃
 AGRICULTURAL WORK INTENDING to CAUSE TO BECOME FERTILE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for fertilising fields with manure is fèn 糞.
+1. The standard word for fertilising fields with manure is fèn [[糞]].
 ## Modern Chinese Criteria
 使肥沃
 施肥料

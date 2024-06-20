@@ -10,7 +10,7 @@ zh: 中夜
 MIDDLE of the NIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for midnight is yè fēn 夜分.
+1. The current word for midnight is yè fēn [[夜分]].
 ## Modern Chinese Criteria
 半夜
 夜半

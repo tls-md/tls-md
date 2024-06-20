@@ -13,9 +13,9 @@ och: 易
 GIVE something to someone so as to RECEIVE something OTHER from him.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for exchanging things in any way is yì 易.
-2. Liú 流 refers to the flow and circulation of goods.
-3. Tōng 通 focusses on the unimpeded freeness of the exchange.
+1. The current general word for exchanging things in any way is yì [[易]].
+2. Liú [[流]] refers to the flow and circulation of goods.
+3. Tōng [[通]] focusses on the unimpeded freeness of the exchange.
 ## Modern Chinese Criteria
 交換
 交流

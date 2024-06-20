@@ -35,10 +35,10 @@ CLEARly UNTRUE so that MANY are NOT ABLE to IMAGINE IT to be TRUE.
 CLEARLY UNTRUE AND STRANGE. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for contradictory absurdity is bèi 悖.
-2. Huāng 荒 focusses on the confusion more than the contradictoriness.
-3. Dàn 誕 focusses on the loquaciousness of absurd discourse.
-4. Guāi miù 乖謬 focusses on the misguidedness which is the result of incoherence.
+1. The current word for contradictory absurdity is bèi [[悖]].
+2. Huāng [[荒]] focusses on the confusion more than the contradictoriness.
+3. Dàn [[誕]] focusses on the loquaciousness of absurd discourse.
+4. Guāi miù [[乖謬]] focusses on the misguidedness which is the result of incoherence.
 # Ontology
 
 ## Hypernym

@@ -21,11 +21,11 @@ zh: 同情
 SOCIAL-EMOTION IN THE FORM OF DESIRE to HELP someone who is SUFFERING what is not JUST, OR who is IN DISTRESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for sympathy and commiseration in psychological attitude as well as in action is xù 恤 / 卹 (ant. rěn 忍 "heartless").
-2. Mǐn 閔／憫 (ant. cán 殘 "cruel and heartless") is a purely psychological word referring to feelings of deep concern and sympathy, often coupled with sadness and a desire to act to improve things. See also SADNESS
-3. Jīn 矜 expresses, apparently, a somewhat higher intensity in the purely psychological feelings of sympathy.
-4. Āi 哀 refers to passive concern for what one unfortunately can do little about.
-5. Lián 憐 refers to sympathy as loving warm concern and a wish to show this loving concern in action.
+1. The standard word for sympathy and commiseration in psychological attitude as well as in action is xù [[恤]] / [[卹]] (ant. rěn [[忍]] "heartless").
+2. Mǐn [[閔]]／[[憫]] (ant. cán [[殘]] "cruel and heartless") is a purely psychological word referring to feelings of deep concern and sympathy, often coupled with sadness and a desire to act to improve things. See also SADNESS
+3. Jīn [[矜]] expresses, apparently, a somewhat higher intensity in the purely psychological feelings of sympathy.
+4. Āi [[哀]] refers to passive concern for what one unfortunately can do little about.
+5. Lián [[憐]] refers to sympathy as loving warm concern and a wish to show this loving concern in action.
 ## Modern Chinese Criteria
 關心
 關懷

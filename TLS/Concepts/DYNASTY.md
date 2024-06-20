@@ -8,7 +8,7 @@ och: 朝／代
 FAMILY LEGITIMATELY GOVERNS a STATE over MANY GENERATIONS, OR the PERIOD of such GOVERNMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term for a dynasty is dài 代, but this term is not used to refer to a person's contemporary dynasty in pre-Han times, and as far as I can see, it is rarely so used in Han times, although there is a clear example of Hàn dài 漢代 in HANSHU. Zhōu dài 周代 is not in the texts I have surveyed so far, whereas 周世 is in SHIJI.
+1. The standard term for a dynasty is dài [[代]], but this term is not used to refer to a person's contemporary dynasty in pre-Han times, and as far as I can see, it is rarely so used in Han times, although there is a clear example of Hàn dài [[漢代]] in HANSHU. Zhōu dài [[周代]] is not in the texts I have surveyed so far, whereas [[周世]] is in SHIJI.
 ## Modern Chinese Criteria
 朝代 is the general modern word for a dynasty.
 王朝 focusses on its royal status.

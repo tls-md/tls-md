@@ -37,12 +37,12 @@ och: 熱
 TEMPERATURE RESEMBLING that of FIRE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Probably the most general word referrring to objective high temperature or heat is rè 熱 (ant. lěng 冷 "cold").
-2. Wēn 溫 (ant. liáng 涼 "cool") is mild heat.
-3. Nuǎn 暖 (ant. liáng 涼 "cool") is very mild heat.
-4. Yán 炎 is extreme heat.
-5. Shǔ 暑 (ant. hán 寒 "cold") refers to perceived heat, which often relates to humidity in the air as well as objective temperature.
-6. Xū 煦 and hé 和 refer to temperate, comfortable, and warm temperatures or climates.
+1. Probably the most general word referrring to objective high temperature or heat is rè [[熱]] (ant. lěng [[冷]] "cold").
+2. Wēn [[溫]] (ant. liáng [[涼]] "cool") is mild heat.
+3. Nuǎn [[暖]] (ant. liáng [[涼]] "cool") is very mild heat.
+4. Yán [[炎]] is extreme heat.
+5. Shǔ [[暑]] (ant. hán [[寒]] "cold") refers to perceived heat, which often relates to humidity in the air as well as objective temperature.
+6. Xū [[煦]] and hé [[和]] refer to temperate, comfortable, and warm temperatures or climates.
 ## Modern Chinese Criteria
 炎熱
 炎炎

@@ -14,9 +14,9 @@ WALK FORWARD.
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The standard general word for physically going or moving forward is jìn 進 (ant. tuì 退 "withdraw backwards").
+1. The standard general word for physically going or moving forward is jìn [[進]] (ant. tuì [[退]] "withdraw backwards").
 [GENERAL]
-2. Qián 前 (ant. hòu 後 "move backwards") refers to the movement forward and into the position in front of someone.
+2. Qián [[前]] (ant. hòu [[後]] "move backwards") refers to the movement forward and into the position in front of someone.
 [SPECIFIC]
 ## Modern Chinese Criteria
 前進

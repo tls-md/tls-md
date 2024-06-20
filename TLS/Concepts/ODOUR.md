@@ -23,7 +23,7 @@ zh: 滋味
 The APPEARANCE of something which one CAN SMELL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for an odour, either pleasant or unpleasant, is chòu 臭.
+1. The general word for an odour, either pleasant or unpleasant, is chòu [[臭]].
 ## Modern Chinese Criteria
 味道
 氣味

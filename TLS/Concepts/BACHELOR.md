@@ -10,7 +10,7 @@ och: 曠夫
 MALE ADULT who is NOT MARRIED. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There are no competing terms for "bachelor" in classical Chinese. The current word is kuàng fū 曠夫 (opp. yuàn nu# 怨女 "unmarried woman of marrigeable age").
+1. There are no competing terms for "bachelor" in classical Chinese. The current word is kuàng fū [[曠夫]] (opp. yuàn nu# [[怨女]] "unmarried woman of marrigeable age").
 ## Modern Chinese Criteria
 光棍
 未娶

@@ -29,8 +29,8 @@ och: 時／期
 TIME CONSISTING of a LIMITED SEQUENCE of MOMENTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general term for a period of time is shí 時, but the term often retains its connotations of "seasons of the year".
-2. Qī 期 refers to a designated period of time where something is supposed to happen.
+1. The most current general term for a period of time is shí [[時]], but the term often retains its connotations of "seasons of the year".
+2. Qī [[期]] refers to a designated period of time where something is supposed to happen.
 ## Modern Chinese Criteria
 年代
 年歲

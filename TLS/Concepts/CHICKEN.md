@@ -7,7 +7,7 @@ zh: 雞
 COMMON KIND of BIRD REARED as DOMESTIC ANIMAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for a hen or chicken generally is jī 雞.
+1. The current word for a hen or chicken generally is jī [[雞]].
 ## Modern Chinese Criteria
 雞
 小雞

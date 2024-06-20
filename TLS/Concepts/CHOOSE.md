@@ -19,12 +19,12 @@ zh: 挑選
 TAKE OR USE THING WHILE BELIEVING that one is ABLE to TAKE OTHER THINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for making a deliberate and in principle free choice is qǔ 取 "to choose or opt for (the preferred alternative), to prefer" (ant 捨 "reject"), and what is thus chosen or preferred may be concrete or abstract.
-2. Zé 擇 is "to choose between, make a free choice among (alternative objects presenting themselves)" and the word applies to all sorts of choices, formal or informal.
-3. Xuǎn 選 and the rarer bá 拔 (ant. chì 斥 "set aside") is an administrative term referring to the choice of incumbents for a position to be filled according to given criteria of choice.
-4. Cǎi 采 is close in meaning to qǔ 取 but does not naturally correspond to any antonym like shě 捨 "reject".
-5. Qū 趨 (ant. bì 避 "shy away from and avoid") and the rarer xiàng 嚮 (ant. bèi 背 "turn one's back on") refer to a tendency to exercise a certain preference.
-6. Níng 寧 "would rather, prefer to" expresses a free moral or intellectual or practical choice. See PREFER
+1. The general word for making a deliberate and in principle free choice is qǔ [[取]] "to choose or opt for (the preferred alternative), to prefer" (ant [[捨]] "reject"), and what is thus chosen or preferred may be concrete or abstract.
+2. Zé [[擇]] is "to choose between, make a free choice among (alternative objects presenting themselves)" and the word applies to all sorts of choices, formal or informal.
+3. Xuǎn [[選]] and the rarer bá [[拔]] (ant. chì [[斥]] "set aside") is an administrative term referring to the choice of incumbents for a position to be filled according to given criteria of choice.
+4. Cǎi [[采]] is close in meaning to qǔ [[取]] but does not naturally correspond to any antonym like shě [[捨]] "reject".
+5. Qū [[趨]] (ant. bì [[避]] "shy away from and avoid") and the rarer xiàng [[嚮]] (ant. bèi [[背]] "turn one's back on") refer to a tendency to exercise a certain preference.
+6. Níng [[寧]] "would rather, prefer to" expresses a free moral or intellectual or practical choice. See PREFER
 ## Modern Chinese Criteria
 挑選
 揀選

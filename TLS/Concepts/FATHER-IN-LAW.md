@@ -7,8 +7,8 @@ zh: 岳父
 FATHER of one's HUSBAND OR WIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a father-in-law is jiù 舅.
-2. Zhàng rén 丈人 is a colloquial term for a father-in-law.
+1. The standard word for a father-in-law is jiù [[舅]].
+2. Zhàng rén [[丈人]] is a colloquial term for a father-in-law.
 ## Modern Chinese Criteria
 岳父
 岳丈

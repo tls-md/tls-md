@@ -20,11 +20,11 @@ och: 波
 MOVING WATER RESEMBLING MOUNTAIN RIDGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for water in wave-movement is pō 波.
-2. Tāo 濤 is a late word referring to large waves.
-3. Lián 漣 and lún 淪 are rare words referring to small ripples in water.
-4. Cháo 潮 refers to a flood of considerable dimensions without necessarily connoting high waves.
-NB: Làng 浪 is a post-Han general term for waves, and focusses specifically to the crest of waves. In pre-Buddhist times the word means "to flow along".
+1. The current general word for water in wave-movement is pō [[波]].
+2. Tāo [[濤]] is a late word referring to large waves.
+3. Lián [[漣]] and lún [[淪]] are rare words referring to small ripples in water.
+4. Cháo [[潮]] refers to a flood of considerable dimensions without necessarily connoting high waves.
+NB: Làng [[浪]] is a post-Han general term for waves, and focusses specifically to the crest of waves. In pre-Buddhist times the word means "to flow along".
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 12. 水波。

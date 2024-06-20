@@ -43,9 +43,9 @@ zh: 巫師
 ADULT HUMAN whose WORK is to COMMUNICATE with DEITIES so as to SERVE OTHER HUMANS. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a shaman is wū 巫, and although this word was perceived to refer specifically to female shamans.
-2. Xí 覡 is a rare word which seems to have been limited to male shamans in pre-Han times but came to be used generally for shamanes female and male alike, in post-Han times.
-3. Zhù 祝 refers to the impersonator of the dead ancestor on sacrificial occasions: these are not really shamans, but they temporarily perform the roles of a shaman representing the dead or communicating with them.
+1. The general word for a shaman is wū [[巫]], and although this word was perceived to refer specifically to female shamans.
+2. Xí [[覡]] is a rare word which seems to have been limited to male shamans in pre-Han times but came to be used generally for shamanes female and male alike, in post-Han times.
+3. Zhù [[祝]] refers to the impersonator of the dead ancestor on sacrificial occasions: these are not really shamans, but they temporarily perform the roles of a shaman representing the dead or communicating with them.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 24. 巫是以工具來表示可通天地四方之人，即巫師。商代的巫，職權大，地位高，春秋戰國時巫已轉入民間，且出現祝、卜、史等的內部分工。

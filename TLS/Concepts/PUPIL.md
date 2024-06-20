@@ -8,9 +8,9 @@ och: 眸
 PART of the EYE THROUGH which LIGHT ENTERS THE EYE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the pupil of the eye is móu 眸.
-2. Tóng 瞳 is a later colloquial word for the pupil of the eye.
-3. Jīng 睛 refers to the pupils of the eyes as shining objects which attract attention.
+1. The current general word for the pupil of the eye is móu [[眸]].
+2. Tóng [[瞳]] is a later colloquial word for the pupil of the eye.
+3. Jīng [[睛]] refers to the pupils of the eyes as shining objects which attract attention.
 ## Modern Chinese Criteria
 眼球
 眼珠子

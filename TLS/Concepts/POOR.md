@@ -30,14 +30,14 @@ och: 貧
 LACK SUFFICIENT PROPERTY FOR a GOOD LIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for poverty is pín 貧 (ant. fù 富 "rich"), but the term does not in general refer to transitory poverty.
-2. Qióng 窮 (ant. fù 富 "rich") refers to an extreme state of destitution, which may, however, be transitory, and the word may also refer not so much to poverty as such as marked lack of expected success, professional failure (ant. dá 達 ); and the word may also refer to persons without regular means of support such as widows and orphans.
-3. Fá 乏 (ant. yù 裕 "abundantly supplied") refers to a shortage in a certain commodity or in a certain specified group of commodities.
-4. Kùn 困 (ant.* kuān 寬 "in comfortable economic circumstances") refers to poverty as constituting serious hardship.
-5. Yuē 約 (ant. chuò 綽 "be abundantly supplied") refers to mild poverty or straightened circumstances.
-6. Jué 絕 refers to temporary poverty viewed as the result of a sudden change of circumstances.
-7. Jié 竭 refers a state of extremely low supply that has come about through a gradual change in circumstances.
-8. Jiǒng 窘 (ant. jǐ 給 "be sufficiently supplied") is a rare word referring to a general state of run-down destitution.
+1. The current general word for poverty is pín [[貧]] (ant. fù [[富]] "rich"), but the term does not in general refer to transitory poverty.
+2. Qióng [[窮]] (ant. fù [[富]] "rich") refers to an extreme state of destitution, which may, however, be transitory, and the word may also refer not so much to poverty as such as marked lack of expected success, professional failure (ant. dá [[達]] ); and the word may also refer to persons without regular means of support such as widows and orphans.
+3. Fá [[乏]] (ant. yù [[裕]] "abundantly supplied") refers to a shortage in a certain commodity or in a certain specified group of commodities.
+4. Kùn [[困]] (ant.* kuān [[寬]] "in comfortable economic circumstances") refers to poverty as constituting serious hardship.
+5. Yuē [[約]] (ant. chuò [[綽]] "be abundantly supplied") refers to mild poverty or straightened circumstances.
+6. Jué [[絕]] refers to temporary poverty viewed as the result of a sudden change of circumstances.
+7. Jié [[竭]] refers a state of extremely low supply that has come about through a gradual change in circumstances.
+8. Jiǒng [[窘]] (ant. jǐ [[給]] "be sufficiently supplied") is a rare word referring to a general state of run-down destitution.
 ## Modern Chinese Criteria
 貧窮
 貧

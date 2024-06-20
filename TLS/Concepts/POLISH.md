@@ -20,10 +20,10 @@ och: 琢
 RUB AND SMEAR USING LIQUID so as to CAUSE TO BECOME SMOOTH AND SHINING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zhuó 琢 refers primarily to the polishing of jade.
-2. Cuō 磋 is to transform a rude product by polishing it.
-3. Dǐ 砥 refers to sharpening of an artefact with the small and fine whetstone.
-4. Lì 礪 refers to sharpening of an artefact with the crude brushing stone.
+1. Zhuó [[琢]] refers primarily to the polishing of jade.
+2. Cuō [[磋]] is to transform a rude product by polishing it.
+3. Dǐ [[砥]] refers to sharpening of an artefact with the small and fine whetstone.
+4. Lì [[礪]] refers to sharpening of an artefact with the crude brushing stone.
 ## Modern Chinese Criteria
 鋼
 礪

@@ -35,10 +35,10 @@ och: 竊
 TAKE SECRETLY OFFENDING the LAW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any form of stealing is qiè 竊 and this word in no way suggests that the person who steals is in fact a professional or habitual thief.
-2. Dào 盜 refers to a clandestine operation of stealing that may be on a fairly small scale, but typically by a person who specialises in stealing, a dào 盜 "thief".
-3. Rǎng 攘 refers specifically to an act of taking another's property from a place other than his own home.
-4. Tōu 偷 refers to stealthy and illicit enjoyment or sometimes misappropriation of something.
+1. The current general word for any form of stealing is qiè [[竊]] and this word in no way suggests that the person who steals is in fact a professional or habitual thief.
+2. Dào [[盜]] refers to a clandestine operation of stealing that may be on a fairly small scale, but typically by a person who specialises in stealing, a dào [[盜]] "thief".
+3. Rǎng [[攘]] refers specifically to an act of taking another's property from a place other than his own home.
+4. Tōu [[偷]] refers to stealthy and illicit enjoyment or sometimes misappropriation of something.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 50. THIEF 偷盜者。

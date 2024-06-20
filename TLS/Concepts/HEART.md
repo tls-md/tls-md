@@ -7,7 +7,7 @@ zh: 心臟
 ORGAN which PUMPS BLOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the physiological organ known as the heart in English is xīn 心.
+1. The standard word for the physiological organ known as the heart in English is xīn [[心]].
 ## Modern Chinese Criteria
 心
 胸

@@ -19,11 +19,11 @@ och: 奪
 STEAL, USING VIOLENCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for appropriating something that is not one's own by right is duó 奪.
-2. Jíé 劫 adds to the notion of misapropriation that violence or threat of violence.
-3. Lè 掠 typically refers to misapropriation by military force.
-4. Lè 略 refers specifically to the misappropriation of territory or a population.
-NB: Qiǎng 搶 is post-Han, possibly as late as Ming.
+1. The current word for appropriating something that is not one's own by right is duó [[奪]].
+2. Jíé [[劫]] adds to the notion of misapropriation that violence or threat of violence.
+3. Lè [[掠]] typically refers to misapropriation by military force.
+4. Lè [[略]] refers specifically to the misappropriation of territory or a population.
+NB: Qiǎng [[搶]] is post-Han, possibly as late as Ming.
 ## Modern Chinese Criteria
 搶劫
 打劫

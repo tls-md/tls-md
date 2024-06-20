@@ -8,13 +8,13 @@ och: 乘
 VEHICLE USED BY SOLDIERS IN WARFARE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for a military chariot is shèng 乘 usually drawn by four horses.
-2. Róng 戎 is a old general word for chariots which was already rare by Warring States times.
-3. Cháo chē 轈車 refers to a high observation chariot.
-4. Qīng chē 輕車 refers to a highly mobile light and quick chariot.
-5. Zī zhòng 輜重 refers to military vehicles used to transport weapons and supplies.
-6. Fén yūn/wēn 轒榡 refers to a four-wheel covered roofed chariot with the baldachin made of ox hide.
-For illustrations of these see　中國古代兵器圖冊 (Huang Jingui)
+1. The current word for a military chariot is shèng [[乘]] usually drawn by four horses.
+2. Róng [[戎]] is a old general word for chariots which was already rare by Warring States times.
+3. Cháo chē [[轈車]] refers to a high observation chariot.
+4. Qīng chē [[輕車]] refers to a highly mobile light and quick chariot.
+5. Zī zhòng [[輜重]] refers to military vehicles used to transport weapons and supplies.
+6. Fén yūn/wēn [[轒榡]] refers to a four-wheel covered roofed chariot with the baldachin made of ox hide.
+For illustrations of these see　[[中國古代兵器圖冊]] (Huang Jingui)
 ## 
 HUANG JINGUI 2006
 WARFARE 24. 高型偵察車。

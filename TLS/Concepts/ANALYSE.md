@@ -8,7 +8,7 @@ zh: 分析
 EXPLAIN something by SYSTEMATICALLY DISTINGUISHING its BASIC PARTS AND their FUNCTIONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-辨／辯
+[[辨]]／[[辯]]
 ## Modern Chinese Criteria
 分析 is the current general word for analysis.
 辨析 focusses on making analytical distincions.

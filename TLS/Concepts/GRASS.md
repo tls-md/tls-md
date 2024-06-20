@@ -8,7 +8,7 @@ och: 草
 SMALL PLANT CONSISTING ONLY of ROOTS AND LEAVES, AND EATEN by SHEEP AND BOVINES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for grass, possibly including some of what we would call flowers, is cǎo 草.
+1. The current general term for grass, possibly including some of what we would call flowers, is cǎo [[草]].
 ## Modern Chinese Criteria
 草
 苴

@@ -34,15 +34,15 @@ WARFARE in the form of FIGHTING AND USE of WEAPONS DURING A DEFINED SHORT PERIOD
 [GENERAL/SPECIFIC]
 [INOFFICIAL/OFFICIAL]
 [LASTING/TEMPORARY]
-1. The general term is zhàn 戰 (ant. hé 和 "ceasing of hostilities, ceasefire") and refers to any military engagement at a given time.
+1. The general term is zhàn [[戰]] (ant. hé [[和]] "ceasing of hostilities, ceasefire") and refers to any military engagement at a given time.
 [GENERAL], [TEMPORARY]
-2. An extended official and centrally organised campaign lasting some time and viewed as a task for the military is yì 役.
+2. An extended official and centrally organised campaign lasting some time and viewed as a task for the military is yì [[役]].
 [PROCESS], [LASTING]
-3. Zhēng 征 refers to an official military campaign as conducted by a state. See ATTACK
+3. Zhēng [[征]] refers to an official military campaign as conducted by a state. See ATTACK
 [ACTION], [LASTING], [OFFICIAL]
-4. Chén 陳 refers to the the forming of a battle array. See BATTLE ARRAY
+4. Chén [[陳]] refers to the the forming of a battle array. See BATTLE ARRAY
 [SPECIFIC]
-5. Jūn 軍 can come to refer generally to military action or military campaigns of any kind.
+5. Jūn [[軍]] can come to refer generally to military action or military campaigns of any kind.
 [ACTION], [MARGINAL]; [[RARE]]
 ## Modern Chinese Criteria
 作戰

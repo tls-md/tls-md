@@ -14,13 +14,13 @@ Of LUCKY OMEN.
 [ACTION/EVENT]
 [ARCHAIC/CURRENT]
 [GENERAL/SPECIFIC]
-1. The general term is jí 吉 (ant. xiōng 凶 "inauspicious") and refers to any natural phenomenon or supposed supernatural response that is of good omen, in an everyday almost secular way.
+1. The general term is jí [[吉]] (ant. xiōng [[凶]] "inauspicious") and refers to any natural phenomenon or supposed supernatural response that is of good omen, in an everyday almost secular way.
 [GENERAL]
-2. Xiáng 祥 tends to refer to the auspiciousness of human actions, but in its nominal usages it came to be used more generally for all tings that bode well or ill.
+2. Xiáng [[祥]] tends to refer to the auspiciousness of human actions, but in its nominal usages it came to be used more generally for all tings that bode well or ill.
 [ACTION!]
-3. The archaising and elevated, mostly nominal, ruì 瑞 has specific religious connotations with rituals and the Will of Heaven.
+3. The archaising and elevated, mostly nominal, ruì [[瑞]] has specific religious connotations with rituals and the Will of Heaven.
 [ARCHAIC]
-NB: Xìng 幸 (ant. bù xìng 不幸 "unfortunate") is purely "secular", and often coincidental, good luck with no metaphysical or religious significance being attached to the term. See LUCKY
+NB: Xìng [[幸]] (ant. bù xìng [[不幸]] "unfortunate") is purely "secular", and often coincidental, good luck with no metaphysical or religious significance being attached to the term. See LUCKY
 ## Modern Chinese Criteria
 吉兆
 嘉祥

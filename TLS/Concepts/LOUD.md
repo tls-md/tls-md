@@ -25,7 +25,7 @@ zh: 高聲
 BIG as NOISE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no word dedicated to the loudness of sound, the current way of expressing this meaning is to use dà 大 "large".
+1. There is no word dedicated to the loudness of sound, the current way of expressing this meaning is to use dà [[大]] "large".
 ## Modern Chinese Criteria
 響
 高

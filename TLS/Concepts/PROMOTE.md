@@ -14,10 +14,10 @@ och: 擢
 APPOINT to CAUSE TO BECOME a MORE NOBLE OFFICIAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The specific general term for bureaucratic promotion is the not very common zhuó 擢 (ant. chù 黜 "demote").
-2. The most current general-use words for raising the status of someone are jǔ 舉 (ant. jiàng 降 "lower the rank of") and jìn 進 (ant. tuì 退 "demote").
-3. Bá 拔 (ant. miǎn 免 "dismiss without necessarily removing from the hierarchy altogether") and qiān 遷 (ant. chū 出 "remove and transfer to a lower position") are standard bureaucratic terms for promotion in office.
-4. Chāo 超 refers specifically to raising someone by more than one level at the time, and this bureaucratic term became current in Han times.
+1. The specific general term for bureaucratic promotion is the not very common zhuó [[擢]] (ant. chù [[黜]] "demote").
+2. The most current general-use words for raising the status of someone are jǔ [[舉]] (ant. jiàng [[降]] "lower the rank of") and jìn [[進]] (ant. tuì [[退]] "demote").
+3. Bá [[拔]] (ant. miǎn [[免]] "dismiss without necessarily removing from the hierarchy altogether") and qiān [[遷]] (ant. chū [[出]] "remove and transfer to a lower position") are standard bureaucratic terms for promotion in office.
+4. Chāo [[超]] refers specifically to raising someone by more than one level at the time, and this bureaucratic term became current in Han times.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 19.

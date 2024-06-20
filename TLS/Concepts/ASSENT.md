@@ -51,21 +51,21 @@ SPEAK:say that one BELIEVES what ANOTHER in the PAST has SPEAK:said.
 [FACTUAL/MORAL]
 [MORAL/FACTUAL]
 [PROSPECTIVE/RETROSPECTIVE]
-1. The general word expressing approval of what has been said is rán 然 (ant. fǒu 否 "deny") which is neutral and colourless.
+1. The general word expressing approval of what has been said is rán [[然]] (ant. fǒu [[否]] "deny") which is neutral and colourless.
 [FACTUAL!]; [[COMMON]]
-2. Kě 可 refers to overt linguistic or covert linguistic approval of something as acceptable, and what is assented to may be an action or an opinion.
+2. Kě [[可]] refers to overt linguistic or covert linguistic approval of something as acceptable, and what is assented to may be an action or an opinion.
 [GENERAL+]; [[CURRENT]]
-3. Xǔ 許 focusses on a superior's autonomous decision to side with or admit the truth of a statement that has been made.
+3. Xǔ [[許]] focusses on a superior's autonomous decision to side with or admit the truth of a statement that has been made.
 [LINGUISTIC], [OFFICIAL], [OVERT], [PROSPECTIVE]; [[CURRENT]]
-4. Yǔn 允 refers to an emperor or very senior person agreeing or acceding to a view.
+4. Yǔn [[允]] refers to an emperor or very senior person agreeing or acceding to a view.
 [ELEVATED], [EXPLICIT], [OFFICIAL], [PROSPECTIVE]
-5. Shì 是 signifies purely intellecual assent with the content of what has been said.
+5. Shì [[是]] signifies purely intellecual assent with the content of what has been said.
 [ABSTRACT], [FACTUAL]; [[CURRENT]]
-6. Tóng 同 occasionally refers to assent coupled with intended practical support.
+6. Tóng [[同]] occasionally refers to assent coupled with intended practical support.
 [IMPLICIT!], [SPECIALISED]; [[RARE]]
-7. Yǔ 與 "side with" focusses on the social aspect of assent which involves moral and sometimes even practical support for the person with whom one agrees.
+7. Yǔ [[與]] "side with" focusses on the social aspect of assent which involves moral and sometimes even practical support for the person with whom one agrees.
 [PRACTICAL!], [SPECIALISED]
-8. Shàn 善 (ant. fǒu 否 "disapprove of a judgment") typically refers to moral as well as intellectual approval with what has been said.
+8. Shàn [[善]] (ant. fǒu [[否]] "disapprove of a judgment") typically refers to moral as well as intellectual approval with what has been said.
 [MORAL!]; [[MARGINAL]], [[RARE]]
 ## Modern Chinese Criteria
 贊成 is the current word referring to assent.

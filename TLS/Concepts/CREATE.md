@@ -25,11 +25,11 @@ zh: 創造
 PRODUCE something BELIEVING that it has NEVER BEEN PRODUCED BEFORE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word is probably wéi 為 and this is sometimes used to refer to the act of cultural invention or creation, and the connotation may be positive or negative. The word focusses on the act of making something as such rather than the product as such.
-2. Zuò 作 (ant. shù 述 "transmit") focusses on an autonomous initiative being taken, and the word can refer to a commendable act of creation as well as a reprehensible act of political disobedience. The word focusses on the product resulting of the action.
-3. Zào 造 is prototypically to fashion in the manner of a potter or founder, but the word often has a nuance of the arbitrary and comes to mean something like "fabricate". See also PRODUCE
-4. Chuàng 創 (ant. jì 繼 "continue a line") is a rare word referring to the initiative to start something.
-5. Zào huà 造化 refers to both the process of creation, and of spontaneous cosmic transformation.
+1. The most general word is probably wéi [[為]] and this is sometimes used to refer to the act of cultural invention or creation, and the connotation may be positive or negative. The word focusses on the act of making something as such rather than the product as such.
+2. Zuò [[作]] (ant. shù [[述]] "transmit") focusses on an autonomous initiative being taken, and the word can refer to a commendable act of creation as well as a reprehensible act of political disobedience. The word focusses on the product resulting of the action.
+3. Zào [[造]] is prototypically to fashion in the manner of a potter or founder, but the word often has a nuance of the arbitrary and comes to mean something like "fabricate". See also PRODUCE
+4. Chuàng [[創]] (ant. jì [[繼]] "continue a line") is a rare word referring to the initiative to start something.
+5. Zào huà [[造化]] refers to both the process of creation, and of spontaneous cosmic transformation.
 ## Modern Chinese Criteria
 創造
 創作

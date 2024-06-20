@@ -8,7 +8,7 @@ och: 眉
 HAIR ABOVE the EYES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the eyebrow is méi 眉 and the word does not have any current near-synonyms.
+1. The standard word for the eyebrow is méi [[眉]] and the word does not have any current near-synonyms.
 ## Modern Chinese Criteria
 眉毛
 眉

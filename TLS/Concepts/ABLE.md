@@ -32,24 +32,24 @@ HAVE FEATURES one NEEDS in SELF:oneself FOR ACHIEVING something.
 [LASTING!/TEMPORARY]
 [PHYSICAL/PSYCHOLOGICAL]
 [PRACTICAL/THEORETICAL]
-1. The commonest word is néng 能 "have an inherent capacity for, have the personal ability to".
+1. The commonest word is néng [[能]] "have an inherent capacity for, have the personal ability to".
 [CURRENT], [ENDOGENIC], [GRADED], [LASTING]
-2. Kě yǐ 可以 "be in an objective position to, have the possibility to".
+2. Kě yǐ [[可以]] "be in an objective position to, have the possibility to".
 [ABSOLUTE], [CURRENT], [EXOGENIC], [TEMPORARY!]
-3. Zú yǐ 足以 emphasises sufficiency of conditions necessary to get something done.
+3. Zú yǐ [[足以]] emphasises sufficiency of conditions necessary to get something done.
 [CURRENT], [GRADED], [INHERENT], [PHYSICAL]
-4. Kè 克 typically comes to emphasise the ability to do something difficult in post-archaic times, but the word was equivalent to néng 能 in early texts.
+4. Kè [[克]] typically comes to emphasise the ability to do something difficult in post-archaic times, but the word was equivalent to néng [[能]] in early texts.
 [ABSOLUTE], [ARCHAIC], [INCIDENTAL], [TEMPORARY], [PHYSICAL]
-5. Rén 任 emphasises a general qualification to achieve something worth achieving and not obviously easy to achieve.
+5. Rén [[任]] emphasises a general qualification to achieve something worth achieving and not obviously easy to achieve.
 [ABSOLUTE], [CURRENT], [DIFFICULT], [ENDOGENIC], [TEMPORARY]
-6. Kān 堪 typically refers to the ability to do something others might not be willing or psychologically able to do.
+6. Kān [[堪]] typically refers to the ability to do something others might not be willing or psychologically able to do.
 [ABSOLUTE], [CURRENT], [DIFFICULT], [EMOTIONAL], [ENDOGENIC], [PSYCHOLOGICAL]
-7. Jì 技 "expertise, know-how" refers to the talents for crafts and the like, and the word is not normally used as a verb. See SKILL.
+7. Jì [[技]] "expertise, know-how" refers to the talents for crafts and the like, and the word is not normally used as a verb. See SKILL.
 [ACQUIRED], [CURRENT], [DIFFICULT], [GRADED], [LASTING], [PRACTICAL]
-8. Lì 力 "strength" is sometimes used to refer to an ability to do something which in some sense requires strength.
-9. Zhī 知 refers to the intellectual ability to do something, especially to do something that is not intellectually trivial.
-10. Jì néng 技能 refers to a lasting acquired skill.
-NB: Dé 得 "cope, show an ability to do something by actually doing it" is an achievement verb and does not belong in this group. See COPE.
+8. Lì [[力]] "strength" is sometimes used to refer to an ability to do something which in some sense requires strength.
+9. Zhī [[知]] refers to the intellectual ability to do something, especially to do something that is not intellectually trivial.
+10. Jì néng [[技能]] refers to a lasting acquired skill.
+NB: Dé [[得]] "cope, show an ability to do something by actually doing it" is an achievement verb and does not belong in this group. See COPE.
 ## Modern Chinese Criteria
 能夠
 能

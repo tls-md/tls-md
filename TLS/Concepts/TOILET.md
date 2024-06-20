@@ -28,11 +28,11 @@ zh: 廁所
 ROOM or BUILDING USED FOR DEFECATION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a toilet is cè 廁.
-2. Bìng 庰 refers to the toilet as being blocked off.
-3. Yǎn 偃 refers to the toilet as hiding what is going on inside.
-4. Hùn 溷／圂 refers to the toilet as a dirty place.
-5. Xuān 軒 refers to the toilet as being comparable in shape to a xuān 軒 carriage which hides those who ride on it.
+1. The current general word for a toilet is cè [[廁]].
+2. Bìng [[庰]] refers to the toilet as being blocked off.
+3. Yǎn [[偃]] refers to the toilet as hiding what is going on inside.
+4. Hùn [[溷]]／[[圂]] refers to the toilet as a dirty place.
+5. Xuān [[軒]] refers to the toilet as being comparable in shape to a xuān [[軒]] carriage which hides those who ride on it.
 ## Modern Chinese Criteria
 廁所
 衛生間

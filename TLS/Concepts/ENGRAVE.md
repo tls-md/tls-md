@@ -20,9 +20,9 @@ och: 刻
 CUT into METAL, WOOD, OR JADE so as to PRODUCE WRITING OR a BEAUTIFUL PATTERN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Kè 刻 tends to be primarily to engrave in wood or ivory.
-2. Diāo 彫 refers to any form of engraving on or in any material, including jade and stone.
-3. Lòu 鏤 refers to engraving in metal only.
+1. Kè [[刻]] tends to be primarily to engrave in wood or ivory.
+2. Diāo [[彫]] refers to any form of engraving on or in any material, including jade and stone.
+3. Lòu [[鏤]] refers to engraving in metal only.
 ## Modern Chinese Criteria
 刻 is the current word for engraving.
 雕刻 refers to engraving any pattern.

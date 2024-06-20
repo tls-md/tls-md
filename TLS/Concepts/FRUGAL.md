@@ -35,11 +35,11 @@ och: 儉
 MODERATE in USING MONEY AND PROPERTY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the virtue of parsimony is jiǎn 儉 (ant. shē 奢 "extravagant in the use of resources").
-2. Jié 節 (ant. chǐ 侈 "lavish use of resources") refers to the virtue of moderation in the use of things as it applies to specified areas and does not function an abstract philosophical concept of parsimony.
-3. The negative quality of stinginess is lìn 吝 (ant. POST-BUDDHIST kāng kǎi 慷慨 "generous (with friends)", and in pre-Buddhist times the less exact huì 惠 "generous (to inferiors)").
-4. The neutral terms for thrift are shěng 省 (ant. fèi 費 "spend freely"), jiǎn 簡, and yuē 約.
-5. Xí 惜 (ant. tài 泰 / 汰 "use up resources thoughtlessly") refers to the reluctance to let go of something or to use it up.
+1. The current general word for the virtue of parsimony is jiǎn [[儉]] (ant. shē [[奢]] "extravagant in the use of resources").
+2. Jié [[節]] (ant. chǐ [[侈]] "lavish use of resources") refers to the virtue of moderation in the use of things as it applies to specified areas and does not function an abstract philosophical concept of parsimony.
+3. The negative quality of stinginess is lìn [[吝]] (ant. POST-BUDDHIST kāng kǎi [[慷慨]] "generous (with friends)", and in pre-Buddhist times the less exact huì [[惠]] "generous (to inferiors)").
+4. The neutral terms for thrift are shěng [[省]] (ant. fèi [[費]] "spend freely"), jiǎn [[簡]], and yuē [[約]].
+5. Xí [[惜]] (ant. tài [[泰]] / [[汰]] "use up resources thoughtlessly") refers to the reluctance to let go of something or to use it up.
 ## Modern Chinese Criteria
 節省
 節約

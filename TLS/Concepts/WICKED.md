@@ -56,21 +56,21 @@ och: 惡
 MORALLY BAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and general word for wickedness is probably è 惡 (ant. shàn 善 "good"), but it must be noted that in early texts the word is more current in the meaning of physical ugliness.
-2. Xié 邪 (ant. zhèng 正 "straight and in no way wicked") typically involves nuances of sinister evil influences in addition to plain human depravity.
-3. Suì 祟 (ant. xiáng 祥 "of the good innocuous kind") refers to sinister supernatural wicked forces operating in the human world.
-4. Yāo 妖 (ant. jí 吉 "of a generally auspicious nature") typically implies nuances of seductive or beguiling qualities coexisting with wickedness.
-5. Jiān 姦 (ant. liáng 良 "of the good sort, decent") refers to sheer human depravity with no supernatural or sinister overtones.
-6. Chǒu 醜 (ant. měi 美 "of commendable moral quality") often refers to something rather like moral ugliness and depravity in early texts, but from Han times onwards the word comes to refer to physical ugliness].
-7. Qū 曲 (ant. duān 端 "straight and unwarped") refers to warped crookedness and lack of moral straightness.
-8. Wú 污 (ant. jié 潔 "morally pure and spotless") refers to moral defilement or moral impurity.
-9. Liè 劣 (ant. ) refers to moral inferiority as opposed to excellence.
-10. Pì 僻 (ant. ) refers to
-11. Jiāo 姣 refers to wickedness coupled with cunning, scheming and malice.
-12. Xiǎn 險 is occasionally used to refer to the type of wickedness that is a danger to the group or the state.
-13. Wāi 歪 (ant. zhí 直 "morally straight") refers to wickedness under the image of moral warpedness and and deviation from a straight proper norm.
-14. Xiōng 凶 refers to a baneful wickedness that bodes ill for the future.
-15. Chǐ 恥 refers to something that is a public disgrace. See SHAME.
+1. The most current and general word for wickedness is probably è [[惡]] (ant. shàn [[善]] "good"), but it must be noted that in early texts the word is more current in the meaning of physical ugliness.
+2. Xié [[邪]] (ant. zhèng [[正]] "straight and in no way wicked") typically involves nuances of sinister evil influences in addition to plain human depravity.
+3. Suì [[祟]] (ant. xiáng [[祥]] "of the good innocuous kind") refers to sinister supernatural wicked forces operating in the human world.
+4. Yāo [[妖]] (ant. jí [[吉]] "of a generally auspicious nature") typically implies nuances of seductive or beguiling qualities coexisting with wickedness.
+5. Jiān [[姦]] (ant. liáng [[良]] "of the good sort, decent") refers to sheer human depravity with no supernatural or sinister overtones.
+6. Chǒu [[醜]] (ant. měi [[美]] "of commendable moral quality") often refers to something rather like moral ugliness and depravity in early texts, but from Han times onwards the word comes to refer to physical ugliness].
+7. Qū [[曲]] (ant. duān [[端]] "straight and unwarped") refers to warped crookedness and lack of moral straightness.
+8. Wú [[污]] (ant. jié [[潔]] "morally pure and spotless") refers to moral defilement or moral impurity.
+9. Liè [[劣]] (ant. ) refers to moral inferiority as opposed to excellence.
+10. Pì [[僻]] (ant. ) refers to
+11. Jiāo [[姣]] refers to wickedness coupled with cunning, scheming and malice.
+12. Xiǎn [[險]] is occasionally used to refer to the type of wickedness that is a danger to the group or the state.
+13. Wāi [[歪]] (ant. zhí [[直]] "morally straight") refers to wickedness under the image of moral warpedness and and deviation from a straight proper norm.
+14. Xiōng [[凶]] refers to a baneful wickedness that bodes ill for the future.
+15. Chǐ [[恥]] refers to something that is a public disgrace. See SHAME.
 ## Modern Chinese Criteria
 凶惡
 凶狠

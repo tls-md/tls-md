@@ -8,10 +8,10 @@ och: 奚
 BECAUSE of WHAT? [GRAMMAR]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for "why" is probably xī 奚.
-2. Hé yǐ 何以 typically asks for a reason in the form of a purpose, but the word can also ask for a good intellectual reason, as in hé yǐ zhī zhī 何以知之 "how do you know".
-3. Hú 胡 is a dialect word which often asks generally for reasons and is hard to distinguish semantically from xī 奚.
-4. Hé 盍 "why not" is a contracted form of hé bù 何不.
+1. The most current general word for "why" is probably xī [[奚]].
+2. Hé yǐ [[何以]] typically asks for a reason in the form of a purpose, but the word can also ask for a good intellectual reason, as in hé yǐ zhī zhī [[何以知之]] "how do you know".
+3. Hú [[胡]] is a dialect word which often asks generally for reasons and is hard to distinguish semantically from xī [[奚]].
+4. Hé [[盍]] "why not" is a contracted form of hé bù [[何不]].
 ## Modern Chinese Criteria
 為什麼
 為甚麼

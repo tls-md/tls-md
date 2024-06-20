@@ -13,8 +13,8 @@ zh: 吸吮
 SEEM to DRINK by CAUSING to ENTER ONE'S MOUTH by BREATHING IN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for sucking something clean is shǔn 吮.
-2. Shuò 唶 is a rare dialect word for sucking at something.
+1. The current word for sucking something clean is shǔn [[吮]].
+2. Shuò [[唶]] is a rare dialect word for sucking at something.
 ## Modern Chinese Criteria
 吮
 啜

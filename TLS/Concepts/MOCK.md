@@ -21,11 +21,11 @@ och: 嘲
 SPEAK OR ACT so as to CAUSE OTHERS to LAUGH at someone.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for mockery is cháo 嘲, but this word is exceedingly rare in pre-Buddhist literature.
-2. Jī 譏 adds an element of criticism to that of mockery.
-3. Xiào 笑 refers to non-verbalised mockery through sneering.
-4. Nòng 弄 adds the nuance of practical teasing to that of mockery.
-5. Tíáo 調, huī 詼, and xié 諧 refer to teasing mild mockery.
+1. The most general word for mockery is cháo [[嘲]], but this word is exceedingly rare in pre-Buddhist literature.
+2. Jī [[譏]] adds an element of criticism to that of mockery.
+3. Xiào [[笑]] refers to non-verbalised mockery through sneering.
+4. Nòng [[弄]] adds the nuance of practical teasing to that of mockery.
+5. Tíáo [[調]], huī [[詼]], and xié [[諧]] refer to teasing mild mockery.
 ## Modern Chinese Criteria
 嘲笑 is a current modern word for mockery.
 恥笑 focusses on the humiliating aspect of mockery.

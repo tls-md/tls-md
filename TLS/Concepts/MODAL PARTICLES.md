@@ -13,7 +13,7 @@ MODAL PARTICLES are scope-bearing grammaticalised words or expressions that are 
 ## Modern Chinese Criteria
 LU JIANMING
 ## Old Chinese Criteria
-也 is judgmental and judgmentally descriptive, never narrative: "it is the case that; the point is that"矣 narrative or narratively descriptive and marks to a currently new, currently relevant or currently conditioned narrative statement.已 is judgmental as well as emphatic or definitive: "definitively!, definitely"而已 is decisive and exclusive of alternatives: "and that is all".耳 is a less emphatic 而已.爾 is a scribal variant for 耳 and writes the same word.哉 is emphatic and marks emotionally charged statements: "!".夫 =否乎 is tentative and marks statements the truth of which is held to open to doubt: "n'est-ce pas?"
+[[也]] is judgmental and judgmentally descriptive, never narrative: "it is the case that; the point is that"[[矣]] narrative or narratively descriptive and marks to a currently new, currently relevant or currently conditioned narrative statement.[[已]] is judgmental as well as emphatic or definitive: "definitively!, definitely"[[而已]] is decisive and exclusive of alternatives: "and that is all".[[耳]] is a less emphatic [[而已]].[[爾]] is a scribal variant for [[耳]] and writes the same word.[[哉]] is emphatic and marks emotionally charged statements: "!".[[夫]] =[[否乎]] is tentative and marks statements the truth of which is held to open to doubt: "n'est-ce pas?"
 # Ontology
 
 ## Hypernym

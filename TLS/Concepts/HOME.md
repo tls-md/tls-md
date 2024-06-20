@@ -33,9 +33,9 @@ och: 鄉
 PLACE where one DWELLS ENDURINGLY OR ORIGINALLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for one's home region is xiāng 鄉, or xiāng qǔ 鄉曲.
-2. Jiā 家 acquired the meaning "home" late, and the word typically focusses not on the region where one lives, but one's family home.
-3. Tǔ 土 is occasionally used to refer to the area from which one originates.
+1. The most general current word for one's home region is xiāng [[鄉]], or xiāng qǔ [[鄉曲]].
+2. Jiā [[家]] acquired the meaning "home" late, and the word typically focusses not on the region where one lives, but one's family home.
+3. Tǔ [[土]] is occasionally used to refer to the area from which one originates.
 ## Modern Chinese Criteria
 家鄉
 故鄉

@@ -16,8 +16,8 @@ och: 謝
 ADDRESS someone so as to SHOW GRATEFUL:gratitude, USING WORDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no common or current word for "to thank" in classical Chinese. Xiè 謝 is very occasionally used to express this meaning.
-2. Wǎng bài qí mén 往拜其門 (MENG) is a classical periphrastic idiom referring to thanking.
+1. There is no common or current word for "to thank" in classical Chinese. Xiè [[謝]] is very occasionally used to express this meaning.
+2. Wǎng bài qí mén [[往拜其門]] (MENG) is a classical periphrastic idiom referring to thanking.
 ## Modern Chinese Criteria
 謝 is the current modern word for thanking.
 感謝 focusses on the feeling of gratefulness rather than its expression.

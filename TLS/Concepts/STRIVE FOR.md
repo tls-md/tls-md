@@ -24,10 +24,10 @@ zh: 務求
 TRY INTENSELY to SUCCEED in something IMPORTANT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for striving for something as an important aim in one's life is wù 務.
-2. Shì 事 refers to working at something either because one has chosen to or because it is part of one's duties.
-3. Yè 業 refers to the making something one's professional concern.
-4. Lì 力 is occasionally used to refer to the putting every effort into something.
+1. The current general word for striving for something as an important aim in one's life is wù [[務]].
+2. Shì [[事]] refers to working at something either because one has chosen to or because it is part of one's duties.
+3. Yè [[業]] refers to the making something one's professional concern.
+4. Lì [[力]] is occasionally used to refer to the putting every effort into something.
 ## Modern Chinese Criteria
 務求 is the standard modern word for striving towards something.
 苦幹 focusses on the demanding nature of the effort required in striving for something.

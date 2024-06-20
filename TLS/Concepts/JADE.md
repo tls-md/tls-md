@@ -9,11 +9,11 @@ HARD BRIGHT STONE USED FOR PRODUCING ORNAMENTS. []
 # Criteria and general notes
 ## Old Chinese Criteria
 XUN 27:8, Knoblock 3:209
-聘人以珪， Men on official visits use the gu (which is square at the bottom and round on top),
-問士以璧， freemen asking advice use the b (ring-jade);
-召人以瑗， someone summoning other will use the yuàn;
-絕人以玦， someone breaking off relations with someone will use the jué;
-反絕以環。 someone who is making good again broken-off relations will use the huán.
+[[聘人以珪]]， Men on official visits use the gu (which is square at the bottom and round on top),
+[[問士以璧]]， freemen asking advice use the b (ring-jade);
+[[召人以瑗]]， someone summoning other will use the yuàn;
+[[絕人以玦]]， someone breaking off relations with someone will use the jué;
+[[反絕以環]]。 someone who is making good again broken-off relations will use the huán.
 # Ontology
 
 ## Hypernym

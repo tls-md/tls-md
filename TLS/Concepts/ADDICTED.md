@@ -28,15 +28,15 @@ LOVE SOMETHING INTENSELY AND INTENSELY NEED IT.  
 [[FREQUENT/RARE]]
 [HIGH-DEGREE/LOW-DEGREE]
 [POETIC/PROSAIC]
-1. The most general word for a strong and permanent liking for alcohol and the like is dān 耽 / 酖 / 湛.
+1. The most general word for a strong and permanent liking for alcohol and the like is dān [[耽]] / [[酖]] / [[湛]].
 [HIGH-DEGREE], [POETIC]
-2. Miǎn 湎 is an elevated poetic word for addiction, typically to wine.
+2. Miǎn [[湎]] is an elevated poetic word for addiction, typically to wine.
 [ARCHAIC], [POETIC]
-3. Chén 沈 is occasionally used to refer to a person being excessively prone to vices of any kind including wine and women.
+3. Chén [[沈]] is occasionally used to refer to a person being excessively prone to vices of any kind including wine and women.
 [GENERAL], [HIGH-DEGREE]; [[RARE]]
-4. Xù 酗 is a rare archaic word referring to addiction to wine as expressed in action.
+4. Xù [[酗]] is a rare archaic word referring to addiction to wine as expressed in action.
 [ARCHAIC], [POETIC]; [[RARE]]
-5. Yòng 醟 is a very rare word referring to excessive fondness of wine.
+5. Yòng [[醟]] is a very rare word referring to excessive fondness of wine.
 [[RARE]]
 ## Modern Chinese Criteria
 沉迷

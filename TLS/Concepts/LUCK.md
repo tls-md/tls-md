@@ -16,10 +16,10 @@ och: 福／幸
 GOOD BECAUSE IT CAUSES CONTINGENT PROFIT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word for good fortune is fú 福 (ant. huò 禍 "misfortune"), and the dominant general word for good luck is xìng 幸 (ant. yāng 殃 "misfortune").
-2. Lù 祿 and the rare xiū 休 / 庥 are elevated and archaising words referring to blessings from Heaven.
-3. Zuò 祚 is a very elevated and archaising word referring to blessings from Heaven as given to states or great clans and the like.
-4. Yù 裕 (ant. fá 乏 "shortage sent down by Heaven") is an elevated word referring to abundant blessings from Heaven.
+1. The dominant general word for good fortune is fú [[福]] (ant. huò [[禍]] "misfortune"), and the dominant general word for good luck is xìng [[幸]] (ant. yāng [[殃]] "misfortune").
+2. Lù [[祿]] and the rare xiū [[休]] / [[庥]] are elevated and archaising words referring to blessings from Heaven.
+3. Zuò [[祚]] is a very elevated and archaising word referring to blessings from Heaven as given to states or great clans and the like.
+4. Yù [[裕]] (ant. fá [[乏]] "shortage sent down by Heaven") is an elevated word referring to abundant blessings from Heaven.
 ## Modern Chinese Criteria
 福氣 is the current modern word for good luck.
 幸福 focusses on the fortuitousness of good luck.

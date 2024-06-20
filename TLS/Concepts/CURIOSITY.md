@@ -18,7 +18,7 @@ zh: 好奇
 INTEREST IN MANY THINGS which one FEELS DESERVE one's ATTENTION.
 # Criteria and general notes
 ## Old Chinese Criteria
-好奇
+[[好奇]]
 # Ontology
 
 ## Antonym

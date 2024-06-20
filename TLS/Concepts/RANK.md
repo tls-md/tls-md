@@ -16,11 +16,11 @@ och: 等／級
 FORMAL PUBLIC STATUS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general term for relative rank of any kind in any walk of life is děng 等.
-2. Jiē 階, jí 級. and the rarer bān 班 are general terms referring to a person's position in the bureaucratic hierarchy.
-3. Wèi 位 and the rarer liè 列 typically refer to relatively elevated official ranks only.
-4. Jué 爵 refers specifically to noble rank.
-5. Shàng 上 is occasionally used to refer to leading position.
+1. The most general term for relative rank of any kind in any walk of life is děng [[等]].
+2. Jiē [[階]], jí [[級]]. and the rarer bān [[班]] are general terms referring to a person's position in the bureaucratic hierarchy.
+3. Wèi [[位]] and the rarer liè [[列]] typically refer to relatively elevated official ranks only.
+4. Jué [[爵]] refers specifically to noble rank.
+5. Shàng [[上]] is occasionally used to refer to leading position.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 39.

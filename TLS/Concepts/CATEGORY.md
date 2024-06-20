@@ -27,10 +27,10 @@ zh: 類
 ABSTRACT CONCEPT REFERRING TYPICALLY to MANY THINGS with RESEMBLING FEATURES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word for the abstract notion of a category of any kind is lèi 類.
-2. Shǔ 屬 construes a category as something that concrete things belong to or belong under, and the term is not abstract in force.
-3. Zhǒng 種 "kind" emphasises the common origin and derives from the biological notion of a species, and the term often refers specifically to the kinds of grain.
-4. Chóu 疇 "natural group a thing belongs to" is not really a logical term of classification but essentially a term belonging to the sociology of animals.
+1. The general current word for the abstract notion of a category of any kind is lèi [[類]].
+2. Shǔ [[屬]] construes a category as something that concrete things belong to or belong under, and the term is not abstract in force.
+3. Zhǒng [[種]] "kind" emphasises the common origin and derives from the biological notion of a species, and the term often refers specifically to the kinds of grain.
+4. Chóu [[疇]] "natural group a thing belongs to" is not really a logical term of classification but essentially a term belonging to the sociology of animals.
 ## Modern Chinese Criteria
 種類 is the most general current word for a category.
 類 is a current slightly more colloquial word for a category.

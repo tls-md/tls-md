@@ -36,10 +36,10 @@ zh: 行走
 MOVE across the FLOOR>ground USING one's LEGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for walking is xíng 行 (ant. zhǐ 止 "stay put").
-2. Bù 步 (ant. zǒu 走 "run fast") refers to dignified slow pacing along.
-3. Mài 邁 refers to walking or (sometimes even with abstract subjects like time) moving forward.
-4. Jiàn 踐 focusses on the physical aspect of walking as stepping on something or walking across something.
+1. The current general word for walking is xíng [[行]] (ant. zhǐ [[止]] "stay put").
+2. Bù [[步]] (ant. zǒu [[走]] "run fast") refers to dignified slow pacing along.
+3. Mài [[邁]] refers to walking or (sometimes even with abstract subjects like time) moving forward.
+4. Jiàn [[踐]] focusses on the physical aspect of walking as stepping on something or walking across something.
 ## Modern Chinese Criteria
 去
 走

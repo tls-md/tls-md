@@ -40,20 +40,20 @@ THINK THAT SOMETHING IS TRUE.
 [HIGH-DEGREE/LOW-DEGREE]
 [IDIOM/WORD]
 [OBJECTIVE/SUBJECTIVE]
-1. Yǐ wéi 以為 and occasionally also yǐ 以 alone refer to a belief that is typically held to be less than reliable.
+1. Yǐ wéi [[以為]] and occasionally also yǐ [[以]] alone refer to a belief that is typically held to be less than reliable.
 [EXPLICIT], [GENERAL], [SUBJECTIVE], [VERB]
-2. Yǐ 以 alone sometimes refers to a belief that is typically held to be less than reliable, and seems simply short for yǐ wéi 以為.
-3. Wèi 謂 typically refers to a mistaken belief.
+2. Yǐ [[以]] alone sometimes refers to a belief that is typically held to be less than reliable, and seems simply short for yǐ wéi [[以為]].
+3. Wèi [[謂]] typically refers to a mistaken belief.
 [EXPLICIT], [FALSE!], [SUBJECTIVE], [VERB]
-4. Yì 意 refers to guesswork, anticipation and the like. See GUESS
+4. Yì [[意]] refers to guesswork, anticipation and the like. See GUESS
 [FUTURE]
-5. Xìn 信 is sometimes used to refer to conviction, to someone trusting something to be the case or being confident that something is the case.
+5. Xìn [[信]] is sometimes used to refer to conviction, to someone trusting something to be the case or being confident that something is the case.
 [HIGH-DEGREE], [IMPLICIT], [VERB]
-6. Shì yóu 視猶 "look upon as" is occasionally used to refer to a belief attached to an attitude.
+6. Shì yóu [[視猶]] "look upon as" is occasionally used to refer to a belief attached to an attitude.
 [IDIOM], [IMPLICIT], [SUBJECTIVE], [VERB]
-7. Mín xīn 民心 is public opinion.
+7. Mín xīn [[民心]] is public opinion.
 [IDIOM], [IMPLICIT], [NOUN], [SPECIFIC]
-8. Jiàn 見 "view" is very occasionally used figuratively to refer to an opinion.
+8. Jiàn [[見]] "view" is very occasionally used figuratively to refer to an opinion.
 [IMPLICIT], [MARGINAL], [NOUN]; [[RARE]]
 ## Modern Chinese Criteria
 認為

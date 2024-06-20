@@ -8,14 +8,14 @@ och: 　奴婢
 INTENSELY HUMBLE SERVANT POSSESSED by a HOST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for a dependent low-status servant or slave is nú 奴, and this word became quite currrent in Han times.
-2. Yì 役 tends to focus on the hard labour involved.
-3. Lǔ 虜 focusses prototypically on the prisoner-origins of a slave.
-4. Lì 隸 refers to slaves in an administrative bureaucratic way, and prototypically these menial workers are in public employment, being thus of higher status than mere shepherds or stable-boys in the countryside.
-5. Zānghuò 臧獲 is the standard exampe of the name of a slave.
+1. The standard general word for a dependent low-status servant or slave is nú [[奴]], and this word became quite currrent in Han times.
+2. Yì [[役]] tends to focus on the hard labour involved.
+3. Lǔ [[虜]] focusses prototypically on the prisoner-origins of a slave.
+4. Lì [[隸]] refers to slaves in an administrative bureaucratic way, and prototypically these menial workers are in public employment, being thus of higher status than mere shepherds or stable-boys in the countryside.
+5. Zānghuò [[臧獲]] is the standard exampe of the name of a slave.
 Slavery and servant-hood not always easy to distinguish, and this is for very interesting social reasons. A scheme for the place of menials in the status system is systematised in a crucial ZUO Zhao 7 passage:
-故王臣公，公臣大夫，大夫臣士，士臣皁，皁臣輿，輿臣隸，隸臣僚，僚臣僕，僕臣臺。
-馬有圉，牛有牧，
+[[故王臣公]]，[[公臣大夫]]，[[大夫臣士]]，[[士臣皁]]，[[皁臣輿]]，[[輿臣隸]]，[[隸臣僚]]，[[僚臣僕]]，[[僕臣臺]]。
+[[馬有圉]]，[[牛有牧]]，
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 48. 早期奴僕。

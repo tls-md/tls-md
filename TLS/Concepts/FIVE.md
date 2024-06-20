@@ -7,8 +7,8 @@ zh: 五
 The NUMBER which is the successor of FOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for "five" is wǔ 五.
-2. Wǔ 伍 is a noun referring to a collection of five units of various kinds, specifically five families in census contexts, and five soldiers in military contexts.
+1. The standard word for "five" is wǔ [[五]].
+2. Wǔ [[伍]] is a noun referring to a collection of five units of various kinds, specifically five families in census contexts, and five soldiers in military contexts.
 # Ontology
 
 ## Hypernym

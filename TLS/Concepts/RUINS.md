@@ -8,8 +8,8 @@ zh: 廢墟
 BUILDING OR BUILDINGS that have been COMPLETELY DESTROYED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for ruins is xū 墟 / 虛.
-2. Qiū 丘 "mound" is sometimes used periphrastically to refer to ruins.
+1. The current standard word for ruins is xū [[墟]] / [[虛]].
+2. Qiū [[丘]] "mound" is sometimes used periphrastically to refer to ruins.
 ## Modern Chinese Criteria
 廢墟
 遺跡

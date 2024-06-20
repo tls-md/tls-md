@@ -21,10 +21,10 @@ och: 終
 LATE LIMIT of a PERIOD OR REACH the LATE LIMIT of a PERIOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The common noun referring to the final stage or final moment in a process is zhōng 終 (ant. shǐ 始 "beginning").
-2. Bì 畢 refers to finishing or discontinuing an action after it has achieved its aim or comes to a natural end. See also COMPLETE which is frustratingly difficult to distinguish in practice from END.
-3. Zú 卒 (ant. chū 初 "beginning") typically refers to a definitive and often abrupt end to a process which has lasted some time, but not for all the preceding time.
-4. Occasionally jìn 盡 "exhaust" is used to refer to the end of a period.
+1. The common noun referring to the final stage or final moment in a process is zhōng [[終]] (ant. shǐ [[始]] "beginning").
+2. Bì [[畢]] refers to finishing or discontinuing an action after it has achieved its aim or comes to a natural end. See also COMPLETE which is frustratingly difficult to distinguish in practice from END.
+3. Zú [[卒]] (ant. chū [[初]] "beginning") typically refers to a definitive and often abrupt end to a process which has lasted some time, but not for all the preceding time.
+4. Occasionally jìn [[盡]] "exhaust" is used to refer to the end of a period.
 ## Modern Chinese Criteria
 結束
 閉幕

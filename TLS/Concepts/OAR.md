@@ -8,10 +8,10 @@ och: 楫
 TIMBER TOOL MOVED IN THE WATER, NOT TOUCHING THE GROUND, TO MOVE BOATS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general term for an oar or a paddle is jí 楫.
-2. Zhào 棹／櫂 refers to a long oar at the side of a vessel.
-3. Ráo 橈 is a southern dialect word referring to an oar or paddle of any length.
-4. Bèng 榜 is a rarely used southern dialect word for an oar.
+1. The most current general term for an oar or a paddle is jí [[楫]].
+2. Zhào [[棹]]／[[櫂]] refers to a long oar at the side of a vessel.
+3. Ráo [[橈]] is a southern dialect word referring to an oar or paddle of any length.
+4. Bèng [[榜]] is a rarely used southern dialect word for an oar.
 ## 
 HUANG JINGUI 2006
 COMM 27. 船上的人工推進工具，常見篙、槳、櫓三種。篙，手撐者，與筏俱生，而其稱秦以後始見。

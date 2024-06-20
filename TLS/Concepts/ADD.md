@@ -22,11 +22,11 @@ PUT MORE INTEND:so as to CAUSE a QUANTITY of SOMETHING to INCREASE. 
 ## Old Chinese Criteria
 [ABSTRACT/CONCRETE]
 [GENERAL/SPECIFIC]
-1. The current general word for adding something onto something else, both abstractly and concretely, is jiā 加 (ant. sǔn 損 "detract from").
+1. The current general word for adding something onto something else, both abstractly and concretely, is jiā [[加]] (ant. sǔn [[損]] "detract from").
 [GENERAL]
-2. Fù 附 and refer to a concrete act of adding or fixing something onto something else.
+2. Fù [[附]] and refer to a concrete act of adding or fixing something onto something else.
 [CONCRETE]
-3. Fù 傅 (ant. jué 攫 "take away") is rare and seems to refer to the spatial fixing or adding of something to something else.
+3. Fù [[傅]] (ant. jué [[攫]] "take away") is rare and seems to refer to the spatial fixing or adding of something to something else.
 [CONCRETE]
 ## Modern Chinese Criteria
 補

@@ -14,7 +14,7 @@ zh: 卑
 SMALL VERTICALLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for something small in extension upwards is bēi 卑.
+1. The standard word for something small in extension upwards is bēi [[卑]].
 NB: For spatial position below something else see BELOW.
 ## Modern Chinese Criteria
 卑

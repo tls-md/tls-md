@@ -15,7 +15,7 @@ zh: 發展
 CHANGE that is GRADUAL AND ENDURING.
 # Criteria and general notes
 ## Old Chinese Criteria
-漸 "gradual development" comes closest to this concept, as in 無漸 "without any gradual development" in LH 自紀
+[[漸]] "gradual development" comes closest to this concept, as in [[無漸]] "without any gradual development" in LH [[自紀]]
 ## Modern Chinese Criteria
 發展
 開拓

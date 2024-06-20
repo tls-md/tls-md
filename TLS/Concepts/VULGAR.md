@@ -42,13 +42,13 @@ och: 俗
 ORDINARY AND NOT ELEGANT BECAUSE COMMON to EXCESSIVELY MANY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for ordinariness or vulgarity is sú 俗 (ant. yǎ 雅 "elegant"), and the basic parameter of judging something as sú 俗 is relative status in the hierarchy.
-2. Jiàn 賤 (ant. shàn 善 "good" and also, along different lines guì 貴 "noble") refers 1. to noble status and 2. very negatively to a person or a piece of behaviour as not conforming to any demands set by nobility of purpose or status. Lòu 陋 (ant. huá 華 "elaborate and cultivated") refers to vulgarity as a negative feature of places (streets) or behaviour.
-3. Bǐ 鄙 (ant. chóng 崇 "elevated") refers to rusticity and lack cultural polish typical of a person from outlying regions, a country bumpkin.
-4. Yě 野 (ant. wén 文 "properly educacted, civilised") refers to true country style without necessarily strong negative connotations, but with clear overtones of condescension.
-5. Zhòng 眾 (ant. zhuō 卓 "outstanding") refers to what is characteristically linked to the hoi polloi, the ordinary people at large.
-6. Pǐ fū 匹夫 and bù yī 布衣 (ant. jūn zǐ 君子 "gentleman") refer specifically to males of the lower classes or males without public employment.
-7. Pǐ fù 匹婦 refers specifically to the wife of a person without public employment.
+1. The most general current word for ordinariness or vulgarity is sú [[俗]] (ant. yǎ [[雅]] "elegant"), and the basic parameter of judging something as sú [[俗]] is relative status in the hierarchy.
+2. Jiàn [[賤]] (ant. shàn [[善]] "good" and also, along different lines guì [[貴]] "noble") refers 1. to noble status and 2. very negatively to a person or a piece of behaviour as not conforming to any demands set by nobility of purpose or status. Lòu [[陋]] (ant. huá [[華]] "elaborate and cultivated") refers to vulgarity as a negative feature of places (streets) or behaviour.
+3. Bǐ [[鄙]] (ant. chóng [[崇]] "elevated") refers to rusticity and lack cultural polish typical of a person from outlying regions, a country bumpkin.
+4. Yě [[野]] (ant. wén [[文]] "properly educacted, civilised") refers to true country style without necessarily strong negative connotations, but with clear overtones of condescension.
+5. Zhòng [[眾]] (ant. zhuō [[卓]] "outstanding") refers to what is characteristically linked to the hoi polloi, the ordinary people at large.
+6. Pǐ fū [[匹夫]] and bù yī [[布衣]] (ant. jūn zǐ [[君子]] "gentleman") refer specifically to males of the lower classes or males without public employment.
+7. Pǐ fù [[匹婦]] refers specifically to the wife of a person without public employment.
 ## Modern Chinese Criteria
 庸俗
 粗俗

@@ -7,7 +7,7 @@ zh: 太陽
 MOST BIG HOT STAR IN the SKY, CAUSING LIGHT on EARTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the sun is rì 日.
+1. The standard word for the sun is rì [[日]].
 ## 
 HUANG JINGUI 2006
 ASTRONOMY 1. 日，出現最早，後世使用最頻繁，通稱。

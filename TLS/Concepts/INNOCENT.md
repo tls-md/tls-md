@@ -25,8 +25,8 @@ och: 不辜
 LACK GUILT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard idiomatic phrase for innocence is bù gū 不辜.
-2. Wú zuì 無罪 is a very common periphrastic phrase for general innocence.
+1. The standard idiomatic phrase for innocence is bù gū [[不辜]].
+2. Wú zuì [[無罪]] is a very common periphrastic phrase for general innocence.
 ## Modern Chinese Criteria
 無辜
 無罪

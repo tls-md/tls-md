@@ -22,10 +22,10 @@ zh: 公正
 VIRTUE of MORAL APPROPRIATENESS, AND CONFORMITY to the LAW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for rectitude and justice is yì 義 "what is right and proper".
-2. Lǐ 理 may perhaps be taken to be the principle which justifies what is right and proper.
-3. Dào 道 can be taken to refer to the way of behaviour that conforms to what is right and proper.
-4. Gōng 公 (ant. piān 偏 ) refers to public-spirited and evenhanded justice, and sometimes this virtue is referred to by the binome gōng píng 公平.
+1. The standard word for rectitude and justice is yì [[義]] "what is right and proper".
+2. Lǐ [[理]] may perhaps be taken to be the principle which justifies what is right and proper.
+3. Dào [[道]] can be taken to refer to the way of behaviour that conforms to what is right and proper.
+4. Gōng [[公]] (ant. piān [[偏]] ) refers to public-spirited and evenhanded justice, and sometimes this virtue is referred to by the binome gōng píng [[公平]].
 ## Modern Chinese Criteria
 正義
 義

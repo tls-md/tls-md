@@ -27,9 +27,9 @@ och: 貪
 EAGER to POSSESS MORE than one NEEDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current abstract term for an exaggerated desire for the possession of things of all kinds is tān 貪 (ant. lián 廉 "morally pure and ungreedy").
-2. Lán 婪 and the late and rare chán 饞 refer specifically to the exaggerated desire for food and drink.
-3. Tāo 饕 (often used with tié 餮 as the proper name of a mask figure) are highly archaic and elevated words to use for greediness for food and drink.
+1. The current abstract term for an exaggerated desire for the possession of things of all kinds is tān [[貪]] (ant. lián [[廉]] "morally pure and ungreedy").
+2. Lán [[婪]] and the late and rare chán [[饞]] refer specifically to the exaggerated desire for food and drink.
+3. Tāo [[饕]] (often used with tié [[餮]] as the proper name of a mask figure) are highly archaic and elevated words to use for greediness for food and drink.
 ## Modern Chinese Criteria
 貪欲
 貪食

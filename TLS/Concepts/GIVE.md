@@ -24,15 +24,15 @@ och: 與／予
 CAUSE someone TO POSSESS in the FUTURE what one POSSESSES at PRESENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for to give is probably yǔ 與 (ant. qǔ 取 "take away from").
-2. Wèi 遺 and wěi 委 refer to any act of giving something to someone in permanence and for keeping.
-3. Cì 賜 can refer to an act of charity or to any giving of anything, typically from a person in authority to inferiors.
-4. Zèng 贈 refers to formal presents to an inferior from a person in high authority.
-5. Yí 貽 is an archaic colourless word for giving something away to someone of one's own volition, and the recipient may be of higher status than oneself.
-6. Zhì 致 is to hand over something or to pass something on to someone.
-7. Kuì 饋 typicall refers quite specifically to the conferring of a gift of food.
-8. Fù 賦 refers to giving something as reward or recompensation to somebody, typically to a person of lower status.
-9. Shòu 授 refers to the physical act of handing something over to a recipient.
+1. The most general word for to give is probably yǔ [[與]] (ant. qǔ [[取]] "take away from").
+2. Wèi [[遺]] and wěi [[委]] refer to any act of giving something to someone in permanence and for keeping.
+3. Cì [[賜]] can refer to an act of charity or to any giving of anything, typically from a person in authority to inferiors.
+4. Zèng [[贈]] refers to formal presents to an inferior from a person in high authority.
+5. Yí [[貽]] is an archaic colourless word for giving something away to someone of one's own volition, and the recipient may be of higher status than oneself.
+6. Zhì [[致]] is to hand over something or to pass something on to someone.
+7. Kuì [[饋]] typicall refers quite specifically to the conferring of a gift of food.
+8. Fù [[賦]] refers to giving something as reward or recompensation to somebody, typically to a person of lower status.
+9. Shòu [[授]] refers to the physical act of handing something over to a recipient.
 ## Modern Chinese Criteria
 賜給
 給予

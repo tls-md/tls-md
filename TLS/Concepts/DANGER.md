@@ -23,10 +23,10 @@ zh: 危險
 SITUATION BELIEVED to CONTAIN POSSIBLE SOON:imminent DAMAGE to one.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard general word for real objective as well as perceived imminent danger is wēi 危 (ant. ān 安 "peace").
-2. Dài 殆 is primarily perceived danger.
-3. Xiǎn 險 (ant. yí 夷 "plain and accessible without presenting dangers" and píng 平 "level") is primarily objective physical danger because of difficult terrain.
-4. È 厄 is a stylistically very elevated word referring to objective danger.
+1. The current standard general word for real objective as well as perceived imminent danger is wēi [[危]] (ant. ān [[安]] "peace").
+2. Dài [[殆]] is primarily perceived danger.
+3. Xiǎn [[險]] (ant. yí [[夷]] "plain and accessible without presenting dangers" and píng [[平]] "level") is primarily objective physical danger because of difficult terrain.
+4. È [[厄]] is a stylistically very elevated word referring to objective danger.
 ## Modern Chinese Criteria
 危險 is the standard modern word for danger.
 危難 focusses on the difficulty posed by danger.

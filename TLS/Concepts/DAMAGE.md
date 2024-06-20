@@ -7,9 +7,9 @@ zh: 害
 CHANGE so as to CAUSE TO BECOME MORE BAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. By far the commonest general word for damage is hài 害 (ant. lì 利 "benefit").
-2. Shāng 傷 "impair" and sǔn 損 "reduce and impair" (all ant. yì 益 "strengthen") are weaker than hài 害 and definitely suggest the survival of what is impaired.
-3. Zéi 賊 is stronger than hài 害 and definitely suggests that the damage done is serious indeed - possibly fatal.
+1. By far the commonest general word for damage is hài [[害]] (ant. lì [[利]] "benefit").
+2. Shāng [[傷]] "impair" and sǔn [[損]] "reduce and impair" (all ant. yì [[益]] "strengthen") are weaker than hài [[害]] and definitely suggest the survival of what is impaired.
+3. Zéi [[賊]] is stronger than hài [[害]] and definitely suggests that the damage done is serious indeed - possibly fatal.
 ## Modern Chinese Criteria
 有害 is the abstract and most general modern word for inflicting damage.
 損害 is the most common modern word for inflicting damage.

@@ -7,7 +7,7 @@ zh: 科學院
 STATE INSTITUTION OR SCHOOL FOR EXCELLENT SCHOLARS. 
 # Criteria and general notes
 ## Old Chinese Criteria
-太學
+[[太學]]
 # Ontology
 
 ## Hypernym

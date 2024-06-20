@@ -16,7 +16,7 @@ zh: 應得
 Be APPROPRIATE:fitting to RECEIVE a certain PROFIT, DAMAGE:harm, REWARD, OR PUNISHMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The one word that comes close to the meaning of deserve is dāng 當.
+1. The one word that comes close to the meaning of deserve is dāng [[當]].
 ## Modern Chinese Criteria
 應得 is a current modern word for something being deserved.
 值得 refers to something deserving an action regarding it.

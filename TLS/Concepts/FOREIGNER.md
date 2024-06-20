@@ -16,9 +16,9 @@ zh: 外國人
 STRANGER COMING FROM a DIFFERENT STATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for a foreigner is kè 客.
-2. Lu# 旅 refers to a newcomer or termporary inhabitant of place, and the word is somewhat marginal in the group.
-3. Wài rén 外人 is a neutral colourless term for an outsider in a place.
+1. The current word for a foreigner is kè [[客]].
+2. Lu# [[旅]] refers to a newcomer or termporary inhabitant of place, and the word is somewhat marginal in the group.
+3. Wài rén [[外人]] is a neutral colourless term for an outsider in a place.
 ## Modern Chinese Criteria
 外國人
 外僑

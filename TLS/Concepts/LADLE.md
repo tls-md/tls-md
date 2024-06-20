@@ -8,9 +8,9 @@ och: 勺
 INTENSELY BIG SPOON USED FOR MOVING LIQUID.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shuò 勺 / 酌 refers to a small ladle with a long handle, which was typically used to pour wine into a cup.
-2. Dǒu 斗 refers to a ladle with a short handle and a larger content than >shuò 勺 / 酌.
-3. Yú 舀 is a general term meaning to ladle. The word has a strong colloquial flavour.
+1. Shuò [[勺]] / [[酌]] refers to a small ladle with a long handle, which was typically used to pour wine into a cup.
+2. Dǒu [[斗]] refers to a ladle with a short handle and a larger content than >shuò [[勺]] / [[酌]].
+3. Yú [[舀]] is a general term meaning to ladle. The word has a strong colloquial flavour.
 ## 
 HUANG JINGUI 2006
 FOOD 15. 挹器。

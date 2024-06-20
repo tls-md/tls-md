@@ -8,11 +8,11 @@ zh: 方向
 RELATION to OTHER PLACES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for direction as defining a part of space is fāng 方.
-2. Xiāng 鄉 refers to a direction as seen from a subject.
-3. Dōng 東 "east", nán 南 "south", xī 西 "west", běi 北 are the major directions.
-4. Yáng 陽 refers to the area north of a river and south of a mountain.
-5. Yīn 陰 refers to the area south of a river and north of a mountain.
+1. The general term for direction as defining a part of space is fāng [[方]].
+2. Xiāng [[鄉]] refers to a direction as seen from a subject.
+3. Dōng [[東]] "east", nán [[南]] "south", xī [[西]] "west", běi [[北]] are the major directions.
+4. Yáng [[陽]] refers to the area north of a river and south of a mountain.
+5. Yīn [[陰]] refers to the area south of a river and north of a mountain.
 ## Modern Chinese Criteria
 方向
 方位

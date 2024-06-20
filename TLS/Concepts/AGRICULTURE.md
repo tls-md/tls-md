@@ -18,12 +18,12 @@ och: 耕
 WORK IN FIELDS TO REAR USEFUL PLANTS. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for agriculture and agricultural work is nóng 農, and this term refers to the sedentary cultivation of plants as well as the raising of domestic animals.
-2. Gēng 耕 refers to any agricultural work involved in the growing of crops of any kind; however, the term also refers specifically to ploughing and thus turning over and loosening the ground for cultivation.
-3. Lí 犁 refers specifically to ploughing the fields with a sharp-edged rather than pointed plough.
-4. Kěn 墾 refers specifically to the official act of designating new areas for agricultural cultivation and to the following of this policy.
-5. Tián 田 refers to agricultural work in the fields.
-6. Pǔ 圃 refers to agricultural work in a garden.
+1. The general term for agriculture and agricultural work is nóng [[農]], and this term refers to the sedentary cultivation of plants as well as the raising of domestic animals.
+2. Gēng [[耕]] refers to any agricultural work involved in the growing of crops of any kind; however, the term also refers specifically to ploughing and thus turning over and loosening the ground for cultivation.
+3. Lí [[犁]] refers specifically to ploughing the fields with a sharp-edged rather than pointed plough.
+4. Kěn [[墾]] refers specifically to the official act of designating new areas for agricultural cultivation and to the following of this policy.
+5. Tián [[田]] refers to agricultural work in the fields.
+6. Pǔ [[圃]] refers to agricultural work in a garden.
 ## Modern Chinese Criteria
 種地
 種田

@@ -10,33 +10,33 @@ zh: 船
 VEHICLE FOR TRANSPORT on WATER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for any ship, large or small, is zhōu 舟. [The word occurs already in the oracle bone inscriptions and in SHIJING. According to some opinions it originally referred to the boat made of one piece of wood, but it is not certain. The earliest forms of the character resemble the small ship made already from several planks. Note that in Western Zhou times, ship also played certain role in some rituals performed by the king, which probably took place in the pool within royal palace.
-2. Chuán 船／舡 is a colloquial general term for a ship which emerged in Warring States times and became current under the Han. The word can refer specifically to larger ships. The word is still unknown in LUNYU and ZUOZHUAN, where the only general term for a ship is still zhōu 舟.
-3. Háng 杭／航 refers specifically to a ferry and became current first in Han times. (From the Warring States period, only the former character is known, the latter form came to be used in Han times. The word refers specifically to a ferry, but can be used also as a general term for a ship.
-4. Sōu 艘 is another general word for a ship which was in use particularly from the Han till Tang, and it was usually used as a measure word for a ship.
-5. Yú 俞 refers in SHUOWEN and HUAINANZI to the boat made of one piece of wood, the monoxylon. Whether the term referred to this type of boat in general already since early times is not certain. Note that one monoxylon (3,9 m long) dating from Shang times was found in Shandong province.
-6. Bó 舶 originally referred specifically to the large sea ships of the foreign traders reaching Canton area. Later it came to refer generally to large or sea ship.
-7. Fāng chuán 方船, fāng 舫 (the latter word first appeared in the Warring States period and became more current in Han times) refer to the double ship, ship consisting of two joined boats. This kind of ship could be used for various purposes (for transportation of goods or soldiers, as a warship, or to cross a river), and was in use at least from the Warring States period till Tang; the period during it most flourished was neverthless Jin dynasty.
-8. Gě 舸 refers generally to a large ship; according to FANG YAN, in Han times the word was used in an area on the middle reaches of Chang jiang.
-9. Biàn 艑 refers to the large ship, used probably mainly for transportation of goods, which was used in the middle and lower reaches of the Chang jiang.
-10. Tà 榻 is the general word for a large ship, which was in use mainly from the North Southern dynasties till Tang period.
-11. Cáo 艚 is the post-Buddhist word referring to the transportation ship. It was large and slow.
-12. Líng (written like 舟令 ) refers specifically to the small ship with vindows. In the Warring States and Han period, it was in use particularly in the area of ancient states Wu and Yue.
-13. Dāo 刀 / (written like 舟刀 ) refers to a small boat. The word occurs already in SHIJING.
-14. Mù sù (written like 舟冒; 舟宿 chā 艖 ) all refer to the small and narrow boats, and according to FANG YAN, were used in the middle reaches of Chang jiang.
-15. Tǐng 艇 refers to the boat even smaller than the previous, with space for one or two people. According to HUAINANZI, this was originally used in the area of Sichuan.
-16. Qióng (written like 舟共 ) refers to the small boat used mainly in the middle reaches of the Chang jiang.
-17. Lì 麗 refers to a small boat. The word occurs already in ZHUANGZI.
-18. Dié 艓 refers to the small boat.
-19. Zé měng 舴艋 refers to the small boat.
-20. (I can not find a character in the dictionary: written like 舟鳥 ) refers to the small and narrow boat.
-21. Sān yì 三翼 refers to the battleships which were in use in the southern states of Wu and Yue in Chunqiu and Warring States times. It seems that they were divided to three categories according to their size. According to Han sources, the largest ones had a space for 91 men, those of middle size for 50 men, and minor for 26 men. Note that the earliest ship battle is mentioned in ZUOZHUAN to 549 B.C., and it took place on a river; the first sea battle is dated to 484 B.C. As can be seen on pictorial presentations dating from the late Chunqiu and early Warring States period, ship battles esentially resembled battles on the earth; the ships pulled with oars came close one to the other and warriors staying on the higher board attacked enemies with arrows, halberds, and spears.
-22. Yú huáng 余 / 艅皇 / 艎 was in Chunqiu times the name of the large battleship belonging to the kings of Wu. Later it came to be used as a general term for a large battleship.
-23. Mào tū 冒突 came to use in the Eastern Han period and referred to the battleship which could directly clash into the ship of enemies.
-24. Lóu chuán 樓船 refers to the battleship with several boards. These came to use already in the late Chunqiu period, and were used till Ming times.
-25. Gē chuán 戈船 refers to the large battleship which was in use from the late Chunqiu till the Southern and Northern dynasties. It obtained its name from halberds and spears put on its board; perhaps general word for a battleship (???).
-26. Méng chōng 艨童舟童 refers to a smaller battleship used to clash into the battleships of enemies. It has two boards, the lower for oarmen and higher for warriors; moreover it was covered with fresh oxen skins to defend firearrows of the enemies. In use since the Three Kingdoms.
-27. Jiàn 艦 refers to the large battleship with wooden battlements which came to be used in the Three Kingdoms.
+1. The general term for any ship, large or small, is zhōu [[舟]]. [The word occurs already in the oracle bone inscriptions and in SHIJING. According to some opinions it originally referred to the boat made of one piece of wood, but it is not certain. The earliest forms of the character resemble the small ship made already from several planks. Note that in Western Zhou times, ship also played certain role in some rituals performed by the king, which probably took place in the pool within royal palace.
+2. Chuán [[船]]／[[舡]] is a colloquial general term for a ship which emerged in Warring States times and became current under the Han. The word can refer specifically to larger ships. The word is still unknown in LUNYU and ZUOZHUAN, where the only general term for a ship is still zhōu [[舟]].
+3. Háng [[杭]]／[[航]] refers specifically to a ferry and became current first in Han times. (From the Warring States period, only the former character is known, the latter form came to be used in Han times. The word refers specifically to a ferry, but can be used also as a general term for a ship.
+4. Sōu [[艘]] is another general word for a ship which was in use particularly from the Han till Tang, and it was usually used as a measure word for a ship.
+5. Yú [[俞]] refers in SHUOWEN and HUAINANZI to the boat made of one piece of wood, the monoxylon. Whether the term referred to this type of boat in general already since early times is not certain. Note that one monoxylon (3,9 m long) dating from Shang times was found in Shandong province.
+6. Bó [[舶]] originally referred specifically to the large sea ships of the foreign traders reaching Canton area. Later it came to refer generally to large or sea ship.
+7. Fāng chuán [[方船]], fāng [[舫]] (the latter word first appeared in the Warring States period and became more current in Han times) refer to the double ship, ship consisting of two joined boats. This kind of ship could be used for various purposes (for transportation of goods or soldiers, as a warship, or to cross a river), and was in use at least from the Warring States period till Tang; the period during it most flourished was neverthless Jin dynasty.
+8. Gě [[舸]] refers generally to a large ship; according to FANG YAN, in Han times the word was used in an area on the middle reaches of Chang jiang.
+9. Biàn [[艑]] refers to the large ship, used probably mainly for transportation of goods, which was used in the middle and lower reaches of the Chang jiang.
+10. Tà [[榻]] is the general word for a large ship, which was in use mainly from the North Southern dynasties till Tang period.
+11. Cáo [[艚]] is the post-Buddhist word referring to the transportation ship. It was large and slow.
+12. Líng (written like [[舟令]] ) refers specifically to the small ship with vindows. In the Warring States and Han period, it was in use particularly in the area of ancient states Wu and Yue.
+13. Dāo [[刀]] / (written like [[舟刀]] ) refers to a small boat. The word occurs already in SHIJING.
+14. Mù sù (written like [[舟冒]]; [[舟宿]] chā [[艖]] ) all refer to the small and narrow boats, and according to FANG YAN, were used in the middle reaches of Chang jiang.
+15. Tǐng [[艇]] refers to the boat even smaller than the previous, with space for one or two people. According to HUAINANZI, this was originally used in the area of Sichuan.
+16. Qióng (written like [[舟共]] ) refers to the small boat used mainly in the middle reaches of the Chang jiang.
+17. Lì [[麗]] refers to a small boat. The word occurs already in ZHUANGZI.
+18. Dié [[艓]] refers to the small boat.
+19. Zé měng [[舴艋]] refers to the small boat.
+20. (I can not find a character in the dictionary: written like [[舟鳥]] ) refers to the small and narrow boat.
+21. Sān yì [[三翼]] refers to the battleships which were in use in the southern states of Wu and Yue in Chunqiu and Warring States times. It seems that they were divided to three categories according to their size. According to Han sources, the largest ones had a space for 91 men, those of middle size for 50 men, and minor for 26 men. Note that the earliest ship battle is mentioned in ZUOZHUAN to 549 B.C., and it took place on a river; the first sea battle is dated to 484 B.C. As can be seen on pictorial presentations dating from the late Chunqiu and early Warring States period, ship battles esentially resembled battles on the earth; the ships pulled with oars came close one to the other and warriors staying on the higher board attacked enemies with arrows, halberds, and spears.
+22. Yú huáng [[余]] / [[艅皇]] / [[艎]] was in Chunqiu times the name of the large battleship belonging to the kings of Wu. Later it came to be used as a general term for a large battleship.
+23. Mào tū [[冒突]] came to use in the Eastern Han period and referred to the battleship which could directly clash into the ship of enemies.
+24. Lóu chuán [[樓船]] refers to the battleship with several boards. These came to use already in the late Chunqiu period, and were used till Ming times.
+25. Gē chuán [[戈船]] refers to the large battleship which was in use from the late Chunqiu till the Southern and Northern dynasties. It obtained its name from halberds and spears put on its board; perhaps general word for a battleship (???).
+26. Méng chōng [[艨童舟童]] refers to a smaller battleship used to clash into the battleships of enemies. It has two boards, the lower for oarmen and higher for warriors; moreover it was covered with fresh oxen skins to defend firearrows of the enemies. In use since the Three Kingdoms.
+27. Jiàn [[艦]] refers to the large battleship with wooden battlements which came to be used in the Three Kingdoms.
 ## 
 HUANG JINGUI 2006
 COMM 22.

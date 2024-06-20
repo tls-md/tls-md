@@ -40,14 +40,14 @@ och: 愚
 LACK APPROPRIATE INTELLIGENCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word is yú 愚 (ant. zhì 智 "clever; wise"), and the word refers to moral as well as intellectual obtuseness as well as practical ineptitude.
-2. Zhuó 拙 (ant. jié 捷 "nimble") refers to practical ineptitude.
-3. Chī 癡 (ant. yǐ4ng 穎 "very clever") refers to moronic clinical intellectual ineptitude.
-4. Lǔ 魯 and dùn 鈍 (ant. huì 慧 "clever") refer to boorish and rustic bluntness of sensibility.
-5. Bì 蔽 and měng 蒙 (all ant. cōng 聰 "clever"), refer to an appearance of stupidity due to limited access to information, a state of stupidity that is typically construed as remediable.
-6. Mèi 昧 and àn 暗 (ant. míng 明 "clear-minded") refer primarily to benightedness of mind and lack of an enlightened attitude, particularly on the part of a ruler or a person who should know better.
-7. Wán 頑 and lòu 陋 (both ant.* bó 博 "broadly civilised") add the nuance of stubbornness to that of stupidity as such.
-NB: Bèn 笨, āi 呆, shǎ3 傻, and chūn 蠢 are post-Han words for stupidity and silliness.
+1. The dominant word is yú [[愚]] (ant. zhì [[智]] "clever; wise"), and the word refers to moral as well as intellectual obtuseness as well as practical ineptitude.
+2. Zhuó [[拙]] (ant. jié [[捷]] "nimble") refers to practical ineptitude.
+3. Chī [[癡]] (ant. yǐ4ng [[穎]] "very clever") refers to moronic clinical intellectual ineptitude.
+4. Lǔ [[魯]] and dùn [[鈍]] (ant. huì [[慧]] "clever") refer to boorish and rustic bluntness of sensibility.
+5. Bì [[蔽]] and měng [[蒙]] (all ant. cōng [[聰]] "clever"), refer to an appearance of stupidity due to limited access to information, a state of stupidity that is typically construed as remediable.
+6. Mèi [[昧]] and àn [[暗]] (ant. míng [[明]] "clear-minded") refer primarily to benightedness of mind and lack of an enlightened attitude, particularly on the part of a ruler or a person who should know better.
+7. Wán [[頑]] and lòu [[陋]] (both ant.* bó [[博]] "broadly civilised") add the nuance of stubbornness to that of stupidity as such.
+NB: Bèn [[笨]], āi [[呆]], shǎ3 [[傻]], and chūn [[蠢]] are post-Han words for stupidity and silliness.
 ## Modern Chinese Criteria
 蠢笨 is a current standard word referring to stupidity.
 愚笨 is a current literary word referring to stupidity.

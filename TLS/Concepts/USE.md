@@ -21,10 +21,10 @@ och: 用
 INTERACT with FOR one's SELF:own AIMS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word is yòng 用 (ant. fèi 廢 "give up the use of, not use").
-2. Yǐ 以 refers to the use of things as instruments for a given purpose and rarely involves the using up of resources.
-3. Shǐ 使 refers to the deployment of what one controls with no special emphasis on the purpose.
-4. Jiā 加 refers to the deployment or application of something in the course of some action.
+1. The current general word is yòng [[用]] (ant. fèi [[廢]] "give up the use of, not use").
+2. Yǐ [[以]] refers to the use of things as instruments for a given purpose and rarely involves the using up of resources.
+3. Shǐ [[使]] refers to the deployment of what one controls with no special emphasis on the purpose.
+4. Jiā [[加]] refers to the deployment or application of something in the course of some action.
 ## Modern Chinese Criteria
 使用
 應用

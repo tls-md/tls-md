@@ -26,12 +26,12 @@ och: 強
 ABLE to ACHIEVE DIFFICULT TASKS of the BODY OR to the MIND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the temporary state of strength, physical or political, are qiáng 強 (ant. ruò 弱 "weak").
-2. The typically nominal or adverbial lì 力 commonly refers to a permanent property of strength..
-3. Yì 毅 (ant. nuò 懦 "weak") refers to inflexible and unshakeable firmness as well as strength.
-4. Jìng 勁 (ant. léi 羸 "weak") and jìng 競 (ant. shuāi 衰 "reduced state, lack of energy") refers to strength mainly under the aspect of a physical or mental energy.
-5. Zhuàng 壯 (ant. ruò 弱 "weak") refers to longish-term constitutional physical strength.
-6. Jiàn 健 (ant. shuāi 衰 "in a reduced state, lacking energy") refers to temporary short-term constitutional strength which is the result of a good physical constitution. See HEALTHY
+1. The current general word for the temporary state of strength, physical or political, are qiáng [[強]] (ant. ruò [[弱]] "weak").
+2. The typically nominal or adverbial lì [[力]] commonly refers to a permanent property of strength..
+3. Yì [[毅]] (ant. nuò [[懦]] "weak") refers to inflexible and unshakeable firmness as well as strength.
+4. Jìng [[勁]] (ant. léi [[羸]] "weak") and jìng [[競]] (ant. shuāi [[衰]] "reduced state, lack of energy") refers to strength mainly under the aspect of a physical or mental energy.
+5. Zhuàng [[壯]] (ant. ruò [[弱]] "weak") refers to longish-term constitutional physical strength.
+6. Jiàn [[健]] (ant. shuāi [[衰]] "in a reduced state, lacking energy") refers to temporary short-term constitutional strength which is the result of a good physical constitution. See HEALTHY
 ## Modern Chinese Criteria
 力量
 力氣

@@ -30,15 +30,15 @@ zh: 打敗
 WIN against someone USING VIOLENCE AND DESTRUCTION, OFTEN USING MILITARY FORCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for defeating someoneor some state in any form of battle is bài 敗.
-2. Pò 破 (ant. quán 全 "leave intact") refers to a complete routing of an opponent.
-3. Jìn 盡 refers to the complete annihilation of an opponent.
-4. Fù 覆 refers to the inflicting of a major defeat with lasting effects on an army.
-5. Qīng 傾 refers to the toppling of a system of government.
-6. Wáng 亡 (ant. cún 存 "allow to survive") refers specifically to causing the discontinuation of a state.
-7. Cuò 挫 refers specifically to inflicting a military defeat on an army.
-8. Bài jī 敗績 refers to a major military defeat.
-9. Fù 負 occasionally refers to a defeat suffered, but usually in the combination shèng fù 勝負, and as a verb it does not take objects or complements. See FAIL
+1. The current general word for defeating someoneor some state in any form of battle is bài [[敗]].
+2. Pò [[破]] (ant. quán [[全]] "leave intact") refers to a complete routing of an opponent.
+3. Jìn [[盡]] refers to the complete annihilation of an opponent.
+4. Fù [[覆]] refers to the inflicting of a major defeat with lasting effects on an army.
+5. Qīng [[傾]] refers to the toppling of a system of government.
+6. Wáng [[亡]] (ant. cún [[存]] "allow to survive") refers specifically to causing the discontinuation of a state.
+7. Cuò [[挫]] refers specifically to inflicting a military defeat on an army.
+8. Bài jī [[敗績]] refers to a major military defeat.
+9. Fù [[負]] occasionally refers to a defeat suffered, but usually in the combination shèng fù [[勝負]], and as a verb it does not take objects or complements. See FAIL
 ## Modern Chinese Criteria
 打敗
 戰敗

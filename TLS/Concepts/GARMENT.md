@@ -24,17 +24,17 @@ och: 衣
 CLOTH ARTEFACT WORN by HUMANS IN ORDER TO CAUSE THEMSELVES TO FEEL COMFORTABLE. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for garments of any kind is yī 衣, and the word refers specifically to the upper garments like jackets rather than the lower garments like skirts. [HUANG 1995: 711 - 712]
-2. Fú 服 refers to robes or formal dress. See COURT DRESS. The word refers to the specialized dress worn for various opportunities; mainly then to the formal court and ritual dress. The term refers not only to the cloth itself, but also to the various adornments belonging to it: [HUANG 1995: 713 - 714, 716 - 717]
-3. Cháng 裳 refers to the part of the garment worn from the waist downwards. See SKIRT
-4. Shén yí 深衣 refers to the cloth made in one piece, and not divided into the jacket and the skirt. This kind of cloth became popular in Warring States times, and was particularly common in the Han period. [HUANG 1995: 744 - 745, SUN 1991: 241; ill.: ZGYI 1996: tab. 49; SUN 1991: 60-1 - 60-5]
-5. Paó 袍 is a kind of shén yí 深衣 which is long and consists of three layers of textile. From the Western Zhou till the Han, the term ussually referred to the undercloth, in Han times it began to be worn outside. [HUANG 1995: 745; SUN 1991: 243; ill.: SUN 60-6; ZGYI 1996: tab. 52; HAYASHI 1976: pp. 3, tab.1-3]
-6. Chān tóu 襜褕 refers to the broad kind of shén yí 深衣, which came to use in Western Han times. Originally, it was a kind of unformal dress; since the Eastern Han, it could be used also on formal occassions. [SUN 1991: 243; ill.: SUN 1991: 60-7, 60-8]
-7. Qiú 裘 refers to the fur garments which is mentioned already in SHIJING. It was worn in the winter. Fur garments for the upper class were usually made of fox or tiger skin, for the lower of dog or sheep skin. [HUANG 1995: 743]
-8. Shù 裋 refers to the simple dress worn by humble people; it can be of various length and bredth. [HUANG 1995: 746 - 750; for the ordinary dress see ill.: SHEN 1992: tab. 70??]
-9. Hè 褐 refers to the humble cloth worn by ordinary people, which is usually made of hemp, but also of animal hairs. The term partly overlaps with shù 裋, but refers more to the material then to the shape. [HUANG 1995: 748 - 750]
-10. Rú 襦 refers to the short cloth reaching above the kneels; it can also refer to the child cloth. [ZGYI 1996: 220; ill.: SUN 1991: 59-3, 4; HAYASHI 1976: pp. 5, tab. 1-16; SHEN 1992: tab. 70]
-11. Gǔn 袞, according to Han sources, refers to the ceremonial dress of the ruler embroidered with dragon design. [ZGYI 1996: 131]. In the Western Zhou and Chunqiu period, the term refers to the embroidered ritual dress. [XIANG 1997: 213 - 214; JWCYZD 1992: 804]
+1. The current general word for garments of any kind is yī [[衣]], and the word refers specifically to the upper garments like jackets rather than the lower garments like skirts. [HUANG 1995: 711 - 712]
+2. Fú [[服]] refers to robes or formal dress. See COURT DRESS. The word refers to the specialized dress worn for various opportunities; mainly then to the formal court and ritual dress. The term refers not only to the cloth itself, but also to the various adornments belonging to it: [HUANG 1995: 713 - 714, 716 - 717]
+3. Cháng [[裳]] refers to the part of the garment worn from the waist downwards. See SKIRT
+4. Shén yí [[深衣]] refers to the cloth made in one piece, and not divided into the jacket and the skirt. This kind of cloth became popular in Warring States times, and was particularly common in the Han period. [HUANG 1995: 744 - 745, SUN 1991: 241; ill.: ZGYI 1996: tab. 49; SUN 1991: 60-1 - 60-5]
+5. Paó [[袍]] is a kind of shén yí [[深衣]] which is long and consists of three layers of textile. From the Western Zhou till the Han, the term ussually referred to the undercloth, in Han times it began to be worn outside. [HUANG 1995: 745; SUN 1991: 243; ill.: SUN 60-6; ZGYI 1996: tab. 52; HAYASHI 1976: pp. 3, tab.1-3]
+6. Chān tóu [[襜褕]] refers to the broad kind of shén yí [[深衣]], which came to use in Western Han times. Originally, it was a kind of unformal dress; since the Eastern Han, it could be used also on formal occassions. [SUN 1991: 243; ill.: SUN 1991: 60-7, 60-8]
+7. Qiú [[裘]] refers to the fur garments which is mentioned already in SHIJING. It was worn in the winter. Fur garments for the upper class were usually made of fox or tiger skin, for the lower of dog or sheep skin. [HUANG 1995: 743]
+8. Shù [[裋]] refers to the simple dress worn by humble people; it can be of various length and bredth. [HUANG 1995: 746 - 750; for the ordinary dress see ill.: SHEN 1992: tab. 70??]
+9. Hè [[褐]] refers to the humble cloth worn by ordinary people, which is usually made of hemp, but also of animal hairs. The term partly overlaps with shù [[裋]], but refers more to the material then to the shape. [HUANG 1995: 748 - 750]
+10. Rú [[襦]] refers to the short cloth reaching above the kneels; it can also refer to the child cloth. [ZGYI 1996: 220; ill.: SUN 1991: 59-3, 4; HAYASHI 1976: pp. 5, tab. 1-16; SHEN 1992: tab. 70]
+11. Gǔn [[袞]], according to Han sources, refers to the ceremonial dress of the ruler embroidered with dragon design. [ZGYI 1996: 131]. In the Western Zhou and Chunqiu period, the term refers to the embroidered ritual dress. [XIANG 1997: 213 - 214; JWCYZD 1992: 804]
 ## Modern Chinese Criteria
 衣服
 衣物

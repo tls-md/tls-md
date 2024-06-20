@@ -19,10 +19,10 @@ och: 賈
 INTERACT so as to BUY AND SELL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for trade is gǔ 賈.
-2. Mào 貿 and yì 易, and the rare hé 和 refer primarily to bartering trade.
-3. Fàn 販 refers to small scale, often itinerant, trade.
-4. Shì 市 refers to buying or selling, prototypically but not exclusively in a market place.
+1. The current general term for trade is gǔ [[賈]].
+2. Mào [[貿]] and yì [[易]], and the rare hé [[和]] refer primarily to bartering trade.
+3. Fàn [[販]] refers to small scale, often itinerant, trade.
+4. Shì [[市]] refers to buying or selling, prototypically but not exclusively in a market place.
 ## 
 HUANG JINGUI 2006
 TRADE 4.

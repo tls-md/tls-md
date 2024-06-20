@@ -28,12 +28,12 @@ och: 生
 EXIST AND USE FOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for being alive is shēng 生 (ant. sǐ 死 "be dead").
-2. Cún 存 (ant. wáng 亡 ) and zài 在 (ant. mò 沒 / 歿 "go under") refer to continuing in the state of being alive, but the word also refers to continued existence in general.
-3. Huó 活 (ant. sǐ 死 ) specifically refers to the state of being alive when one might have been dead, and strongly connotes not only a failure to die but also the continued existence of life energy.
-4. Mìng 命 refers specifically to one's life-span and not to the content of one's life that might be described in a biography.
-5. Shēn 身 comes to refer to the life one conducts as in xíng shēn 行身 "conduct one's life" (Greek bios), and, and to one's lifespan as in zhōng shēn 終身 "all one's life".
-6. Shòu 壽 (yāo 夭 "short life ended by an unnaturally early death") refers specifically to a lifespan as long as it naturally can be and should be.
+1. The current standard word for being alive is shēng [[生]] (ant. sǐ [[死]] "be dead").
+2. Cún [[存]] (ant. wáng [[亡]] ) and zài [[在]] (ant. mò [[沒]] / [[歿]] "go under") refer to continuing in the state of being alive, but the word also refers to continued existence in general.
+3. Huó [[活]] (ant. sǐ [[死]] ) specifically refers to the state of being alive when one might have been dead, and strongly connotes not only a failure to die but also the continued existence of life energy.
+4. Mìng [[命]] refers specifically to one's life-span and not to the content of one's life that might be described in a biography.
+5. Shēn [[身]] comes to refer to the life one conducts as in xíng shēn [[行身]] "conduct one's life" (Greek bios), and, and to one's lifespan as in zhōng shēn [[終身]] "all one's life".
+6. Shòu [[壽]] (yāo [[夭]] "short life ended by an unnaturally early death") refers specifically to a lifespan as long as it naturally can be and should be.
 ## Modern Chinese Criteria
 生活
 過活

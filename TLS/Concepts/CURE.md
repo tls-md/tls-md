@@ -11,15 +11,15 @@ zh: 醫治
 CONTROL ILLNESS so as to CAUSE it to CEASE to EXIST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general-use current word for curing patients of illnesses is zhì/chí 治.
-2. Chōu 瘳 refers to a cure taking effect, and this word is often used in nominalised ways.
-3. The result of successful therapy is standardly yù 愈 / 瘉, yǐ 已.
-4. Chú 除 refers to getting rid of the disease.
-5. Gōng 攻 is the standard word describing an attempt at curing a disease.
-6. Jiǔ 灸 is a specific ancient medical technique, that of cauterisation.
-7. Tán 彈 is to prick open with a needle.
-8. Zhēn 針 / 鍼 is needle therapy which is not necessarily to be identified with anything like acupuncture as we know it today.
-9. Yī 醫 focusses on the professional aspect of medical treatment as depending on trained specialisation.
+1. The general-use current word for curing patients of illnesses is zhì/chí [[治]].
+2. Chōu [[瘳]] refers to a cure taking effect, and this word is often used in nominalised ways.
+3. The result of successful therapy is standardly yù [[愈]] / [[瘉]], yǐ [[已]].
+4. Chú [[除]] refers to getting rid of the disease.
+5. Gōng [[攻]] is the standard word describing an attempt at curing a disease.
+6. Jiǔ [[灸]] is a specific ancient medical technique, that of cauterisation.
+7. Tán [[彈]] is to prick open with a needle.
+8. Zhēn [[針]] / [[鍼]] is needle therapy which is not necessarily to be identified with anything like acupuncture as we know it today.
+9. Yī [[醫]] focusses on the professional aspect of medical treatment as depending on trained specialisation.
 ## Modern Chinese Criteria
 醫治
 醫

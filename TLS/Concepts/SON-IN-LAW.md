@@ -7,7 +7,7 @@ zh: 女婿
 DAUGHTER'S HUSBAND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term for a son-in-law is xù 婿, often written with the 土 radical..
+1. The standard term for a son-in-law is xù [[婿]], often written with the [[土]] radical..
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 22. 女婿。

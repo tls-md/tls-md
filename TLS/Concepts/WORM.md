@@ -7,7 +7,7 @@ zh: 蟲子
 ANIMAL WITH SOFT SKIN, LACKING LEGS. [BIOLOGY]
 # Criteria and general notes
 ## Old Chinese Criteria
-蟲 refers to worms in the intestines.
+[[蟲]] refers to worms in the intestines.
 ## 
 HUANG JINGUI 2006
 ## Modern Chinese Criteria

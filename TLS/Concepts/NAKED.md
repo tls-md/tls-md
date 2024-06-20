@@ -24,11 +24,11 @@ och: 裸
 LACK GARMENTS on one's BODY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for naked is luǒ 裸.
-2. Xī 裼 refers to a partial nakedness.
-3. Xiǎn 跣 refers to the bare feet.
-4. Tǎn 袒 refers to the act when one shows his or her naked shoulders and arms. The word can also refers to the nakedness of a whole body.
-5. Bái 白 in connection with the terms for body parts can also refer to the nakedness.
+1. The current general term for naked is luǒ [[裸]].
+2. Xī [[裼]] refers to a partial nakedness.
+3. Xiǎn [[跣]] refers to the bare feet.
+4. Tǎn [[袒]] refers to the act when one shows his or her naked shoulders and arms. The word can also refers to the nakedness of a whole body.
+5. Bái [[白]] in connection with the terms for body parts can also refer to the nakedness.
 ## Modern Chinese Criteria
 裸露
 裸體

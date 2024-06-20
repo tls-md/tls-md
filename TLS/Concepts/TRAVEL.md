@@ -17,9 +17,9 @@ zh: 旅行
 DISPLACE ONESELF, TYPICALLY a BIG DISTANCE, AND IN a VEHICLE OR RIDING AN ANIMAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for travelling for any purpose is xíng 行.
-2. Yóu 遊／游 refers specifically to travelling for pleasure.
-3. Zhēng 征 is an elevated term sometimes referring to a major travelling expedition.
+1. The standard word for travelling for any purpose is xíng [[行]].
+2. Yóu [[遊]]／[[游]] refers specifically to travelling for pleasure.
+3. Zhēng [[征]] is an elevated term sometimes referring to a major travelling expedition.
 ## Modern Chinese Criteria
 旅行
 行旅

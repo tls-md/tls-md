@@ -10,7 +10,7 @@ och: 爪
 SHARP END of TOES of ANIMALS, TYPICALLY FELINES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the claws or fingernails is zhuǎ 爪.
+1. The current word for the claws or fingernails is zhuǎ [[爪]].
 ## Modern Chinese Criteria
 爪子 zhuǎzi is a current modern word for claws.
 爪兒

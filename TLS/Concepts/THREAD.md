@@ -13,10 +13,10 @@ zh: 線
 INTENSELY LONG THIN ARTEFACT PRODUCED USING COTTON, WOOL, SILK ETC, TYPICALLY USED FOR SEWING OR TYING UP THINGS ETC..
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a thread is xiàn 線, and this thread is mostly used for sewing and binding things.
-2. Lu# 縷 refers to the thread or fibre as used in making cloth, and this fible can be of hemp or of silk.
-3. Lú 纑 refers specifically to a hemp thread.
-4. Luò 絡 refers to a silken cord.
+1. The current general word for a thread is xiàn [[線]], and this thread is mostly used for sewing and binding things.
+2. Lu# [[縷]] refers to the thread or fibre as used in making cloth, and this fible can be of hemp or of silk.
+3. Lú [[纑]] refers specifically to a hemp thread.
+4. Luò [[絡]] refers to a silken cord.
 ## 
 HUANG JINGUI 2006
 TRADE 7.

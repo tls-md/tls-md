@@ -21,10 +21,10 @@ zh: 分開
 CAUSE something to BECOME TWO OR MANY DIFFERENT PARTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for physically diving things into separate parts is fēn 分 (ant. yī 一 "treat as one undivided whole, to unite") and this word may refer to destroying the unity of what is being divided.
-2. Bié 別 (ant. tóng 同 "treat as the same, treat the same way") is to separate physically what can be separated out without interfering with integrity of the things separated. ( 別男女 "separate men from women")
-3. Xī 析 is to split and divide what is naturally unsplit and undivided.
-4. Lí 離 (ant. hé 合 "combine into one") is to keep apart what naturally is apart.
+1. The most current general word for physically diving things into separate parts is fēn [[分]] (ant. yī [[一]] "treat as one undivided whole, to unite") and this word may refer to destroying the unity of what is being divided.
+2. Bié [[別]] (ant. tóng [[同]] "treat as the same, treat the same way") is to separate physically what can be separated out without interfering with integrity of the things separated. ( [[別男女]] "separate men from women")
+3. Xī [[析]] is to split and divide what is naturally unsplit and undivided.
+4. Lí [[離]] (ant. hé [[合]] "combine into one") is to keep apart what naturally is apart.
 ## Modern Chinese Criteria
 分開
 劃分

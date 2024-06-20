@@ -17,11 +17,11 @@ och: 香
 EXCELLENT ODOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Xiāng 香 (ant. chòu 臭 "stinking") is orginally the scent of grain, and the meaning of the word was generalised to refer to any pleasant smell, especially also that of foodstuffs. NB: chòu 臭 is often neutral in classical Chinese and can refer to pleasant as well as unpleasant smells. However, there are cases where the word clearly describes something as evil-smelling and not only refers to what actually happens to be an evil smell.
-2. The general poetic term for fragrance of flowers or grasses is fāng 芳 (ant. chòu 臭 "stinking"), and the word never refers to the fragrance of any artefact.
-3. Xūn 薰 refers to an almost pungent strong fragrance.
-4. Fēn 芬 is a rare rather colourless term for attractive smell.
-5. Xīng 馨 refers to a striking fragrance speading far and wide.
+1. Xiāng [[香]] (ant. chòu [[臭]] "stinking") is orginally the scent of grain, and the meaning of the word was generalised to refer to any pleasant smell, especially also that of foodstuffs. NB: chòu [[臭]] is often neutral in classical Chinese and can refer to pleasant as well as unpleasant smells. However, there are cases where the word clearly describes something as evil-smelling and not only refers to what actually happens to be an evil smell.
+2. The general poetic term for fragrance of flowers or grasses is fāng [[芳]] (ant. chòu [[臭]] "stinking"), and the word never refers to the fragrance of any artefact.
+3. Xūn [[薰]] refers to an almost pungent strong fragrance.
+4. Fēn [[芬]] is a rare rather colourless term for attractive smell.
+5. Xīng [[馨]] refers to a striking fragrance speading far and wide.
 ## 
 HUANG JINGUI 2006
 FOOD 13. 芳香味。

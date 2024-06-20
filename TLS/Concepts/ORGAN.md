@@ -9,7 +9,7 @@ zh: 器官
 BODY PART used for BASIC FUNCTIONS of LIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The technical term for a specialised bodily organ is guān 官.
+1. The technical term for a specialised bodily organ is guān [[官]].
 ## Modern Chinese Criteria
 器官
 官

@@ -27,9 +27,9 @@ och: 才
 INTENSELY AND IMPORTANTLY SKILLFUL OR WISE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for an unusual promising ability to perform important future tasks of any kind is cái 才／材, and the talents referred to by this word do not need to be of a "higher" kind.
-2. Xián 賢 (ant. bù xiào 不肖 "untalented") often refers to realised talents, and typically includes the nuance of moral worthiness in addition to practical and intellectual talents, and prototypically these talents include moral ones and are excercised in the service of a ruler. (Note the combination 忠賢 "loyal and worthy")
-3. Dé 德 "political charisma; moral integrity" refers especially to the higher talents of the sage or the sage ruler and may perhaps be usefully compared in this synonym group. See VIRTUE.
+1. The standard word for an unusual promising ability to perform important future tasks of any kind is cái [[才]]／[[材]], and the talents referred to by this word do not need to be of a "higher" kind.
+2. Xián [[賢]] (ant. bù xiào [[不肖]] "untalented") often refers to realised talents, and typically includes the nuance of moral worthiness in addition to practical and intellectual talents, and prototypically these talents include moral ones and are excercised in the service of a ruler. (Note the combination [[忠賢]] "loyal and worthy")
+3. Dé [[德]] "political charisma; moral integrity" refers especially to the higher talents of the sage or the sage ruler and may perhaps be usefully compared in this synonym group. See VIRTUE.
 ## Modern Chinese Criteria
 才能
 才力

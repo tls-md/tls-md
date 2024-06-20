@@ -11,19 +11,19 @@ The LIMB BETWEEN SHOULDER AND the HAND of ANIMALS. 
 [COMPREHENSIVE/FOCUSSED]
 [DYNAMIC/STATIC]
 [GENERAL/SPECIFIC]
-1. Bì 臂 refers to the general word for the arm.
+1. Bì [[臂]] refers to the general word for the arm.
 [GENERAL], [COMPREHENSIVE]
-2. Shǒu 手 refers to the arm including, particularly, the hand.
+2. Shǒu [[手]] refers to the arm including, particularly, the hand.
 [FOCUSSED]
-3. Gōng 肱 refers to the arms as a source of physical strength of a person, and the term refers specifically to the bent arm.
+3. Gōng [[肱]] refers to the arms as a source of physical strength of a person, and the term refers specifically to the bent arm.
 [DYNAMIC], [SPECIALISED]
-4. Wàn 腕 refers specifically to the joint between arm and hand, the wrist. See HAND
+4. Wàn [[腕]] refers specifically to the joint between arm and hand, the wrist. See HAND
 [SPECIALISED]
-5. Zhǒu 肘 refers specifically to the elbows. See ELBOW
+5. Zhǒu [[肘]] refers specifically to the elbows. See ELBOW
 [SPECIALISED]
-6. Yè 腋 refers specifically to the armpits. See ARMPIT
+6. Yè [[腋]] refers specifically to the armpits. See ARMPIT
 [SPECIALISED]
-7. Jiān 肩 refers specifically to the shoulders. See SHOULDER
+7. Jiān [[肩]] refers specifically to the shoulders. See SHOULDER
 [SPECIALISED]
 ## Modern Chinese Criteria
 臂

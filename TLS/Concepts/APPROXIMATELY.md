@@ -33,9 +33,9 @@ och: 幾ji1
 PROBABLY BUT NOT EXACTLY
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for approximation to completeness of action is jī 幾.
-2. Dài 殆 (ant. bì 必 "certainly and completely") is very occasionally used to refer to the only approximate completion of an action.
-3. Shù jī 庶幾 refers to the approximation to a desirable completing of an action and is always abstract.
+1. The current general word for approximation to completeness of action is jī [[幾]].
+2. Dài [[殆]] (ant. bì [[必]] "certainly and completely") is very occasionally used to refer to the only approximate completion of an action.
+3. Shù jī [[庶幾]] refers to the approximation to a desirable completing of an action and is always abstract.
 ## Modern Chinese Criteria
 幾乎
 基本上

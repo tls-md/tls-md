@@ -14,7 +14,7 @@ labels:
 REACT so as to BECOME RED AND SHOW SHAME on one's FACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Nǎn 赧 is the only word for the blush in ancient Chinese, but the number of recorded blushes in ancient literature is small indeed.
+1. Nǎn [[赧]] is the only word for the blush in ancient Chinese, but the number of recorded blushes in ancient literature is small indeed.
 ## Modern Chinese Criteria
 紅臉
 臉紅

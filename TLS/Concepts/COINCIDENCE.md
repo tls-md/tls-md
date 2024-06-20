@@ -24,11 +24,11 @@ HAPPEN NOT BEING EXPECTED FOR WHICH ONE HAS NO EXPLANATION.
 [[NB incidentally: The Epicurean aleatoric view of natural history.]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for contingency is shì 適 (ant. bì 必 "necessarily").
-2. Huì 會 is an historian's technical term for coincidence which became current in Han times, and the word is adsentential.
-3. O ㄆ偶 (ant. bì 必 "necessarily") is a rather rare word specifically focussing on the arbitary contingency of something happening.
-4. Guǒ 果 "in the event" focusses on the fact that something that might not have happened but was expected to happen, did in fact happen.
-5. Zú 卒 and jìng 竟 focus on something happening in the end that might never have happened at all.
+1. The current general word for contingency is shì [[適]] (ant. bì [[必]] "necessarily").
+2. Huì [[會]] is an historian's technical term for coincidence which became current in Han times, and the word is adsentential.
+3. O ㄆ[[偶]] (ant. bì [[必]] "necessarily") is a rather rare word specifically focussing on the arbitary contingency of something happening.
+4. Guǒ [[果]] "in the event" focusses on the fact that something that might not have happened but was expected to happen, did in fact happen.
+5. Zú [[卒]] and jìng [[竟]] focus on something happening in the end that might never have happened at all.
 ## Modern Chinese Criteria
 偶然
 偶爾

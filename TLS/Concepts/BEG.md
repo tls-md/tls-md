@@ -19,9 +19,9 @@ REQUEST INTENSELY HUMBLY FOR A GIFT.
 ## Old Chinese Criteria
 Begging is not a common subject discussed in early texts, either because it was not common, or because it was not a dignified subject to bring up in belles lettres. However, also hard texts do not currently refer to begging as an institution.
 [[CURRENT]], [[RARE]]
-1. The old general word is qǐ 乞 which refers to the professional practise of a beggar as well as any other non-professional form of begging.
+1. The old general word is qǐ [[乞]] which refers to the professional practise of a beggar as well as any other non-professional form of begging.
 [[CURRENT]]
-2. Gài 丐 is a less current term for begging.
+2. Gài [[丐]] is a less current term for begging.
 [[RARE]]
 ## Modern Chinese Criteria
 叫化 is the most current colloquial expression for begging.

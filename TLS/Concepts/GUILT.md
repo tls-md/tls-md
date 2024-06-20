@@ -16,10 +16,10 @@ och: 罪／愆
 RESPONSIBILITY FOR ONE'S AVOIDABLE PAST BAD ACT. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant standard general word for any kind of guilt, large or small, is zuì 罪 (ant. gōng 功 "merit"), but this does not refer to any feelings of guilt; the general term for feelings of guilt is jiù 疚 REGRET.
-2. Qiān 愆, (sometimes written qiān 騫 ) refers to slight guilt or responsibility for a mistake.
-3. Yóu 尤 refers to the blame one suffers for a misdeed.
-For zéi 賊, a dramatic derogatory term referring to abject villainy, see VILLAIN.
+1. The dominant standard general word for any kind of guilt, large or small, is zuì [[罪]] (ant. gōng [[功]] "merit"), but this does not refer to any feelings of guilt; the general term for feelings of guilt is jiù [[疚]] REGRET.
+2. Qiān [[愆]], (sometimes written qiān [[騫]] ) refers to slight guilt or responsibility for a mistake.
+3. Yóu [[尤]] refers to the blame one suffers for a misdeed.
+For zéi [[賊]], a dramatic derogatory term referring to abject villainy, see VILLAIN.
 ## Modern Chinese Criteria
 罪感 translates the Western notion of guilt.
 犯罪感 is an expanded and perhaps slightly more common translation.

@@ -20,15 +20,15 @@ zh: 消滅
 DAMAGE something so as to CAUSE it to CEASE to EXIST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for destruction of any kind is huǐ 毀, and what is destroyed may anything from a toy or a house to a state.
-2. Miè 滅 refers to the physical destruction of cities or states, and the word implies the use of external military force, and typically military resistance.
-3. Pò 破 is always violent destruction of concrete objects of any kind.
-4. Cán 殘 focusses on the reckless attitude shown by the destroyer.
-5. Yāng 殃 focusses on the disaster constituted by destruction, and this word is used mostly nominally.
-6. Suì 碎 focusses on complete smashing into small pieces of what is destroyed.
-7. Huài 壞 and huī 墮 / 隳 are "to be destroyed, to collapse" but the words are also used transitively "cause to be destroyed, cause to collapse".
-8. Wáng 亡 (ant. fù 復 "reestablish") refers to the political/social ruin of a state and does not focus on any form of physical annihilation or damage.
-9. Bài 敗 and zéi 賊 are currently used for the destruction of abstract things such as dé 德 "virtue".
+1. The current general word for destruction of any kind is huǐ [[毀]], and what is destroyed may anything from a toy or a house to a state.
+2. Miè [[滅]] refers to the physical destruction of cities or states, and the word implies the use of external military force, and typically military resistance.
+3. Pò [[破]] is always violent destruction of concrete objects of any kind.
+4. Cán [[殘]] focusses on the reckless attitude shown by the destroyer.
+5. Yāng [[殃]] focusses on the disaster constituted by destruction, and this word is used mostly nominally.
+6. Suì [[碎]] focusses on complete smashing into small pieces of what is destroyed.
+7. Huài [[壞]] and huī [[墮]] / [[隳]] are "to be destroyed, to collapse" but the words are also used transitively "cause to be destroyed, cause to collapse".
+8. Wáng [[亡]] (ant. fù [[復]] "reestablish") refers to the political/social ruin of a state and does not focus on any form of physical annihilation or damage.
+9. Bài [[敗]] and zéi [[賊]] are currently used for the destruction of abstract things such as dé [[德]] "virtue".
 ## Modern Chinese Criteria
 消滅 is perhaps the most general modern word for destroying.
 毀滅 refers to complete destruction.

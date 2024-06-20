@@ -46,11 +46,11 @@ och: 猶
 SAME in SOME FEATURES WHEREAS DIFFERENT in OTHER FEATURES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general, almost copula-like word for resemblance of any kind is yóu 猶 (ant.* yì 異 "be different"), and this word can refer specifically to one item being "no better than" another. 
-2. Rú 如 is often asymmetrical "be as good&gt;match&gt;resemble essentially&gt;resemble in appearance only" often adds to the notion of resemblance that of equipollence.  [ 不如 always: "be not as good as"]
-3. Ruò 若 typically expresses a symmetrical relation of things that are similar to each other. By analogy with rú 如 bù ruò 不若 is often "be not as good as" but sometimes also "not resemble".]
-4. Sì 似 and the later and rarer colloquial xiàng 像 are often ungrammaticalised full verbs meaning typically "to resemble in appearance only".
-5. Lèi 類 (ant. yì 異 "be different in kind") is originally and prototypically "be of the same kind or category&gt;resemble", but comes to mean more generally "be similar".
+1. The general, almost copula-like word for resemblance of any kind is yóu [[猶]] (ant.* yì [[異]] "be different"), and this word can refer specifically to one item being "no better than" another. 
+2. Rú [[如]] is often asymmetrical "be as good&gt;match&gt;resemble essentially&gt;resemble in appearance only" often adds to the notion of resemblance that of equipollence.  [ [[不如]] always: "be not as good as"]
+3. Ruò [[若]] typically expresses a symmetrical relation of things that are similar to each other. By analogy with rú [[如]] bù ruò [[不若]] is often "be not as good as" but sometimes also "not resemble".]
+4. Sì [[似]] and the later and rarer colloquial xiàng [[像]] are often ungrammaticalised full verbs meaning typically "to resemble in appearance only".
+5. Lèi [[類]] (ant. yì [[異]] "be different in kind") is originally and prototypically "be of the same kind or category&gt;resemble", but comes to mean more generally "be similar".
 ## Modern Chinese Criteria
 相似 is the current modern word for resemblance.
 似的 shìde is a grammaticalised form referring to resemblance.

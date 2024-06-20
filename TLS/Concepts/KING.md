@@ -8,12 +8,12 @@ och: 王
 RULER of an INDEPENDENT STATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a king of any kind is wáng 王, and in Warring States times this term can refer to all sovereign rulers, even the Son of Heaven.
-2. Tiān wáng 天王 is a highly formal ritual term for "the King by the Grace of Heaven" and refers regularly to the Zhou king.
-3. Tiān zǐ 天子 refers to the Son of Heaven recognised as the ritual leader of all kings, and the word is currently used in a non-referential generic abstract sense.
-4. Dì 帝, originally "highest ancestor", is an honorary title for a king of very special distinction.
-5. Huáng 皇 is a very archaic way of referring to mythical rulers which in Qin times came to be used as part of the term for "emperor".
-6. Huáng dì 皇帝 is the Qin standard term for the emperor.
+1. The general term for a king of any kind is wáng [[王]], and in Warring States times this term can refer to all sovereign rulers, even the Son of Heaven.
+2. Tiān wáng [[天王]] is a highly formal ritual term for "the King by the Grace of Heaven" and refers regularly to the Zhou king.
+3. Tiān zǐ [[天子]] refers to the Son of Heaven recognised as the ritual leader of all kings, and the word is currently used in a non-referential generic abstract sense.
+4. Dì [[帝]], originally "highest ancestor", is an honorary title for a king of very special distinction.
+5. Huáng [[皇]] is a very archaic way of referring to mythical rulers which in Qin times came to be used as part of the term for "emperor".
+6. Huáng dì [[皇帝]] is the Qin standard term for the emperor.
 ## Modern Chinese Criteria
 皇帝
 帝

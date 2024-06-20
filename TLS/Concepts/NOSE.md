@@ -18,7 +18,7 @@ och: 鼻
 ORGAN USED FOR SMELLING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the nose of both animals like pigs and bovines and humans is bí 鼻.
+1. The standard word for the nose of both animals like pigs and bovines and humans is bí [[鼻]].
 ## Modern Chinese Criteria
 鼻
 鼻子

@@ -15,11 +15,11 @@ och: 匠
 WORKER who WORKS on CONCRETE THINGS he is EDUCATED FOR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a worker or craftsman is jiàng 匠 (ant. shì 士 "freeman; scholar").
-2. Yōng 庸 (ant. jūn zǐ 君子 "gentleman") refers to any menial worker.
-3. Yì 役 (ant. zhǔ 主 "person in charge") refers specifically to a corvee labourer. See CORVEE LABOURER
-4. Táo 陶 "potter", páo 庖 "cook", yě 冶 "founder" are current specific terms.
-5. Zhū 侏 and rú 儒 are specific terms referring to the clowns or court entertainers. See CLOWN
+1. The current general word for a worker or craftsman is jiàng [[匠]] (ant. shì [[士]] "freeman; scholar").
+2. Yōng [[庸]] (ant. jūn zǐ [[君子]] "gentleman") refers to any menial worker.
+3. Yì [[役]] (ant. zhǔ [[主]] "person in charge") refers specifically to a corvee labourer. See CORVEE LABOURER
+4. Táo [[陶]] "potter", páo [[庖]] "cook", yě [[冶]] "founder" are current specific terms.
+5. Zhū [[侏]] and rú [[儒]] are specific terms referring to the clowns or court entertainers. See CLOWN
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 46. 工匠。

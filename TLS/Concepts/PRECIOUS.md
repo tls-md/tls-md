@@ -28,9 +28,9 @@ och: 寶
 APPRECIATED BECAUSE RARE, APPRECIATED AND EXPENSIVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for objective preciousness and real high value and importance is bǎo 寶 (ant. zhuì 贅 "trifles"), and this word often has abstract figurative meanings "what one treasures as most important in one's life".
-2. Guì 貴 (ant. jiàn 賤 "cheap") refers to something precious and expensive, and the idea is always that this things are publicly recognised as precious.
-3. Zhēn 珍 (ant. yōng 庸 "perfectly ordinary") is always concrete when nominal and refers to preciousness with strong overtones of exquisite and exlusive distinction of the object concerned, and there often is a touch of the subjective. Hence the common combination zhēn guài 珍怪 "precious and exotic things", and the derived meaning of "culinary delicacies".
+1. The current general word for objective preciousness and real high value and importance is bǎo [[寶]] (ant. zhuì [[贅]] "trifles"), and this word often has abstract figurative meanings "what one treasures as most important in one's life".
+2. Guì [[貴]] (ant. jiàn [[賤]] "cheap") refers to something precious and expensive, and the idea is always that this things are publicly recognised as precious.
+3. Zhēn [[珍]] (ant. yōng [[庸]] "perfectly ordinary") is always concrete when nominal and refers to preciousness with strong overtones of exquisite and exlusive distinction of the object concerned, and there often is a touch of the subjective. Hence the common combination zhēn guài [[珍怪]] "precious and exotic things", and the derived meaning of "culinary delicacies".
 ## Modern Chinese Criteria
 昂貴 / 貴重
 寶貴 / 珍貴

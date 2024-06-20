@@ -42,21 +42,21 @@ COMPLETE a DIFFICULT ACT.
 [MEDIOCRE/ STANDARD/PERFECT]
 [NOUN/VERB]
 [TRANSIENT/LASTING]
-1. The current general word for successful action on one's own behalf or on someone else's behalf is chéng 成 (ant. bài 敗 "fail to achieve; botch up").
+1. The current general word for successful action on one's own behalf or on someone else's behalf is chéng [[成]] (ant. bài [[敗]] "fail to achieve; botch up").
 [GENERAL], [LARGE-SCALE]; [VERB]
-2 The current general word for successfully completed action on one's own behalf or in one's own interest is dé 得 "manage to" (ant. shī 失 "fail in, get wrong" and ant.* bù néng 不能 "not manage to").
+2 The current general word for successfully completed action on one's own behalf or in one's own interest is dé [[得]] "manage to" (ant. shī [[失]] "fail in, get wrong" and ant.* bù néng [[不能]] "not manage to").
 [DIFFICULT], [SELFISH], [STANDARD]; [VERB]
-3. Zhì 至 refers to successful action on one's own behalf on a very high level.
+3. Zhì [[至]] refers to successful action on one's own behalf on a very high level.
 [DIFFICULT], [PERFECT], [SELFISH]; [VERB]
-4. Zhì 致 refers specifically to remarkable successful action, typically on others' behalf.
+4. Zhì [[致]] refers specifically to remarkable successful action, typically on others' behalf.
 [ALTRUISTIC], [DIFFICULT]; [VERB]
-5. Lì 立 refers to successful action resulting in a lasting objective result of one's efforts.
+5. Lì [[立]] refers to successful action resulting in a lasting objective result of one's efforts.
 [ALTRUISTIC], [LARGE-SCALE]; [VERB]
-6. Suì 遂 refers to eventual successful completion of something one has planned.
+6. Suì [[遂]] refers to eventual successful completion of something one has planned.
 [EXPECTED]; [VERB]
-7. Gōng 功 refers to the achievement of something regarded as important to others. See MERIT.
+7. Gōng [[功]] refers to the achievement of something regarded as important to others. See MERIT.
 [ALTRUISTIC], [IMPORTANT]; [NOUN]
-8. Gōng jì 功跡 refers to achievements as leaving a lasting trace on the future.
+8. Gōng jì [[功跡]] refers to achievements as leaving a lasting trace on the future.
 ## Modern Chinese Criteria
 完成
 做到

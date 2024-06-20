@@ -28,9 +28,9 @@ zh: 竊賊
 VILLAIN who STEALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a professional or at least specialised thief is dào 盜. Dà dào 大盜 is a notorious professional thief, jù dào 巨盜 is a professional large scale robber.
-2. Zéi 賊 refers to a bandit or a villain who can be hired to commit crimes, and his villainy often consists in hired murder. It may or may not consist in robbery. See VILLAIN.
-3. Qiè 竊 is occasionally used to refer to a petty thief.
+1. The standard word for a professional or at least specialised thief is dào [[盜]]. Dà dào [[大盜]] is a notorious professional thief, jù dào [[巨盜]] is a professional large scale robber.
+2. Zéi [[賊]] refers to a bandit or a villain who can be hired to commit crimes, and his villainy often consists in hired murder. It may or may not consist in robbery. See VILLAIN.
+3. Qiè [[竊]] is occasionally used to refer to a petty thief.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 50.

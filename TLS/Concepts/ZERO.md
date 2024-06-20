@@ -7,8 +7,8 @@ zh: 零
 The EMPTY NUMBER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. 無 x 直 means "the value of X is zero". JZ 8.8: 下無錢直 "below there is no coin value, i.e. there is zero.
-2. 虛缺　JZ 8.8 於下實虛缺矣 "below, the dividend, having been empty, now involves a lack> is negative
+1. [[無]] x [[直]] means "the value of X is zero". JZ 8.8: [[下無錢直]] "below there is no coin value, i.e. there is zero.
+2. [[虛缺]]　JZ 8.8 [[於下實虛缺矣]] "below, the dividend, having been empty, now involves a lack> is negative
 ## Modern Chinese Criteria
 零
 零兒

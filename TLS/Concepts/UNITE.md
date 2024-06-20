@@ -22,9 +22,9 @@ och: 一
 COMBINE so as to CAUSE TO BECOME ONE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the unification of what is disunited is yī 一 (ant. fēn 分 "divide").
-2. Kuāng 匡 (ant. sàn 散 "spread and disunite") is an elevated expression referring to political unification.
-3. Tǒng 統 (ant. zhī 支 "divide into smaller units") focusses on the inner coherence of what is united.
+1. The standard word for the unification of what is disunited is yī [[一]] (ant. fēn [[分]] "divide").
+2. Kuāng [[匡]] (ant. sàn [[散]] "spread and disunite") is an elevated expression referring to political unification.
+3. Tǒng [[統]] (ant. zhī [[支]] "divide into smaller units") focusses on the inner coherence of what is united.
 ## Modern Chinese Criteria
 統一 is the currrent modern word for uniting.
 同一 is sometimes used to refer to identification.

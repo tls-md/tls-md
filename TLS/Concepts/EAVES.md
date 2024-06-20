@@ -7,8 +7,8 @@ zh: 屋檐
 CORNER of ROOF WITH DRAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the eaves of a roof is yán 檐.
-2. Yǔ 宇 is an early literary word for the eaves of a roof.
+1. The general word for the eaves of a roof is yán [[檐]].
+2. Yǔ [[宇]] is an early literary word for the eaves of a roof.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 11. 屋檐。

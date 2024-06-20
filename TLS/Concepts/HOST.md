@@ -10,7 +10,7 @@ zh: 主人
 LEADER of a HOME OR FEAST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the host on a ritual occasion is zhǔ 主
+1. The standard word for the host on a ritual occasion is zhǔ [[主]]
 ## Modern Chinese Criteria
 主人
 主

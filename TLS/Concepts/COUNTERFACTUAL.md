@@ -8,9 +8,9 @@ zh: 反事實
 IF-RELATION BETWEEN A SENTENCE S1 PRESUPPOSED to be NOT TRUE AND A SENTENCE S2 SPEAK:said TO BE TRUE IF S1 IS:were TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current particle indicating counterfactual or occasionally remotely hypothetical conditional clauses is shǐ 使.
-2. Shè 設 is remotely hypothetical in its primary use, and only occasionally used to make counterfactual conditionals.
-3. Jiǎ 假 is used to make counterfactual conditionals or remotely hypothetical conditionals indifferently.
+1. The most current particle indicating counterfactual or occasionally remotely hypothetical conditional clauses is shǐ [[使]].
+2. Shè [[設]] is remotely hypothetical in its primary use, and only occasionally used to make counterfactual conditionals.
+3. Jiǎ [[假]] is used to make counterfactual conditionals or remotely hypothetical conditionals indifferently.
 ## Modern Chinese Criteria
 反事實
 假使

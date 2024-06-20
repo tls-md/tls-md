@@ -9,9 +9,9 @@ AIR in STRONG MOTION.
 *Wind from a direction X. [Why so rarely the direction towards which the wind is moving?]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for wind is fēng 風.
-2. Piāo 飄 and the rare biāo 飆 refer to whirlwind, and the word is also written with two characters as 扶搖.
-3. Mái 霾 refers to a violent storm blowing as a sandstorm, or as a rainstorm.
+1. The dominant word for wind is fēng [[風]].
+2. Piāo [[飄]] and the rare biāo [[飆]] refer to whirlwind, and the word is also written with two characters as [[扶搖]].
+3. Mái [[霾]] refers to a violent storm blowing as a sandstorm, or as a rainstorm.
 ## Modern Chinese Criteria
 風
 大風

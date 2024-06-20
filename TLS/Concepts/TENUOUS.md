@@ -26,9 +26,9 @@ zh: 微小
 UNIMPORTANT BECAUSE LACKING BIGNESS, REALITY, OR HIGH DEGREE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current word for what is literally insubstantial and slight is xì 細.
-2. Wēi 微 refers to subtlety predominantly in transferred figurative senses.
-3. Báo 薄 (ant. hòu 厚 "substantial") refers to anything thin or slight.
+1. The most current word for what is literally insubstantial and slight is xì [[細]].
+2. Wēi [[微]] refers to subtlety predominantly in transferred figurative senses.
+3. Báo [[薄]] (ant. hòu [[厚]] "substantial") refers to anything thin or slight.
 ## Modern Chinese Criteria
 渺小
 藐小

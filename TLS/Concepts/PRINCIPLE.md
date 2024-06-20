@@ -17,12 +17,12 @@ och: 理
 BASIC FEATURE of a DOCTRINE OR A SYSTEM of RULES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Lǐ 理 refers to inherent structuring patterns of things.
-2. Zé 則 refers to a rule or pattern to be followed.
-3. Fǎ 法 (often: "model, method, procedure, law" can refer to a man-made rule pattern or rule, never a "law of nature" and rarely a pattern set by nature.
-4. Zhì 制 refers to a humanly instituted system of principles and rules.
-5. Yào 要 refers to the single underlying most important principle that governs something.
-6. Jīng 經 refers to a basic guideline that one might prefer to follow.
+1. Lǐ [[理]] refers to inherent structuring patterns of things.
+2. Zé [[則]] refers to a rule or pattern to be followed.
+3. Fǎ [[法]] (often: "model, method, procedure, law" can refer to a man-made rule pattern or rule, never a "law of nature" and rarely a pattern set by nature.
+4. Zhì [[制]] refers to a humanly instituted system of principles and rules.
+5. Yào [[要]] refers to the single underlying most important principle that governs something.
+6. Jīng [[經]] refers to a basic guideline that one might prefer to follow.
 ## Modern Chinese Criteria
 道理
 理路

@@ -18,10 +18,10 @@ och: 居
 SUPPORT one's WEIGHT USING one's BUTTOCKS AND KEEPING ONE'S SPINE UPRIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for sitting is not properly zuò 坐 (see KNEEL) but probably jū 居 "sit down", which is a decorous thing to do, although it is not clear in which position, exactly, one ends up, and the suspicion is that one ends up, in fact, kneeling politely in the zuò 坐 fashion.
-2. Dūn 蹲 is to squat on the floor, sitting on one's behind, but keeping a certain decorous pose.
-3. Jù 踞 refers to squatting with one's legs spread to both sides, which was regarded as a very informal and impolite thing to do in public.
-4. Jí 集 refers to birds settling in a certain place, often but not always in a flock.
+1. The current word for sitting is not properly zuò [[坐]] (see KNEEL) but probably jū [[居]] "sit down", which is a decorous thing to do, although it is not clear in which position, exactly, one ends up, and the suspicion is that one ends up, in fact, kneeling politely in the zuò [[坐]] fashion.
+2. Dūn [[蹲]] is to squat on the floor, sitting on one's behind, but keeping a certain decorous pose.
+3. Jù [[踞]] refers to squatting with one's legs spread to both sides, which was regarded as a very informal and impolite thing to do in public.
+4. Jí [[集]] refers to birds settling in a certain place, often but not always in a flock.
 ## Modern Chinese Criteria
 坐
 栖

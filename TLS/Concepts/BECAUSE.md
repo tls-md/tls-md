@@ -14,18 +14,18 @@ och: 以
 SENTENCE-CONNECTIVE to the effect that S1 is the CAUSE:reason for S2 being TRUE. [GRAMMAR]
 # Criteria and general notes
 ## Old Chinese Criteria
-Giving reasons for a statements made, by a single appended clause giving an explanation, motivation, justification, or demonstration, turns out to be not as common as one might have thought. Yīnwéi 因為 "because" is not classical Chinese. "Brutus killed Caesar because he hated him" would become in classical Chinese "Brutus hated Caesar and accordingly/therefore he killed him." The current conceptual fields are THEREFORE and "in order to" under INTEND. The only word that "feels" anything like the English "because" is the final particle yě 也 "this was because, this is because".
-1. The standard word is yǐ 以 "by reason of" which can refer to objective causes as well as subjective motivation, but never logical reasoning, and the reason adduced by this word may even be a pretext.
+Giving reasons for a statements made, by a single appended clause giving an explanation, motivation, justification, or demonstration, turns out to be not as common as one might have thought. Yīnwéi [[因為]] "because" is not classical Chinese. "Brutus killed Caesar because he hated him" would become in classical Chinese "Brutus hated Caesar and accordingly/therefore he killed him." The current conceptual fields are THEREFORE and "in order to" under INTEND. The only word that "feels" anything like the English "because" is the final particle yě [[也]] "this was because, this is because".
+1. The standard word is yǐ [[以]] "by reason of" which can refer to objective causes as well as subjective motivation, but never logical reasoning, and the reason adduced by this word may even be a pretext.
 [GENERAL]; [[vt+N.adV, vt+N.postV]]
-2. Yīn 因 "on the basis of" typically refers to the basis on which something is done, and sometimes to some kind of deliberate and strategic accommodation to objective conditions.
+2. Yīn [[因]] "on the basis of" typically refers to the basis on which something is done, and sometimes to some kind of deliberate and strategic accommodation to objective conditions.
 [[vtadV]]
-3. Yóu 由 "be because of" emphasises the "wherefrom" of something, the objective reason from which something flows. It is rare in early texts meaning "be because", but became common at later stages of the language.
+3. Yóu [[由]] "be because of" emphasises the "wherefrom" of something, the objective reason from which something flows. It is rare in early texts meaning "be because", but became common at later stages of the language.
 [OBJECTIVE]; [[RARE]], [[vtadV]]
-4. Wéi 為 sometimes introduces a reason for something that is then introduced by gù 故 "therefore" or by yīn 因 "therefore".
+4. Wéi [[為]] sometimes introduces a reason for something that is then introduced by gù [[故]] "therefore" or by yīn [[因]] "therefore".
 [OBJECTIVE]; [vt+N.postS]
-5. Sentence-final yě 也 often marks because-clauses, and the reason given is rarely psychological, sometimes objective, quite often logical: S 也 meaning "it is/was because of S".
+5. Sentence-final yě [[也]] often marks because-clauses, and the reason given is rarely psychological, sometimes objective, quite often logical: S [[也]] meaning "it is/was because of S".
 [[ppostS]]
-6. Wéi 為 sometimes introduces a reason for something that is then introduced by gù 故 "therefore" or by yīn 因 "therefore".
+6. Wéi [[為]] sometimes introduces a reason for something that is then introduced by gù [[故]] "therefore" or by yīn [[因]] "therefore".
 ## Modern Chinese Criteria
 因為
 因

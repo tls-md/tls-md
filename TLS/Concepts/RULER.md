@@ -30,19 +30,19 @@ HUMAN GOVERNS a GROUP OR a TERRITORY.
 [[HERRSCHER]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a person in charge of or senior to others is zhǔ 主 (ant. pú 僕 "servant").
-2. Jūn 君 (ant. chén 臣 "minister") refers specifically to someone who is politically or administratively in charge of others as a ruler.
-3. Wáng 王 (contrast bà 霸 "hegemon basing his role on power rather than moral authority") refers specifically to someone who is enfeoffed as a formal ruler of what counts as a state in ancient China.
-4. Gōng 公 has many related meaning, but when following after the name of a state the word refers specifically to the ruler of an enfeoffed kingdom under the Son of Heaven who belongs to the royal lineage. After personal names, or used absolutely, the word may generally refer to to rulers of any rank and might be fastidiously translated as "his lordship".
-5. Hóu 侯 refers specifically to someone who is enfeoffed with a kingdom (or by Han times a minor administrative area) by the Son of Heaven as a hereditary feudal lord.
-6. Bà 霸 (contr. wáng 王 "regular king"), sometimes also written 伯 refers to a person who is in actual control of an area and specifically to one who acts as the leader of the feudal lords, and the term is sometimes used pejoratively for a "tyrant" caring for his own interests rather than those of his subordinates.
-7. Lìng 令 refers specifically to someone who is controlling a xiàn 縣 by order of a king.
-8. Shǒu 守 refers specifically to someone who is controlling a jùn 郡 by order of the emperor.
-9. Mù 牧 refers specifically to someone who is controlling a zhōu 州 by order of the emperor in Eastern Han times.
-10. Shàng 上 can refer to any governing authority or ruler, but by Han times the word became a standard polite way of referring to the Han emperor.
-11. Chán-yú 單于 refers specifically to the ruler of the Xiōngnú 匈奴. Cf. the Tang term kēhān 可汗 "Khan".
-12. Háo 豪 refers to a person of power but without formally recognised bureaucratic status.
-13. Kuí 魁 refers to a powerful popular leader unrecognised by government.
+1. The current general word for a person in charge of or senior to others is zhǔ [[主]] (ant. pú [[僕]] "servant").
+2. Jūn [[君]] (ant. chén [[臣]] "minister") refers specifically to someone who is politically or administratively in charge of others as a ruler.
+3. Wáng [[王]] (contrast bà [[霸]] "hegemon basing his role on power rather than moral authority") refers specifically to someone who is enfeoffed as a formal ruler of what counts as a state in ancient China.
+4. Gōng [[公]] has many related meaning, but when following after the name of a state the word refers specifically to the ruler of an enfeoffed kingdom under the Son of Heaven who belongs to the royal lineage. After personal names, or used absolutely, the word may generally refer to to rulers of any rank and might be fastidiously translated as "his lordship".
+5. Hóu [[侯]] refers specifically to someone who is enfeoffed with a kingdom (or by Han times a minor administrative area) by the Son of Heaven as a hereditary feudal lord.
+6. Bà [[霸]] (contr. wáng [[王]] "regular king"), sometimes also written [[伯]] refers to a person who is in actual control of an area and specifically to one who acts as the leader of the feudal lords, and the term is sometimes used pejoratively for a "tyrant" caring for his own interests rather than those of his subordinates.
+7. Lìng [[令]] refers specifically to someone who is controlling a xiàn [[縣]] by order of a king.
+8. Shǒu [[守]] refers specifically to someone who is controlling a jùn [[郡]] by order of the emperor.
+9. Mù [[牧]] refers specifically to someone who is controlling a zhōu [[州]] by order of the emperor in Eastern Han times.
+10. Shàng [[上]] can refer to any governing authority or ruler, but by Han times the word became a standard polite way of referring to the Han emperor.
+11. Chán-yú [[單于]] refers specifically to the ruler of the Xiōngnú [[匈奴]]. Cf. the Tang term kēhān [[可汗]] "Khan".
+12. Háo [[豪]] refers to a person of power but without formally recognised bureaucratic status.
+13. Kuí [[魁]] refers to a powerful popular leader unrecognised by government.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 5.

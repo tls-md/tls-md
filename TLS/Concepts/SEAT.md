@@ -15,10 +15,10 @@ och: 坐
 PLACE OR FURNITURE FOR SITTING ON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1.. Wèi 位 focusses on the seat as an indicator of a person's status.
-2. Xí 席 refers specifically to the physical object, the mat, on which one sat in ancient China.
-3. Yán 筵 refers specifically to the mat placed immediately on the floor on which the xí 席 or "sitting mat" in turn was laid out.
-4. Zuò 坐 / 座 is used to refer to a seat as such, in a general way, but this usage is not very common.
+1.. Wèi [[位]] focusses on the seat as an indicator of a person's status.
+2. Xí [[席]] refers specifically to the physical object, the mat, on which one sat in ancient China.
+3. Yán [[筵]] refers specifically to the mat placed immediately on the floor on which the xí [[席]] or "sitting mat" in turn was laid out.
+4. Zuò [[坐]] / [[座]] is used to refer to a seat as such, in a general way, but this usage is not very common.
 ## Modern Chinese Criteria
 座位
 位子

@@ -12,9 +12,9 @@ ATTACK AND HIDE WHILE PREPARING to do so.
 ## Old Chinese Criteria
 [[COMMON/RARE]]
 [GENERAL/SPECIFIC]
-1. The current word for lying in ambush as part of attacking someone furtively in any context, formaly military or otherwise, is fú 伏.
+1. The current word for lying in ambush as part of attacking someone furtively in any context, formaly military or otherwise, is fú [[伏]].
 [GENERAL]; [[COMMON]]
-2. Fù 覆 is used as a military technical term limited to the use of ambushes in formal military campaigns.
+2. Fù [[覆]] is used as a military technical term limited to the use of ambushes in formal military campaigns.
 [SPECIFIC]; [[RARE]]
 ## Modern Chinese Criteria
 埋伏

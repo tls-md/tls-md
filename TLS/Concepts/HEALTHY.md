@@ -28,9 +28,9 @@ och: 健
 STRONG IN-S0-FAR as one LACK ILLNESS OR PAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for good condition of health is jiàn 健 (ant. bìng 病 "sick").
-2. Wú yàng 無恙 is the general polite way of referring to good health.
-3. Kāng 康 and ān 安 are only occasionally used to refer to physical health.
+1. The most general word for good condition of health is jiàn [[健]] (ant. bìng [[病]] "sick").
+2. Wú yàng [[無恙]] is the general polite way of referring to good health.
+3. Kāng [[康]] and ān [[安]] are only occasionally used to refer to physical health.
 ## Modern Chinese Criteria
 健康
 康健

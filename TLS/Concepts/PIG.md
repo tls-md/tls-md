@@ -14,12 +14,12 @@ och: 豕
 INTENSELY COMMON DOMESTIC ANIMAL USED FOR MEAT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for a wild boar and a domestic pig of any kind is shǐ 豕.
-2. Zhì 彘 is the standard old word for the domestic pig.
-3. Zhū 豬 is rare in ancient texts and tends to cooccur with other words for "pig" and would appear to be a colloquialism.
-4. Tún 豚 refers to a piglet.
-5. Fén 豶 refers to a castrated pig.
-5. Xī 狶／豨 is a rare specific term for a wild boar.
+1. The most general word for a wild boar and a domestic pig of any kind is shǐ [[豕]].
+2. Zhì [[彘]] is the standard old word for the domestic pig.
+3. Zhū [[豬]] is rare in ancient texts and tends to cooccur with other words for "pig" and would appear to be a colloquialism.
+4. Tún [[豚]] refers to a piglet.
+5. Fén [[豶]] refers to a castrated pig.
+5. Xī [[狶]]／[[豨]] is a rare specific term for a wild boar.
 ## 
 HUANG JINGUI 2006
 ANIMALS 4.

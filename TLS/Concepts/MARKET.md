@@ -19,8 +19,8 @@ och: 市
 PLACE CONTAINING MANY SHOPS that are MUTUALLY CLOSE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a market is shì 市.
-2. Chán 廛 refers to a small market town in the countryside, typically inhabited by humble people without the presence of a distinguished household dominating the place.
+1. The current general term for a market is shì [[市]].
+2. Chán [[廛]] refers to a small market town in the countryside, typically inhabited by humble people without the presence of a distinguished household dominating the place.
 ## 
 HUANG JINGUI 2006
 TRADE 1.

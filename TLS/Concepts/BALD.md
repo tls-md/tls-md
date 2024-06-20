@@ -17,9 +17,9 @@ LACKING HAIR ON one's HEAD.
 ## Old Chinese Criteria
 [ARTIFICIAL/NATURAL]
 [COMMON/RARE]
-1. Tū 禿 refers to baldness as a natural condition and particularly as a defect.
+1. Tū [[禿]] refers to baldness as a natural condition and particularly as a defect.
 [NATURAL]
-2. Kūn 髡 probably refers to baldness as brought about deliberately through shaving, and the basic meaning of the word is "to shave", but the word is common in personal names where it is more likely to refer to natural baldness.
+2. Kūn [[髡]] probably refers to baldness as brought about deliberately through shaving, and the basic meaning of the word is "to shave", but the word is common in personal names where it is more likely to refer to natural baldness.
 [ARTIFICIAL]; [[RARE]]
 ## Modern Chinese Criteria
 光禿禿

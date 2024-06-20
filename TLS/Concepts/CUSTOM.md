@@ -29,9 +29,9 @@ och: 風
 REPEATED ACT CONFORMING to what is a COMMON RULE in one's GROUP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for current (but changeable) customs and habits at all levels of society, indluding the highest echelons of society is fēng 風. There is a current connotation that what are current fēng 風 are at least partly the result of some cultural policy or strategy.
-2. Sú 俗 (and the rarer and much more personal xí 習 ) tend to refer to what is perceived as popular and sometimes even vulgar traditional practices. There is a current conception that the sú 俗 are quintessential in origin and essence, but in spite of this they are conceived of as changeable in principle.
-3. Lǐ 禮 "ritual practice" refers to customary behaviour that is in accordance with the demands of ritual propriety. See RITUAL
+1. The current general word for current (but changeable) customs and habits at all levels of society, indluding the highest echelons of society is fēng [[風]]. There is a current connotation that what are current fēng [[風]] are at least partly the result of some cultural policy or strategy.
+2. Sú [[俗]] (and the rarer and much more personal xí [[習]] ) tend to refer to what is perceived as popular and sometimes even vulgar traditional practices. There is a current conception that the sú [[俗]] are quintessential in origin and essence, but in spite of this they are conceived of as changeable in principle.
+3. Lǐ [[禮]] "ritual practice" refers to customary behaviour that is in accordance with the demands of ritual propriety. See RITUAL
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 19. 習俗。

@@ -7,7 +7,7 @@ zh: 氣體
 SUBSTANCE IN which THINGS CAN FLOAT AND FLY BUT NOT SWIM.
 # Criteria and general notes
 ## Old Chinese Criteria
-氣？
+[[氣]]？
 ## Modern Chinese Criteria
 氣體
 氣

@@ -15,16 +15,16 @@ zh: 攜帶
 DISPLACE something by WALKING WHILE HOLDING it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The commonest words refer to carrying things on one's back is fù 負, and the word is also common in figurative senses.
-2. Dān 擔 refer to carrying things on a shoulder pole, but the word is still fairly rare in pre-Buddhist texts.
-3. Hè 荷 is to carry over one's shoulder, sometimes on a pole.
-4. Rén 任 refers to bearing something in one's arms.
-5. Huái 懷 and bào 抱 can refer to carrying things in one's arms so as to protect them. See also EMBRACE
-6. Dài 帶 is specifically to carry things along on one's belt, but the word is used more generally for "take along" also in ancient texts.
-7. Pèi 佩 is to wear or carry very small objects on the waist. See WEAR
-8. Qiè 挈 is to carry fairly small objects with one arm.
-9. Gāng 扛 refers to lifting and possibly also carrying along heavy objects, typically as a feat. See primarily LIFT
-NP: Káng 扛 "carry on one's shoulders" is a late colloquialism.
+1. The commonest words refer to carrying things on one's back is fù [[負]], and the word is also common in figurative senses.
+2. Dān [[擔]] refer to carrying things on a shoulder pole, but the word is still fairly rare in pre-Buddhist texts.
+3. Hè [[荷]] is to carry over one's shoulder, sometimes on a pole.
+4. Rén [[任]] refers to bearing something in one's arms.
+5. Huái [[懷]] and bào [[抱]] can refer to carrying things in one's arms so as to protect them. See also EMBRACE
+6. Dài [[帶]] is specifically to carry things along on one's belt, but the word is used more generally for "take along" also in ancient texts.
+7. Pèi [[佩]] is to wear or carry very small objects on the waist. See WEAR
+8. Qiè [[挈]] is to carry fairly small objects with one arm.
+9. Gāng [[扛]] refers to lifting and possibly also carrying along heavy objects, typically as a feat. See primarily LIFT
+NP: Káng [[扛]] "carry on one's shoulders" is a late colloquialism.
 ## Modern Chinese Criteria
 帶
 抬

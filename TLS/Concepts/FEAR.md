@@ -21,16 +21,16 @@ och: 懼
 BAD FEELING IN-RELATION-TO what one BELIEVES to be a DANGER which one is TRYING to AVOID.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for any kind of passing fear is probably jù 懼 and this word naturally links with yōu 憂 "worry", and this word refers to a momentary historical moment where that fear manifested itself ( 文王乃懼 "then King Wén got scared"). Jù sǐ 懼死 is momentary fear for one's life, whereas wèi sǐ 畏死 refers to a general state where one is too frightened to sacrifice one's life.
-2. Kǒng 恐 refers primarily to intense or overwhelming possibly passing state of fear, and the word differs from jù 懼 mainly in degree of intensity and in the managability of the danger faced.
-3. Wèi 畏 is typically a stable state of reasoned fear, typically relating those who are in authority (the etymologically related wēi 威 on which relation there is much word-play in texts like ZUO), or ghosts etc, but the word also has extended generalised uses, as in wèi sǐ 畏死 "be afraid to die".
-4. Jīng 驚 refers to the sudden onset of fear when someone is faced with an unexpected danger.
-5. Lì 栗 / 慄 and zhàn 戰 is to shiver with intense fear, and the physical expression of fear can be more prominent the inner feeling expressed through shivering.
-6. Qiè 怯 "chicken-livered and unlikely to undertake risky tasks" and nuò 懦 (ant. yǒng 勇 "courage, boldness") as well as dàn 憚 "unduly prone to feelings of fear" refer to being pusilanimousness or the lack or courage where courage is required.
-7. Bù 怖 "be in a current acute state of fear" has no weakened generalised uses.
-8. Sǒng 悚 / 聳 "be fretful, given to fear; get slightly frightened" refers to mild forms of (possibly superfluous or reprehensible) fear.
-9. Jì 悸 refers to symptoms of violent heart-beat caused by intense fear.
-NB: Pà 怕 is post-Buddhist (TANG).
+1. The most general word for any kind of passing fear is probably jù [[懼]] and this word naturally links with yōu [[憂]] "worry", and this word refers to a momentary historical moment where that fear manifested itself ( [[文王乃懼]] "then King Wén got scared"). Jù sǐ [[懼死]] is momentary fear for one's life, whereas wèi sǐ [[畏死]] refers to a general state where one is too frightened to sacrifice one's life.
+2. Kǒng [[恐]] refers primarily to intense or overwhelming possibly passing state of fear, and the word differs from jù [[懼]] mainly in degree of intensity and in the managability of the danger faced.
+3. Wèi [[畏]] is typically a stable state of reasoned fear, typically relating those who are in authority (the etymologically related wēi [[威]] on which relation there is much word-play in texts like ZUO), or ghosts etc, but the word also has extended generalised uses, as in wèi sǐ [[畏死]] "be afraid to die".
+4. Jīng [[驚]] refers to the sudden onset of fear when someone is faced with an unexpected danger.
+5. Lì [[栗]] / [[慄]] and zhàn [[戰]] is to shiver with intense fear, and the physical expression of fear can be more prominent the inner feeling expressed through shivering.
+6. Qiè [[怯]] "chicken-livered and unlikely to undertake risky tasks" and nuò [[懦]] (ant. yǒng [[勇]] "courage, boldness") as well as dàn [[憚]] "unduly prone to feelings of fear" refer to being pusilanimousness or the lack or courage where courage is required.
+7. Bù [[怖]] "be in a current acute state of fear" has no weakened generalised uses.
+8. Sǒng [[悚]] / [[聳]] "be fretful, given to fear; get slightly frightened" refers to mild forms of (possibly superfluous or reprehensible) fear.
+9. Jì [[悸]] refers to symptoms of violent heart-beat caused by intense fear.
+NB: Pà [[怕]] is post-Buddhist (TANG).
 ## Modern Chinese Criteria
 害怕
 懼怕

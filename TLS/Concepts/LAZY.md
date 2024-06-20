@@ -21,9 +21,9 @@ och: 惰
 NATURAL TENDENCY to REFUSE to make EFFORTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a failure to make any kind of effort required of one is duò 惰 (ant. qín 勤 "eager to work"), and this word describes a general psychological condition of a person.
-2. Dài 怠 (ant. jìng 敬 "be respectfully dedicated to one's duties") refers to a customary failure to perform one's official duties with the appropriate seriousness of effort.
-3. Xiè 懈 (ant. jí 急 "be eager with respect to") refers to a an unwillingness to put in a necessary effort at a certain point of time in spite of the fact that one may not be congenitally or hopelessly prone to laziness.
+1. The general word for a failure to make any kind of effort required of one is duò [[惰]] (ant. qín [[勤]] "eager to work"), and this word describes a general psychological condition of a person.
+2. Dài [[怠]] (ant. jìng [[敬]] "be respectfully dedicated to one's duties") refers to a customary failure to perform one's official duties with the appropriate seriousness of effort.
+3. Xiè [[懈]] (ant. jí [[急]] "be eager with respect to") refers to a an unwillingness to put in a necessary effort at a certain point of time in spite of the fact that one may not be congenitally or hopelessly prone to laziness.
 ## Modern Chinese Criteria
 懶惰
 懶

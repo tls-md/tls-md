@@ -7,9 +7,9 @@ zh: 東西
 CONCRETE OBJECT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for any physical or non-physical object or creature is wù 物.
-2. Shì 事 refers to a things as a subject matter, or as an event.
-3. Shí 實 is a philosophical concept referring to any object or reality of any kind.
+1. The current standard word for any physical or non-physical object or creature is wù [[物]].
+2. Shì [[事]] refers to a things as a subject matter, or as an event.
+3. Shí [[實]] is a philosophical concept referring to any object or reality of any kind.
 ## Modern Chinese Criteria
 事物
 物

@@ -7,8 +7,8 @@ zh: 床
 FURNITURE ON which one SLEEPS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for a bed is chuáng 床.
-2. Kuāng 筐 refers to (bamboo-made??) bedding used on a bed.
+1. The current standard word for a bed is chuáng [[床]].
+2. Kuāng [[筐]] refers to (bamboo-made??) bedding used on a bed.
 ## Modern Chinese Criteria
 床
 榻

@@ -30,13 +30,13 @@ zh: 分散
 DISPLACE so as to CAUSE TO PARTS TO BE IN MANY DIFFERENT PLACES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for scattering anything in any way is sǎn 散.
-2. Bù 布 is prototypically to spread something with a positive purpose.
-3. Shī 施 refers to dispensing something in many places and thus spreading it around, and the object of spreading is usually a benefit.
-4. Pǔ 普 refers abstractly to something being spread over a considerable area.
-5. Kuì 潰 refers to being scattered and thus ruined.
-6. Lí 離 refers to the scattering or separation of what would naturally belong together.
-7. Bò 播 refers to scattering as dissemination for good use.
+1. The current standard word for scattering anything in any way is sǎn [[散]].
+2. Bù [[布]] is prototypically to spread something with a positive purpose.
+3. Shī [[施]] refers to dispensing something in many places and thus spreading it around, and the object of spreading is usually a benefit.
+4. Pǔ [[普]] refers abstractly to something being spread over a considerable area.
+5. Kuì [[潰]] refers to being scattered and thus ruined.
+6. Lí [[離]] refers to the scattering or separation of what would naturally belong together.
+7. Bò [[播]] refers to scattering as dissemination for good use.
 ## Modern Chinese Criteria
 分散
 疏散

@@ -15,11 +15,11 @@ zh: 內衣
 GARMENTS WORN UNDER OTHER GARMENTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Xiè 褻 is the most current general word for underwear, but not that the word can also come to mean "informal wear".
-2. Páo 袍 refers to underwear in pre-Qin times, but this term includes what is worn above underwear but underneath the mean visible outside garment.
-3. Rì 衵 is a rare word which refers to underwear, typically women's underwear. See WOMAN UNDERWEAR
-4. Zhōng 衷 is currently used verbally to refer to the wearing of something underneath something else, and whereas the word is currently said to mean "underwear" in the dictionaries, we have yet to discover any evidence for this nominal usage.
-5. Duó 襗 is a very rare word referring to garments worn above underwear but underneath the main visible outside garment.
+1. Xiè [[褻]] is the most current general word for underwear, but not that the word can also come to mean "informal wear".
+2. Páo [[袍]] refers to underwear in pre-Qin times, but this term includes what is worn above underwear but underneath the mean visible outside garment.
+3. Rì [[衵]] is a rare word which refers to underwear, typically women's underwear. See WOMAN UNDERWEAR
+4. Zhōng [[衷]] is currently used verbally to refer to the wearing of something underneath something else, and whereas the word is currently said to mean "underwear" in the dictionaries, we have yet to discover any evidence for this nominal usage.
+5. Duó [[襗]] is a very rare word referring to garments worn above underwear but underneath the main visible outside garment.
 ## Modern Chinese Criteria
 內衣
 中衣

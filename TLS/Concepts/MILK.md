@@ -8,7 +8,7 @@ och: 乳
 LIQUID DEVELOPED IN the BREAST of FEMALES, which CAN NOURISH their CHILDREN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The word for milk is rǔ 乳, but milk was not an important element of Chinese culture, and the earliest isolated occurrence of the word is in SHIJI.
+1. The word for milk is rǔ [[乳]], but milk was not an important element of Chinese culture, and the earliest isolated occurrence of the word is in SHIJI.
 ## 
 HUANG JINGUI 2006
 FOOD 44. 乳製品。

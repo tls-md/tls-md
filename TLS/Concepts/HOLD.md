@@ -17,13 +17,13 @@ och: 持
 CONTROL by KEEPING IN one's HANDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general and neutral word for holding something in any way concrete or abstract is chí 持 (ant. shī 失 "lose hold of").
-2. Zhí 執 is often inchoative "take hold of", and then comes to mean "hold on to, keep holding" as one goes along.
-3. Cāo 操 refers to holding and holding onto something, often taking it along as one goes along, sometimes wielding it as a weapon.
-4. Bǐng 秉 refers to clasping something firmly, often solemnly with both hands, and sometimes several things so as to hold and keep them together and not to let go.
-5. Jiá 挾 refers specifically to holding something under one's armpit, but the word also has some more generalised uses.
-6. Wò 握 and bǎ 把 are rather dramatic words referring to gripping something and not letting go of it.
-7. Gǒng 拱 refers to holding something politely in both hands.
+1. The most current general and neutral word for holding something in any way concrete or abstract is chí [[持]] (ant. shī [[失]] "lose hold of").
+2. Zhí [[執]] is often inchoative "take hold of", and then comes to mean "hold on to, keep holding" as one goes along.
+3. Cāo [[操]] refers to holding and holding onto something, often taking it along as one goes along, sometimes wielding it as a weapon.
+4. Bǐng [[秉]] refers to clasping something firmly, often solemnly with both hands, and sometimes several things so as to hold and keep them together and not to let go.
+5. Jiá [[挾]] refers specifically to holding something under one's armpit, but the word also has some more generalised uses.
+6. Wò [[握]] and bǎ [[把]] are rather dramatic words referring to gripping something and not letting go of it.
+7. Gǒng [[拱]] refers to holding something politely in both hands.
 ## Modern Chinese Criteria
 執掌
 掌握

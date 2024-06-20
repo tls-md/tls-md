@@ -11,9 +11,9 @@ zh: 負擔
 What is HEAVY AND SHOULD:must be ENDURINGLY CARRIED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a burden is rèn 任. The word is often used figuratively to refer to burdens of duty. See DUTY.
-2. Hè 荷 is a rarer word for whatever is borne on one's shoulders, and this word is also occasionally used in figurative senses.
-3. Zhòng 重 can come to refer to something heavy one carries.
+1. The standard word for a burden is rèn [[任]]. The word is often used figuratively to refer to burdens of duty. See DUTY.
+2. Hè [[荷]] is a rarer word for whatever is borne on one's shoulders, and this word is also occasionally used in figurative senses.
+3. Zhòng [[重]] can come to refer to something heavy one carries.
 ## Modern Chinese Criteria
 負擔
 擔子

@@ -22,10 +22,10 @@ och: 見
 PERCEIVE USING the EYES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant word is jiàn 見 (ant. méng 矇 "unable to see") which refers to any act of successful visual perception.
-2. Míng 明 (ant. máng 盲 "unable to see at all") refers to clarity of general vision and is predominantly used in transferred senses.
-3. Dǔ 睹 refers to clear perception at a given time.
-4. Chá 察 refers to discriminating analytic perception.
+1. The clearly dominant word is jiàn [[見]] (ant. méng [[矇]] "unable to see") which refers to any act of successful visual perception.
+2. Míng [[明]] (ant. máng [[盲]] "unable to see at all") refers to clarity of general vision and is predominantly used in transferred senses.
+3. Dǔ [[睹]] refers to clear perception at a given time.
+4. Chá [[察]] refers to discriminating analytic perception.
 ## Modern Chinese Criteria
 看見
 瞧見

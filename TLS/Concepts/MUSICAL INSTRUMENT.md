@@ -8,10 +8,10 @@ och: 八音
 TOOLS USED FOR PRODUCING MUSIC.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Perhaps the most current traditional general term for musical instruments is bā yīn 八音.
-2. Jīn shí 金石 refers not only to bells and stone chimes, but can apparently refer more generally and collectively to musical instruments.
-3. Zhōng gǔ 鐘鼓 can be used to refer collectively to musical instruments and not specifically to bells and drums only.
-4. Yuè 樂 is occasionally used to refer to musical instruments, as in the phrase zhū yuè 諸樂 "the various musical instruments".
+1. Perhaps the most current traditional general term for musical instruments is bā yīn [[八音]].
+2. Jīn shí [[金石]] refers not only to bells and stone chimes, but can apparently refer more generally and collectively to musical instruments.
+3. Zhōng gǔ [[鐘鼓]] can be used to refer collectively to musical instruments and not specifically to bells and drums only.
+4. Yuè [[樂]] is occasionally used to refer to musical instruments, as in the phrase zhū yuè [[諸樂]] "the various musical instruments".
 ## Modern Chinese Criteria
 樂器
 法器

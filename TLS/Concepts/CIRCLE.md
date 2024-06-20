@@ -13,11 +13,11 @@ zh: 圈子
 PERFECTLY ROUND FLAT SHAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The common general term for a circle is yuán 員 / 圓.
-2. Zhōu 周 refers to an irregular circle shape; it is used for a length of perimeter of a circle.
-3. Huán 環 refers to an irregular circle shape; it is used for an area surrounded by a circle.
-4. Tuán 摶 is a word for a circle that was in use in a southern state of >Chǔ 楚.
-5. Guī 規 occasionally refers to a standard round shape, but the word is seldom used in this sense.
+1. The common general term for a circle is yuán [[員]] / [[圓]].
+2. Zhōu [[周]] refers to an irregular circle shape; it is used for a length of perimeter of a circle.
+3. Huán [[環]] refers to an irregular circle shape; it is used for an area surrounded by a circle.
+4. Tuán [[摶]] is a word for a circle that was in use in a southern state of >Chǔ [[楚]].
+5. Guī [[規]] occasionally refers to a standard round shape, but the word is seldom used in this sense.
 ## Modern Chinese Criteria
 圈子
 圓圈

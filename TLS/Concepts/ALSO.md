@@ -19,13 +19,13 @@ ADDING SOMETHING to what has ALREADY been SAID OR been REFERRED TO. 
 ## Old Chinese Criteria
 [OBJECT-SCOPE/PREDICATE-SCOPE/SUBJECT-SCOPE]
 [ADDITIVE/ADVERSATIVE]
-1. Yòu 又 which focusses on the predicate "(THE SUBJECT) moreover also (PREDICATES)".
+1. Yòu [[又]] which focusses on the predicate "(THE SUBJECT) moreover also (PREDICATES)".
 [PREDICATE-SCOPE]
-2. Yì 亦 which focusses on the subject "also (THE SUBJECT) likewise (PREDICATES)".
+2. Yì [[亦]] which focusses on the subject "also (THE SUBJECT) likewise (PREDICATES)".
 [SUBJECT-SCOPE]
-3. Qiě 且 focusses on the whole sentence or the whole predicate and indicates that "also (SENTENCE2) (IN ADDITION TO SENTENCE 1) is/was true" or that "also VERB PHRASE 2 IN ADDITON TO VERB PHRASE 1 applies".
+3. Qiě [[且]] focusses on the whole sentence or the whole predicate and indicates that "also (SENTENCE2) (IN ADDITION TO SENTENCE 1) is/was true" or that "also VERB PHRASE 2 IN ADDITON TO VERB PHRASE 1 applies".
 [SENTENCE-SCOPE]
-4. Yóu 猶／由 "still, also" typically has an adversative nuance.
+4. Yóu [[猶]]／[[由]] "still, also" typically has an adversative nuance.
 [ADVERSATIVE]
 ## Modern Chinese Criteria
 也

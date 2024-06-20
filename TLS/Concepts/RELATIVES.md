@@ -17,13 +17,13 @@ och: 親戚
 HUMANS who HAVE COMMON ANCESTORS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general words for relatives are qīn 親 "consanguine relative", and qī 戚 "non-consaguine relative".
-2. Juàn 眷 is not very current in pre-Buddhist times, but does refer quite generally to consanguine as well as non-consanguine relatives.
-3. Qī 戚 refers to relatives including and sometimes focussing on the non-consanguine relations.
-4. Qīn qī 親戚 refers to members of one family having a consanguinal relationship. Before the >Qín 秦 dynasty, these could be also called zhì qīn 至親.
-5. Gǔ roù 骨肉 is used as a metaphor refering to a consanginual kinship.
-6. Jiā rén 家人 refers to the family living together.
-7. Qīn shǔ 親屬 refers in a rather objective or even administrative way to the members of a clan.
+1. The current general words for relatives are qīn [[親]] "consanguine relative", and qī [[戚]] "non-consaguine relative".
+2. Juàn [[眷]] is not very current in pre-Buddhist times, but does refer quite generally to consanguine as well as non-consanguine relatives.
+3. Qī [[戚]] refers to relatives including and sometimes focussing on the non-consanguine relations.
+4. Qīn qī [[親戚]] refers to members of one family having a consanguinal relationship. Before the >Qín [[秦]] dynasty, these could be also called zhì qīn [[至親]].
+5. Gǔ roù [[骨肉]] is used as a metaphor refering to a consanginual kinship.
+6. Jiā rén [[家人]] refers to the family living together.
+7. Qīn shǔ [[親屬]] refers in a rather objective or even administrative way to the members of a clan.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 2. 親屬。

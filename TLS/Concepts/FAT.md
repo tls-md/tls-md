@@ -35,11 +35,11 @@ och: 肥
 ABUNDANT in GREASE AND BIG AND HEAVY TYPICALLY BECAUSE of EXCESSIVE EATING. See also GREASE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for sleekness or obesity is féi 肥 (ant. qū 臞 "emaciated", jí 瘠 "thin"), and it must be noted that the term has positive connotations in ancient China.
-2. Tú 腯 refers specifically to feisty fatness of animals.
-3. Zhī 脂 refers to the substance of grease or fat as such. See GREASE.
-4. Fēng 豐 refers occasionally to sleekness and richness as a positive attribute of well-nourished individuals.
-NB: Pàng 胖 refers to obesity with no positive connotations, and emerges probably in YUAN times.
+1. The current general word for sleekness or obesity is féi [[肥]] (ant. qū [[臞]] "emaciated", jí [[瘠]] "thin"), and it must be noted that the term has positive connotations in ancient China.
+2. Tú [[腯]] refers specifically to feisty fatness of animals.
+3. Zhī [[脂]] refers to the substance of grease or fat as such. See GREASE.
+4. Fēng [[豐]] refers occasionally to sleekness and richness as a positive attribute of well-nourished individuals.
+NB: Pàng [[胖]] refers to obesity with no positive connotations, and emerges probably in YUAN times.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 45.

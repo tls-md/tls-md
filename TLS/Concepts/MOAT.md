@@ -8,8 +8,8 @@ och: 池
 CANAL PRODUCED FOR DEFENDING A CITY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a moat designed for military defense is chí 池.
-2. Gōu 溝 often refers to any kind of canal, but can be used in particular for defensive canals, especially those not built in conjunction with city walls.
+1. The current general word for a moat designed for military defense is chí [[池]].
+2. Gōu [[溝]] often refers to any kind of canal, but can be used in particular for defensive canals, especially those not built in conjunction with city walls.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 2. 我國從上古至宋代的城牆都是夯土牆，泥土就地挖取，故有城牆必有護城河。護城河中古前常稱 “ 池 ” ，與 “ 城 ” 並用。

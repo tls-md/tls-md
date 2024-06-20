@@ -29,9 +29,9 @@ och: 試
 ACT, BUT DOUBT WHETHER one WILL be SUCCESSFUL ACTING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for trying is shì 試, but the word generally refers to brief attempts rather than a concerted lasting campaign.
-2. Cháng 嘗 "make an attempt at" typically takes nominal objects, and the attempt referred to is typically of a transient kind.
-3. Qiú 求 refers to a sustained attempt to achieve a result.
+1. The current general word for trying is shì [[試]], but the word generally refers to brief attempts rather than a concerted lasting campaign.
+2. Cháng [[嘗]] "make an attempt at" typically takes nominal objects, and the attempt referred to is typically of a transient kind.
+3. Qiú [[求]] refers to a sustained attempt to achieve a result.
 NB: There are apparently no nominal uses of any of these words. It will be interesting to find a case of a nominalised "attempt".
 ## Modern Chinese Criteria
 試

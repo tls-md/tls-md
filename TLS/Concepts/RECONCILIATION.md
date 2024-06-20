@@ -13,8 +13,8 @@ labels:
 AGREE to CEASE WARFARE.
 # Criteria and general notes
 ## Old Chinese Criteria
-講
-和
+[[講]]
+[[和]]
 # Ontology
 
 ## Hypernym

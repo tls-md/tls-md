@@ -22,13 +22,13 @@ GATHER so as to CAUSE NOT to be ABLE be REMOVED OR LEAVE.
 ## Old Chinese Criteria
 [ABSTRACT/CONCRETE]
 [+FIG/LITERAL]
-1. The general word for tying things together into a bundle is shù 束 (ant. jiě 解 "untie"), and the word generally refers to the tying of things together in a bundle-like manner and not to the tying up of humans.
+1. The general word for tying things together into a bundle is shù [[束]] (ant. jiě [[解]] "untie"), and the word generally refers to the tying of things together in a bundle-like manner and not to the tying up of humans.
 [CONCRETE]
-2. Fú 縛 (ant. jiě 解 "untie") is primarily to tie up a person with a rope to restrict his freedom of movement, but ther word can also, by extension, be used to refer to tying up things.
+2. Fú [[縛]] (ant. jiě [[解]] "untie") is primarily to tie up a person with a rope to restrict his freedom of movement, but ther word can also, by extension, be used to refer to tying up things.
 [CONCRETE]
-3. Guàn 貫 is to string things together as in a string of cash in the traditional Chinese style, but the word is also used in transferred senses.
+3. Guàn [[貫]] is to string things together as in a string of cash in the traditional Chinese style, but the word is also used in transferred senses.
 [SPECIFIC], [+FIG]
-4. Wéi 維 refers - often in an abstract way - to the tying together or connecting of things.
+4. Wéi [[維]] refers - often in an abstract way - to the tying together or connecting of things.
 [ABSTRACT!]
 There is a large number or more or less rare words which refer in hardly distinguishable ways to the tying together of things.
 ## Modern Chinese Criteria

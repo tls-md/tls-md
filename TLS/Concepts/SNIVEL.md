@@ -7,7 +7,7 @@ zh: 鼻涕
 LIQUID IN the NOSE.
 # Criteria and general notes
 ## Old Chinese Criteria
-Yí 洟 is a specific term for a mucus from the nose.
+Yí [[洟]] is a specific term for a mucus from the nose.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 42.

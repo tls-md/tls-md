@@ -14,9 +14,9 @@ och: 全
 PEACEFUL AND NOT EASY to DAMAGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for something being unimparied and unharmed in any way is quán 全 (ant. xiǎn 險 "imperilled").
-2. Ān 安 (ant. wēi 危 "in imminent danger") refers to a comfortable state of unimpaired safety.
-3. Gù 固 (ant.* sōng 鬆 "not right and impregnable") refers specifically to the provision of natural or military defenses against possible enemies.
+1. The current general word for something being unimparied and unharmed in any way is quán [[全]] (ant. xiǎn [[險]] "imperilled").
+2. Ān [[安]] (ant. wēi [[危]] "in imminent danger") refers to a comfortable state of unimpaired safety.
+3. Gù [[固]] (ant.* sōng [[鬆]] "not right and impregnable") refers specifically to the provision of natural or military defenses against possible enemies.
 ## Modern Chinese Criteria
 安全 / 平安
 安全 is the most general and colourless word for safety.

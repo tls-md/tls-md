@@ -18,16 +18,16 @@ RELATIVE of PAST GENERATION whose DESCENDANT one is. 
 [+FIG/LITERAL]
 [FEMALE/MALE]
 [GENERAL/SPECIFIC]
-1. Zǔ 祖 (ant. hòu 後 "offspring") is the current general term for genetic literal ancestors.
+1. Zǔ [[祖]] (ant. hòu [[後]] "offspring") is the current general term for genetic literal ancestors.
 [CURRENT], [LITERAL], [MALE]
-2. Xiān 先 (ant. hòu 後 "offspring") refers even more generally to predecessors, but may specifically refer to ancestors, and the term is often used adjectivally.
+2. Xiān [[先]] (ant. hòu [[後]] "offspring") refers even more generally to predecessors, but may specifically refer to ancestors, and the term is often used adjectivally.
 [CURRENT], [DERIVED], [GENERAL], [MALE]
-3. Zōng 宗 is the specific term referring to founding highest ancestor recognised within a clan.
+3. Zōng [[宗]] is the specific term referring to founding highest ancestor recognised within a clan.
 [CURRENT], [MALE], [SPECIFIC]
-4. Mǔ 母 is sometimes used to refer to femals ancestors.
+4. Mǔ [[母]] is sometimes used to refer to femals ancestors.
 [ARCHAIC], [FEMALE]
-5. 考
-6. 妣 refers to the maternal line ancestor
+5. [[考]]
+6. [[妣]] refers to the maternal line ancestor
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 3.3. 祖宗。
 祖，通稱。

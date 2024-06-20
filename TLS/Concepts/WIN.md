@@ -15,11 +15,11 @@ och: 勝
 SUCCEED IN FIGHT OR COMPETITION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for winning or gaining the upper hand in any way, including warfare, is shèng 勝 (ant. bài 敗 "be defeated").
-2. Kè 克 (ant. shī 失 "lose in battle") refers to subduing an enemy force by military means, winning against an enemy so as to control him as a result.
-3. Qǔ 取 (ant. fù 負 "fail") refers to conquering a place so as to gain full control over it, and the word usually refers to a victory won easily.
-4. Bá 拔 and jǔ 舉 refers to conquering a place without necessarily keeping full control over it.
-5. Jié 劫 refers specifically to victory gained through ruse or indirect tactics.
+1. The current general word for winning or gaining the upper hand in any way, including warfare, is shèng [[勝]] (ant. bài [[敗]] "be defeated").
+2. Kè [[克]] (ant. shī [[失]] "lose in battle") refers to subduing an enemy force by military means, winning against an enemy so as to control him as a result.
+3. Qǔ [[取]] (ant. fù [[負]] "fail") refers to conquering a place so as to gain full control over it, and the word usually refers to a victory won easily.
+4. Bá [[拔]] and jǔ [[舉]] refers to conquering a place without necessarily keeping full control over it.
+5. Jié [[劫]] refers specifically to victory gained through ruse or indirect tactics.
 ## Modern Chinese Criteria
 勝利
 取勝

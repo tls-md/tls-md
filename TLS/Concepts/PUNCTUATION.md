@@ -6,7 +6,7 @@ labels:
 WRITE SYMBOLS which DIVIDE SENTENCES.
 # Criteria and general notes
 ## Old Chinese Criteria
-jù dòu fǎ 句讀法
+jù dòu fǎ [[句讀法]]
 # Ontology
 
 ## Hypernym

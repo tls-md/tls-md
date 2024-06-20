@@ -20,17 +20,17 @@ The EVENT that something BEGINS to EXIST.
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
 [INCHOACTIVE/PERFECTIVE]
-1. The most current general word for something arising is probably qǐ 起 (ant. zhǐ 止 "cease to exist").
+1. The most current general word for something arising is probably qǐ [[起]] (ant. zhǐ [[止]] "cease to exist").
 [GENERAL]
-2. Méng 萌 is inchoative and refers to the initial stage of arising.
+2. Méng [[萌]] is inchoative and refers to the initial stage of arising.
 [INCHOATIVE]
-3. Shēng 生 (ant. miè 滅 "be extinguished (as dinosaurs)") refers to the coming into existence of something which did not previously exist.
+3. Shēng [[生]] (ant. miè [[滅]] "be extinguished (as dinosaurs)") refers to the coming into existence of something which did not previously exist.
 [PERFECTIVE]
-4. Xīng 興 (ant. xí 息 "cease to be virulent") and fā 發 refer to something moving from an "incubatory" state to a state of manifest "virulence" and full development.
+4. Xīng [[興]] (ant. xí [[息]] "cease to be virulent") and fā [[發]] refer to something moving from an "incubatory" state to a state of manifest "virulence" and full development.
 [HIGH-DEGREE], [PERFECTIVE]
-5. Chū 出 (NB: rù 入 cannot be used as an antonym for this meaning.) refers to something that pre-exists emerging or moving from an initial state of hiddenness or non-obviousness to a state of manifest visibility (in analogy with the basic meaning of the word "to come out").
+5. Chū [[出]] (NB: rù [[入]] cannot be used as an antonym for this meaning.) refers to something that pre-exists emerging or moving from an initial state of hiddenness or non-obviousness to a state of manifest visibility (in analogy with the basic meaning of the word "to come out").
 [SPECIFIC]
-6. Zuò 作 (ant.* xiē 歇 "cease to exist, cease to be active, cease to happen") typically refers to something happening or arising for the first time, but the word can also refer to the emergence of persons like sages.
+6. Zuò [[作]] (ant.* xiē [[歇]] "cease to exist, cease to be active, cease to happen") typically refers to something happening or arising for the first time, but the word can also refer to the emergence of persons like sages.
 [ORIGINAL], [SPECIFIC]
 NB: This group needs to be viewed together with BEGIN, and the line between the two is by no means always clear.
 ## Modern Chinese Criteria

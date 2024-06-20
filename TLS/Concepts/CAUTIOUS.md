@@ -18,10 +18,10 @@ och: 慎
 DILIGENT IN-RELATION-TO AVOIDING DANGER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word referring to wariness and circumspect action is shèn 慎 (ant. hū 忽 "slipshod").
-2. Jǐng 警 (ant. shū 疏 "fail to take seriously") emphasises awareness of danger.
-3. Jiè 戒 (ant. lè 略 "fail to take heed") emphasises awareness of previous warnings.
-4. Bì 毖 (ant. chéng 懲 "take one's warning from, take (a matter of a past) as a warning") is an archaic word for being on one's guard.
+1. The dominant general word referring to wariness and circumspect action is shèn [[慎]] (ant. hū [[忽]] "slipshod").
+2. Jǐng [[警]] (ant. shū [[疏]] "fail to take seriously") emphasises awareness of danger.
+3. Jiè [[戒]] (ant. lè [[略]] "fail to take heed") emphasises awareness of previous warnings.
+4. Bì [[毖]] (ant. chéng [[懲]] "take one's warning from, take (a matter of a past) as a warning") is an archaic word for being on one's guard.
 ## Modern Chinese Criteria
 謹慎
 謹飭

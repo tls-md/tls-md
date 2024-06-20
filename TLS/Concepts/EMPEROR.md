@@ -7,10 +7,10 @@ zh: 皇帝
 RULER CONTROLLING ALL RULERS AND KINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-天子
-皇帝
-上
-帝
+[[天子]]
+[[皇帝]]
+[[上]]
+[[帝]]
 ## Modern Chinese Criteria
 皇帝
 皇上

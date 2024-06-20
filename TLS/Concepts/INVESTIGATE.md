@@ -27,14 +27,14 @@ och: 審／察
 TRY SYSTEMATICALLY to UNDERSTAND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general words for investigating something are chá 察 "sort out clearly" and shen 審 "investigate carefully".
-2. Kǎo 考 and jī 稽 refer to an objective investigation into something on the basis of the best available evidence.
-3. Xǐng 省 typically refers to investigation by introspection.
-4. Jiū 究 and qióng 窮 emphasise the thoroughness and exhaustiveness of an investigation.
-5. Xiáng 詳, xī 悉, and dì 諦 focus on the detailed nature of an investigation without insisting on its exhaustiveness.
-6. Yuán 原 refers to a principled investigation into all aspects of a topic, getting to the bottom of a matter.
+1. The most general words for investigating something are chá [[察]] "sort out clearly" and shen [[審]] "investigate carefully".
+2. Kǎo [[考]] and jī [[稽]] refer to an objective investigation into something on the basis of the best available evidence.
+3. Xǐng [[省]] typically refers to investigation by introspection.
+4. Jiū [[究]] and qióng [[窮]] emphasise the thoroughness and exhaustiveness of an investigation.
+5. Xiáng [[詳]], xī [[悉]], and dì [[諦]] focus on the detailed nature of an investigation without insisting on its exhaustiveness.
+6. Yuán [[原]] refers to a principled investigation into all aspects of a topic, getting to the bottom of a matter.
 
-NB: pàn 判涄 ome to a result in an investigation � does not refer to the investigation itself but only the final act of judgment on the result; dng 定洖 etermine (the truth of a matter) is a resultative verb. Duàn 斷烒 each a conclusion on an investigation � is close to pàn 判.
+NB: pàn [[判涄]] ome to a result in an investigation � does not refer to the investigation itself but only the final act of judgment on the result; dng [[定洖]] etermine (the truth of a matter) is a resultative verb. Duàn [[斷烒]] each a conclusion on an investigation � is close to pàn [[判]].
 ## Modern Chinese Criteria
 檢查
 檢察

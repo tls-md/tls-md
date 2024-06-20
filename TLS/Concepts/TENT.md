@@ -13,9 +13,9 @@ zh: 帳篷
 TYPICALLY SMALL BUILDING PRODUCED USING CLOTH AND TIMBER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a tent-like structure set up within a house is zhàng 帳.
-2. Mù 幕 refers to a tent in the open air which protects against the weather.
-3. Wò 幄 refers to a house-like framed tent set up within a building or in the open air.
+1. The current general word for a tent-like structure set up within a house is zhàng [[帳]].
+2. Mù [[幕]] refers to a tent in the open air which protects against the weather.
+3. Wò [[幄]] refers to a house-like framed tent set up within a building or in the open air.
 ## Modern Chinese Criteria
 帳篷
 營帳

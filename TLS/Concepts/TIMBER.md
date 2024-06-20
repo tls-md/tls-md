@@ -23,8 +23,8 @@ och: 材
 SUBSTANCE OF the MAIN PART of TREES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for timber is cái 材.
-2. Mù 木 is frequently used adjectivally to designate something as made of timber.
+1. The current general word for timber is cái [[材]].
+2. Mù [[木]] is frequently used adjectivally to designate something as made of timber.
 ## Modern Chinese Criteria
 木料
 木頭

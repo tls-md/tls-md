@@ -9,19 +9,19 @@ TREE in the form of GIANT GRASS, the STEMS of which CAN be USED AS STICKS.
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The standard general current word for bamboo is zhú 竹, and the word usually refers to bamboo that is alive and growing.
+1. The standard general current word for bamboo is zhú [[竹]], and the word usually refers to bamboo that is alive and growing.
 [GENERAL]
-2. Gān 竿 refers to bamboo that has been cut off, and the word typically refers to a bamboo stick, not to young shoots.
+2. Gān [[竿]] refers to bamboo that has been cut off, and the word typically refers to a bamboo stick, not to young shoots.
 [SPECIFIC]
-3. Miè 篾 is a rare word which refers to thin bamboo skin that has been removed to be used to make baskets, hats etc.
+3. Miè [[篾]] is a rare word which refers to thin bamboo skin that has been removed to be used to make baskets, hats etc.
 [SPECIFIC]
-4. Yún 筠 refers to the rind of bamboo which may be still on the bamboo or already removed and prepared for use in the making of baskets or hats. In post-Buddhist times this word can come to refer generally to bamboo.
+4. Yún [[筠]] refers to the rind of bamboo which may be still on the bamboo or already removed and prepared for use in the making of baskets or hats. In post-Buddhist times this word can come to refer generally to bamboo.
 [SPECIFIC]
-5. Gān 簳 is a very rare word which refers to slender young bamboo, typically the kind used to make bamboo arrows.
+5. Gān [[簳]] is a very rare word which refers to slender young bamboo, typically the kind used to make bamboo arrows.
 [SPECIFIC]
-6. Jiǎn 簡 refers to polished bamboo slips used in writing. See WRITING MATERIAL
+6. Jiǎn [[簡]] refers to polished bamboo slips used in writing. See WRITING MATERIAL
 [SPECIFIC]
-7. Jiàn 箭 refers to a kind of bamboo which provides suitable matrial for arrow-making.
+7. Jiàn [[箭]] refers to a kind of bamboo which provides suitable matrial for arrow-making.
 [SPECIFIC]
 ## Modern Chinese Criteria
 竹子

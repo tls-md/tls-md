@@ -29,12 +29,12 @@ och: 數(shuo4)
 At MANY TIMES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for high frequency of an event within a certain period of time is shuò 數 " several times in a row" (xī 希 "rarely").
-2. Lu# 屢 "quite a few times" (ant. hǎn 罕 "very seldom") indicates that an event has many precursors similar to it in the past, and the word does not emphasise the high frequency.
-3. Qì 亟 and pín 頻 "very often" (ant.* ǒu 偶 "on and off") are probably more intensitive than shuò 數.
-4. Zòu 驟 "repeatedly, within a short period of time" (ant. shū 疏 "at long intervals") is more temporary in nature.
-5. Cháng 常 (ant. xiǎn 鮮 "quite rarely, in the natural course of events") refers to fequency as a symptom of something being ordinary and only to be expected.
-6. Duō 多 (ant. shǎo 少 "a few times, few times") is a colourless word indicating that something is of generally frequent occurrence.
+1. The current general word for high frequency of an event within a certain period of time is shuò [[數]] " several times in a row" (xī [[希]] "rarely").
+2. Lu# [[屢]] "quite a few times" (ant. hǎn [[罕]] "very seldom") indicates that an event has many precursors similar to it in the past, and the word does not emphasise the high frequency.
+3. Qì [[亟]] and pín [[頻]] "very often" (ant.* ǒu [[偶]] "on and off") are probably more intensitive than shuò [[數]].
+4. Zòu [[驟]] "repeatedly, within a short period of time" (ant. shū [[疏]] "at long intervals") is more temporary in nature.
+5. Cháng [[常]] (ant. xiǎn [[鮮]] "quite rarely, in the natural course of events") refers to fequency as a symptom of something being ordinary and only to be expected.
+6. Duō [[多]] (ant. shǎo [[少]] "a few times, few times") is a colourless word indicating that something is of generally frequent occurrence.
 ## Modern Chinese Criteria
 常常
 平常

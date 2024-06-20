@@ -18,22 +18,22 @@ REQUEST an ANSWER.
 [[COMMON/RARE]]
 [GENERAL/SPECIFIC]
 [INFORMAL/OFFICIAL]
-1. The general word is wèn 問 "open a dialogue by consulting someone with a question" (ant. duì 對 "reply to a superior") which typically refers to the consultation of a person who is supposed to know something. When the adressee is explicit, the questioner is typically of higher status than the addressee, and the reply is correspondingly often phrased politely as duì yuē 對曰. When there is no explicit addressee (X asked about Y), the addressee often is of higher status (e.g. a teacher).
+1. The general word is wèn [[問]] "open a dialogue by consulting someone with a question" (ant. duì [[對]] "reply to a superior") which typically refers to the consultation of a person who is supposed to know something. When the adressee is explicit, the questioner is typically of higher status than the addressee, and the reply is correspondingly often phrased politely as duì yuē [[對曰]]. When there is no explicit addressee (X asked about Y), the addressee often is of higher status (e.g. a teacher).
 [SPECIFIC]; [[COMMOM+]]
-2. Qǐng 請 is occasionally used to refer to polite requests for information.
+2. Qǐng [[請]] is occasionally used to refer to polite requests for information.
 [[RARE]]
-3. Nàn 難 is to ask intellectually hostile questions regarding something which the person questioned has said or maintains as true, to make objections. See DISAGREE and REFUTE which are difficult to distinguish from each other and from this.
+3. Nàn [[難]] is to ask intellectually hostile questions regarding something which the person questioned has said or maintains as true, to make objections. See DISAGREE and REFUTE which are difficult to distinguish from each other and from this.
 [SPECIFIC], [HORIZONTAL]
-4. Fǎng 訪 typically refers to questioning addressed to superiors.
+4. Fǎng [[訪]] typically refers to questioning addressed to superiors.
 [ASCENDING]
-5. Xún 詢 typically refers to rather formal questions addressed to inferiors.
+5. Xún [[詢]] typically refers to rather formal questions addressed to inferiors.
 [DESCENDING], [OFFICIAL]
-6. Zī 諮／咨 refers to questions addressed to a specialist.
+6. Zī [[諮]]／[[咨]] refers to questions addressed to a specialist.
 [SPECIFIC]
-7. Zōu 諏 all refer to some kind of official soliciting of formal opinions.
+7. Zōu [[諏]] all refer to some kind of official soliciting of formal opinions.
 [OFFICIAL]; [[RARE]]
-8. Yuē 曰 is regularly used to introduce related questions as reactions within an ongoing dialogue.
-<div>9. Wèi 謂 may introduce what are in fact questions rather than statements.</div><div><br></div><div>10. Wèn yuē 問曰 introduces a a question that opens a new dialogue or a discrete new phase in a dialogue.</div><div><br></div><div>NB: ASKing in Chinese us always dialogic: one cannot ask oneself any question 問己, and one cannot abstractly just raise an abstract question as an intellectual issue worthy of discussion. There seems to be no word in classical Chinese for "asking a question" without addressing this question to an audience.<br></div><br>
+8. Yuē [[曰]] is regularly used to introduce related questions as reactions within an ongoing dialogue.
+<div>9. Wèi [[謂]] may introduce what are in fact questions rather than statements.</div><div><br></div><div>10. Wèn yuē [[問曰]] introduces a a question that opens a new dialogue or a discrete new phase in a dialogue.</div><div><br></div><div>NB: ASKing in Chinese us always dialogic: one cannot ask oneself any question [[問己]], and one cannot abstractly just raise an abstract question as an intellectual issue worthy of discussion. There seems to be no word in classical Chinese for "asking a question" without addressing this question to an audience.<br></div><br>
 ## Modern Chinese Criteria
 問 is the general word referring to the asking of questions.
 發問 focusses specifically on the initiative of the questioner posing a question.

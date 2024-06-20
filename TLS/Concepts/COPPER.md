@@ -7,7 +7,7 @@ zh: 銅
 RED METAL USED in PRODUCING BRONZE. [Cu]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Tóng 銅 refers to copper.
+1. Tóng [[銅]] refers to copper.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 29. 銅是一種淡紫紅色或藍綠色的礦石，冶煉後可成青銅。

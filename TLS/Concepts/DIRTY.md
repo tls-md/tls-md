@@ -61,11 +61,11 @@ och: 污
 CONTAIN DUST OR HAVE DUST, TYPICALLY on the SURFACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for uncleanness and dirt, both concrete and abstract, is wū 污 / 汙 (ant. jié 潔 "clean").
-2. Zhuó 濁 (ant qīng 清 "clear and pure") typically refers to physical states of dirtiness, but there are occasional usages like zhuó lì 濁吏 "morally impure official".
-3. Huì 穢 can refer to physical dirt, but the word is also used abstractly to refer to what is vulgar and morally distasteful.
-4. Hún 混 refers to an admixture of dirt rather than to the presence of dirt on some surface.
-5. Gòu 垢 refers to the presence of physical dirt on some surface.
+1. The current general word for uncleanness and dirt, both concrete and abstract, is wū [[污]] / [[汙]] (ant. jié [[潔]] "clean").
+2. Zhuó [[濁]] (ant qīng [[清]] "clear and pure") typically refers to physical states of dirtiness, but there are occasional usages like zhuó lì [[濁吏]] "morally impure official".
+3. Huì [[穢]] can refer to physical dirt, but the word is also used abstractly to refer to what is vulgar and morally distasteful.
+4. Hún [[混]] refers to an admixture of dirt rather than to the presence of dirt on some surface.
+5. Gòu [[垢]] refers to the presence of physical dirt on some surface.
 ## Modern Chinese Criteria
 骯髒
 齷齪

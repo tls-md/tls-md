@@ -22,10 +22,10 @@ zh: 不滿意
 BAD FEELING IN-RELATION-TO something that one BELIEVES is not SUFFICIENTLY GOOD OR BAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. A general word for dissatisfaction of any kind, and for any reason, is hèn 恨 (ant. qiè 慊 / 愜 "be satisfied"), but this word is rare in ancient times, the current way of expressing this idea is to use bù yuè 不悅／說.
-2. Yàn 厭 / 饜 typically refers to dissatisfaction as a result of overexposure to something.
-3. Hàn 憾 refers to a nagging kind of lingering grievance or personal dissatisfaction.
-4. Bìng 病 refers to dissatisfaction as a result of a considered judgment that something is unreasonable or not right.
+1. A general word for dissatisfaction of any kind, and for any reason, is hèn [[恨]] (ant. qiè [[慊]] / [[愜]] "be satisfied"), but this word is rare in ancient times, the current way of expressing this idea is to use bù yuè [[不悅]]／[[說]].
+2. Yàn [[厭]] / [[饜]] typically refers to dissatisfaction as a result of overexposure to something.
+3. Hàn [[憾]] refers to a nagging kind of lingering grievance or personal dissatisfaction.
+4. Bìng [[病]] refers to dissatisfaction as a result of a considered judgment that something is unreasonable or not right.
 NB: There are a number of poetic words for dissatisfaction, notably in CHUCI, which are hard to define in terms to synonym group contrasts.
 ## Modern Chinese Criteria
 不滿

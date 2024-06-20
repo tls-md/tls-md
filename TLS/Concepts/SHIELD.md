@@ -7,11 +7,11 @@ zh: 盾
 ARMOUR CARRIED IN one's HAND AND USED FOR PROTECTING ONE'S BODY AGAINST ATTACK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Prior to the Warring States period, common general word for the shield was gān 干. It is known already from oracle bone inscriptions. In Warring States times, the word was gradually replaced by shǔn 盾. In Han times, according to FANG YAN, the term was still in use from the Hangu pass to the east, and shǔn 盾 was common in the area from the pass to the West. Shields predating Warring States period are known bad; from the Shang period there is a shield made of the leather on wooden construction, of approximately oblong shape, and painted with a picture of the tiger.
-2. Shǔn 盾 refers to the shield generally, and this word became common in the Warring States period (but it occurs already in the Western Zhou bronze inscriptions and in SHIJING). Shields dating from the Warring States and Han periods are usually made of lacquered leather or wood, and are decorated with abstract and pictorial musters. Most common are pieces with rounded upper edge, but there are also oval or oblong exemplars.
-3. Fā 瞂 is according to FANG YAN another word for shǔn 盾.
-4. Lǔ 櫓 refers to the large shield perhaps covering the whole body; these mentioned in HF are made of rhinoceros leather.
-NB: Pái 牌 is a word for a shield which came to use in Song times only.
+1. Prior to the Warring States period, common general word for the shield was gān [[干]]. It is known already from oracle bone inscriptions. In Warring States times, the word was gradually replaced by shǔn [[盾]]. In Han times, according to FANG YAN, the term was still in use from the Hangu pass to the east, and shǔn [[盾]] was common in the area from the pass to the West. Shields predating Warring States period are known bad; from the Shang period there is a shield made of the leather on wooden construction, of approximately oblong shape, and painted with a picture of the tiger.
+2. Shǔn [[盾]] refers to the shield generally, and this word became common in the Warring States period (but it occurs already in the Western Zhou bronze inscriptions and in SHIJING). Shields dating from the Warring States and Han periods are usually made of lacquered leather or wood, and are decorated with abstract and pictorial musters. Most common are pieces with rounded upper edge, but there are also oval or oblong exemplars.
+3. Fā [[瞂]] is according to FANG YAN another word for shǔn [[盾]].
+4. Lǔ [[櫓]] refers to the large shield perhaps covering the whole body; these mentioned in HF are made of rhinoceros leather.
+NB: Pái [[牌]] is a word for a shield which came to use in Song times only.
 ## Modern Chinese Criteria
 盾
 盾牌

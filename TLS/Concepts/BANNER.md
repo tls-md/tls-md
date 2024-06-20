@@ -9,11 +9,11 @@ BROCADE USED AS AN IMAGE:symbol IN WARFARE OR IN an ARMY.
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The current general word for a military banner is qí 旗, and the word came to be used for any banner of any kind
+1. The current general word for a military banner is qí [[旗]], and the word came to be used for any banner of any kind
 [GENERAL]
-2. Jīng 旌 is a banner used in hunts as well as in battle in order to guide and lead one's forces. This banner was embellished with feathers.
+2. Jīng [[旌]] is a banner used in hunts as well as in battle in order to guide and lead one's forces. This banner was embellished with feathers.
 [SPECIFIC]
-3. Wù 物 refers specifically to a multicoloured banner with a swallow-style end.
+3. Wù [[物]] refers specifically to a multicoloured banner with a swallow-style end.
 [SPECIFIC]
 NB: The identification of given banners with classical terms is often controversial, and attributions vary among scholars.
 ## Modern Chinese Criteria

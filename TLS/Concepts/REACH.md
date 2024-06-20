@@ -12,10 +12,10 @@ zh: 達到
 APPROACH so as to BECOME:come to be IN A CERTAIN PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for reaching a place or even an abstract stage is jí 及.
-2. Dào 到 is concrete and typically refers to reaching a point in space.
-3. Bǐ jí 比及 refers to reaching a point in time.
-4. Dài 逮 refers to catching up or reaching a certain desirable stage or level of achievement. See also CATCH UP.
+1. The current general word for reaching a place or even an abstract stage is jí [[及]].
+2. Dào [[到]] is concrete and typically refers to reaching a point in space.
+3. Bǐ jí [[比及]] refers to reaching a point in time.
+4. Dài [[逮]] refers to catching up or reaching a certain desirable stage or level of achievement. See also CATCH UP.
 ## Modern Chinese Criteria
 到達
 進抵

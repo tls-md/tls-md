@@ -19,8 +19,8 @@ zh: 下
 WALK OR MOVE DOWNWARDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for descending is jiàng 降 (ant. shēng 升 "ascend", dēng 登 "ascend").
-2. Xià 下 (ant. shàng 上 "ascend") sometimes refers colourlessly to something moving downwards.
+1. The current word for descending is jiàng [[降]] (ant. shēng [[升]] "ascend", dēng [[登]] "ascend").
+2. Xià [[下]] (ant. shàng [[上]] "ascend") sometimes refers colourlessly to something moving downwards.
 ## Modern Chinese Criteria
 下
 降

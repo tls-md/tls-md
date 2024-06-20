@@ -30,10 +30,10 @@ FEEL that something one EXPERIENCES NOW is STRANGE OR DIFFERENT from what is COM
 Surprise originating from supriser X, acting on surprisee Y, activated because of the surprising feature Z.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for being surprised at something is yì 異.
-2. Guài 怪 refers to mild intellectual surprise, and sometimes even philosophical wonder.
-3. Jīng 驚 refers to heightened surprise mixed with astonishment and fear.
-4. È 愕 is a rare rather literary word for stunned astonishment.
+1. The current general word for being surprised at something is yì [[異]].
+2. Guài [[怪]] refers to mild intellectual surprise, and sometimes even philosophical wonder.
+3. Jīng [[驚]] refers to heightened surprise mixed with astonishment and fear.
+4. È [[愕]] is a rare rather literary word for stunned astonishment.
 ## Modern Chinese Criteria
 驚奇
 奇怪

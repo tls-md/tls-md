@@ -32,11 +32,11 @@ zh: 過分
 INTENSELY to a MORE than APPROPRIATELY BIG DEGREE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for excessive intensity of anything is tài 太／泰.
-2. Yǐ3 已 is an archaic adverb meaning "excessively".
-3. Shèn 甚 can come to refer to excessive intensity or degree of anything, and the very is syntactically quite versatile.
-4. Yín 淫 stresses the aspect of indulgence often inherent in excessiveness.
-5. Guò 過 often, but not always, focusses on the aspect of transgression in excessiveness.
+1. The standard word for excessive intensity of anything is tài [[太]]／[[泰]].
+2. Yǐ3 [[已]] is an archaic adverb meaning "excessively".
+3. Shèn [[甚]] can come to refer to excessive intensity or degree of anything, and the very is syntactically quite versatile.
+4. Yín [[淫]] stresses the aspect of indulgence often inherent in excessiveness.
+5. Guò [[過]] often, but not always, focusses on the aspect of transgression in excessiveness.
 ## Modern Chinese Criteria
 過分
 過度

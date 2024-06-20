@@ -7,7 +7,7 @@ zh: 丹砂
 HEAVY REDDISH MINERAL SUBSTANCE the most important ore of mercury.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word is dān 丹.
+1. The standard word is dān [[丹]].
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 27.

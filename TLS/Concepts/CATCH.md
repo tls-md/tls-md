@@ -19,17 +19,17 @@ zh: 抓住
 TAKE something which is TRYING AVOID this, by PURSUING it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The common general word is 獲 (ant. shì 釋 "set free") which can refer to the capturing or obtaining of anything that might conceivably try to escape (for dé 得 "obtain what generally does not try to escape capture" see OBTAIN).
-2. Qǔ 取 (ant. shě 捨 "relinguish, reject") is to take control of by force and applies typically to enemy territories or enemy cities in a conflict. See WIN
-3. Chí 持 (ant. shī 失 "lose hold of") refers to the capturing of non-human prey.
-4. Zhi 執 (refers to the capturing of any human and non-human prey. See also ARREST.
-5. Náng 囊 is specifically to capture by the use of a sack or bag.
-6. Guà 絓 refers to catching something on a hook, typically a hook attached to a string.
-7. Wò 握 is specifically to catch and get hold of something with one's bare hands.
-8. Yú 漁 refers very specifically to the catching and killing of fish. [See ANGLE]
-9. Dé 得 "obtain" can sometimes come to refer to catching what is trying to escape capture.
-10. Bǔ 捕 refers to catching animals typically in a habitual or professional way.
-NB: Zhuō 捉 came to mean "catch" in post-Han times.
+1. The common general word is [[獲]] (ant. shì [[釋]] "set free") which can refer to the capturing or obtaining of anything that might conceivably try to escape (for dé [[得]] "obtain what generally does not try to escape capture" see OBTAIN).
+2. Qǔ [[取]] (ant. shě [[捨]] "relinguish, reject") is to take control of by force and applies typically to enemy territories or enemy cities in a conflict. See WIN
+3. Chí [[持]] (ant. shī [[失]] "lose hold of") refers to the capturing of non-human prey.
+4. Zhi [[執]] (refers to the capturing of any human and non-human prey. See also ARREST.
+5. Náng [[囊]] is specifically to capture by the use of a sack or bag.
+6. Guà [[絓]] refers to catching something on a hook, typically a hook attached to a string.
+7. Wò [[握]] is specifically to catch and get hold of something with one's bare hands.
+8. Yú [[漁]] refers very specifically to the catching and killing of fish. [See ANGLE]
+9. Dé [[得]] "obtain" can sometimes come to refer to catching what is trying to escape capture.
+10. Bǔ [[捕]] refers to catching animals typically in a habitual or professional way.
+NB: Zhuō [[捉]] came to mean "catch" in post-Han times.
 ## Modern Chinese Criteria
 拿獲
 捕獲

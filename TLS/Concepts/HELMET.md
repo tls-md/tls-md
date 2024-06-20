@@ -8,10 +8,10 @@ och: 冑
 ARMOUR USED to DEFEND the HEAD AGAINST ATTACKS USING WEAPONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a helmet, which was current till the Han period, is zhòu 冑. It can be made of leather, bronze, and since the late Warring States also of iron. Archaeological finds are of course mostly of the bronze helmets, which are known from the Shang till the Warring States.
-2. Dōu móu 兜鍪 is the term for a helmet which became common in the Han period. It probably refers mainly to the iron helmets; these were in Han times made of iron scales.
-3. Móu 鍪 is another term for a helmet used in Han times.
-NB: Kuī 盔 is a post-Han word for a helmet.
+1. The general word for a helmet, which was current till the Han period, is zhòu [[冑]]. It can be made of leather, bronze, and since the late Warring States also of iron. Archaeological finds are of course mostly of the bronze helmets, which are known from the Shang till the Warring States.
+2. Dōu móu [[兜鍪]] is the term for a helmet which became common in the Han period. It probably refers mainly to the iron helmets; these were in Han times made of iron scales.
+3. Móu [[鍪]] is another term for a helmet used in Han times.
+NB: Kuī [[盔]] is a post-Han word for a helmet.
 ## Modern Chinese Criteria
 盔
 頭盔

@@ -19,12 +19,12 @@ och: 為
 ACT so as to DELIBERATELY CAUSE something to BEGIN to EXIST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word for producing something is wéi 為.
-2. Chéng 成 focusses on the completion of the process and its success.
-3. Zhì 治 focusses on the orderliness of the result.
-4. Chǎn 產 focusses on the act of production as typically informed by professionalism.
-5. Zào 造 refers to the production of something like a carriage through craftsmanship.
-6. Zhì 制 refers primarily to the production of clothes, but the word later came to refer to all manner of production of artifacts.
+1. The most common word for producing something is wéi [[為]].
+2. Chéng [[成]] focusses on the completion of the process and its success.
+3. Zhì [[治]] focusses on the orderliness of the result.
+4. Chǎn [[產]] focusses on the act of production as typically informed by professionalism.
+5. Zào [[造]] refers to the production of something like a carriage through craftsmanship.
+6. Zhì [[制]] refers primarily to the production of clothes, but the word later came to refer to all manner of production of artifacts.
 ## Modern Chinese Criteria
 製造
 製作

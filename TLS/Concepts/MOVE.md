@@ -17,10 +17,10 @@ och: 動
 CHANGE PLACE OR SITUATION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for movement of any kind, psychological as well as physical, is dòng 動 (ant. jìng 靜 "remain still").
-2. Yí 移 (ant. dìng 定 "fixed, unoved") refers to any temporary or lasting dislocation to a new place.
-3. Xǐ 徙 (ant. liú 留 "stay put") refers to moving permanently, often but not necessarily over a long distance.
-4. Qiān 遷 (liú 留 ("stay put") refers to moving and/or changing permanently, and particularly moving radically, or over a long distance, and the word often refers to dignified or someohow sanctioned movement.
+1. The current general word for movement of any kind, psychological as well as physical, is dòng [[動]] (ant. jìng [[靜]] "remain still").
+2. Yí [[移]] (ant. dìng [[定]] "fixed, unoved") refers to any temporary or lasting dislocation to a new place.
+3. Xǐ [[徙]] (ant. liú [[留]] "stay put") refers to moving permanently, often but not necessarily over a long distance.
+4. Qiān [[遷]] (liú [[留]] ("stay put") refers to moving and/or changing permanently, and particularly moving radically, or over a long distance, and the word often refers to dignified or someohow sanctioned movement.
 ## Modern Chinese Criteria
 搬動
 挪動

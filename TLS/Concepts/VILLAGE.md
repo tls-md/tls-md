@@ -13,10 +13,10 @@ och: 里
 SMALL PLACE where MANY HUMANS, TYPICALLY PEASANTS, LIVE TOGETHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a village of any kind is lǐ 里. But note that this word even more often refers to city neighbourhoods.
-2. Xiāng 鄉 as an administrative term refers to a fairly non-urban neighbourhood area which will normally include several lǐ 里. ZHOULI and Han commentators arbitrarily define this as containing 12 500 families; when used informally, the term refers to a person's home or the vicinity where he lives, as in xiāng rén 鄉人.
-3. Lu �閭 refers generally to a narrowly defined neighbourhood area in the countryside, or a small neighbourhood in a conurbation. Han commentators do not quantify the number of inhabitants.
-4. Lín 鄰 refers to the administrative unit of a "neighbourhood". Traditionally, this was quantified as containing five or eight families.
+1. The current general word for a village of any kind is lǐ [[里]]. But note that this word even more often refers to city neighbourhoods.
+2. Xiāng [[鄉]] as an administrative term refers to a fairly non-urban neighbourhood area which will normally include several lǐ [[里]]. ZHOULI and Han commentators arbitrarily define this as containing 12 500 families; when used informally, the term refers to a person's home or the vicinity where he lives, as in xiāng rén [[鄉人]].
+3. Lu �[[閭]] refers generally to a narrowly defined neighbourhood area in the countryside, or a small neighbourhood in a conurbation. Han commentators do not quantify the number of inhabitants.
+4. Lín [[鄰]] refers to the administrative unit of a "neighbourhood". Traditionally, this was quantified as containing five or eight families.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 32.

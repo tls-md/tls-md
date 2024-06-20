@@ -22,16 +22,16 @@ och: 昔
 PERIOD BEFORE NOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for "formerly" referring to any time in the distant or recent past is probably xī 昔 (ant. jīn 今 "present").
-2. Wǎng 往 (ant. lái 來 "future") is a general technical term for the past.
-3. Céng 曾 marks an event as belonging to the past, and the word is highly grammaticalised. 待考
-4. Cháng 嘗 places an action or experience in the past, typically in so far as this past is experienced or witnessed by someone, remarkably often by the speaker himself.
-5. Gǔ 古 and gǔ zhě 古者 refer specifically to ancient times and not just generally to the past.
-6. Xiàng 鄉 / 曏 / 嚮 refers to the relatively recent past.
-7. Nǎng 曩 refers to the somewhat more distant past.
-8. Qǐng 頃 refer to the period a short time ago.
-9. Gù 故 tends to be used adjectivally to characterise something as being former rather than present, and the meaning is very neatly distinct from gǔ 古 which would characterise something as being old.\
-NB: Zuó 昨 refers specifically to something happening a day ago. See YESTERDAY.
+1. The most general current word for "formerly" referring to any time in the distant or recent past is probably xī [[昔]] (ant. jīn [[今]] "present").
+2. Wǎng [[往]] (ant. lái [[來]] "future") is a general technical term for the past.
+3. Céng [[曾]] marks an event as belonging to the past, and the word is highly grammaticalised. [[待考]]
+4. Cháng [[嘗]] places an action or experience in the past, typically in so far as this past is experienced or witnessed by someone, remarkably often by the speaker himself.
+5. Gǔ [[古]] and gǔ zhě [[古者]] refer specifically to ancient times and not just generally to the past.
+6. Xiàng [[鄉]] / [[曏]] / [[嚮]] refers to the relatively recent past.
+7. Nǎng [[曩]] refers to the somewhat more distant past.
+8. Qǐng [[頃]] refer to the period a short time ago.
+9. Gù [[故]] tends to be used adjectivally to characterise something as being former rather than present, and the meaning is very neatly distinct from gǔ [[古]] which would characterise something as being old.\
+NB: Zuó [[昨]] refers specifically to something happening a day ago. See YESTERDAY.
 ## Modern Chinese Criteria
 過去
 從前

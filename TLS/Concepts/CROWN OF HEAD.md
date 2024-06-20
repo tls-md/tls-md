@@ -7,8 +7,8 @@ zh: 頭頂
 UPSIDE of a HEAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Diān 顛 is the old current word for the crown of the head.
-2. Dǐng 頂 is a later word for the crown of the hed which slowly became current from Warring States times onwards.
+1. Diān [[顛]] is the old current word for the crown of the head.
+2. Dǐng [[頂]] is a later word for the crown of the hed which slowly became current from Warring States times onwards.
 ## Modern Chinese Criteria
 頭頂
 顛

@@ -15,8 +15,8 @@ zh: 脆的
 FRIED so as to BECOME BRITTLE AND SAVOURY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. A common general term for crisp is wēi 脆.
-2. Sū 酥 refers to something crisp and easy to smash, but the word is not current in pre-Buddhist literature.
+1. A common general term for crisp is wēi [[脆]].
+2. Sū [[酥]] refers to something crisp and easy to smash, but the word is not current in pre-Buddhist literature.
 ## Modern Chinese Criteria
 脆
 脆生

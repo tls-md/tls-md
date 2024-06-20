@@ -8,14 +8,14 @@ och: 網
 ARTEFACT of TIED THREADS, CONTAINING MANY BIG HOLES BETWEEN the THREADS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general term for a net is probably wǎng 网 (originally specifically a fishing net) and gǔ 罟, (originally also specifically a fishing net). It seems that both terms referred originally not only to the fishing net, but to a net in general; already in bone inscriptions and then in SHIJING wǎng 网 is mentioned like a net used to catch animals.
-2. Luó 羅, wǎng 罔／網, bì 畢, fú 罘, and jū 罝 (small) are current words for bird nets which can also be used to catch small animals like hares. [Bì 畢 was probably of Y-like shape, and consisted of small net and long handle. The word wǎng 罔／網 is probably only archaic variant of wǎng 网. In SHIJING, the word is used also for a fish net. Fú 罘 can be also used to catch large animals like deers.
-3. Zēng 罾, gū 罛, yù 罭 are current names for fish nets.
-4. Hǎn 罕 refers to a small bird net with long handle; perhaps it refers to the same implement like bì 畢.
-5. Zhāng 張 is usually a verb meaning 'to catch (birds or animals) with a net', but it can also refer to a net for hunting.
-6. Weì 罻 refers to a small net for catching birds.
-7. Chōng 罿 refers to a small bird net.
-8. Juàn 罥 refers to a bird net.
+1. The most general term for a net is probably wǎng [[网]] (originally specifically a fishing net) and gǔ [[罟]], (originally also specifically a fishing net). It seems that both terms referred originally not only to the fishing net, but to a net in general; already in bone inscriptions and then in SHIJING wǎng [[网]] is mentioned like a net used to catch animals.
+2. Luó [[羅]], wǎng [[罔]]／[[網]], bì [[畢]], fú [[罘]], and jū [[罝]] (small) are current words for bird nets which can also be used to catch small animals like hares. [Bì [[畢]] was probably of Y-like shape, and consisted of small net and long handle. The word wǎng [[罔]]／[[網]] is probably only archaic variant of wǎng [[网]]. In SHIJING, the word is used also for a fish net. Fú [[罘]] can be also used to catch large animals like deers.
+3. Zēng [[罾]], gū [[罛]], yù [[罭]] are current names for fish nets.
+4. Hǎn [[罕]] refers to a small bird net with long handle; perhaps it refers to the same implement like bì [[畢]].
+5. Zhāng [[張]] is usually a verb meaning 'to catch (birds or animals) with a net', but it can also refer to a net for hunting.
+6. Weì [[罻]] refers to a small net for catching birds.
+7. Chōng [[罿]] refers to a small bird net.
+8. Juàn [[罥]] refers to a bird net.
 9. Fú CHARACTER??? is a mechanism used to catch birds or animals. It was perhaps a carriage with two shafts, among which was spread a net. Mentioned already in SHIJING. [HUANG 1995: 448 - 449; XIANG 1997: 163]
 ## 
 HUANG JINGUI 2006

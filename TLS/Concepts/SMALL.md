@@ -30,10 +30,10 @@ och: 小
 LACK BIGNESS IN-RELATION-TO a STANDARD, OR IN-RELATION-TO the SIZE of a HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant quite general word is xiǎo 小 (ant. dà 大 "big"), and this word refers to both physical size and abstract importance.
-2. Miǎo 眇 / 渺 and mǐ 靡 (ant. páng 龐 "big") refers to extremely small size of something.
-3. Xì 細 (ant. jù 巨 "enormous") is sometimes used to refer to something being small or of slight importance. See TENUOUS
-NB: ǎi 矮 "not tall, of slight height, of low build" is post-Buddhist late colloquial.
+1. The dominant quite general word is xiǎo [[小]] (ant. dà [[大]] "big"), and this word refers to both physical size and abstract importance.
+2. Miǎo [[眇]] / [[渺]] and mǐ [[靡]] (ant. páng [[龐]] "big") refers to extremely small size of something.
+3. Xì [[細]] (ant. jù [[巨]] "enormous") is sometimes used to refer to something being small or of slight importance. See TENUOUS
+NB: ǎi [[矮]] "not tall, of slight height, of low build" is post-Buddhist late colloquial.
 ## Modern Chinese Criteria
 小
 微

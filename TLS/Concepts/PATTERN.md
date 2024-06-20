@@ -24,9 +24,9 @@ och: 文
 COMPLEX ORDERLY SHAPE of something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a pattern is wén 文.
-2. Zhāng 章 is specifically a conspicuous pattern in red and white.
-3. Lǐ 理 refers to patterns inherent in things.
+1. The general word for a pattern is wén [[文]].
+2. Zhāng [[章]] is specifically a conspicuous pattern in red and white.
+3. Lǐ [[理]] refers to patterns inherent in things.
 ## Modern Chinese Criteria
 模范
 模型

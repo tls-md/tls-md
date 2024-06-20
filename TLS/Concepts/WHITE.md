@@ -16,11 +16,11 @@ och: 白
 COLOUR RESEMBLING COLOUR of FRESH SNOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for whiteness is bái 白 (ant. hēi 黑 "black").
-2. Sù 素 (ant. zī 緇 "black") refers to a pristine natural absence of colouring close to what we call off white.
-3. Hào 皓 (ant. xuán 玄 and zào 皂 "dark and black") refers to gleaming whiteness.
-4. Ái 皚 refers specifically to the white appearance of snow, xī 皙 refers to the whiteness or paleness of skin, cuǒ 瑳 to the white tinge of jade, pó 皤 refers to whiteness of hair.
-5. Hào 皜 refers to a pure but unshiny white, as in porcelain.
+1. The dominant word for whiteness is bái [[白]] (ant. hēi [[黑]] "black").
+2. Sù [[素]] (ant. zī [[緇]] "black") refers to a pristine natural absence of colouring close to what we call off white.
+3. Hào [[皓]] (ant. xuán [[玄]] and zào [[皂]] "dark and black") refers to gleaming whiteness.
+4. Ái [[皚]] refers specifically to the white appearance of snow, xī [[皙]] refers to the whiteness or paleness of skin, cuǒ [[瑳]] to the white tinge of jade, pó [[皤]] refers to whiteness of hair.
+5. Hào [[皜]] refers to a pure but unshiny white, as in porcelain.
 ## 
 HUANG JINGUI 2006
 ART 14.

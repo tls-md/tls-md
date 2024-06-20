@@ -12,10 +12,10 @@ och: 立
 SUPPORT one's WEIGHT USING one's FEET AND NOT MOVE one's FEET.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word dominating this group is lì 立 (ant. fú 伏 "lie down").
-2. Qǐ 企 refers to standing tip-toe.
-3. Sǒng 竦 refers to standing tip-toe and craning one's neck.
-4. Zhù 佇 is a very poetic word referring to standing attentively for a long time.
+1. The current general word dominating this group is lì [[立]] (ant. fú [[伏]] "lie down").
+2. Qǐ [[企]] refers to standing tip-toe.
+3. Sǒng [[竦]] refers to standing tip-toe and craning one's neck.
+4. Zhù [[佇]] is a very poetic word referring to standing attentively for a long time.
 ## Modern Chinese Criteria
 站 is the current modern word for standing.
 立 (lit) is the current literary word which is still in current modern use.

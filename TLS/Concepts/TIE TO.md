@@ -28,8 +28,8 @@ zh: 連結
 BIND something so as to LINK it to ANOTHER THING, TYPICALLY USING A THREAD OR A ROPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for tying something onto something else is probable xì 繫.
-2. Xì 係 in this acceptation refers to tying something round something else. See also the entries in BIND.
+1. The most general word for tying something onto something else is probable xì [[繫]].
+2. Xì [[係]] in this acceptation refers to tying something round something else. See also the entries in BIND.
 NB: Both these words are commonly used to refer to putting someone in fetters in the context of arrestation. See ARREST.
 ## Modern Chinese Criteria
 拴 is the current modern word for tying something to something else.

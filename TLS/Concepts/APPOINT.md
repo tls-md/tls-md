@@ -18,22 +18,22 @@ EMPLOY so as to CAUSE TO BECOME a SENIOR OFFICIAL.
 [GENERAL/SPECIFIC]
 [IMPOLITE/POLITE]
 [TECHNICAL-TERM/CURRENT-WORD]
-1. Bài 拜 (ant. biǎn 貶 "demote to a lower position in the hierarchy at court") refers formally and bureaucratically to a high appointment at court.
+1. Bài [[拜]] (ant. biǎn [[貶]] "demote to a lower position in the hierarchy at court") refers formally and bureaucratically to a high appointment at court.
 [POLITE], [SPECIFIED]; [vtt!]
-2. Shì 仕 (ant. chù 黜 "remove from office") describes a position below the top echelon in pre-Qín times, but came to refer to the highest kinds of appointment in Hàn times.
+2. Shì [[仕]] (ant. chù [[黜]] "remove from office") describes a position below the top echelon in pre-Qín times, but came to refer to the highest kinds of appointment in Hàn times.
 [FORMAL], [GENERAL]
-3. Huàn 宦 is rarer, refers originally to the position of a menial servant, but became basically synonymous with shì 仕, except that huàn 宦 normally refers to positions held at court.
+3. Huàn [[宦]] is rarer, refers originally to the position of a menial servant, but became basically synonymous with shì [[仕]], except that huàn [[宦]] normally refers to positions held at court.
 [SPECIFIC], [FORMAL]
-4. Wéi 為 "make into" is a neutral informal term which does not primarily refer to the formal investment or any transferring of the insignia of office.
+4. Wéi [[為]] "make into" is a neutral informal term which does not primarily refer to the formal investment or any transferring of the insignia of office.
 [GENERAL], [INFORMAL]
-5. Xiàng 相 is used in a derived sense for an appointment to a specific high position, that of Prime Minister.
+5. Xiàng [[相]] is used in a derived sense for an appointment to a specific high position, that of Prime Minister.
 [FORMAL], [SPECIFIC+]
-6. Shǔ 署 is a Hàn dynasty technical buraucratic term.
+6. Shǔ [[署]] is a Hàn dynasty technical buraucratic term.
 [FORMAL], [TECHNICAL-TERM]
-7. Mìng 命 refers specifically to the conferment of the title which goes with an official appointment.
+7. Mìng [[命]] refers specifically to the conferment of the title which goes with an official appointment.
 [FORMAL], [CURRENT-WORD]
-8. 委
-9. 授
+8. [[委]]
+9. [[授]]
 ## 
 HUANG JINGUI 2006 GOVERNMENT/LAW 21.
 任，任官的通稱。

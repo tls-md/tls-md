@@ -27,13 +27,13 @@ zh: 寒衣
 HEAVY OUTER GARMENT FOR PROTECTION AGAINST RAIN AND COLD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. By far the most common word for a cloak or fur coat is qiú 裘, but the word refers specifically to the fur coat of which the fur turned towards the outside.
-2. The general term for anything worn outside ordinary outer-layer garments is biǎo 表.
-3. Páo 袍 refers to a padded cloak that became current from Han times onwards.
-4. Zhěn 袗 refers to a single-layer thin overcoat.
-5. Xí 襲 refers to an overcoat worn on ceremonial occasions.
-6. Jiǒng 絅／褧 refers to a coarse hemp overcoat.
-NB: Aυ 襖 is a post-Buddhist word for a padded jacket.
+1. By far the most common word for a cloak or fur coat is qiú [[裘]], but the word refers specifically to the fur coat of which the fur turned towards the outside.
+2. The general term for anything worn outside ordinary outer-layer garments is biǎo [[表]].
+3. Páo [[袍]] refers to a padded cloak that became current from Han times onwards.
+4. Zhěn [[袗]] refers to a single-layer thin overcoat.
+5. Xí [[襲]] refers to an overcoat worn on ceremonial occasions.
+6. Jiǒng [[絅]]／[[褧]] refers to a coarse hemp overcoat.
+NB: Aυ [[襖]] is a post-Buddhist word for a padded jacket.
 ## Modern Chinese Criteria
 冬裝
 冬衣

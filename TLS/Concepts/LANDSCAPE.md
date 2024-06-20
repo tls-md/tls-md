@@ -21,7 +21,7 @@ och: 漠
 FEATURES of TERRITORY.
 # Criteria and general notes
 ## Old Chinese Criteria
-There is no concept of a landscape in pre-Buddhist classical Chinese. Shān shuǐ 山水 came to mean "landscape scenery" in Tang times.
+There is no concept of a landscape in pre-Buddhist classical Chinese. Shān shuǐ [[山水]] came to mean "landscape scenery" in Tang times.
 ## Modern Chinese Criteria
 風景
 景色

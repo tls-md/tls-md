@@ -12,7 +12,7 @@ zh: 染
 CAUSE to CHANGE so as to HAVE a DEFINED COLOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for dyeing something is rǎn 染 "to dye".
+1. The current general word for dyeing something is rǎn [[染]] "to dye".
 ## Modern Chinese Criteria
 染
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

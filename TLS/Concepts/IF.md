@@ -30,7 +30,7 @@ rough draft to BEGIN TO identify synonym group members for analysis, based on CL
 ## 
 BROWN 2005: CONDITIONALS is very good.
 ## Old Chinese Criteria
-誠 "if really, if 'to the full'" is an emphatic conditional particle suggesting the problematic nature of the fulfilment of the condition.
+[[誠]] "if really, if 'to the full'" is an emphatic conditional particle suggesting the problematic nature of the fulfilment of the condition.
 # Ontology
 
 ## Antonym

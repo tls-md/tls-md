@@ -19,12 +19,12 @@ och: 憶
 CONTINUE to be AWARE of.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for thinking about something remebered from the past is yì 憶.
-2. Huái 懷 refers to recalling something remembered with affection.
-3. Shí 識 refers to a continued awareness of something in the past.
-4. Zhì 志 is to cause the memory of something to be guarded.
-5. Qiáng zhì 強識 refers to having a good memory.
-NB: The general abstract modern notion of jìyìlì 記憶力 appears not to be present in classical Chinese.
+1. The current general word for thinking about something remebered from the past is yì [[憶]].
+2. Huái [[懷]] refers to recalling something remembered with affection.
+3. Shí [[識]] refers to a continued awareness of something in the past.
+4. Zhì [[志]] is to cause the memory of something to be guarded.
+5. Qiáng zhì [[強識]] refers to having a good memory.
+NB: The general abstract modern notion of jìyìlì [[記憶力]] appears not to be present in classical Chinese.
 ## Modern Chinese Criteria
 記得
 記

@@ -16,11 +16,11 @@ och: 少
 SMALL in QUANTITY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word referring to the relatively small number or the small amount of something is shǎo 少 (ant. duō 多 "many, much").
-2. Guǎ 寡 (ant. zhòng 眾 "numerous" and occasionally also duō 多 "large in quantity") typically refers specifically humans not being numerous as opposed to larger groups of humans, but the word comes to refer also to any quantity being relatively large ( 五穀多寡 "the relative abundance of grain") and I have not found a systematic difference in nuance with shǎo 少 when the word is so used, except for the generally subjective intuition that guǎ 寡 being the dominant word in early times, perhaps retained a somewhat more dignified stylistic value throughout.
-3. Fá 乏 and kuì 匱 (ant. zú 足 "enough") refer specifically to the shortage of something one definitely needs more of.
-4. Xī 希 / 稀 and the more archaic xiǎn 鮮 refers to sparsity of distribution.
-5. Jiǎn 減 (ant. zēng 增 "increase") refers specifically to the reduction of the amount of the number of something. See also DIMINISH.
+1. The current general word referring to the relatively small number or the small amount of something is shǎo [[少]] (ant. duō [[多]] "many, much").
+2. Guǎ [[寡]] (ant. zhòng [[眾]] "numerous" and occasionally also duō [[多]] "large in quantity") typically refers specifically humans not being numerous as opposed to larger groups of humans, but the word comes to refer also to any quantity being relatively large ( [[五穀多寡]] "the relative abundance of grain") and I have not found a systematic difference in nuance with shǎo [[少]] when the word is so used, except for the generally subjective intuition that guǎ [[寡]] being the dominant word in early times, perhaps retained a somewhat more dignified stylistic value throughout.
+3. Fá [[乏]] and kuì [[匱]] (ant. zú [[足]] "enough") refer specifically to the shortage of something one definitely needs more of.
+4. Xī [[希]] / [[稀]] and the more archaic xiǎn [[鮮]] refers to sparsity of distribution.
+5. Jiǎn [[減]] (ant. zēng [[增]] "increase") refers specifically to the reduction of the amount of the number of something. See also DIMINISH.
 ## Modern Chinese Criteria
 少
 微少

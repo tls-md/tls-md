@@ -13,8 +13,8 @@ zh: 測日儀
 TOOL USED FOR MEASURING TIME.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a sundial is biǎo 表.
-2. Niè 臬 and guǐ 晷 are technical terms for a sundial.
+1. The current general word for a sundial is biǎo [[表]].
+2. Niè [[臬]] and guǐ [[晷]] are technical terms for a sundial.
 ## Modern Chinese Criteria
 鐘
 時鐘

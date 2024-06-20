@@ -9,10 +9,10 @@ zh: 廚師／做飯
 PRODUCE FOOD FOR IMMEDIATE EATING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a person in charge of the preparation of food is páo 庖.
-2. Zǎi 宰 often refers to what appears to be a kind of head butler serving up formal meals, but the meaning of this word is often difficult to distinguish from the other function of "head official, head administrator".
-3. Perhaps the most general word for preparing food is chuī 炊. See BOIL, ROAD, FRY, STIR-FRY, GRILL, STEAM, BAKE
-NB: There is a strikingly large number of binomes like páo rén 庖人 and páo zǎi 庖宰 referring to the cook in ancient China.
+1. The standard word for a person in charge of the preparation of food is páo [[庖]].
+2. Zǎi [[宰]] often refers to what appears to be a kind of head butler serving up formal meals, but the meaning of this word is often difficult to distinguish from the other function of "head official, head administrator".
+3. Perhaps the most general word for preparing food is chuī [[炊]]. See BOIL, ROAD, FRY, STIR-FRY, GRILL, STEAM, BAKE
+NB: There is a strikingly large number of binomes like páo rén [[庖人]] and páo zǎi [[庖宰]] referring to the cook in ancient China.
 ## 
 HUANG JINGUI 2006
 FOOD 49. 做飯。

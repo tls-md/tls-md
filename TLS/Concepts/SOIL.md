@@ -14,13 +14,13 @@ och: 土
 SUBSTANCE ON the EARTH in which PLANTS GROW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for soil of any kind, including dirt, is tǔ 土.
-2. Rǎng 壤 refers to the kind of fertile soil that is useful for agriculture.
-3. Xī 隰 refers to low-lying wet ground
-4. Chì 斥 and lǔ 鹵 refers to saline ground.
-5. Qì 磧 refers to sandy ground.
-6. Kuài 塊 refers to a clod of earth.
-7. Yū 淤 refers to sludge in a river or in the sea. See MUD
+1. The current general word for soil of any kind, including dirt, is tǔ [[土]].
+2. Rǎng [[壤]] refers to the kind of fertile soil that is useful for agriculture.
+3. Xī [[隰]] refers to low-lying wet ground
+4. Chì [[斥]] and lǔ [[鹵]] refers to saline ground.
+5. Qì [[磧]] refers to sandy ground.
+6. Kuài [[塊]] refers to a clod of earth.
+7. Yū [[淤]] refers to sludge in a river or in the sea. See MUD
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 18.

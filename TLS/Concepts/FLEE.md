@@ -33,14 +33,14 @@ och: 逃／走
 LEAVE QUICKLY AND SECRETLY, FEARING DANGER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for illicit disappearance from where one has some obligation to remain is zǒu 走.
-2. Táo 逃 refers to an attempted or successful escape to a place, or from any difficult predicament (for which see AVOID), occasionally also from a person or group of persons. Thus to 逃 a state is to flee TO a state, to 逃 a predicament is to flee FROM a predicament, and to 逃 a person is to flee FROM that person.
-3. Bèi 北 is to flee during a battle engagement.
-4. Bēn 奔 is refers to absconding from a place at high speed.
-5. Dùn 遁 is to get away by simply going into hiding rather than by seeking refuge in a certain alternative place.
-6. Wáng 亡 and the much rarer sàng 喪 often refers to a dignified almost public way of leaving one place for another, especially to going into exile in order to escape danger.
-7. Yì 逸 / 佚 is to seek and find freedom through fleeing from an oppressive situation.
-8. Cuàn 竄 is primarily to sneak away, availing oneself of a narrow "window of opportunity", and going into hiding after the flight.
+1. The current general word for illicit disappearance from where one has some obligation to remain is zǒu [[走]].
+2. Táo [[逃]] refers to an attempted or successful escape to a place, or from any difficult predicament (for which see AVOID), occasionally also from a person or group of persons. Thus to [[逃]] a state is to flee TO a state, to [[逃]] a predicament is to flee FROM a predicament, and to [[逃]] a person is to flee FROM that person.
+3. Bèi [[北]] is to flee during a battle engagement.
+4. Bēn [[奔]] is refers to absconding from a place at high speed.
+5. Dùn [[遁]] is to get away by simply going into hiding rather than by seeking refuge in a certain alternative place.
+6. Wáng [[亡]] and the much rarer sàng [[喪]] often refers to a dignified almost public way of leaving one place for another, especially to going into exile in order to escape danger.
+7. Yì [[逸]] / [[佚]] is to seek and find freedom through fleeing from an oppressive situation.
+8. Cuàn [[竄]] is primarily to sneak away, availing oneself of a narrow "window of opportunity", and going into hiding after the flight.
 NB: There is a striking number of binomes expressing flight. These need to be analysed in detail to determine their semantic nuances.
 ## Modern Chinese Criteria
 擺脫 / 掙脫

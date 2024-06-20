@@ -34,10 +34,10 @@ och: 賊
 ADULT who is WICKED AND HAS ACTED:committed CRIMES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general and comprehensive term for a villain is zéi 賊, and the basic association is with the damage he does. There is no special association with murder or thievery.
-2. Kòu 寇 refers to thugs and robbers, particularly enemies of the state.
-3. Dào 盜 refers to thieves or the more ordinary kind, and burglars, and the basic association is with the property he romoves. Note that Dào Zhí 盜跖 is something of a euphemism, since this gentleman was an arch-villain of great dimension.
-4. Yì 役 is occasionally used for a scoundrel.
+1. The most general and comprehensive term for a villain is zéi [[賊]], and the basic association is with the damage he does. There is no special association with murder or thievery.
+2. Kòu [[寇]] refers to thugs and robbers, particularly enemies of the state.
+3. Dào [[盜]] refers to thieves or the more ordinary kind, and burglars, and the basic association is with the property he romoves. Note that Dào Zhí [[盜跖]] is something of a euphemism, since this gentleman was an arch-villain of great dimension.
+4. Yì [[役]] is occasionally used for a scoundrel.
 ## 
 HUANG JINGUI 2006
 50. THIEF 偷盜者。

@@ -21,10 +21,10 @@ zh: 完成
 ACT out OR PRODUCE something so as to CAUSE it to BECOME WHOLE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for finishing a task one has undertaken is chéng 成.
-2. Jiù 就 refers to completing a process of production of something.
-3. Jù 具 refers to the completion of a certain course of action.
-4. Wán 完 emphasises the state of completeness not necessarily achieved through a deliberate strategy of action.
+1. The standard word for finishing a task one has undertaken is chéng [[成]].
+2. Jiù [[就]] refers to completing a process of production of something.
+3. Jù [[具]] refers to the completion of a certain course of action.
+4. Wán [[完]] emphasises the state of completeness not necessarily achieved through a deliberate strategy of action.
 ## Modern Chinese Criteria
 完成 is the most current modern word for completing or finishing something.
 弄齊全 focusses on the solid finish.

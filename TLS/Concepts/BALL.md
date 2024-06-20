@@ -14,8 +14,8 @@ zh: 球
 PERFECTLY ROUND THING that CAN BE MOVED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The word for a football is qiú 毬, but the word is exceedingly rare.
-NB: Qiú 球 is current in pre-Buddhist Chinese only as referring to a music stone made of jade.
+1. The word for a football is qiú [[毬]], but the word is exceedingly rare.
+NB: Qiú [[球]] is current in pre-Buddhist Chinese only as referring to a music stone made of jade.
 ## Modern Chinese Criteria
 球體
 球

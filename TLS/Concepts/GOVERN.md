@@ -25,19 +25,19 @@ och: 治
 MANAGE AND CONTROL a WHOLE STATE or a BIG TERRITORY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for governing, administering or ordering things is zhì 治, old reading chí.
-2. Wéi 為, yǒu 有, yòng 用, lín 臨, lì 蒞, lǐ 理 are polite ways of referring to the government by a legitimate ruler.
-3. Nán miàn 南面, tīng zhèng 聽政, and the late jiàn zuò 踐祚 "ascend the throne and hold control" are polite ways of referring to the occupation of ruler's position by a legitimate incumbent.
-4. Zhèng 政 refers to the basically bureaucratic administration of a state, practical implementation of governmental measures.
-5. Shù 術 refers to the "philosophical" and political art of statecraft.
-6. Xiǎng 享 refers to government of a state as a privilege enjoyed by the legitimate ruler.
-7. Wàng 王 is the proper government of a state by its legitimate ruler, and term often has "idealising" nuances.
-8. Jūn 君 refers to de-facto government by a ruler without any idealising or approving nuances being implied.
-9. Zhuān 專 refers to the (often illegal or not entirely law-based) monopolising of power, and the word often has negative connotations.
-10. Xiàng 相 refers to senior roles in government bureaucracy other than those of the ruler.
-11. Sī 司 refers to administration on a scale below that of a state.
-12. Shǐ 使 refers to leadership, typically of the people.
-13. Mù 牧 refers to government as a paternalistic responsibility of the ruler.
+1. The general word for governing, administering or ordering things is zhì [[治]], old reading chí.
+2. Wéi [[為]], yǒu [[有]], yòng [[用]], lín [[臨]], lì [[蒞]], lǐ [[理]] are polite ways of referring to the government by a legitimate ruler.
+3. Nán miàn [[南面]], tīng zhèng [[聽政]], and the late jiàn zuò [[踐祚]] "ascend the throne and hold control" are polite ways of referring to the occupation of ruler's position by a legitimate incumbent.
+4. Zhèng [[政]] refers to the basically bureaucratic administration of a state, practical implementation of governmental measures.
+5. Shù [[術]] refers to the "philosophical" and political art of statecraft.
+6. Xiǎng [[享]] refers to government of a state as a privilege enjoyed by the legitimate ruler.
+7. Wàng [[王]] is the proper government of a state by its legitimate ruler, and term often has "idealising" nuances.
+8. Jūn [[君]] refers to de-facto government by a ruler without any idealising or approving nuances being implied.
+9. Zhuān [[專]] refers to the (often illegal or not entirely law-based) monopolising of power, and the word often has negative connotations.
+10. Xiàng [[相]] refers to senior roles in government bureaucracy other than those of the ruler.
+11. Sī [[司]] refers to administration on a scale below that of a state.
+12. Shǐ [[使]] refers to leadership, typically of the people.
+13. Mù [[牧]] refers to government as a paternalistic responsibility of the ruler.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 16. 主持、掌管。

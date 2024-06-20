@@ -8,7 +8,7 @@ och: 半
 EQUAL PART of TWO PARTS of ONE THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for half is bàn 半, and I have not found any competing near-synonyms.
+1. The standard word for half is bàn [[半]], and I have not found any competing near-synonyms.
 ## Modern Chinese Criteria
 半
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

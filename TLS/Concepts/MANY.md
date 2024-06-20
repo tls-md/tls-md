@@ -56,13 +56,13 @@ och: 多
 BIG in QUANTITY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word referring to numerousness and a large quantity of a stuff is duō 多 (ant. shǎo 少 ).
-2. Zhòng 眾 (ant. guǎ 寡 "few") and zhū 諸 refer to a large number of items of a certain kind.
-3. Shù 庶 (ant. shǎo 少 "few") refers to a large number of typically animate and preferably human beings.
-4. Fēn 紛 and the rarer yún yún 紜紜 refer to a confusing assembly of many things.
-5. Shù 數 (ant.* dú 獨 "the only one" or * dān 單 ) refers to a fairly large number of things of a specified kind.
-6. Fán 繁 refers to a large number of proliferating things.
-7. Zhēng 烝 is a poetic word characterising the large size of a population.
+1. The dominant word referring to numerousness and a large quantity of a stuff is duō [[多]] (ant. shǎo [[少]] ).
+2. Zhòng [[眾]] (ant. guǎ [[寡]] "few") and zhū [[諸]] refer to a large number of items of a certain kind.
+3. Shù [[庶]] (ant. shǎo [[少]] "few") refers to a large number of typically animate and preferably human beings.
+4. Fēn [[紛]] and the rarer yún yún [[紜紜]] refer to a confusing assembly of many things.
+5. Shù [[數]] (ant.* dú [[獨]] "the only one" or * dān [[單]] ) refers to a fairly large number of things of a specified kind.
+6. Fán [[繁]] refers to a large number of proliferating things.
+7. Zhēng [[烝]] is a poetic word characterising the large size of a population.
 ## Modern Chinese Criteria
 多
 大量

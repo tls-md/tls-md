@@ -15,9 +15,9 @@ och: 囚
 ADULT who is ARRESTED AND COMMANDED to DWELL in a PRISON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a prisoner is qiú 囚, and this can refer to any person confined in a prison for any reason.
-2. Lǔ 虜 and fú 俘 refer to a prisoner of war who has been captured in battle.
-3. Tú 徒 is a prisoner who is not currently being detained in a prison, either because he is being transferred from one prison to another or because he has been released but is still regarded as a "former prisoner".
+1. The general term for a prisoner is qiú [[囚]], and this can refer to any person confined in a prison for any reason.
+2. Lǔ [[虜]] and fú [[俘]] refer to a prisoner of war who has been captured in battle.
+3. Tú [[徒]] is a prisoner who is not currently being detained in a prison, either because he is being transferred from one prison to another or because he has been released but is still regarded as a "former prisoner".
 ## Modern Chinese Criteria
 罪犯
 罪人

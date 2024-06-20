@@ -16,9 +16,9 @@ SITUATION characterised by LACK of WARFARE.
 [[FRIEDEN]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for universal peace is tài píng 太平, and this word became current from Han times onwards.
-2. Hé 和 is occasionally used to refer to peaceful conditions.
-3. Chéng 成 is a technical term meaning "to sue for peace" and is thus marginal to this group.
+1. The standard word for universal peace is tài píng [[太平]], and this word became current from Han times onwards.
+2. Hé [[和]] is occasionally used to refer to peaceful conditions.
+3. Chéng [[成]] is a technical term meaning "to sue for peace" and is thus marginal to this group.
 ## Modern Chinese Criteria
 和平
 清平

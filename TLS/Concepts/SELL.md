@@ -18,11 +18,11 @@ och: 賣
 GIVE something to someone EXCHANGING it for MONEY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general words are mài 賣 "offer for sale" and yù 鬻 "trade in", as well as shòu 售 "get sold, sell off" (ant. mǎi 買 "buy").
-2. Gū 沽 refers to the selling of mobile goods, and the word often refers specifically to the selling of wine.
-3. Tiào 糶 (ant. dí 糴 "buy rice abroad") refers specifically to selling rice abroad.
-4. Huò 貨 (ant. huò 貨 "buy wholesale"!!!) refers to selling any moveable goods on a large scale or wholesale.
-5. Gū 酤 refers specifically to the selling (or buying!) of wine.
+1. The current general words are mài [[賣]] "offer for sale" and yù [[鬻]] "trade in", as well as shòu [[售]] "get sold, sell off" (ant. mǎi [[買]] "buy").
+2. Gū [[沽]] refers to the selling of mobile goods, and the word often refers specifically to the selling of wine.
+3. Tiào [[糶]] (ant. dí [[糴]] "buy rice abroad") refers specifically to selling rice abroad.
+4. Huò [[貨]] (ant. huò [[貨]] "buy wholesale"!!!) refers to selling any moveable goods on a large scale or wholesale.
+5. Gū [[酤]] refers specifically to the selling (or buying!) of wine.
 ## 
 HUANG JINGUI 2006
 TRADE 2.

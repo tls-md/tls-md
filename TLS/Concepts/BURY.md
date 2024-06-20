@@ -21,17 +21,17 @@ och: 葬
 PUT a DEAD HUMAN OR ANIMAL INTO a HOLE in the EARTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Mái 埋 is the very general word for concrete interment, the placing of any object in the ground by digging a whole for it.
-2. The general word for human burial and funeral arrangements is zàng 葬. For the ritual aspects of funeral practice the standard word is sāng 喪. See MOURNING
-3. Bìn 殯 is a formal ritual term referring to the placing of a dead person in a coffin.
-4. Shōu 收 is a formal ritual term for preparing a dead person for formal burial.
-5. Yì 瘞 is a formal ritual term sometimes referring to preliminary or informal burial, but more regularly to the sacrificial burial of gifts for the deceased.
-6. Kēng 坑 is the burying of one or more persons alive, as punishment, or as an emergency burial of large numbers of persons. See EXECUTE
-7. Fù 祔 refers in a formal and technical way to the current practice of burying a person in the same grave as someone else, and to the ritual of placing the name tablet of the deceased next to that of someone with whom he was to be ritual associated.
-8. Gǎi zàng 改葬 refers to ritual reburial.
-9. Sì 肂 is a rare technical term for "preliminary burial".
-10. Biǎn 窆 is a rare technical term for "lower into the grave".
-11. Diàn 奠 refers to the sacrifice before the enterment of the body. See SACRIFICE
+1. Mái [[埋]] is the very general word for concrete interment, the placing of any object in the ground by digging a whole for it.
+2. The general word for human burial and funeral arrangements is zàng [[葬]]. For the ritual aspects of funeral practice the standard word is sāng [[喪]]. See MOURNING
+3. Bìn [[殯]] is a formal ritual term referring to the placing of a dead person in a coffin.
+4. Shōu [[收]] is a formal ritual term for preparing a dead person for formal burial.
+5. Yì [[瘞]] is a formal ritual term sometimes referring to preliminary or informal burial, but more regularly to the sacrificial burial of gifts for the deceased.
+6. Kēng [[坑]] is the burying of one or more persons alive, as punishment, or as an emergency burial of large numbers of persons. See EXECUTE
+7. Fù [[祔]] refers in a formal and technical way to the current practice of burying a person in the same grave as someone else, and to the ritual of placing the name tablet of the deceased next to that of someone with whom he was to be ritual associated.
+8. Gǎi zàng [[改葬]] refers to ritual reburial.
+9. Sì [[肂]] is a rare technical term for "preliminary burial".
+10. Biǎn [[窆]] is a rare technical term for "lower into the grave".
+11. Diàn [[奠]] refers to the sacrifice before the enterment of the body. See SACRIFICE
 ## 
 HUANG JINGUI 2006
 SACRIFICE 13.

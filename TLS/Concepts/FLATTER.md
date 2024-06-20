@@ -24,12 +24,12 @@ och: 諂
 PRAISE SUPERIOR, TYPICALLY with the AIM of CAUSING ONESELF to BECOME LOVED by SUPERIORS TO be DELIGHTED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for active flattery is chǎn 諂 and the word refers to all kinds discourse exclusively designed to win favour but also includes ingratiating behaviour of other kinds, as notoriously in LY.
-2. Yú 諛 focusses on the use of language in "reactive" sycophancy adapting oneself to perceived desires on the part of a superior, and there seem to be no clear examples of non-linguistic sycophancy described as yú 諛.
-3. E! 阿 is vulgar one-sided pandering to the tastes or ideas of superiors in words and also in action, and the word refers also to other forms of partiality and favouritism and is thus more general in application than the other words in the group.
-4. Mèi 媚 is sycophancy also in words but particularly in attitude, dress and demeanour.
-5. Pián bì 便辟 (ant. zhēng chén 諍臣 "cantankerous or obstreporous minister") is a customary engrained form sycophancy leading to a permanent status of favour with those who are being flattered.
-6. Nìng 佞 refers to rhetorically skilful sycophancy, and very often the meanings "rhetorically skilful" and "sycophantic" are hard to distinguish in context.
+1. The current word for active flattery is chǎn [[諂]] and the word refers to all kinds discourse exclusively designed to win favour but also includes ingratiating behaviour of other kinds, as notoriously in LY.
+2. Yú [[諛]] focusses on the use of language in "reactive" sycophancy adapting oneself to perceived desires on the part of a superior, and there seem to be no clear examples of non-linguistic sycophancy described as yú [[諛]].
+3. E! [[阿]] is vulgar one-sided pandering to the tastes or ideas of superiors in words and also in action, and the word refers also to other forms of partiality and favouritism and is thus more general in application than the other words in the group.
+4. Mèi [[媚]] is sycophancy also in words but particularly in attitude, dress and demeanour.
+5. Pián bì [[便辟]] (ant. zhēng chén [[諍臣]] "cantankerous or obstreporous minister") is a customary engrained form sycophancy leading to a permanent status of favour with those who are being flattered.
+6. Nìng [[佞]] refers to rhetorically skilful sycophancy, and very often the meanings "rhetorically skilful" and "sycophantic" are hard to distinguish in context.
 ## Modern Chinese Criteria
 諂媚
 獻媚

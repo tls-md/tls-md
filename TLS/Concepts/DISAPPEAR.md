@@ -19,10 +19,10 @@ zh: 不見
 BECOME LACKING:absent.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for ceasing to exist is wáng 亡 (and there is no early evidence for the reading wú 亡 ).
-2. Mò 沒 "go under" is a dramatic verb referring to the disappearance of something.
-3. Xí 息 "be extinguished" is a politely periphrastic way of referring to the disappearance of something.
-4. Què 闕 can refer to the disappearance of a practice.
+1. The dominant word for ceasing to exist is wáng [[亡]] (and there is no early evidence for the reading wú [[亡]] ).
+2. Mò [[沒]] "go under" is a dramatic verb referring to the disappearance of something.
+3. Xí [[息]] "be extinguished" is a politely periphrastic way of referring to the disappearance of something.
+4. Què [[闕]] can refer to the disappearance of a practice.
 ## Modern Chinese Criteria
 不見
 遺失

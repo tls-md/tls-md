@@ -8,12 +8,12 @@ zh: 足衣
 GARMENT WORN on the FEET.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for a shoe is jù 屨, later in Han times lü 履.
-2. Xì 舄 refers to leather shoes with wooden soles that were particularly worn on ritual or formal occasions.
-3. Jī 屐 refers to wooden clogs suitable for bad weather.
-4. Xǐ 屣 refers to straw-made slippers worn inside.
-5. Jué 屩 refers to straw sandals worn outside, suitable for long walks.
-6. Xié 鞋 is rare in pre-Han times and refers to leather shoes that are tied with shoelaces.
+1. The most general current word for a shoe is jù [[屨]], later in Han times lü [[履]].
+2. Xì [[舄]] refers to leather shoes with wooden soles that were particularly worn on ritual or formal occasions.
+3. Jī [[屐]] refers to wooden clogs suitable for bad weather.
+4. Xǐ [[屣]] refers to straw-made slippers worn inside.
+5. Jué [[屩]] refers to straw sandals worn outside, suitable for long walks.
+6. Xié [[鞋]] is rare in pre-Han times and refers to leather shoes that are tied with shoelaces.
 NB: For the parts of shoes see HUANG 758
 ## Modern Chinese Criteria
 皮鞋

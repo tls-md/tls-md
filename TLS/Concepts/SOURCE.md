@@ -13,8 +13,8 @@ och: 泉
 The PLACE where a RIVER OR BROOK BEGINS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a concrete water source feeding any river or stream is quán 泉, and the current general term for a source feeding a lake of any kind is yuān 淵.
-2. Yuán 源 / 原 refers to an original source, and this word is rich in metaphysical or abstract connotation. See BEGIN
+1. The current general term for a concrete water source feeding any river or stream is quán [[泉]], and the current general term for a source feeding a lake of any kind is yuān [[淵]].
+2. Yuán [[源]] / [[原]] refers to an original source, and this word is rich in metaphysical or abstract connotation. See BEGIN
 ## Modern Chinese Criteria
 泉水
 泉

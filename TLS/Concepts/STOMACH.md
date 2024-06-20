@@ -25,10 +25,10 @@ och: 腹
 PART of BODY'S TORSO BELOW THE CHEST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for the belly is fù 腹.
-2. Wèi 胃 refers specifically to the stomach as the main organ of digestion.
-3. Pí 膍 refers to ox's stomach or tripe as used in sacrifice or eaten.
-NB: Dù 肚 "stomach" and dǔ 肚 "tripe" are both post-Han.
+1. The general term for the belly is fù [[腹]].
+2. Wèi [[胃]] refers specifically to the stomach as the main organ of digestion.
+3. Pí [[膍]] refers to ox's stomach or tripe as used in sacrifice or eaten.
+NB: Dù [[肚]] "stomach" and dǔ [[肚]] "tripe" are both post-Han.
 ## Modern Chinese Criteria
 肚子
 腹

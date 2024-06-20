@@ -24,13 +24,13 @@ och: 宥
 PROMISE someone one ASSUMES to be GUILTY of a CRIME OR MISTAKE which OFFENDS ONE so as to SAY that one WILL NOT HATE THAT PERSON BECAUSE of that CRIME OR MISTAKE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word for leniency and forgiveness is yòu 宥 (ant. kè 刻 "strict and ruthless").
-2. Kuān 寬 (ant. kè 刻 "ruthless strictness") refers to a general attitude of mind which inclines one to pardon others and to show forgiveness.
-3. Róng 容 is an individual act of forgiveness or pardoning vis-a-vis a person who is guilty of something or might be blamed for something.
-4. Shì 釋 refers to a personal act of forgiveness directed at a certain person, and in regard of a certain action.
-5. Shù 恕 (ant.* chóu 仇 "take a strict hostile attitude to") refers to acts of forgiveness as well as an understanding attitude which involves forgiveness as a virtue.
-6. Shè 赦 refers more properly to the formal act of pardoning or acquiting in court, but the word is also commonly used for mental acts of non-legal social forgiveness.
-7. Shì 貰 is too rare to be very sure of it, but the word is used to refer to forgiveness as something psychological rather than as a social act merely promising non-punishment.
+1. The most general current word for leniency and forgiveness is yòu [[宥]] (ant. kè [[刻]] "strict and ruthless").
+2. Kuān [[寬]] (ant. kè [[刻]] "ruthless strictness") refers to a general attitude of mind which inclines one to pardon others and to show forgiveness.
+3. Róng [[容]] is an individual act of forgiveness or pardoning vis-a-vis a person who is guilty of something or might be blamed for something.
+4. Shì [[釋]] refers to a personal act of forgiveness directed at a certain person, and in regard of a certain action.
+5. Shù [[恕]] (ant.* chóu [[仇]] "take a strict hostile attitude to") refers to acts of forgiveness as well as an understanding attitude which involves forgiveness as a virtue.
+6. Shè [[赦]] refers more properly to the formal act of pardoning or acquiting in court, but the word is also commonly used for mental acts of non-legal social forgiveness.
+7. Shì [[貰]] is too rare to be very sure of it, but the word is used to refer to forgiveness as something psychological rather than as a social act merely promising non-punishment.
 ## Modern Chinese Criteria
 原諒 is the current colloquial word for forgiving somehing.
 原宥 focusses on the tolerance of the forgiver.

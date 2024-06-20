@@ -11,12 +11,12 @@ zh: 賄賂
 NOT LEGITIMATE GIFT so as to INFLUENCE the DECISIONS of an OFFICIAL OR POWERFUL HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Lù 賂 standardly refers to substantial active bribery of any kind, including the offer of singing girls, music masters, and quite frequently territory as well as imortant ritual objects like tripods and bells, but also in this case the word is used for presents one cannot plausibly construe as straightforward bribes. See GIFT and GIVE.
-2. Huì 賄 refers to customary gifts on formal occasions which are often hard to distinguish from bribes, and characteristically the word regularly refers to passive bribery. See also PROPERTY and GIFT. Commentators wish us to believe that the word refers specifically to "bribe with gifts of silk", but there is no clear early evidence of this.
-3. Huò 貨 refers to any illegal act of making gifts to encourage unlawful actions, and also to the bribes themselves.
-4. Nà 納／內 is the technical term for the receiving of bribes, i.e. passive corruption.
-5. The word qiú 賕, which became current in Han times, refers to active as well as passive corruption.
-6. Zāng 藏 / 臧 and huò lù 貨賂 occasionally refer to bribes received.
+1. Lù [[賂]] standardly refers to substantial active bribery of any kind, including the offer of singing girls, music masters, and quite frequently territory as well as imortant ritual objects like tripods and bells, but also in this case the word is used for presents one cannot plausibly construe as straightforward bribes. See GIFT and GIVE.
+2. Huì [[賄]] refers to customary gifts on formal occasions which are often hard to distinguish from bribes, and characteristically the word regularly refers to passive bribery. See also PROPERTY and GIFT. Commentators wish us to believe that the word refers specifically to "bribe with gifts of silk", but there is no clear early evidence of this.
+3. Huò [[貨]] refers to any illegal act of making gifts to encourage unlawful actions, and also to the bribes themselves.
+4. Nà [[納]]／[[內]] is the technical term for the receiving of bribes, i.e. passive corruption.
+5. The word qiú [[賕]], which became current in Han times, refers to active as well as passive corruption.
+6. Zāng [[藏]] / [[臧]] and huò lù [[貨賂]] occasionally refer to bribes received.
 ## Modern Chinese Criteria
 賄賂
 行賄

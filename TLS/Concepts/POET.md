@@ -19,7 +19,7 @@ zh: 詩人
 AUTHOR whose WORK is to WRITE POEMS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no common and current word for a poet, but note the occasional use of the term 詩人 "author of songs" and of gǔ 瞽 "blind singer".
+1. There is no common and current word for a poet, but note the occasional use of the term [[詩人]] "author of songs" and of gǔ [[瞽]] "blind singer".
 ## Modern Chinese Criteria
 詩人
 詞人

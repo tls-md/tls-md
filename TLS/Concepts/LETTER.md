@@ -24,10 +24,10 @@ och: 書
 PRIVATE DOCUMENT FOR SENDING TO, and ADDRESSING, someone.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a letter is shū 書.
-2. Dú 牘 refers to a letter, primarily one written on a wooden tablet, but came to be used to refer to letters in general.
-3. Qǐ 啟, zhuàng 狀, zī 諮, zhá 札, yí 移, guān 關 all refer to bureaucratic correspondence concerning civil affairs.
-8. Xí 檄 and lù bù 露布 refer to bureacratic correspondence concerning military matter.
+1. The general term for a letter is shū [[書]].
+2. Dú [[牘]] refers to a letter, primarily one written on a wooden tablet, but came to be used to refer to letters in general.
+3. Qǐ [[啟]], zhuàng [[狀]], zī [[諮]], zhá [[札]], yí [[移]], guān [[關]] all refer to bureaucratic correspondence concerning civil affairs.
+8. Xí [[檄]] and lù bù [[露布]] refer to bureacratic correspondence concerning military matter.
 ## 
 HUANG JINGUI 2006
 COMM 35. 公文類書信，西周已有；個人政治性交往的信件，春秋已多；典型的家信，戰國始見。

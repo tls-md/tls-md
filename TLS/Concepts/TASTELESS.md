@@ -14,7 +14,7 @@ zh: 淡
 LACK FLAVOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for tastelessness is dàn 淡.
+1. The standard current word for tastelessness is dàn [[淡]].
 ## Modern Chinese Criteria
 淡
 薄

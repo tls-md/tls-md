@@ -20,16 +20,16 @@ och: 因
 TRUST in AND USE OR CONFORM to as being PROFITABLE to one's AIMS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for relying on something with confidence is yīn 因.
-2. Yī 依 refers to dependence and reliance on something which may be deliberate or non-deliberate.
-3. Běn 本 refers to an abstract often almost metaphysical or logical dependence on something.
-4. Dài 待 refers to logical dependence on something
-5. Rén 任 typically refers to reliance on someone inferior in the context of public administration.
-6. Yǎng 仰 typically refers to hopeful reliance on a superior.
-7. Chéng 乘 refers to manifest deliberate reliance on some external condition for the furthering of one's own plans.
-8. Jiè 藉 / 借 and jiǎ 假 refer to availing oneself of conveniently available outside things for one's own purposes.
-9. Jì 寄 and tuō 託 refer to entrusting oneself to others and thus relying on them.
-10. Shì 恃 and the rare hù 怙 refer to reliance on a typically hidden basic resource or factor.
+1. The general term for relying on something with confidence is yīn [[因]].
+2. Yī [[依]] refers to dependence and reliance on something which may be deliberate or non-deliberate.
+3. Běn [[本]] refers to an abstract often almost metaphysical or logical dependence on something.
+4. Dài [[待]] refers to logical dependence on something
+5. Rén [[任]] typically refers to reliance on someone inferior in the context of public administration.
+6. Yǎng [[仰]] typically refers to hopeful reliance on a superior.
+7. Chéng [[乘]] refers to manifest deliberate reliance on some external condition for the furthering of one's own plans.
+8. Jiè [[藉]] / [[借]] and jiǎ [[假]] refer to availing oneself of conveniently available outside things for one's own purposes.
+9. Jì [[寄]] and tuō [[託]] refer to entrusting oneself to others and thus relying on them.
+10. Shì [[恃]] and the rare hù [[怙]] refer to reliance on a typically hidden basic resource or factor.
 ## Modern Chinese Criteria
 仰賴
 依賴

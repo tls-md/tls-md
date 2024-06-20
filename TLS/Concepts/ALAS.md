@@ -11,9 +11,9 @@ EXCLAMATION EXPRESSing SADNESS OR REGRET. 
 [EMOTIONAL/UNEMOTIONAL]
 [EMPHATIC/UNEMPHATIC]
 [HIGH-DEGREE/LOW-DEGREE]
-1. Wū hū 嗚呼 / 於乎 / 於呼 expresses an emphatic complaint. Note that there is is specially large number of graphic variants used to write this word.
+1. Wū hū [[嗚呼]] / [[於乎]] / [[於呼]] expresses an emphatic complaint. Note that there is is specially large number of graphic variants used to write this word.
 [EMOTIONAL], [EXCLAMATORY], [HIGH-DEGREE]
-2. A1i zāi 哀哉 adds to the complaint the judgment that something is indeed sad.
+2. A1i zāi [[哀哉]] adds to the complaint the judgment that something is indeed sad.
 [DECLARATIVE], [EMPHATIC]
 ## Modern Chinese Criteria
 唉呀

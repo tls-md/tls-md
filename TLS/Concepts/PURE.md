@@ -25,13 +25,13 @@ och: 純
 EXCELLENT BECAUSE LACKING DIFFERENT SUBSTANCES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general term for purity is chún 純 (ant. zá 雜 "mixed").
-2. Sù 素 (ant. huá 華 "well-adorned") adds to the notion of purity that of the unadulaterated original state of something.
-3. Qīng 清 (ant. zhuó 濁 "dirty, impure") and the rarer chéng 澂 emphasises the absence of any admixtures that might make something less transparent and translucent.
-4. Jìng 淨 (ant. wū 污 "impure") emphasises the unsullied state of something and the absence specifically of dirt.
-5. Chè 澈 (ant. hún 渾 "murky") focusses on perfect transparency.
-6. Jié 潔 / 絜 (ant. wū 污 "impure" and zhuó 濁 "dirty") refer abstractly to the absence of any material or immaterial impurity or blemish.
-7. Chún 醇 (bó 駁 "mixed") refers specifically to the undiluted state of wine but the word is also used in generalised senses of purity.
+1. The standard general term for purity is chún [[純]] (ant. zá [[雜]] "mixed").
+2. Sù [[素]] (ant. huá [[華]] "well-adorned") adds to the notion of purity that of the unadulaterated original state of something.
+3. Qīng [[清]] (ant. zhuó [[濁]] "dirty, impure") and the rarer chéng [[澂]] emphasises the absence of any admixtures that might make something less transparent and translucent.
+4. Jìng [[淨]] (ant. wū [[污]] "impure") emphasises the unsullied state of something and the absence specifically of dirt.
+5. Chè [[澈]] (ant. hún [[渾]] "murky") focusses on perfect transparency.
+6. Jié [[潔]] / [[絜]] (ant. wū [[污]] "impure" and zhuó [[濁]] "dirty") refer abstractly to the absence of any material or immaterial impurity or blemish.
+7. Chún [[醇]] (bó [[駁]] "mixed") refers specifically to the undiluted state of wine but the word is also used in generalised senses of purity.
 ## Modern Chinese Criteria
 純潔
 高潔

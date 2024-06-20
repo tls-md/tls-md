@@ -8,7 +8,7 @@ och: 旬
 PERIOD of TYPICALLY 7 OR 10 DAYS into which the MONTH is DIVIDED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for the ten-day week, or decameron, was xún 旬 which is already current on OBI, being an important dimension of the organisation of Shāng dynasty state rituals.
+1. The general term for the ten-day week, or decameron, was xún [[旬]] which is already current on OBI, being an important dimension of the organisation of Shāng dynasty state rituals.
 ## Modern Chinese Criteria
 星期
 周

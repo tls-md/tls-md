@@ -16,10 +16,10 @@ och: 宴
 MEETING of a GROUP of HUMANS:people FOR:in-order-to ENJOY OFTEN:typically FOOD, DIALOGUE AND ENTERTAINMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a feast is yàn 宴 / 燕.
-2. Jiǔ 酒 and yǐn 飲 both refer to a drinking party where alcohol is served.
-3. Xiǎng 餉 / 饗 / 饟 refers to an elaborate festive repast.
-NB: Yán 筵 and xí 席 are post-Han words for a feast.
+1. The current general term for a feast is yàn [[宴]] / [[燕]].
+2. Jiǔ [[酒]] and yǐn [[飲]] both refer to a drinking party where alcohol is served.
+3. Xiǎng [[餉]] / [[饗]] / [[饟]] refers to an elaborate festive repast.
+NB: Yán [[筵]] and xí [[席]] are post-Han words for a feast.
 ## 
 HUANG JINGUI 2006
 FOOD 3.

@@ -16,12 +16,12 @@ och: 居／止
 BE-IN ENDURINGLY:continuously in the FUTURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for staying or remaining in one place is jū 居 (ant. xíng 行 "walk away").
-2.Chǔ 處 (ant. yóu 游 "travel"), much rarer than jū 居, refers to being situated in one place rather than moving about, and the word, in this meaning, can refer to persons as well as things.
-3. Zhǐ 止 is inchoative and refers to the coming to stop so as to remain in a certain place after movement.
-4. Liú 留 (ant. lí 離 "get away from a place") refers to immobility in one place after one has already spent some time there.
-5. Zhù 駐 can come to refer to staying in a place other than one's home.
-6. Zhì 滯 refers to getting stuck in one place, being unable to leave.
+1. The current word for staying or remaining in one place is jū [[居]] (ant. xíng [[行]] "walk away").
+2.Chǔ [[處]] (ant. yóu [[游]] "travel"), much rarer than jū [[居]], refers to being situated in one place rather than moving about, and the word, in this meaning, can refer to persons as well as things.
+3. Zhǐ [[止]] is inchoative and refers to the coming to stop so as to remain in a certain place after movement.
+4. Liú [[留]] (ant. lí [[離]] "get away from a place") refers to immobility in one place after one has already spent some time there.
+5. Zhù [[駐]] can come to refer to staying in a place other than one's home.
+6. Zhì [[滯]] refers to getting stuck in one place, being unable to leave.
 ## Modern Chinese Criteria
 停留
 稽留

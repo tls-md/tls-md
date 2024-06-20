@@ -19,11 +19,11 @@ och: 訊
 ASK MANY QUESTIONS of an ACCUSED HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for interrogation is xùn 訊.
-2. Wèn 問 is sometimes used euphemistically or neutrally to refer to what in effect is formal interrogation.
-3. Jú 鞫 is a technical legal term for interrogation that has never entered the common literary language.
-4. Jié 詰 refers to a detailed inistent interrogation of someone by a superior.
-5. Nàn 難 refers to interrogating an equal in a hostile way on the points he is making. See DISAGREE
+1. The current general word for interrogation is xùn [[訊]].
+2. Wèn [[問]] is sometimes used euphemistically or neutrally to refer to what in effect is formal interrogation.
+3. Jú [[鞫]] is a technical legal term for interrogation that has never entered the common literary language.
+4. Jié [[詰]] refers to a detailed inistent interrogation of someone by a superior.
+5. Nàn [[難]] refers to interrogating an equal in a hostile way on the points he is making. See DISAGREE
 ## Modern Chinese Criteria
 審訊 is a slightly formal word referring to official interrogation.
 審問 is the standard modern word for interrogation.

@@ -30,11 +30,11 @@ och: 臣
 HUMBLE ASSISTANT in a HOME or OFFICE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a servant is chén 臣. But the meaning of this term is typically general. See SUBJECT.
-2. Shì 仕 is a permanent employee of some status, normally a literate person.
-3. Lì 吏 is an executive official.
-4. Huàn 宦 refers at an early stage to the person in charge of the servant corps in a household; in imperial times the word came to refer to the head of the imperial household. In later Han times the word came to refer to eunuchs.
-5. Zǎi 宰 refers to the position of the head of a senior household in early times, in charge of the various huàn 宦. The title was also used in the imperial hierarchy as a vague bureaucratic title, translatable perhaps as "political secretary".
+1. The general word for a servant is chén [[臣]]. But the meaning of this term is typically general. See SUBJECT.
+2. Shì [[仕]] is a permanent employee of some status, normally a literate person.
+3. Lì [[吏]] is an executive official.
+4. Huàn [[宦]] refers at an early stage to the person in charge of the servant corps in a household; in imperial times the word came to refer to the head of the imperial household. In later Han times the word came to refer to eunuchs.
+5. Zǎi [[宰]] refers to the position of the head of a senior household in early times, in charge of the various huàn [[宦]]. The title was also used in the imperial hierarchy as a vague bureaucratic title, translatable perhaps as "political secretary".
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 49. 奴僕。

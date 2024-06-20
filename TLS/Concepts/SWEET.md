@@ -16,8 +16,8 @@ zh: 甜
 FLAVOUR RESEMBLING that of SUGAR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for sweetness is gān 甘, and the word strongly connotes pleasantness of taste rather than just sugary flavour.
-2. Tián 甜 is rare and denotes sugary sweet flavour as such.
+1. The current standard word for sweetness is gān [[甘]], and the word strongly connotes pleasantness of taste rather than just sugary flavour.
+2. Tián [[甜]] is rare and denotes sugary sweet flavour as such.
 ## Modern Chinese Criteria
 甜
 甘

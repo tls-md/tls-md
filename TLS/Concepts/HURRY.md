@@ -41,14 +41,14 @@ och: 趨
 ACT OR WALK as QUICKLY as one CAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for making maximum speed is qū 趨 (ant. tuō 拖 "delay") (contrast qū 趨 "shuffle politely").
-2. Zào 躁 is to be rushed and flurried.
-3. Jí 急 (ant. huǎn 緩 "slowly") refers to act with urgenct purpose, as in an emergency.
-4. Jí 亟 (ant. huǎn 緩 "slowly") refers to generally making good speed and causing no delay.
-5. Chuán 遄 is a rather dramatic word referring to doing one's physical best.
-6. Chí 馳 and the somewhat rarer zòu 驟 refer to racing along, typically on horseback.
-7. Cù 趣 is to hurry in a certain direction.
-8. Wù 騖 refers to racing along at terrific speed, typically on horseback. See GALLOP
+1. The current general word for making maximum speed is qū [[趨]] (ant. tuō [[拖]] "delay") (contrast qū [[趨]] "shuffle politely").
+2. Zào [[躁]] is to be rushed and flurried.
+3. Jí [[急]] (ant. huǎn [[緩]] "slowly") refers to act with urgenct purpose, as in an emergency.
+4. Jí [[亟]] (ant. huǎn [[緩]] "slowly") refers to generally making good speed and causing no delay.
+5. Chuán [[遄]] is a rather dramatic word referring to doing one's physical best.
+6. Chí [[馳]] and the somewhat rarer zòu [[驟]] refer to racing along, typically on horseback.
+7. Cù [[趣]] is to hurry in a certain direction.
+8. Wù [[騖]] refers to racing along at terrific speed, typically on horseback. See GALLOP
 ## Modern Chinese Criteria
 趕快
 匆匆

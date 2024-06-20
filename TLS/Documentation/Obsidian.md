@@ -1,0 +1,5 @@
+A note editor which uses [[Markdown]] as its internal format. Available for download [here](https://obsidian.md/)
+Individual files are called 'notes' here and can be easily linked to each other. They can be displayed either in **'reading mode'**, where the text looks similar to the display in a web browser, or **'editing mode'**. Editing can be done in **'live preview'** mode, where the text looks similar to the reading mode.  Some features are not available in live preview, for these cases **'Source mode'** can be used, which shows the text exactly as it appears in the file. 
+Obsidian is written in Typescript, a variant of Javascript. It can be extended using plugins.  A vibrant user community has produced thousands of plugins, of which the most popular ones have been downloaded more then 2 million times (as of June 2024). 
+One interesting feature of Obsidian is that it allows 'transclusion' of links: include the content of a note or a portion of it in another note for display, while the text is still only kept in one place. To mark a link as transclusion, an exclamation mark ! is prepended to the link, e.g:  
+![[KR5c0057_042]]

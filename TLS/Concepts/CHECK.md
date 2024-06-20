@@ -25,9 +25,9 @@ och: 參
 INVESTIGATE the TRUTH of a SENTENCE:statement.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for cross-checking and veryfying a statement is cān 參 which refers to the cross-checking of a public statement against the realities it claims to refer to.
-2. Yàn 驗 and zhēng 徵 refer to an attempt to find specific good evidence (often historical evidence) for something.
-3. Hé 覈 refers to checking out the real facts of a case someone is making.
+1. The current standard word for cross-checking and veryfying a statement is cān [[參]] which refers to the cross-checking of a public statement against the realities it claims to refer to.
+2. Yàn [[驗]] and zhēng [[徵]] refer to an attempt to find specific good evidence (often historical evidence) for something.
+3. Hé [[覈]] refers to checking out the real facts of a case someone is making.
 ## Modern Chinese Criteria
 調查
 考察

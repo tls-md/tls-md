@@ -34,11 +34,11 @@ och: 息
 STOP WORK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for resting is xí 息 (ant. zuò 作 "work").
-2. Xiū 休 (ant. láo 勞 "work hard") refers to brief break in a working process.
-3. Yàn 晏 (ant. qín 勤 "work assiduously") refers to relaxing at home.
-4. Qì 憩 (ant. xīn 辛 "work strenuously until exhaustion") is an elevated poetic word for resting.
-NB: Xiē 歇 is post-Han.
+1. The current general word for resting is xí [[息]] (ant. zuò [[作]] "work").
+2. Xiū [[休]] (ant. láo [[勞]] "work hard") refers to brief break in a working process.
+3. Yàn [[晏]] (ant. qín [[勤]] "work assiduously") refers to relaxing at home.
+4. Qì [[憩]] (ant. xīn [[辛]] "work strenuously until exhaustion") is an elevated poetic word for resting.
+NB: Xiē [[歇]] is post-Han.
 ## Modern Chinese Criteria
 休息
 歇息

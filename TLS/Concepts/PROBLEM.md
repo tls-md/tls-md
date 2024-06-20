@@ -30,9 +30,9 @@ zh: 問題
 DIFFICULT AND THEORETICALLY IMPORTANT ASK:question for which one BELIEVES one LACKS an APPROPRIATE ANSWER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. It is very difficult to identify a standard classical Chinese keyword that corresponds to the notion of an intellectual problem or issue. The closest one can come is probably duān 端 "topic".
-2. Wèn nàn 問難 refers to a problem raised.
-3. Wèn 問 may refer not only to the raising of a topic for discussion.
+1. It is very difficult to identify a standard classical Chinese keyword that corresponds to the notion of an intellectual problem or issue. The closest one can come is probably duān [[端]] "topic".
+2. Wèn nàn [[問難]] refers to a problem raised.
+3. Wèn [[問]] may refer not only to the raising of a topic for discussion.
 ## Modern Chinese Criteria
 問題 is the standard modern word for a problem of any kind.
 疑問 focusses on the doubts attached to a problematic intellectual question raised.

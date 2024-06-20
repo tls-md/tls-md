@@ -19,8 +19,8 @@ och: 貴／重
 PRICE MORE BIG IN-RELATION-TO the PRICE IMAGINED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant standard word for the high price of anything is guì 貴 (ant. jiàn 賤 "inexpensive").
-2. Zhòng 重 is a technical economic term referring to a high level of prices.
+1. The dominant standard word for the high price of anything is guì [[貴]] (ant. jiàn [[賤]] "inexpensive").
+2. Zhòng [[重]] is a technical economic term referring to a high level of prices.
 ## Modern Chinese Criteria
 貴
 昂貴

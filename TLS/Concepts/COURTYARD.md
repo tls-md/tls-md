@@ -15,7 +15,7 @@ zh: 院子
 PLACE BETWEEN HOUSES LACKING BUILDINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term for a courtyard is tíng 廷 / 庭. In Western Zhou and Chunqiu times important public prosecutions usually take place in tíng 廷 / 庭 belonging to a palace or (possibly) to a temple. NB: The distinction between the meanings "courtyard" and "court" is often hard to make, although it is clear that in some cases the reference is definitely to the courtyard and not to the court as a whole.
+1. The standard term for a courtyard is tíng [[廷]] / [[庭]]. In Western Zhou and Chunqiu times important public prosecutions usually take place in tíng [[廷]] / [[庭]] belonging to a palace or (possibly) to a temple. NB: The distinction between the meanings "courtyard" and "court" is often hard to make, although it is clear that in some cases the reference is definitely to the courtyard and not to the court as a whole.
 ## Modern Chinese Criteria
 院子
 中庭

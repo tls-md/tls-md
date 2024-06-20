@@ -7,7 +7,7 @@ zh: 利己主義
 SELFISH DOCTRINE that ONESELF is MOST IMPORTANT.
 # Criteria and general notes
 ## Old Chinese Criteria
-私
+[[私]]
 # Ontology
 
 ## Antonym

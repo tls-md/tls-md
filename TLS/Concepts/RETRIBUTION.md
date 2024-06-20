@@ -7,7 +7,7 @@ zh: 報應
 DIVINE PUNISHMENT OR REWARD of HUMANS BASED on their EVIL OR GOOD ACTIONS respectively.
 # Criteria and general notes
 ## Old Chinese Criteria
-報
+[[報]]
 # Ontology
 
 ## Hypernym

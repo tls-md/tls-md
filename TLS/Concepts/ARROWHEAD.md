@@ -8,15 +8,15 @@ SHARP TIP of an ARROW.
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIALISED]
-1. Zú 鏃 refers to a (sharp) arrowhead of any kind.
+1. Zú [[鏃]] refers to a (sharp) arrowhead of any kind.
 [GENERAL]
-2. Nǔ 砮 refers to an arrowhead made of stone.
+2. Nǔ [[砮]] refers to an arrowhead made of stone.
 [SPECIALISED]
-3. Bō 碆 refers originally to a stone placed on the ground to which one attached the stringed arrow (see illustrations). But the word is also used to refer to an arrowhead made of stone, synonymous with nǔ 砮.
+3. Bō [[碆]] refers originally to a stone placed on the ground to which one attached the stringed arrow (see illustrations). But the word is also used to refer to an arrowhead made of stone, synonymous with nǔ [[砮]].
 [SPECIALISED]
-4. Dí 鏑 refers to an arrowhead made of copper.
+4. Dí [[鏑]] refers to an arrowhead made of copper.
 [SPECIALISED]
-5. Bǐ 匕 is occasionally used to refer to an arrowhead.
+5. Bǐ [[匕]] is occasionally used to refer to an arrowhead.
 [SPECIALISED]
 ## 
 HUANG JINGUI 2006 WARFARE 14.

@@ -14,7 +14,7 @@ zh: 聽見
 PERCEIVE SOUND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for hearing or overhearing anything is wén 聞.
+1. The standard word for hearing or overhearing anything is wén [[聞]].
 ## Modern Chinese Criteria
 聽見
 聞

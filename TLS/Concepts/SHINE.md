@@ -25,10 +25,10 @@ och: 照
 CAUSE to be BRIGHT by the USE of LIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for throwing light on something is zhào 照.
-2. Míng 明 is typically used in a transferred sense of making something visible and clear.
-3. Pù 曝 / 暴 is a dramatic physical word referring to the exposing of something blazing or scorching light.
-4. Yào 耀 is a dramatic word referring to shining a dazzling light on something.
+1. The most current general word for throwing light on something is zhào [[照]].
+2. Míng [[明]] is typically used in a transferred sense of making something visible and clear.
+3. Pù [[曝]] / [[暴]] is a dramatic physical word referring to the exposing of something blazing or scorching light.
+4. Yào [[耀]] is a dramatic word referring to shining a dazzling light on something.
 ## Modern Chinese Criteria
 照射
 投射

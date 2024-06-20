@@ -17,9 +17,9 @@ VIRTUE which consists in a NATURAL MORALLY GOOD FEELING that one is HUMBLE IN-RE
 # Criteria and general notes
 ## Old Chinese Criteria
 TERMINOLOGY NEEDS TO BE MOVED HERE.
-自卑
-謙虛
-虛心
+[[自卑]]
+[[謙虛]]
+[[虛心]]
 # Ontology
 
 ## Hypernym

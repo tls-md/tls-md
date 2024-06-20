@@ -12,9 +12,9 @@ zh: 衣襟
 PART of the GARMENT MOST CLOSE to the NECK AND THROAT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a collar is lǐng 領.
-2. Jīn 衿／襟 and rèn 衽 refer specifically to the lapels which normally cross in front of the chest.
-3. Jū 裾 is very rare and refers to broad lapels in the one example I have found.
+1. The current general word for a collar is lǐng [[領]].
+2. Jīn [[衿]]／[[襟]] and rèn [[衽]] refer specifically to the lapels which normally cross in front of the chest.
+3. Jū [[裾]] is very rare and refers to broad lapels in the one example I have found.
 ## Modern Chinese Criteria
 衣襟
 衽

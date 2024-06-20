@@ -7,15 +7,15 @@ zh: 絲綢
 CLOTH PRODUCED USING SILK THREADS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for any kind of silk cloth it is bó 帛.
-2. Juàn 絹 refers to thin silk gauze.
-3. Zēng 繒 is close in meaning to bó 帛 with which it often forms a binome, but the word first became current in Han times.
-4. Sù 素 refers to to raw undyed silk cloth.
-5. Bì 幣 typically refers to silk insofar as it is used as currency or as a formal gift.
-6. Zī 緇 refers to non-shiny, matt, very darkish grey silk important in ritual garments.
-7. Liàn 練 refers to refined off-white glossy silk.
-8. Jián 縑 refers to double-thread thick silk.
-9. Tí 綈 refers to refined and washed double-thread thick silk.
+1. The general word for any kind of silk cloth it is bó [[帛]].
+2. Juàn [[絹]] refers to thin silk gauze.
+3. Zēng [[繒]] is close in meaning to bó [[帛]] with which it often forms a binome, but the word first became current in Han times.
+4. Sù [[素]] refers to to raw undyed silk cloth.
+5. Bì [[幣]] typically refers to silk insofar as it is used as currency or as a formal gift.
+6. Zī [[緇]] refers to non-shiny, matt, very darkish grey silk important in ritual garments.
+7. Liàn [[練]] refers to refined off-white glossy silk.
+8. Jián [[縑]] refers to double-thread thick silk.
+9. Tí [[綈]] refers to refined and washed double-thread thick silk.
 ## Modern Chinese Criteria
 絲綢
 綾子

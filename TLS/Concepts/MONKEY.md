@@ -11,16 +11,16 @@ och: 猴
 BEAST or animal of any species of the group of mammals closely allied to and resembling man, and ranging from the anthropoid apes to the marmosets; any animal of the order Primates except man and the lemurs. []
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Hóu 猴 is a general term for small monkeys.
-2. Yuán 猿 is a general term for large monkeys.
-3. Jū/qū 狙 refers to a macaque.
-4. Yù 禺 is a kind of orang-utan with red eyes and a long tail.
-5. Xīng 猩 refers to an orang-utan.
-6. Yù 狖 refers to a large monkey with a long tail.
-7. Róng 狨 refers to a golden monkey.
-8. Wèi 蜼 refers to a kind of a large monkey with a long tail and a nose facing upward.
-9. Náo 蝚 refers to a kind of a large monkey that is skillful in climbing.
-10. Jué 玃 refers to a large monkey.
+1. Hóu [[猴]] is a general term for small monkeys.
+2. Yuán [[猿]] is a general term for large monkeys.
+3. Jū/qū [[狙]] refers to a macaque.
+4. Yù [[禺]] is a kind of orang-utan with red eyes and a long tail.
+5. Xīng [[猩]] refers to an orang-utan.
+6. Yù [[狖]] refers to a large monkey with a long tail.
+7. Róng [[狨]] refers to a golden monkey.
+8. Wèi [[蜼]] refers to a kind of a large monkey with a long tail and a nose facing upward.
+9. Náo [[蝚]] refers to a kind of a large monkey that is skillful in climbing.
+10. Jué [[玃]] refers to a large monkey.
 ## 
 HUANG JINGUI 2006
 ANIMAL 8.

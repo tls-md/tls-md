@@ -24,9 +24,9 @@ och: 抱
 TAKE so as to HOLD a THING OR ANOTHER PERSON USING BOTH ARMS INTEDing to SAFEGUARD it OR SHOW SYMPATHY. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general current word is bào 抱, and the word refers both to physical embracing and to metaphorical mental embracing of thoughts.
-2. Huái 懷, though originally literal in meaning, came to be used predominantly in transferred senses for the embracing of thoughts and feelings.
-3. Yóng 擁 can occasionally refer to one-armed hug, or to the holding of something in one arm, mostly affectionately.
+1. The most general current word is bào [[抱]], and the word refers both to physical embracing and to metaphorical mental embracing of thoughts.
+2. Huái [[懷]], though originally literal in meaning, came to be used predominantly in transferred senses for the embracing of thoughts and feelings.
+3. Yóng [[擁]] can occasionally refer to one-armed hug, or to the holding of something in one arm, mostly affectionately.
 ## Modern Chinese Criteria
 抱
 摟

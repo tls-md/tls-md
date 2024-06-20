@@ -9,9 +9,9 @@ ADMIT that one has in the PAST been GUILTY of BAD ACT AND DECLARE that one REGRE
 # Criteria and general notes
 ## Old Chinese Criteria
 NB: There is, so far, no sufficient basis to distinguish between the meanings of these words, which are rare in this meaning.
-1. Xiè 謝 is the standard word to use, but, surprisingly, the word is quite rare.
-2. Cí 辭 can perhaps be taken to emphasise the explanations made on the occasion of apologising, but examples are too few to be sure.
-3. Qǐng 請 emphasises, perhaps, the implicit request for the apology to be accepted, but examples are too few to be sure.
+1. Xiè [[謝]] is the standard word to use, but, surprisingly, the word is quite rare.
+2. Cí [[辭]] can perhaps be taken to emphasise the explanations made on the occasion of apologising, but examples are too few to be sure.
+3. Qǐng [[請]] emphasises, perhaps, the implicit request for the apology to be accepted, but examples are too few to be sure.
 ## Modern Chinese Criteria
 道歉 is the standard word referring to an apology.
 致歉 refers in a formal way to the offer of an apology.

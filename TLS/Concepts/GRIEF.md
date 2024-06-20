@@ -30,11 +30,11 @@ och: 哀／慟
 INTENSELY SAD IN-RELATION-TO a DEATH OR a BIG DISASTER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for deep sorrow is āi 哀 (ant. lè 樂 "profound joy"), and this word refers to an inner state of mind that typically finds expression in ritualised action, and the feeling is prototypically directed not at bereavement as such but at a deceaed person.
-2. Tòng 慟 refers to an excessive display of grief.
-3. Yōu 憂 "worry" (ant. xǐ 喜 "joy") can occasionally come to refer to intense worry with a strong admixture of grief, and this usage must be regarded as a polite periphrasis. (For the main meaning of this word see WORRY.)
-4. Bēi āi 悲哀 is a common abstract and dignified way of referring to grief.
-5. A4o nǎo 懊惱 is a common vernacular way of referring to grief, which became especially common in Buddhist literature.
+1. The current general word for deep sorrow is āi [[哀]] (ant. lè [[樂]] "profound joy"), and this word refers to an inner state of mind that typically finds expression in ritualised action, and the feeling is prototypically directed not at bereavement as such but at a deceaed person.
+2. Tòng [[慟]] refers to an excessive display of grief.
+3. Yōu [[憂]] "worry" (ant. xǐ [[喜]] "joy") can occasionally come to refer to intense worry with a strong admixture of grief, and this usage must be regarded as a polite periphrasis. (For the main meaning of this word see WORRY.)
+4. Bēi āi [[悲哀]] is a common abstract and dignified way of referring to grief.
+5. A4o nǎo [[懊惱]] is a common vernacular way of referring to grief, which became especially common in Buddhist literature.
 ## Modern Chinese Criteria
 悲哀 is the standard current word for grief.
 哀

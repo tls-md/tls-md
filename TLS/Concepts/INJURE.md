@@ -20,10 +20,10 @@ och: 傷
 DAMAGE a HUMAN OR ANIMAL so as to CAUSE TO HAVE INJURY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant general term referring to the inflicting of bodily harm is shāng 傷. (But note that the word also currently refers to mental harm and psychological distress.)
-2. Chuàng 創 primarily refers to the inflicting of serious external wounds and never has any psychological overtones or implications, but there are occasional usages where the word has a metaphorical sense of inflicting pain or damage on things other than physical bodies.
-3. Jí 疾 refers to the inflicting of typically internal physical harm other than external laceration.
-4. Cuò 挫 refers to deliberate maltreatment involving the inflicting of wounds.
+1. The clearly dominant general term referring to the inflicting of bodily harm is shāng [[傷]]. (But note that the word also currently refers to mental harm and psychological distress.)
+2. Chuàng [[創]] primarily refers to the inflicting of serious external wounds and never has any psychological overtones or implications, but there are occasional usages where the word has a metaphorical sense of inflicting pain or damage on things other than physical bodies.
+3. Jí [[疾]] refers to the inflicting of typically internal physical harm other than external laceration.
+4. Cuò [[挫]] refers to deliberate maltreatment involving the inflicting of wounds.
 ## Modern Chinese Criteria
 傷
 創傷

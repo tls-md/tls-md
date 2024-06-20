@@ -17,10 +17,10 @@ och: 父
 MALE PARENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The completely dominant word is fù 父
-2. Kǎo 考 refers to the deceased father, but can also come to refer to a living father in SHU.
-3. Wēng 翁 "old man" is occasionally used, from Han times onwards, to refer periphrastically to one's aged father.
-4. Xiān jūn 先君 is standardly used by a ruler for his deceased father.
+1. The completely dominant word is fù [[父]]
+2. Kǎo [[考]] refers to the deceased father, but can also come to refer to a living father in SHU.
+3. Wēng [[翁]] "old man" is occasionally used, from Han times onwards, to refer periphrastically to one's aged father.
+4. Xiān jūn [[先君]] is standardly used by a ruler for his deceased father.
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 6. 父親。
 父，通稱。

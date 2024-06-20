@@ -16,7 +16,7 @@ zh: 味覺
 ABILITY to JUDGE BEAUTY AND UGLINESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-審美 unattested in premodern literature, according to HYDCD
+[[審美]] unattested in premodern literature, according to HYDCD
 # Ontology
 
 ## Hypernym

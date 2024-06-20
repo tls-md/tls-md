@@ -29,12 +29,12 @@ och: 名／聲
 Be KNOWN as IMPORTANT by MANY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general term for any kind of reputation, god or bad, is míng 名.
-2. Shēng 聲 refers specifically to notoriety in so far as it is the subject of public discussion.
-3. The specific general term for a high reputation is yù 譽, often in the combination míng yù 名譽.
-4. Wàng 望 is primarily public respect for a prominent political or intellectual leader.
-5. Wén 聞 refer to being well-known and/or notorious for anything good or bad.
-6. Zhī 知 refers to being well-known and/or notorious for anything good or bad.
+1. The dominant general term for any kind of reputation, god or bad, is míng [[名]].
+2. Shēng [[聲]] refers specifically to notoriety in so far as it is the subject of public discussion.
+3. The specific general term for a high reputation is yù [[譽]], often in the combination míng yù [[名譽]].
+4. Wàng [[望]] is primarily public respect for a prominent political or intellectual leader.
+5. Wén [[聞]] refer to being well-known and/or notorious for anything good or bad.
+6. Zhī [[知]] refers to being well-known and/or notorious for anything good or bad.
 ## Modern Chinese Criteria
 名聲
 名氣

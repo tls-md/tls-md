@@ -11,11 +11,11 @@ och: 臭
 ODOUR which HUMANS TEND to HATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general and abstract word for odours of all kinds, pleasant or unpleasant, is chòu 臭.
-2. Xiāng 香 (ant. chòu 臭 "stench") often refers to pleasant odours and fragrance, but the word can also refer to a stench, unlike fāng 芳.
-3. Xīng 腥, sāo 臊, and xīng sāo 腥臊 refers specifically to the stench of rotten pork or generally of rotten meat.
-4. Shān 羶 / 膻 refers to the notorious pungent stench of goats.
-5. Chòu 殠 is very rare word referring to an unpleasant smell.
+1. The current general and abstract word for odours of all kinds, pleasant or unpleasant, is chòu [[臭]].
+2. Xiāng [[香]] (ant. chòu [[臭]] "stench") often refers to pleasant odours and fragrance, but the word can also refer to a stench, unlike fāng [[芳]].
+3. Xīng [[腥]], sāo [[臊]], and xīng sāo [[腥臊]] refers specifically to the stench of rotten pork or generally of rotten meat.
+4. Shān [[羶]] / [[膻]] refers to the notorious pungent stench of goats.
+5. Chòu [[殠]] is very rare word referring to an unpleasant smell.
 See FRAGRANT
 ## Modern Chinese Criteria
 臭

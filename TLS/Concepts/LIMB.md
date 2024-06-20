@@ -13,8 +13,8 @@ och: 肢
 BODY PART OTHER than the TORSO.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for a limb is zhī 肢.
-2. Tǐ 體 refers (often collectively) to the limbs of the body, and it must be noted that the head counts as one tǐ 體 in the xíng 形 "body", but there is also a closely related usage where the word refers quite generally to the parts of the body as in bǎi tǐ 百體.
+1. The current word for a limb is zhī [[肢]].
+2. Tǐ [[體]] refers (often collectively) to the limbs of the body, and it must be noted that the head counts as one tǐ [[體]] in the xíng [[形]] "body", but there is also a closely related usage where the word refers quite generally to the parts of the body as in bǎi tǐ [[百體]].
 ## Modern Chinese Criteria
 肢
 肢體

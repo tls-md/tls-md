@@ -30,10 +30,10 @@ APPROPRIATE so as to FIT the FACTS or the PRINCIPLES PERFECTLY.
 APPROPRIATE so as to FIT the FACTS or the PRINCIPLES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for conformity with an established standard of behavioural or physical allignment zhèng 正 (ant. xié 邪 ).
-2. Jiǎo 矯 refers to bringing something in to proper physical shape.
-3. Kuāng 匡 refers to typically political proper allignment and correct coordination.
-4. Qí 齊 refers to something being or being made well-aligned, evened out, and straight, often in metaphysical senses.
+1. The standard word for conformity with an established standard of behavioural or physical allignment zhèng [[正]] (ant. xié [[邪]] ).
+2. Jiǎo [[矯]] refers to bringing something in to proper physical shape.
+3. Kuāng [[匡]] refers to typically political proper allignment and correct coordination.
+4. Qí [[齊]] refers to something being or being made well-aligned, evened out, and straight, often in metaphysical senses.
 CAUSATIVE USES MUST BE MOVED TO "MAKE CORRECT!". THIS IS STILL A MESS. CH
 ## Modern Chinese Criteria
 正確

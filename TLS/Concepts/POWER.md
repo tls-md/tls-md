@@ -23,13 +23,13 @@ ENDURING STRENGTH AND ABILITY to CAUSE OTHERS to ACT:do what one DESIRES them to
 [[MACHT]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general words for power are wēi 威 "formidable authority" and shì 勢 "strategic position of power".
-2. Quán 權 refers to one's political leverage or one's formal position of power.
-3. Wèi 位 refers to the formal and official (usually very high) position one has in a hierarchy, but the word is occasionally also used as a general term referring to any station in life. See RANK.
-4. Zhòng 重 refers to the actual political influence a person may have.
-5. Shù 數 refers to a complex constellation of power as an object of assessment.
-6. Shén 神 is occasionally used to refer to a supernatural or divinely sanctioned authority or political efficacy of a person.
-7. Yán 嚴 refers to the formidable quality of power growing from real authority.
+1. The dominant general words for power are wēi [[威]] "formidable authority" and shì [[勢]] "strategic position of power".
+2. Quán [[權]] refers to one's political leverage or one's formal position of power.
+3. Wèi [[位]] refers to the formal and official (usually very high) position one has in a hierarchy, but the word is occasionally also used as a general term referring to any station in life. See RANK.
+4. Zhòng [[重]] refers to the actual political influence a person may have.
+5. Shù [[數]] refers to a complex constellation of power as an object of assessment.
+6. Shén [[神]] is occasionally used to refer to a supernatural or divinely sanctioned authority or political efficacy of a person.
+7. Yán [[嚴]] refers to the formidable quality of power growing from real authority.
 ## Modern Chinese Criteria
 權力
 權柄

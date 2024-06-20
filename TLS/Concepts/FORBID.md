@@ -19,9 +19,9 @@ och: 禁
 COMMAND NOT to ACT:do something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current dominant general word referring to public prohibition is jìn 禁 (ant. quàn 勸 "encourage").
-2. Yù 御 / 禦 (ant. sòng yǒng 慫恿 "leave free to do what one wants") refers to putting an end to practice by authority, but not necessarily through formal public prohibition of the practice.
-3. È 遏 refers more narrowly to putting a legal stop to the further development of something.
+1. The current dominant general word referring to public prohibition is jìn [[禁]] (ant. quàn [[勸]] "encourage").
+2. Yù [[御]] / [[禦]] (ant. sòng yǒng [[慫恿]] "leave free to do what one wants") refers to putting an end to practice by authority, but not necessarily through formal public prohibition of the practice.
+3. È [[遏]] refers more narrowly to putting a legal stop to the further development of something.
 ## Modern Chinese Criteria
 禁止 is the current word for forbidding things.
 查禁 refers to formal banning of certain actions.

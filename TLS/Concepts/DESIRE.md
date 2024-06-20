@@ -59,12 +59,12 @@ och: 欲
 GOOD FEELING IN-RELATION-TO ONESELF concerning the FUTURE HAVING, CONTROLLING, or ACTING:doing SOMETHING DEFINED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant standard word is yù 欲 (ant. fú 弗 "refused to, would not") which refers to any concrete - and typically temporary - intention or desire of any kind, irrespective how strongly motivated it is. 欲戰 "wants to fight".
-2. Hào 好 (ant.* yàn 厭 "be fed up with VPing") refers to a general strong, and strongly motivated, inclination in favour of something. 好戰 "is fond of warfare".
-3. Tān 貪 refers to an exaggerated and inapropriate degree of craving something.
-4. Shì 嗜 (ant. wù 惡 "dislike") refers to a stable and deeply ingrained constant desire for something, often a reprehensible craving.
-5. Gān 甘 derives its special force from the culinary meaning "have a taste for" and refers to any predilection, typically for material things.
-6. Shì yù 嗜慾 / 嗜欲 is the abstract technical term for appetitive urges which need to be moderated and kept under control.
+1. The dominant standard word is yù [[欲]] (ant. fú [[弗]] "refused to, would not") which refers to any concrete - and typically temporary - intention or desire of any kind, irrespective how strongly motivated it is. [[欲戰]] "wants to fight".
+2. Hào [[好]] (ant.* yàn [[厭]] "be fed up with VPing") refers to a general strong, and strongly motivated, inclination in favour of something. [[好戰]] "is fond of warfare".
+3. Tān [[貪]] refers to an exaggerated and inapropriate degree of craving something.
+4. Shì [[嗜]] (ant. wù [[惡]] "dislike") refers to a stable and deeply ingrained constant desire for something, often a reprehensible craving.
+5. Gān [[甘]] derives its special force from the culinary meaning "have a taste for" and refers to any predilection, typically for material things.
+6. Shì yù [[嗜慾]] / [[嗜欲]] is the abstract technical term for appetitive urges which need to be moderated and kept under control.
 ## Modern Chinese Criteria
 巴不得 / 恨不得
 要

@@ -11,7 +11,7 @@ ASSUMING that the PRECEDING SENTENCE IS TRUE. Contrast the temporal THEREUPON.
 GRAMMAR [] ASSUMING that the PRECEDING SENTENCE IS TRUE. Contrast the temporal THEREUPON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word introducing the apodosis of a conditional, typically logical, but sometimes also temporal, is zé 則.
+1. The standard word introducing the apodosis of a conditional, typically logical, but sometimes also temporal, is zé [[則]].
 ## Modern Chinese Criteria
 當時
 當年

@@ -18,9 +18,9 @@ THING PRODUCED by MAN.
 ## Old Chinese Criteria
 [BASIC/MARGINAL]
 NB: This synonym group is needed for the taxonomy of the system and is not suggested by any current Chinese usage.
-1. The philosophically important general term for something man-made and in this sense artificial is wěi 偽.
+1. The philosophically important general term for something man-made and in this sense artificial is wěi [[偽]].
 [MARGINAL]
-2. Yì 藝 is sometimes used to refer to an artefact, perhaps insofar as this is the result of special skill.
+2. Yì [[藝]] is sometimes used to refer to an artefact, perhaps insofar as this is the result of special skill.
 [MARGINAL]
 ## Modern Chinese Criteria
 工品

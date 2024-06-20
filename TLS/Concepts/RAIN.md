@@ -20,10 +20,10 @@ och: 雨
 WATER FALLING FROM CLOUDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for rain of any kind is yǔ 雨.
-2. Lín 霖 refers to a lengthy period of rain or abundant rains of any kind..
-3. Fēng yǔ 風雨 refers to a rainstorm.
-4. Léi yǔ 雷雨 refers to a thunderstorm.
+1. The general word for rain of any kind is yǔ [[雨]].
+2. Lín [[霖]] refers to a lengthy period of rain or abundant rains of any kind..
+3. Fēng yǔ [[風雨]] refers to a rainstorm.
+4. Léi yǔ [[雷雨]] refers to a thunderstorm.
 ## Modern Chinese Criteria
 下雨
 雨

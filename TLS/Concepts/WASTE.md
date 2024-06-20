@@ -18,10 +18,10 @@ och: 耗
 EXHAUST UNRESTRAINEDLY, LACKING A GOOD AIM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for habitual wastefulness is hào 耗 (ant. liǎn 斂 "economical, parsimonious").
-2. Fèi 費 (ant. jié 節 "be economical in the use of resources") refers specifically to single acts of wastefulness.
-3. Fèi 廢 (ant. cún 存 "keep and avoid spending") refers to an inclination to use large sums without necessarily indicating that such large expenditure is wasteful.
-4. Kuàng 曠 "waste" (ant. xī 惜 "make sparing use of") is limited to the combination kuàng rì 曠日 "waste time" (ant. shěng shí 省時 "save time" seems late).
+1. The current general word for habitual wastefulness is hào [[耗]] (ant. liǎn [[斂]] "economical, parsimonious").
+2. Fèi [[費]] (ant. jié [[節]] "be economical in the use of resources") refers specifically to single acts of wastefulness.
+3. Fèi [[廢]] (ant. cún [[存]] "keep and avoid spending") refers to an inclination to use large sums without necessarily indicating that such large expenditure is wasteful.
+4. Kuàng [[曠]] "waste" (ant. xī [[惜]] "make sparing use of") is limited to the combination kuàng rì [[曠日]] "waste time" (ant. shěng shí [[省時]] "save time" seems late).
 ## Modern Chinese Criteria
 白費
 枉費

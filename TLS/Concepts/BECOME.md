@@ -22,8 +22,8 @@ zh: 變為
 BEGIN to BE something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for becoming is wéi 為.
-2. Chéng 成 often refers to something becoming something else by an effort or by voluntary action.
+1. The standard general word for becoming is wéi [[為]].
+2. Chéng [[成]] often refers to something becoming something else by an effort or by voluntary action.
 # Ontology
 
 ## Hypernym

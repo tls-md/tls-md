@@ -42,13 +42,13 @@ och: 勸
 ADVISE someone IN ORDER TO TRY to PERSUADE that HUMAN to ACT in a way one BELIEVES to be PROFITABLE FOR THAT HUMAN. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant current word is quàn 勸 (ant. jǔ 沮 "try to stop") which refers to all kinds of encouragement, both from inferiors and from superiors.
-2. Miǎn 勉 focusses on the effort needed in doing what one is encouraged to do.
-3. Qū 驅 "drive on hard" refers to "encouragement" by threat of force from the part of superiors.
-4. Lì 勵 refers to a superior encouraging others to strive hard for the ideals they already have.
-5. Cù 趣 refers to encouraging others to make greater speed in doing what they are already doing or aiming to do.
-6. Jí 急 refers to an urgent request to speed up what one is doing in a concrete way.
-7. Xù 勗 is an elavated archaic word which was quite current in SHANGSHU and reappeared as an archaism in Han times.
+1. The dominant current word is quàn [[勸]] (ant. jǔ [[沮]] "try to stop") which refers to all kinds of encouragement, both from inferiors and from superiors.
+2. Miǎn [[勉]] focusses on the effort needed in doing what one is encouraged to do.
+3. Qū [[驅]] "drive on hard" refers to "encouragement" by threat of force from the part of superiors.
+4. Lì [[勵]] refers to a superior encouraging others to strive hard for the ideals they already have.
+5. Cù [[趣]] refers to encouraging others to make greater speed in doing what they are already doing or aiming to do.
+6. Jí [[急]] refers to an urgent request to speed up what one is doing in a concrete way.
+7. Xù [[勗]] is an elavated archaic word which was quite current in SHANGSHU and reappeared as an archaism in Han times.
 ## Modern Chinese Criteria
 勸告 refers to spoken formal advice and encouragement.
 相勸 refers to an informal offer of encouragement and advice.

@@ -34,15 +34,15 @@ och: 止
 ACT so as NOT to CONTINUE NOW:present ACTION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for ceasing in an activity is zhǐ 止 (ant. xíng 行 "carry on with"), and this word can to any concrete or abstract activity; the ceasing may be final or temporary.
-2. Definitive discontinuation, often of inanimate processes, is yǐ 已 (ant. zuò 作 "break into action"). See FINISH.
-3. Bà 罷 is to deliberately discontinue a course of action one is embarked on, particularly a military action.
-4. Ceasing in a human activity, for a while, is xí 息 and the somewhat rarer xiū 休 (all ant. zuò 作 "break into action").
-5. Jué 絕 (ant. jì 繼 "continue") is to disrupt one's current (human) activity, and fèi 廢 (ant. qín 勤 "continue to make a serioues effort") is to discontinue such an acitivity permanently.
-6. Shě 舍 (often negated) is to relent in a certain activity.
-7. Chuò 輟 (ant.* láo 勞 "put in a continued honest effort") is temporary discontinuation of human action.
-8. Zhì 滯 can be used to refer to the involuntary discontinuation in an activity.
-9. Xiē1 歇 refers to the discontinuation of a process (like that of worrying).
+1. The standard current word for ceasing in an activity is zhǐ [[止]] (ant. xíng [[行]] "carry on with"), and this word can to any concrete or abstract activity; the ceasing may be final or temporary.
+2. Definitive discontinuation, often of inanimate processes, is yǐ [[已]] (ant. zuò [[作]] "break into action"). See FINISH.
+3. Bà [[罷]] is to deliberately discontinue a course of action one is embarked on, particularly a military action.
+4. Ceasing in a human activity, for a while, is xí [[息]] and the somewhat rarer xiū [[休]] (all ant. zuò [[作]] "break into action").
+5. Jué [[絕]] (ant. jì [[繼]] "continue") is to disrupt one's current (human) activity, and fèi [[廢]] (ant. qín [[勤]] "continue to make a serioues effort") is to discontinue such an acitivity permanently.
+6. Shě [[舍]] (often negated) is to relent in a certain activity.
+7. Chuò [[輟]] (ant.* láo [[勞]] "put in a continued honest effort") is temporary discontinuation of human action.
+8. Zhì [[滯]] can be used to refer to the involuntary discontinuation in an activity.
+9. Xiē1 [[歇]] refers to the discontinuation of a process (like that of worrying).
 ## Modern Chinese Criteria
 停止
 使停止

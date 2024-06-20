@@ -7,7 +7,7 @@ zh: 往後
 In the DIRECTION of BEHIND ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-後
+[[後]]
 # Ontology
 
 ## Hypernym

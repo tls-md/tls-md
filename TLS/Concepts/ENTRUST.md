@@ -25,9 +25,9 @@ zh: 委託
 GIVE something to someone TRUSTING that s/he FUTURE:will KEEP it DILIGENTLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The currrent standard word for entrusting something to someone else's care is tuō 託 any limited or unlimited period of time.
-2. Jì 寄 focusses on the transferring of responsibility for something to someone else, typically for a limited period of time.
-3. Zhǔ 屬 is cause something to belong under someone else, often with no time limit.
+1. The currrent standard word for entrusting something to someone else's care is tuō [[託]] any limited or unlimited period of time.
+2. Jì [[寄]] focusses on the transferring of responsibility for something to someone else, typically for a limited period of time.
+3. Zhǔ [[屬]] is cause something to belong under someone else, often with no time limit.
 ## Modern Chinese Criteria
 委託
 付托

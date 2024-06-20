@@ -17,11 +17,11 @@ HUMAN who is SUFFICIENTLY OLD to ESTABLISH his/her SEPARATE HOME.
 [GENERAL/SPECIFIC]
 [GENERAL-USE/TECHNICAL]
 [INFORMAL/OFFICIAL]
-1. The current word for an adult is zhuàng 壯.
+1. The current word for an adult is zhuàng [[壯]].
 [GENERAL], [GENERAL-USE]
-2. Dīng 丁 is an administrative term for a person fully capable of physical work, current from Qín times.
+2. Dīng [[丁]] is an administrative term for a person fully capable of physical work, current from Qín times.
 [OFFICIAL], [SPECIFIC], [TECHNICAL]
-3. Guàn zhě 冠者 refers to a person above the age of 18, when the capping ceremony took place.
+3. Guàn zhě [[冠者]] refers to a person above the age of 18, when the capping ceremony took place.
 [ELEVATED], [GENERAL-USE]
 ## Modern Chinese Criteria
 成年人

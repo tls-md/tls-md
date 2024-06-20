@@ -16,8 +16,8 @@ och: 難na4n
 PROVE that something is NOT TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no current and common word for refutation. The closest one can come is nàn 難 "make objections" and fēi 非 "declare to be wrong".
-NB: Bó 駁 is post-Buddhist.
+1. There is no current and common word for refutation. The closest one can come is nàn [[難]] "make objections" and fēi [[非]] "declare to be wrong".
+NB: Bó [[駁]] is post-Buddhist.
 ## Modern Chinese Criteria
 批駁
 駁斥

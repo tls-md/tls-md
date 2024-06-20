@@ -22,7 +22,7 @@ zh: 真實的
 IMPORTANT AND NOT FAKED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general dominant word for something being not artificial or fake is zhēn 真 (ant. wěi 偽 "fake"), but I find is important that the word never seems to apply to negative concepts as in English "genuine hatred".
+1. The general dominant word for something being not artificial or fake is zhēn [[真]] (ant. wěi [[偽]] "fake"), but I find is important that the word never seems to apply to negative concepts as in English "genuine hatred".
 ## Modern Chinese Criteria
 真實
 實

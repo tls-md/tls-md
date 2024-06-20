@@ -18,8 +18,8 @@ och: 宮
 MUTILATE so as to CUT off MALE GENITALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Gōng 宮 is the standard word referring to castration.
-2. Gōng bì 宮辟 refers specifically to castration as punishment.
+1. Gōng [[宮]] is the standard word referring to castration.
+2. Gōng bì [[宮辟]] refers specifically to castration as punishment.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 42.

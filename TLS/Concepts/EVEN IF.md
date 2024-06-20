@@ -10,8 +10,8 @@ och: 雖
 IF S1, NONETHELESS S2
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Suī 雖 makes hypothetical conditional clauses "it may be the case that, but....".
-2. Zòng 縱 makes presuppositional conditional clauses "although it is admittedly the case that...".
+1. Suī [[雖]] makes hypothetical conditional clauses "it may be the case that, but....".
+2. Zòng [[縱]] makes presuppositional conditional clauses "although it is admittedly the case that...".
 ## Modern Chinese Criteria
 即使
 即若

@@ -15,11 +15,11 @@ SOFT CONTAINER FOR THINGS, TYPICALLY PRODUCED USING CLOTH, AND HAVING a HOLE at 
 ## Old Chinese Criteria
 [COMMON/RARE]
 [GENERAL/SPECIFIC]
-1. The current general word for a bag or sack is náng 囊.
+1. The current general word for a bag or sack is náng [[囊]].
 [GENERAL]; [[COMMON]]
-2. Tuó 橐 refers to bag, often made of leather, but sometimes also made of cloth; one type of tuò 橐 is constructed as a combination of two sacks with their openings close together, worn over one's shoulder or placed across the back of a camel. See illustration. Often used as a travelling bag.
+2. Tuó [[橐]] refers to bag, often made of leather, but sometimes also made of cloth; one type of tuò [[橐]] is constructed as a combination of two sacks with their openings close together, worn over one's shoulder or placed across the back of a camel. See illustration. Often used as a travelling bag.
 [SPECIALISED]; [[RARE]]
-NB: Dài 袋, guǒ 裹, dōu 兜 are all post-Buddhist medieaval Chinese colloquial.
+NB: Dài [[袋]], guǒ [[裹]], dōu [[兜]] are all post-Buddhist medieaval Chinese colloquial.
 ## Modern Chinese Criteria
 包 refers to any bag or bundle.
 包裹 refers to a properly wrapped package or parcel.

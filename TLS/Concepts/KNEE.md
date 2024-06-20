@@ -8,8 +8,8 @@ och: 膝
 BIG JOINT in the MIDDLE of the LEG.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the knee as a whole is xī 膝.
-2. Bìn 臏 is the technical term for a knee-cap which is not so infrequently mentioned because it was sometimes removed by way of punishment.
+1. The current word for the knee as a whole is xī [[膝]].
+2. Bìn [[臏]] is the technical term for a knee-cap which is not so infrequently mentioned because it was sometimes removed by way of punishment.
 # Ontology
 
 ## Hypernym

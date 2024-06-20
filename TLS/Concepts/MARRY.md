@@ -26,14 +26,14 @@ och: 娶／嫁
 CAUSE someone to BECOME a HUSBAND OR a WIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for marriage as such is the relatively rare word hūn 婚 and the even rarer hūn yīn 婚 / 昏姻 which refer to marriage in general and not to marriage as seen from the perspective of one of the parties.
-2. The general term for a man marrying a woman is qǔ 娶 (ant. chū 出 "divorce").
-3. The general term for a woman marrying a man is jià 嫁 (No antonym, since women could not seek divorce.).
-4. Guī 歸 refers to a woman leaving her own clan and moving into ther husband's household.
-5. Qì 妻 refers to the convention of giving away a woman in marriage to a man.
-6. Shì 室 refers to the act of establishing a household through taking a wife.
-7. Shì 適 refers to a woman finding a husband (no doubt as a result of a parental decision, but this is not what is focussed on here).
-8. Gòu 媾 refers to double intermarriage between two clans such that a son or daughter of family X marries into family Y, and in addition another marriage is conducted so that another son or daughter from X marries another son or daughter of family Y.
+1. The general term for marriage as such is the relatively rare word hūn [[婚]] and the even rarer hūn yīn [[婚]] / [[昏姻]] which refer to marriage in general and not to marriage as seen from the perspective of one of the parties.
+2. The general term for a man marrying a woman is qǔ [[娶]] (ant. chū [[出]] "divorce").
+3. The general term for a woman marrying a man is jià [[嫁]] (No antonym, since women could not seek divorce.).
+4. Guī [[歸]] refers to a woman leaving her own clan and moving into ther husband's household.
+5. Qì [[妻]] refers to the convention of giving away a woman in marriage to a man.
+6. Shì [[室]] refers to the act of establishing a household through taking a wife.
+7. Shì [[適]] refers to a woman finding a husband (no doubt as a result of a parental decision, but this is not what is focussed on here).
+8. Gòu [[媾]] refers to double intermarriage between two clans such that a son or daughter of family X marries into family Y, and in addition another marriage is conducted so that another son or daughter from X marries another son or daughter of family Y.
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 51.
 昏（婚），結婚，通稱。

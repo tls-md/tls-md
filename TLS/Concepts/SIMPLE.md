@@ -27,10 +27,10 @@ och: 樸
 LACK MUTUALLY DIFFERENT PARTS OR FEATURES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for unadorned simplicity is pǔ 樸 (ant. lì 麗 "beautifully patterned").
-2. Sù 素 (ant. huá 華 "elaborate") means basically "pristine white" and refers to an original state of pristine plain simplicity of things.
-3. Zhì 質 (ant. wén 文 ) focusses on what is real, fundamental and basic rather than what are external temporary adornment.
-4. Jiǎn 簡 (ant. fán 繁 ) focuses on lack of inner complexity or multifariousness of any kind.
+1. The current word for unadorned simplicity is pǔ [[樸]] (ant. lì [[麗]] "beautifully patterned").
+2. Sù [[素]] (ant. huá [[華]] "elaborate") means basically "pristine white" and refers to an original state of pristine plain simplicity of things.
+3. Zhì [[質]] (ant. wén [[文]] ) focusses on what is real, fundamental and basic rather than what are external temporary adornment.
+4. Jiǎn [[簡]] (ant. fán [[繁]] ) focuses on lack of inner complexity or multifariousness of any kind.
 ## Modern Chinese Criteria
 簡便
 簡陋

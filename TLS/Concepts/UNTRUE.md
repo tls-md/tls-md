@@ -26,8 +26,8 @@ LACKING TRUTH OR CONTRARY to REALITY.
 NOT TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Fēi 非 refers to something being untrue and thus to be rejected.
-2. Xū 虛 claims that something is to be rejected because it is insufficiently founded on solid fact.
+1. Fēi [[非]] refers to something being untrue and thus to be rejected.
+2. Xū [[虛]] claims that something is to be rejected because it is insufficiently founded on solid fact.
 ## Modern Chinese Criteria
 不真實
 不對

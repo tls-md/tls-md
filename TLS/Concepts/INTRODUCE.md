@@ -13,7 +13,7 @@ SHOW HUMANS to each other so as to CAUSE them TO MUTUALLY ADDRESS each other AND
 SHOW HUMANS to each other so as to CAUSE them to INTERACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Such common words as exist refer to introducing marriage candidates to each other, such as méi 媒 acting on behalf of males and shuò 妁 on behalf of females.
+1. Such common words as exist refer to introducing marriage candidates to each other, such as méi [[媒]] acting on behalf of males and shuò [[妁]] on behalf of females.
 ## Modern Chinese Criteria
 介紹
 紹介

@@ -14,10 +14,10 @@ och: 直
 ALONG the LINE of PERFECTLY SHORT DISTANCE BETWEEN TWO POINTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for something concrete or abstract being straight in any abstract or concrete way is zhí 直 (ant. wān 彎 "bent")
-2. Zhèng 正 (ant. qǔ 曲 "bent") refers to straightness as the desirable state of something.
-3. Duān 端 (ant. xié 斜 "slanted") and zhēn 貞 (ant. xié 邪 "morally warped") refer to straightness and non-crookedness, often as a property of abstract things.
-4. Gěng 鯁 (ant. qū 屈 "bent") is a rare word referring to straightness in speech or straightness in small objects.
+1. The current general word for something concrete or abstract being straight in any abstract or concrete way is zhí [[直]] (ant. wān [[彎]] "bent")
+2. Zhèng [[正]] (ant. qǔ [[曲]] "bent") refers to straightness as the desirable state of something.
+3. Duān [[端]] (ant. xié [[斜]] "slanted") and zhēn [[貞]] (ant. xié [[邪]] "morally warped") refer to straightness and non-crookedness, often as a property of abstract things.
+4. Gěng [[鯁]] (ant. qū [[屈]] "bent") is a rare word referring to straightness in speech or straightness in small objects.
 ## Modern Chinese Criteria
 直
 筆直

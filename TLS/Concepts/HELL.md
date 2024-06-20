@@ -21,7 +21,7 @@ zh: 地獄
 UNDERWORLD in which SOULS SUFFER AFTER DEATH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current term for the underworld is huáng quán 黃泉 "The Yellow Springs".
+1. The current term for the underworld is huáng quán [[黃泉]] "The Yellow Springs".
 ## Modern Chinese Criteria
 慘境
 火坑

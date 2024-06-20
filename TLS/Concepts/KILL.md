@@ -8,10 +8,10 @@ och: 殺
 VOLUNTARILY CAUSE TO DIE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The overwhelmingly dominant term referring to any form of taking the life of anything is shā 殺.
-2. Some words specify the range of objects murdered: Thus shì 弒 refers to the killing of a reigning ruler, zhū 誅 and yí 夷 refer to the killing of a convicted criminal; zǎi 宰 and tú3 屠 refer primarily to the slaughtering of animals for the purpose of food production.
-3. Some words specify the number of objects killed: yí 夷, zú 族, jiān 殲 tú 屠 (when applied to humans) refer to the killing of groups of people. See PUNISHMENT. The other words refer normally to the killing of one person or a specified set of several persons.
-4. Some words specify modes of killing: cì 刺 is to murder by stabbing with a pointed object, typically a dagger; liè 裂 and jiě 解 refer to dismembering by a wide variety of methods; zhèn 鴆 refers to poisoning; jǐng 剄 refers to cutting the throat; xī 腊 refers to killing followed by making a person into minced meat; rèn 刃 is to kill with a sword; jiǎo 絞 and yì 縊 refer to strangulation, è4 mèi 扼昧 and refer to strangulation; è 餓 can refer to starving someone to death. For a more detailed account of the varieties of death penalties in ancient China see PUNISHMENT.
+1. The overwhelmingly dominant term referring to any form of taking the life of anything is shā [[殺]].
+2. Some words specify the range of objects murdered: Thus shì [[弒]] refers to the killing of a reigning ruler, zhū [[誅]] and yí [[夷]] refer to the killing of a convicted criminal; zǎi [[宰]] and tú3 [[屠]] refer primarily to the slaughtering of animals for the purpose of food production.
+3. Some words specify the number of objects killed: yí [[夷]], zú [[族]], jiān [[殲]] tú [[屠]] (when applied to humans) refer to the killing of groups of people. See PUNISHMENT. The other words refer normally to the killing of one person or a specified set of several persons.
+4. Some words specify modes of killing: cì [[刺]] is to murder by stabbing with a pointed object, typically a dagger; liè [[裂]] and jiě [[解]] refer to dismembering by a wide variety of methods; zhèn [[鴆]] refers to poisoning; jǐng [[剄]] refers to cutting the throat; xī [[腊]] refers to killing followed by making a person into minced meat; rèn [[刃]] is to kill with a sword; jiǎo [[絞]] and yì [[縊]] refer to strangulation, è4 mèi [[扼昧]] and refer to strangulation; è [[餓]] can refer to starving someone to death. For a more detailed account of the varieties of death penalties in ancient China see PUNISHMENT.
 ## Modern Chinese Criteria
 殺
 害死

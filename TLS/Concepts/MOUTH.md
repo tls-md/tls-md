@@ -16,7 +16,7 @@ och: 口
 ORGAN USED FOR ENTERING FOOD FOR EATING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the mouth is kǒu 口.
+1. The standard word for the mouth is kǒu [[口]].
 ## Modern Chinese Criteria
 嘴巴
 嘴

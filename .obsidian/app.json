@@ -1,6 +1,7 @@
 {
   "strictLineBreaks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "propertiesInDocument": "visible",
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "defaultViewMode": "preview"
 }

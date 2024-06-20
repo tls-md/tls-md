@@ -23,9 +23,9 @@ och: 彥
 SHORT SENTENCE OFTEN USED USED by ALL FOR EXPRESSING an ACCEPTED TRUTH OR COMMON OPINION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general specific term for a proverb or common saying is yán 諺.
-2. Yǔ 語 regularly refers to popular current sayings.
-3. Yán 言 refers to bon-mots, proverbs and sayings of any kind, including attributed maxims by philosophers and the like.
+1. The general specific term for a proverb or common saying is yán [[諺]].
+2. Yǔ [[語]] regularly refers to popular current sayings.
+3. Yán [[言]] refers to bon-mots, proverbs and sayings of any kind, including attributed maxims by philosophers and the like.
 ## Modern Chinese Criteria
 諺語
 諺

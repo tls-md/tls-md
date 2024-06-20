@@ -13,7 +13,7 @@ zh: 群
 GROUP of COOPERATING ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-群
+[[群]]
 ## Modern Chinese Criteria
 牧群 refers to a herd of domestic animals.
 獸群 refers to a herd of wild animals.

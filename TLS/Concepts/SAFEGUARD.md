@@ -29,11 +29,11 @@ zh: 保護
 HAVE AND CAUSE NOT TO BECOME DAMAGED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Bǎo 保 (which emphasises safety against dangers or threats) and shǒu 守 (which emphasises good care and the ensuring that something is not lost or impaired) are the two general words for safeguarding things.
-2. Quán 全 refers specifically to keeping a thing in perfect undiminished shape.
-3. Chí 持 refers specifically to supporting something in a vigorous and sound state.
-4. Bì 庇 refers to protection of inferiors by their superiors.
-5. Hù 護 typically refers to protection of superiors by inferiors.
+1. Bǎo [[保]] (which emphasises safety against dangers or threats) and shǒu [[守]] (which emphasises good care and the ensuring that something is not lost or impaired) are the two general words for safeguarding things.
+2. Quán [[全]] refers specifically to keeping a thing in perfect undiminished shape.
+3. Chí [[持]] refers specifically to supporting something in a vigorous and sound state.
+4. Bì [[庇]] refers to protection of inferiors by their superiors.
+5. Hù [[護]] typically refers to protection of superiors by inferiors.
 ## Modern Chinese Criteria
 保護 is the current general term for safeguarding or protecting anyone or anything.
 保衛 refers to safeguarding something by the use of threatened force.

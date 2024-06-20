@@ -25,11 +25,11 @@ RECORD OR REPORT so as to CAUSE LATER GENERATIONS TO KNOW something.
 CAUSE LATER GENERATIONS TO KNOW OR HAVE something IMPORTANT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for handing down something traditional is chuán 傳.
-2. Shù 述 (ant. zuò 作 "create") is to pass on something created by someone else.
-3. Chuí 垂 refers to the intentional continuation of a tradition, the causing that tradition not to be disrupted.
-NB: Dì 遞 gained currency in the meaning "pass on to later generations" in post-Han times.
-The nominal concept of a tradition as what is transmitted is not prominent in Chinese. The combination 傳統 does come in Hou Han Shu, but it is used verbally there, and the nominal use of the combination to refer to a tradition in the modern sense dates from the twentieth century, if we may believe HYDCD.
+1. The current general word for handing down something traditional is chuán [[傳]].
+2. Shù [[述]] (ant. zuò [[作]] "create") is to pass on something created by someone else.
+3. Chuí [[垂]] refers to the intentional continuation of a tradition, the causing that tradition not to be disrupted.
+NB: Dì [[遞]] gained currency in the meaning "pass on to later generations" in post-Han times.
+The nominal concept of a tradition as what is transmitted is not prominent in Chinese. The combination [[傳統]] does come in Hou Han Shu, but it is used verbally there, and the nominal use of the combination to refer to a tradition in the modern sense dates from the twentieth century, if we may believe HYDCD.
 ## Modern Chinese Criteria
 轉交
 轉送

@@ -16,10 +16,10 @@ och: 費
 MONEY used for a certain purpose.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for any expense of money, resources, or even effort, for a certain purpose, is fèi 費.
-2. Yòng 用 refers generally to the expenses one incurs, particularly in connection with state or family economy.
-3. Chū 出 (ant. rù 入 "income") refers specifically to monetary expenses, often in a somewhat theoretical context of "economics".
-4. Zī 資 can occasionally refer to resources used in pursuit of an aim.
+1. The standard word for any expense of money, resources, or even effort, for a certain purpose, is fèi [[費]].
+2. Yòng [[用]] refers generally to the expenses one incurs, particularly in connection with state or family economy.
+3. Chū [[出]] (ant. rù [[入]] "income") refers specifically to monetary expenses, often in a somewhat theoretical context of "economics".
+4. Zī [[資]] can occasionally refer to resources used in pursuit of an aim.
 ## Modern Chinese Criteria
 費用
 費

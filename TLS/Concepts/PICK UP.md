@@ -15,9 +15,9 @@ och: 拾
 TAKE FROM a LOW PLACE so as to HOLD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shí 拾 refers to the picking up of something that is lying where it does not really belong.
-2. Tí 提 refers to the picking up of something that is placed in its proper place on the ground.
-3. Xié 攜 is to pick up something that is manifestly mobile and take it along, often even take and pull along, drag along.
+1. Shí [[拾]] refers to the picking up of something that is lying where it does not really belong.
+2. Tí [[提]] refers to the picking up of something that is placed in its proper place on the ground.
+3. Xié [[攜]] is to pick up something that is manifestly mobile and take it along, often even take and pull along, drag along.
 ## Modern Chinese Criteria
 拾
 拾取

@@ -13,7 +13,7 @@ och: 影／陰
 SHAPE of SHADE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The shaped form of shadow is currently yǐng 影 / 景 (ant. xíng 形 "original physical object of which there is a shadow").
+1. The shaped form of shadow is currently yǐng [[影]] / [[景]] (ant. xíng [[形]] "original physical object of which there is a shadow").
 ## Modern Chinese Criteria
 影
 影子

@@ -27,9 +27,9 @@ zh: 固執
 EXCESSIVELY STRONG of MIND, TEND to REFUSE to CHANGE one's ATTITUDE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word referring to stubbornness in a positive or in the positive sense of unswerving determination is gù 固.
-2. Bì 愎 refers to stubbornness as a deplorable feature involving lack of flexibility and obstinacy.
-3. Yì 意 refers to purely psychological or opinionated intellectual stubbornness.
+1. The current general word referring to stubbornness in a positive or in the positive sense of unswerving determination is gù [[固]].
+2. Bì [[愎]] refers to stubbornness as a deplorable feature involving lack of flexibility and obstinacy.
+3. Yì [[意]] refers to purely psychological or opinionated intellectual stubbornness.
 ## Modern Chinese Criteria
 固執
 執拗

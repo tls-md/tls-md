@@ -8,9 +8,9 @@ zh: 器械
 COMPLEX TOOL which HAS MANY PARTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for any mechanical device, especially any such device used in weaponry, is xiè 械.
-2. Jī 機 refers specifically to a triggering device on weapons, but also more generally to any complex mechanical device.
-3. Yǐn 檃 refers to a mechanical device for straightening timber.
+1. The general term for any mechanical device, especially any such device used in weaponry, is xiè [[械]].
+2. Jī [[機]] refers specifically to a triggering device on weapons, but also more generally to any complex mechanical device.
+3. Yǐn [[檃]] refers to a mechanical device for straightening timber.
 ## Modern Chinese Criteria
 器械
 機器

@@ -17,8 +17,8 @@ och: 糟
 RUBBISH which SINKS to the BOTTOM of LIQUIDS RESEMBLING WINE ETC..
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zāo 糟 refers to unfiltered wine full of dregs.
-2. Pò 粕 refers to the wine dregs only.
+1. Zāo [[糟]] refers to unfiltered wine full of dregs.
+2. Pò [[粕]] refers to the wine dregs only.
 ## 
 HUANG JINGUI 2006
 FOOD 43.

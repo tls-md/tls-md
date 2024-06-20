@@ -21,13 +21,13 @@ och: 飲
 EAT LIQUID.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for imbibing any liquid, alcoholic or non-alcoholic is yǐn 飲.
-2. Shāng 觴 "to poculate, to drink on formal occasions" is a highly formal word referring always to the festive consumption of alcohol.
-3. Jiào 釂 is a very rare formal word for drinking alcohol.
-4. Chuò 啜 refers to slurping noisily and with gastronomic appreciation..
-5. Xī 吸 refers to quiet sipping of any liquids.
-6. Shòu 壽 refers specifically to drinking the health of an honoured person in his presence, and this involves consumption of alcohol.
-7. Chuò 歠 is a poetic word for drinking alcohol.
+1. The dominant word for imbibing any liquid, alcoholic or non-alcoholic is yǐn [[飲]].
+2. Shāng [[觴]] "to poculate, to drink on formal occasions" is a highly formal word referring always to the festive consumption of alcohol.
+3. Jiào [[釂]] is a very rare formal word for drinking alcohol.
+4. Chuò [[啜]] refers to slurping noisily and with gastronomic appreciation..
+5. Xī [[吸]] refers to quiet sipping of any liquids.
+6. Shòu [[壽]] refers specifically to drinking the health of an honoured person in his presence, and this involves consumption of alcohol.
+7. Chuò [[歠]] is a poetic word for drinking alcohol.
 ## 
 HUANG JINGUI 2006
 FOOD 8. 進食液體物。

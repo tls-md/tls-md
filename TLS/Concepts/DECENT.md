@@ -27,11 +27,11 @@ zh: 像樣
 GOOD so as to CONFORM to CUSTOMS in a GROUP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word in general use is jié 節 (ant. yín 淫 "unrestrained") which refers primarily to decency in behaviour.
-2. Liáng 良 (ant.* bào 暴 "recklessness") is decency of attitude as well as decency in action.
-3. Jiǎn 儉 (ant. chǐ 侈 "excessiveness") is the important virtue of decent restraint in Confucian moral spirituality and it is something cultivated by a moral effort.
-4. Shú 淑 refers in a poetic way to the proper unassuming modesty of a person, especially of attractive women in ancient Chinese society.
-5. Ràng 讓 (ant. màn 慢 "be impolite to") is marginal in this group and refers to polite deference in interaction with others. See YIELD
+1. The current word in general use is jié [[節]] (ant. yín [[淫]] "unrestrained") which refers primarily to decency in behaviour.
+2. Liáng [[良]] (ant.* bào [[暴]] "recklessness") is decency of attitude as well as decency in action.
+3. Jiǎn [[儉]] (ant. chǐ [[侈]] "excessiveness") is the important virtue of decent restraint in Confucian moral spirituality and it is something cultivated by a moral effort.
+4. Shú [[淑]] refers in a poetic way to the proper unassuming modesty of a person, especially of attractive women in ancient Chinese society.
+5. Ràng [[讓]] (ant. màn [[慢]] "be impolite to") is marginal in this group and refers to polite deference in interaction with others. See YIELD
 ## Modern Chinese Criteria
 禮節 is the current modern word for propriety and decency.
 禮數

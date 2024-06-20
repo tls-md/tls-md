@@ -11,7 +11,7 @@ zh: 品味
 PERCEIVE FLAVOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for tasting something, trying to determine its flavour, is cháng 嘗. I have not found any near-synonyms so far.
+1. The current word for tasting something, trying to determine its flavour, is cháng [[嘗]]. I have not found any near-synonyms so far.
 ## Modern Chinese Criteria
 味道
 滋味

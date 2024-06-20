@@ -21,12 +21,12 @@ och: 讓
 Be POLITE, USING RITUAL MODERATION AND PERMIT OTHERS to ACT as they DESIRE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word referring to yielding politely to others or giving precedence to them is ràng 讓 (ant. líng 陵 "treat without proper respect").
-2. Qiān 謙 (ant. jiāo 驕 "arrogant in attitude" and ào 傲 "impolite and arrogant in action") refers to the general attitude or disposition towards giving precedence to others.
-3. Cí 辭 (ant. shòu 受 "accept") refers to declining politely an offer that has been made to one.
-4. Xiè 謝 (ant. shòu 受 "accept") refers to informally but politely declining something offered to one in private context.
-5. Shàn 禪 refers specifically to declining the high office of an emperor.
-NB: Lǐ 禮 "treat with proper yielding politeness" is marginal in this group.
+1. The dominant general word referring to yielding politely to others or giving precedence to them is ràng [[讓]] (ant. líng [[陵]] "treat without proper respect").
+2. Qiān [[謙]] (ant. jiāo [[驕]] "arrogant in attitude" and ào [[傲]] "impolite and arrogant in action") refers to the general attitude or disposition towards giving precedence to others.
+3. Cí [[辭]] (ant. shòu [[受]] "accept") refers to declining politely an offer that has been made to one.
+4. Xiè [[謝]] (ant. shòu [[受]] "accept") refers to informally but politely declining something offered to one in private context.
+5. Shàn [[禪]] refers specifically to declining the high office of an emperor.
+NB: Lǐ [[禮]] "treat with proper yielding politeness" is marginal in this group.
 ## Modern Chinese Criteria
 謙讓
 禮讓

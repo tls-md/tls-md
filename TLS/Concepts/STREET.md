@@ -16,8 +16,8 @@ zh: 街
 WAY INSIDE a CITY OR VILLAGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for the streets of a compact settlement of any kind is xiàng 巷.
-2. Jiē 街 refers to main roads in settlements, but the word is rare.
+1. The general term for the streets of a compact settlement of any kind is xiàng [[巷]].
+2. Jiē [[街]] refers to main roads in settlements, but the word is rare.
 ## 
 HUANG JINGUI 2006
 COMM 3.

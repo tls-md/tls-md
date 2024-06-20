@@ -11,9 +11,9 @@ och: 訥
 SPEAK so as to OFTEN, NOT VOLUNTARILY, STOP SPEAKING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Nè 訥 refers to a general intellectual or linguistic difficulty in expressing oneself fluently or smoothly.
-2. Jí 吃 refers straightforwardly to stuttering and is compatible with powerful eloquence (cf. Han Fei, who stuttered).
-3. Jiǎn 謇 refers to physical impediments to articulation like lisping.
+1. Nè [[訥]] refers to a general intellectual or linguistic difficulty in expressing oneself fluently or smoothly.
+2. Jí [[吃]] refers straightforwardly to stuttering and is compatible with powerful eloquence (cf. Han Fei, who stuttered).
+3. Jiǎn [[謇]] refers to physical impediments to articulation like lisping.
 ## Modern Chinese Criteria
 口吃 is the standard modern word for stuttering.
 結巴 jiēba is a more elevated standard word for stuttering.

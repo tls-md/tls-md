@@ -8,8 +8,8 @@ och: 冰
 HARD FROZEN WATER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for ice is bīng 冰.
-2. Shuāng 霜 refers to frost.
+1. The current word for ice is bīng [[冰]].
+2. Shuāng [[霜]] refers to frost.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 13. 冰，水在攝氏零度以下凝結成的固體，統稱。

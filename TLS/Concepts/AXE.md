@@ -18,17 +18,17 @@ TOOL OR WEAPON with a HANDLE and a BLADE, TYPICALLY for SPLITTING WOOD.
 [[COMMON/RARE]]
 [LARGE/SMALL]
 [ELEVATED/INFORMAL]
-1. The most current word for an axe is perhaps fǔ 斧, but the word refers specifically to an axe as in the illustration, used to split things with.
+1. The most current word for an axe is perhaps fǔ [[斧]], but the word refers specifically to an axe as in the illustration, used to split things with.
 [SPECIFIC]; [COMMON+]
-2. Jīn 斤 refers to an axe where the blade is at a right angle to the shaft, as in the illustration, and this axe would seem to be of use only for cutting down branches or small trees or bushes.
+2. Jīn [[斤]] refers to an axe where the blade is at a right angle to the shaft, as in the illustration, and this axe would seem to be of use only for cutting down branches or small trees or bushes.
 [SPECIFIC]; [[COMMON+]
-3. Yuè 鉞 refers to a battle axe which came to be mostly used for ritual execution or ceremonial purposes.
+3. Yuè [[鉞]] refers to a battle axe which came to be mostly used for ritual execution or ceremonial purposes.
 [CEREMONIAL], [ELEVATED], [LARGE], [SPECIFIC]
-4. Qī 戚 is a somewhat smaller variety of the yuè 鉞.
+4. Qī [[戚]] is a somewhat smaller variety of the yuè [[鉞]].
 [CEREMONIAL], [ELEVATED], [SPECIFIC]
-5. Qiāng 斨 refers to a fǔ 斧 -style axe with a square hole for the handle.
+5. Qiāng [[斨]] refers to a fǔ [[斧]] -style axe with a square hole for the handle.
 [SPECIFIC]
-6. Zhǔ 欘 adze, refers to a carpenter 掇 or cooper 掇 tool, like an axe with the blade set at right angles to the handle and curving inwards towards it; used for cutting or slicing away the surface of wood.
+6. Zhǔ [[欘]] adze, refers to a carpenter [[掇]] or cooper [[掇]] tool, like an axe with the blade set at right angles to the handle and curving inwards towards it; used for cutting or slicing away the surface of wood.
 [SPECIFIC]; [[RARE]]
 ## 
 HUANG JINGUI 2006

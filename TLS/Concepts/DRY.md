@@ -19,12 +19,12 @@ zh: 乾燥
 LACK WATER INSIDE OR ON the SURFACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The common general term for dryness is zào 燥 (ant. shī 濕 "wet").
-2. Gǎo 槁 and kū 枯 (ant. rùn 潤 "lush") are common words referring specifically to dryness of trees and sometimes other plants.
-3. Hé/hào 涸 (ant. mǎn 滿 "full of water") views dryness as the result of a process of dissication.
-4. Gān 乾 (ant. shī 濕 "wet") focusses on the striking and complete absence of liquid.
-5. Jié 渴 merely emphasises insufficient water supply or exhaustion of water supplies.
-6. Jiāo 焦 adds to the notion of dryness that of exceesive heat.
+1. The common general term for dryness is zào [[燥]] (ant. shī [[濕]] "wet").
+2. Gǎo [[槁]] and kū [[枯]] (ant. rùn [[潤]] "lush") are common words referring specifically to dryness of trees and sometimes other plants.
+3. Hé/hào [[涸]] (ant. mǎn [[滿]] "full of water") views dryness as the result of a process of dissication.
+4. Gān [[乾]] (ant. shī [[濕]] "wet") focusses on the striking and complete absence of liquid.
+5. Jié [[渴]] merely emphasises insufficient water supply or exhaustion of water supplies.
+6. Jiāo [[焦]] adds to the notion of dryness that of exceesive heat.
 CHECK THESE THINGS AGAIN!
 ## Modern Chinese Criteria
 乾燥

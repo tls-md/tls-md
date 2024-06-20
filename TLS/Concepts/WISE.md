@@ -51,13 +51,13 @@ zh: 智慧
 INTELLIGENT IN-RELATION-TO what is MOST IMPORTANT for HUMAN LIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for wisdom is zhì 智 (ant. yú 愚 "devoid of wisdom") and this may refer to any acquired superior intellectual ability beyond the realm of memorisation or mundane knowledge, the quality which enables one to móu 謀 give good advice..
-2. Shèng 聖 (ant. yōng 庸 "mediocre") refers to supreme sagehood and perfection of character.
-3. Míng 明 (ant. bì 蔽 "beclouded, mentally obfuscated") refers to more cerebral clarity of moral insight and superb perceptiveness.
-4. Cōng 聰 (ant. dùn 鈍 "numb and insensitive") refers to sharp and incisive intelligence, especially in the analyses of what one has learnt and heard.
-5. Huì 慧 can refer to natural profound wisdom and depth of insight, but the word often comes close to referring to natural cunning.
-6. Yǐng 穎 is a rare and archaising word referring to quite extraordinary superb intellectual ability.
-7. Ruì 睿 refers to general astuteness and thoughtfulness.
+1. The current general word for wisdom is zhì [[智]] (ant. yú [[愚]] "devoid of wisdom") and this may refer to any acquired superior intellectual ability beyond the realm of memorisation or mundane knowledge, the quality which enables one to móu [[謀]] give good advice..
+2. Shèng [[聖]] (ant. yōng [[庸]] "mediocre") refers to supreme sagehood and perfection of character.
+3. Míng [[明]] (ant. bì [[蔽]] "beclouded, mentally obfuscated") refers to more cerebral clarity of moral insight and superb perceptiveness.
+4. Cōng [[聰]] (ant. dùn [[鈍]] "numb and insensitive") refers to sharp and incisive intelligence, especially in the analyses of what one has learnt and heard.
+5. Huì [[慧]] can refer to natural profound wisdom and depth of insight, but the word often comes close to referring to natural cunning.
+6. Yǐng [[穎]] is a rare and archaising word referring to quite extraordinary superb intellectual ability.
+7. Ruì [[睿]] refers to general astuteness and thoughtfulness.
 ## Modern Chinese Criteria
 智慧
 智

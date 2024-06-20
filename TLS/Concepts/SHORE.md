@@ -35,12 +35,12 @@ och: 岸
 SIDE of a RIVER, LAKE, OR SEA.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and general word for a shore of any kind became àn 岸, which originally referred to a steep embankment.
-2. Yá 涯 typically refers to a distant shore, and the word is often used metaphorically for "limit".
-3. Bīn 濱 refers to the general area near a river or a lake, including the shoreline.
-4. Hǔ 滸 refers to a the well-defined area very near a river or lake.
-5. Pǔ 浦 refers to an estuary where small rivers meet larger ones, or where a river runs into a lake or the sea, and it is important that this term included the area covered by water.
-6. Sì 涘 is a poetic and archaic general word for a river bank.
+1. The most current and general word for a shore of any kind became àn [[岸]], which originally referred to a steep embankment.
+2. Yá [[涯]] typically refers to a distant shore, and the word is often used metaphorically for "limit".
+3. Bīn [[濱]] refers to the general area near a river or a lake, including the shoreline.
+4. Hǔ [[滸]] refers to a the well-defined area very near a river or lake.
+5. Pǔ [[浦]] refers to an estuary where small rivers meet larger ones, or where a river runs into a lake or the sea, and it is important that this term included the area covered by water.
+6. Sì [[涘]] is a poetic and archaic general word for a river bank.
 NB: As far as I can see there was no special word for the sea-shore.
 ## 
 HUANG JINGUI 2006

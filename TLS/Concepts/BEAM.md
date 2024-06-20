@@ -26,26 +26,26 @@ LARGE TIMBER USED TO BUILD BUILDINGS.
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
 [GENERAL-USE/TECHNICAL-TERM]
-1. The current general term for a beam is liáng 梁, but specifically this refers to the north-south orientated rafters.
+1. The current general term for a beam is liáng [[梁]], but specifically this refers to the north-south orientated rafters.
 [GENERAL!]
-2. Dòng 棟 refers to the ridge-pole of the roof, oriented usually in the east-western direction. It is also general term for the east-western beams in a roof construction. [HUANG 1995: 1044]
+2. Dòng [[棟]] refers to the ridge-pole of the roof, oriented usually in the east-western direction. It is also general term for the east-western beams in a roof construction. [HUANG 1995: 1044]
 [SPECIFIC], [TECHNICAL-TERM]
-3. Jí 極 refers to the beam at the top of the roof which is only visible from inside the house, and is thus a specific term for dòng 棟 in its specific meaning.
+3. Jí [[極]] refers to the beam at the top of the roof which is only visible from inside the house, and is thus a specific term for dòng [[棟]] in its specific meaning.
 [SPECIFIC], [TECHNICAL-TERM]
-4. Luán 欒 refers to a bent piece of wood on the top of a pillar. [HANYU DACIDIAN: vol. 4. pp. 1371; ill.: HAYASHI 1976: pp. 72, tab. 4-50]
+4. Luán [[欒]] refers to a bent piece of wood on the top of a pillar. [HANYU DACIDIAN: vol. 4. pp. 1371; ill.: HAYASHI 1976: pp. 72, tab. 4-50]
 [SPECIFIC], [TECHNICAL-TERM]
-5. Jí 极 is another term for the ridge-pole used in pre-Qin times; it does not generally refer to the east-southern beams: [HUANG 1995: 1044]
+5. Jí [[极]] is another term for the ridge-pole used in pre-Qin times; it does not generally refer to the east-southern beams: [HUANG 1995: 1044]
 [SPECIFIC], [TECHNICAL-TERM]
-6. Fú 桴 refers to the east-western beam which is second when counted from the ridge-pole: [HUANG 1995: 1044 - 1045]
+6. Fú [[桴]] refers to the east-western beam which is second when counted from the ridge-pole: [HUANG 1995: 1044 - 1045]
 [SPECIFIC], [TECHNICAL-TERM]
-7. Méi 楣 is another term for fú 桴. Later, the word began to be used for the horizontal beam above the door. [HUANG 1995: 1044 - 1045]
+7. Méi [[楣]] is another term for fú [[桴]]. Later, the word began to be used for the horizontal beam above the door. [HUANG 1995: 1044 - 1045]
 [SPECIFIC], [TECHNICAL-TERM]
-8. Guǐ 庪 refers to the third east-western beam. [HUANG 1995: 1045]
+8. Guǐ [[庪]] refers to the third east-western beam. [HUANG 1995: 1045]
 [SPECIFIC], [TECHNICAL-TERM]
-9. Yǐn (written like 隱 but with 木 radical) and fén 棼 both refer to the highest east-western ridge-pole of the double-roof. [HUANG 1995: 1045]
+9. Yǐn (written like [[隱]] but with [[木]] radical) and fén [[棼]] both refer to the highest east-western ridge-pole of the double-roof. [HUANG 1995: 1045]
 [SPECIFIC], [TECHNICAL-TERM]
-10. Lǔ (written 木 + 呂 ) refers to the beam supporting the rafters of the roof. [HANYU DACIDIAN: vol. 4, pp. 973]
-NB: A standard building has the main gate facing south, and all beams in the north-south direction are called liáng 梁, all beams in the east-west direction are called dòng 棟.
+10. Lǔ (written [[木]] + [[呂]] ) refers to the beam supporting the rafters of the roof. [HANYU DACIDIAN: vol. 4, pp. 973]
+NB: A standard building has the main gate facing south, and all beams in the north-south direction are called liáng [[梁]], all beams in the east-west direction are called dòng [[棟]].
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 9.

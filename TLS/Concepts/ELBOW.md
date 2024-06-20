@@ -7,7 +7,7 @@ zh: 肘
 JOINT IN the MIDDLE of the ARM of a HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the elbow is zhǒu 肘, and there are no common near-synonyms.
+1. The standard word for the elbow is zhǒu [[肘]], and there are no common near-synonyms.
 ## Modern Chinese Criteria
 肘
 肘子

@@ -8,9 +8,9 @@ FIRE USED AS a SIGNAL.
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. Fēng 烽 refers to the signal fire used to give smoke signals in daytime.
+1. Fēng [[烽]] refers to the signal fire used to give smoke signals in daytime.
 [SPECIFIC]
-2. Suì 燧 refers to the signal fire used to give signals at nighttime.
+2. Suì [[燧]] refers to the signal fire used to give signals at nighttime.
 [SPECIFIC]
 NB: Traditionally there have been two diametrically opposing views on this.
 ## 

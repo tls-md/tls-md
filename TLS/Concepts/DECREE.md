@@ -27,13 +27,13 @@ och: 詔
 PUBLIC COMMAND ISSUED by the RULER OR by HIGH AUTHORITY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for an edict or decree is zhào 詔.
-2. Mìng 命 (later often replaced by lìng 令 ) refers to any published royal or imperial order, or order of the day. See COMMAND and FATE
-3. Zhì 制 is a Qin technical term for a published imperial decision.
-4. Cè 策 is a Han edict appointing a king or feudal lord and investing him with a piece of territory.
-5. Chì 敕 is a Han edict concerning local affairs to be distibuted in the provinces.
-6. Jiè 戒 refers to a formal announcement from the Son of Heaven, typically in the form of a general warning.
-7. Diǎn 典 is an archaic word referring to edicts by the Son of Heaven.
+1. The current general word for an edict or decree is zhào [[詔]].
+2. Mìng [[命]] (later often replaced by lìng [[令]] ) refers to any published royal or imperial order, or order of the day. See COMMAND and FATE
+3. Zhì [[制]] is a Qin technical term for a published imperial decision.
+4. Cè [[策]] is a Han edict appointing a king or feudal lord and investing him with a piece of territory.
+5. Chì [[敕]] is a Han edict concerning local affairs to be distibuted in the provinces.
+6. Jiè [[戒]] refers to a formal announcement from the Son of Heaven, typically in the form of a general warning.
+7. Diǎn [[典]] is an archaic word referring to edicts by the Son of Heaven.
 ## Modern Chinese Criteria
 聖旨 is the current modern word for an imperial decree.
 旨 is a current colloquial word referring to an imperial decree.

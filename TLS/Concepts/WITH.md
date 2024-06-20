@@ -8,7 +8,7 @@ och: 與
 AND TOGETHER [GRAMMAR]
 # Criteria and general notes
 ## Old Chinese Criteria
-The current word is yǔ 與.
+The current word is yǔ [[與]].
 ## Modern Chinese Criteria
 跟
 同

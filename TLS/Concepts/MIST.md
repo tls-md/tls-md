@@ -15,9 +15,9 @@ och: 霧
 INTENSELY LOW CLOUD on the SURFACE of the EARTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for billowing mist and fog, especially as the medium in which dragons and the like are roaming, is wù 霧.
-2. Xiá 霞 refers to misty, rosy diffuse clouds.
-Qì 氣 is sometimes used to refer to the misty substance that wù 霧 is made up of.
+1. The current general word for billowing mist and fog, especially as the medium in which dragons and the like are roaming, is wù [[霧]].
+2. Xiá [[霞]] refers to misty, rosy diffuse clouds.
+Qì [[氣]] is sometimes used to refer to the misty substance that wù [[霧]] is made up of.
 ## Modern Chinese Criteria
 煙霧
 雲煙

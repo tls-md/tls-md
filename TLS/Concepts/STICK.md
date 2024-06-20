@@ -17,12 +17,12 @@ och: 杖
 LONG, ROUND, STRAIGHT PIECE OF TIMBER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a stick of any kind is zhàng 杖.
-2. Chuí 棰 refers to a short, heavy cudgel.
-3. Gān 竿 refers to a light bamboo pole. [The word occurs already in SHIJING where it refers to the fishing pole.
-4. Bàng 棒 refers to a fairly heavy club or cudgel.
-5. Pū 撲 refers generally to a cane used for caning criminals.
-NB: Gùn 棍 (YUAN) is post-Han.
+1. The current general word for a stick of any kind is zhàng [[杖]].
+2. Chuí [[棰]] refers to a short, heavy cudgel.
+3. Gān [[竿]] refers to a light bamboo pole. [The word occurs already in SHIJING where it refers to the fishing pole.
+4. Bàng [[棒]] refers to a fairly heavy club or cudgel.
+5. Pū [[撲]] refers generally to a cane used for caning criminals.
+NB: Gùn [[棍]] (YUAN) is post-Han.
 ## 
 HUANG JINGUI 2006
 ASTRONOMY 21.

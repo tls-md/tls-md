@@ -25,12 +25,12 @@ och: 財
 THINGS one POSSESSES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for all manner of property is yǒu 有, which refers to anything one has, but this usage is rare.
-2. The current very general term for moveable property and particularly things for daily use is cái 財.
-3. Huò 貨 refers to property, particularly precious metals or jade etc, insofar as these may be traded or is considered as being a possible object for trading.
-4. Huǐ 賄 refers to valuable goods, often insofar as these might be used as precious gifts.
-5 Zī 資 refers to property, particularly financial money, insofar as these are resources that help one to carry out some business.
-6. Zī 貲 refers to valuables or assets in so far as these constitute disposable wealth.
+1. The most general word for all manner of property is yǒu [[有]], which refers to anything one has, but this usage is rare.
+2. The current very general term for moveable property and particularly things for daily use is cái [[財]].
+3. Huò [[貨]] refers to property, particularly precious metals or jade etc, insofar as these may be traded or is considered as being a possible object for trading.
+4. Huǐ [[賄]] refers to valuable goods, often insofar as these might be used as precious gifts.
+5 Zī [[資]] refers to property, particularly financial money, insofar as these are resources that help one to carry out some business.
+6. Zī [[貲]] refers to valuables or assets in so far as these constitute disposable wealth.
 ## 
 HUANG JINGUI 2006
 TRADE 12.

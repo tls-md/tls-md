@@ -12,9 +12,9 @@ INTENSELY THICK so as to be NOT ABLE TO CUT. 
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The current general word for bluntness of any kind is dùn 鈍.
+1. The current general word for bluntness of any kind is dùn [[鈍]].
 [GENERAL]
-2. Cuò 挫 refers primarily to the act of making an object blunt.
+2. Cuò [[挫]] refers primarily to the act of making an object blunt.
 [SPECIFIC]; [vt - caus]
 ## Modern Chinese Criteria
 鈍

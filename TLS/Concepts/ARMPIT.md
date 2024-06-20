@@ -9,9 +9,9 @@ The HOLLOW under the ARM where THE ARM is JOINed IN-RELATION-TO the TRUNK of an 
 ## Old Chinese Criteria
 [BASIC/MARGINAL]
 [COMMON/RARE]
-1. The specific word for the armpit is yè 腋.
+1. The specific word for the armpit is yè [[腋]].
 [BASIC]; [[COMMON]]
-2. Xié 脅 "ribs" can be used to refer to the area of the armpits, and the word is also used for "carrying under one's armpit".
+2. Xié [[脅]] "ribs" can be used to refer to the area of the armpits, and the word is also used for "carrying under one's armpit".
 [MARGINAL]; [[RARE]]
 ## Modern Chinese Criteria
 腋

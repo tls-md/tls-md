@@ -13,13 +13,13 @@ och: 軒
 VEHICLE PULLED by HORSES, USED by HUMANS FOR TRAVEL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for high class means of personal transport is perhaps xuān 軒, but see chē 車 in the more general VEHICLE.
-2. Niǎn 輦 refers to a man-drawn and man-held cart.
-3. Lù 輅 refers to a carriage for very high officials or even the Son of Heaven himself, typically drawn by four horses.
-4. Quán 輇 refers to a Han dynasty carriage with solid wooden wheels.
-5. Yáo 軺 refers to a convenient and fast small carriage drawn by one horse.
-6. Píng 軿 refers to a carriage especially designed for the transportation of distinguished women, with curtains on all sides.
-7. Wēn 轀 refers to a comfortable coach for long distance transportation.
+1. The most general word for high class means of personal transport is perhaps xuān [[軒]], but see chē [[車]] in the more general VEHICLE.
+2. Niǎn [[輦]] refers to a man-drawn and man-held cart.
+3. Lù [[輅]] refers to a carriage for very high officials or even the Son of Heaven himself, typically drawn by four horses.
+4. Quán [[輇]] refers to a Han dynasty carriage with solid wooden wheels.
+5. Yáo [[軺]] refers to a convenient and fast small carriage drawn by one horse.
+6. Píng [[軿]] refers to a carriage especially designed for the transportation of distinguished women, with curtains on all sides.
+7. Wēn [[轀]] refers to a comfortable coach for long distance transportation.
 ## 
 HUANG JINGUI 2006
 COMM 16. 重，載重車、輜重車的通稱，用來載物，并可作臥車。

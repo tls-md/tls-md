@@ -19,12 +19,12 @@ SITUATION OR THING which CAUSES something TO HAPPEN OR to be TRUE.
 SITUATION OR THING which CAUSES something TO HAPPEN OR to BE TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word primarily for something further back in time causing something later in time, but also applied to logical grounds of any kind is gù 故, and the image is that of a solid background against which something is happening. Both subjective reasons and objective causes are referred to by this word.
-2. Yīn 因 is what an animate or inanimate agent bases himself on in order to develop or act, and the image is that of leaning on it.
-3. Yóu 由 and zì 自 are only occasionally nominalised and metaphorically construe the ground as something from which the consequence "flows", and the image is that of a source from which an action or a process flows.
-4. Yǐ 以 is only occasionally nominalised and construes the grounds as something used by the consequence in order for it to be established, and the image is of the use a subject makes, in the course of some action, of something else.
-5. Yuán 緣 is construed as grounds one uses as a guideline, and yuán 緣 always indicates grounds used by a person, and the image is of a guideline one follows in action.
-6. Jī 機 is an objective cause construed metaphorically as a triggering mechanism for what is caused, and the image is of a mechanism triggering an event or an action.
+1. The general word primarily for something further back in time causing something later in time, but also applied to logical grounds of any kind is gù [[故]], and the image is that of a solid background against which something is happening. Both subjective reasons and objective causes are referred to by this word.
+2. Yīn [[因]] is what an animate or inanimate agent bases himself on in order to develop or act, and the image is that of leaning on it.
+3. Yóu [[由]] and zì [[自]] are only occasionally nominalised and metaphorically construe the ground as something from which the consequence "flows", and the image is that of a source from which an action or a process flows.
+4. Yǐ [[以]] is only occasionally nominalised and construes the grounds as something used by the consequence in order for it to be established, and the image is of the use a subject makes, in the course of some action, of something else.
+5. Yuán [[緣]] is construed as grounds one uses as a guideline, and yuán [[緣]] always indicates grounds used by a person, and the image is of a guideline one follows in action.
+6. Jī [[機]] is an objective cause construed metaphorically as a triggering mechanism for what is caused, and the image is of a mechanism triggering an event or an action.
 ## Modern Chinese Criteria
 原因
 因

@@ -7,7 +7,7 @@ zh: 船錨
 TOOL FOR FIXING THE PLACE:position of a SHIP AND BINDING it to the BOTTOM of the WATER. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the metal anchor is máo 錨 and the first account of a metal anchor máo 錨 is in 天工開物.
+1. The standard word for the metal anchor is máo [[錨]] and the first account of a metal anchor máo [[錨]] is in [[天工開物]].
 ## 
 HUANG JINGUI 2006
 COMM 30. 碇，木帆船停泊時，拋於岸上或沉落水中以穩定船身的大石；是最早出現的靠泊工具。

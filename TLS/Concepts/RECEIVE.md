@@ -22,12 +22,12 @@ och: 受
 BEGIN to HAVE something that someone is GIVING it to one.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word is shòu 受 (ant. jù 拒 "refuse to accept"; ant.* yǔ 與 "give"), which can refer to any concrete or abstract form of receiving or being exposed to.
-2. Chéng 承 (ant.* zèng 贈 "present formally") refers to the polite act of receiving something as a gift.
-3. Fèng 奉 and bǐng 稟 (ant.* cì 賜 "present formally to inferiors") refers to the polite act of receiving any concrete or abstract thing (including orders and the like) from a superior.
-4. Měng 蒙 is to be on the receiving end of a process, and the word hardly ever takes concrete objects.
-5. Nà 納 focusses concretely on the receiving something from the outside into some inside.
-6. Shōu 收 refers specifically to receiving what is due to one.
+1. The current general word is shòu [[受]] (ant. jù [[拒]] "refuse to accept"; ant.* yǔ [[與]] "give"), which can refer to any concrete or abstract form of receiving or being exposed to.
+2. Chéng [[承]] (ant.* zèng [[贈]] "present formally") refers to the polite act of receiving something as a gift.
+3. Fèng [[奉]] and bǐng [[稟]] (ant.* cì [[賜]] "present formally to inferiors") refers to the polite act of receiving any concrete or abstract thing (including orders and the like) from a superior.
+4. Měng [[蒙]] is to be on the receiving end of a process, and the word hardly ever takes concrete objects.
+5. Nà [[納]] focusses concretely on the receiving something from the outside into some inside.
+6. Shōu [[收]] refers specifically to receiving what is due to one.
 ## Modern Chinese Criteria
 收
 接收

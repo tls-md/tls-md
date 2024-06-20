@@ -16,15 +16,15 @@ REPEATing what has HAPPENED or been ACT:done in the PAST. 
 [GENERAL/SPECIFIC]
 [INCREASING/STATIC]
 [SUBJ=HUMAN/SUBJ=NON-HUMAN]
-1. Fù 復 tends to refer to a cyclic repetition of any any event, action, or process.
+1. Fù [[復]] tends to refer to a cyclic repetition of any any event, action, or process.
 [CYCLIC!], [GENERAL]
-2. Yòu 又 refers to linear repetition, often of an incremental nature, of any event, action, or process (compare LAO 玄之又玄 "even more mysterious than the mysterious".
+2. Yòu [[又]] refers to linear repetition, often of an incremental nature, of any event, action, or process (compare LAO [[玄之又玄]] "even more mysterious than the mysterious".
 [GENERAL], [INCREASING!], [LINEAR]
-3. Zài 再 refers generally to linear repetition of the same action, typically by a human agent.
+3. Zài [[再]] refers generally to linear repetition of the same action, typically by a human agent.
 [GENERAL], [LINEAR], [SUBJ=HUMAN!]
-4. Gèng 更 in front of transitive verbs typically implies a change of object and thus often retains elements of its original force "improve", and the word often retains the nuance of an intended systematic improvement achieved by the change.
+4. Gèng [[更]] in front of transitive verbs typically implies a change of object and thus often retains elements of its original force "improve", and the word often retains the nuance of an intended systematic improvement achieved by the change.
 [SPECIFIC], [SUBJ=HUMAN]
-5. Xí 襲 refers to repetition by way of a continuation of a traditIon. See REPEAT.
+5. Xí [[襲]] refers to repetition by way of a continuation of a traditIon. See REPEAT.
 [LINEAR], [SPECIFIC], [SUBJ=HUMAN]
 ## Modern Chinese Criteria
 再 is the current modern word for "again" and its meaning derives from the meaning "twice", and the repeated action is typically (but not always) in the future.

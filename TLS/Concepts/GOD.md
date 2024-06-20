@@ -9,8 +9,8 @@ MOST IMPORTANT DEITY.
 EXTREMELY IMPORTANT DEITY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Tiān 天 refers to the - often personified or semi-personified - God of Heaven.
-2. Shàng dì 上帝 refers to the highest Sovereign, also identified with the the Highest Ancestor.
+1. Tiān [[天]] refers to the - often personified or semi-personified - God of Heaven.
+2. Shàng dì [[上帝]] refers to the highest Sovereign, also identified with the the Highest Ancestor.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 19.

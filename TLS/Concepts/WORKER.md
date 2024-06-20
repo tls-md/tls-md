@@ -23,9 +23,9 @@ ADULT EMPLOYED by the GOVERNMENT OR by ENTREPRENEURS to WORK FOR them.
 [[ARBEITER]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a corvee labourer or a conscript soldier of any kind is yì 役.
-2. Yáo 徭 refers unambiguously to a corvee labourer and focusses prototypically on the fact that he is sent to a distant place.
-3. Shù 戍 refers specifically to a conscript soldier sent out to guard the borders.
+1. The general term for a corvee labourer or a conscript soldier of any kind is yì [[役]].
+2. Yáo [[徭]] refers unambiguously to a corvee labourer and focusses prototypically on the fact that he is sent to a distant place.
+3. Shù [[戍]] refers specifically to a conscript soldier sent out to guard the borders.
 ## Modern Chinese Criteria
 勞役
 苦工

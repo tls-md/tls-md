@@ -19,13 +19,13 @@ och: 導
 CONTROL so as to CAUSE TO FOLLOW OR OBEY oneself.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for leadership or guidance of any kind is dǎo 導 / 道.
-2. Shuài 率 / 帥 places stronger emphasis on leadership in a certain campaign than on general guidance.
-3. Jiāng 將 and yǐn 引 refer to leading an informal group, large or small, occasionally even a single person.
-4. Xiàng 相 refers specifically to leading or guiding the blind.
-5. Shuài 帥 refers specifically to leadership in a military campaign.
-6. Jiàng 將 refers to a formal formal military rank and leadership exercised by someone occupying that rank.
-7. Xiān 先 refers to leadership on the image of being at the head of a procession.
+1. The current general term for leadership or guidance of any kind is dǎo [[導]] / [[道]].
+2. Shuài [[率]] / [[帥]] places stronger emphasis on leadership in a certain campaign than on general guidance.
+3. Jiāng [[將]] and yǐn [[引]] refer to leading an informal group, large or small, occasionally even a single person.
+4. Xiàng [[相]] refers specifically to leading or guiding the blind.
+5. Shuài [[帥]] refers specifically to leadership in a military campaign.
+6. Jiàng [[將]] refers to a formal formal military rank and leadership exercised by someone occupying that rank.
+7. Xiān [[先]] refers to leadership on the image of being at the head of a procession.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 44. LEADER

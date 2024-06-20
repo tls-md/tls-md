@@ -7,10 +7,10 @@ zh: 梳子
 TOOL USED FOR CAUSING HAIR to BECOME STRAIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard ancient word for a comb is jié 櫛 in Han times. Combs can be made of wood, bone, bamboo, horn or ivory.
-2. Shū 梳 is a rare word in antiquity which first became current in Han times, according to SHUOWEN, the term should refer to the comb with teeth far apart.
-3. Tì 揥 refers to the comb-pin, which in early times are usually made of ivory:
-4. Bì ｂｉ (FIND CHARACTER IN UNICODE) is a term for the comb with teeth close together; in SHUOWEN called bǐ 比.
+1. The standard ancient word for a comb is jié [[櫛]] in Han times. Combs can be made of wood, bone, bamboo, horn or ivory.
+2. Shū [[梳]] is a rare word in antiquity which first became current in Han times, according to SHUOWEN, the term should refer to the comb with teeth far apart.
+3. Tì [[揥]] refers to the comb-pin, which in early times are usually made of ivory:
+4. Bì ｂｉ (FIND CHARACTER IN UNICODE) is a term for the comb with teeth close together; in SHUOWEN called bǐ [[比]].
 ## Modern Chinese Criteria
 梳頭
 梳理

@@ -7,7 +7,7 @@ zh: 桅竿
 LONG VERTICAL BEAM FOR HANGING SAILS on, IN the MIDDLE of a SHIP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The only word for a mast, exceedingly rare, is wéi 桅. Early China was not a great sailing nation.
+1. The only word for a mast, exceedingly rare, is wéi [[桅]]. Early China was not a great sailing nation.
 ## 
 HUANG JINGUI 2006
 COMM 29. 船上掛帆的豎杆。二詞最早見於漢代。

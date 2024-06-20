@@ -17,9 +17,9 @@ och: 偏
 HABITUALLY PREFER something LACKING GOOD REASONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for being partial rather than catholic in orientation of coverage is piān 偏 (ant. quán 全 "completely").
-2. Bǐ 比 (ant. zhōu 周 "catholic") refers to partiality in the context of political cooperation.
-3. Yǐ 倚 and the rarer jī 畸 (ant. zhōng 中 "be fair and unbiased") refers to leaning to one side physically or metaphorically.
+1. The current general word for being partial rather than catholic in orientation of coverage is piān [[偏]] (ant. quán [[全]] "completely").
+2. Bǐ [[比]] (ant. zhōu [[周]] "catholic") refers to partiality in the context of political cooperation.
+3. Yǐ [[倚]] and the rarer jī [[畸]] (ant. zhōng [[中]] "be fair and unbiased") refers to leaning to one side physically or metaphorically.
 ## Modern Chinese Criteria
 偏心
 偏

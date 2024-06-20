@@ -24,14 +24,14 @@ zh: 去
 WALK OR TRAVEL INTENDING TO ARRIVE at a DEFINED PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zhī 之 is to go to a place, typically taking the most direct route, by any conveyance as a result of a decision and typically with the purpose of staying there for a while or conducting some business.
-2. Cào/zào 造 and rú 如 refer to aiming for a destination, and the movement may be by foot or by any conveyance.
-3. Wǎng 往 (ant. jū 居 "remain at home") refers to setting out for a destination by any means of transport or by foot, and the destination is not very often made explicit by an ordinary noun as object. Moreover wǎng 往 does not necessarily imply going somewhere by the most direct route.
-4. Fù 赴 refers to hastening to a (typically dangerous) destination (such as an abyss or fire), or to a place where one is to perform a public duty.
-5. Qū 趨 refers to hurrying politely to a destination.
-6. Shì 適 refers to moving in a certain direction, or heading for a certain place, and the word is also used for arrival at the destination.
-7. Jiù 就 (ant. qù 去 "leave") and the somewhat rarer jí 即 (ant. lí 離 "leave") refer to approaching a certain destination by any means of transport.
-8. Yì 詣 refers to going somewhere to pay a formal visit. See VISIT.
+1. Zhī [[之]] is to go to a place, typically taking the most direct route, by any conveyance as a result of a decision and typically with the purpose of staying there for a while or conducting some business.
+2. Cào/zào [[造]] and rú [[如]] refer to aiming for a destination, and the movement may be by foot or by any conveyance.
+3. Wǎng [[往]] (ant. jū [[居]] "remain at home") refers to setting out for a destination by any means of transport or by foot, and the destination is not very often made explicit by an ordinary noun as object. Moreover wǎng [[往]] does not necessarily imply going somewhere by the most direct route.
+4. Fù [[赴]] refers to hastening to a (typically dangerous) destination (such as an abyss or fire), or to a place where one is to perform a public duty.
+5. Qū [[趨]] refers to hurrying politely to a destination.
+6. Shì [[適]] refers to moving in a certain direction, or heading for a certain place, and the word is also used for arrival at the destination.
+7. Jiù [[就]] (ant. qù [[去]] "leave") and the somewhat rarer jí [[即]] (ant. lí [[離]] "leave") refer to approaching a certain destination by any means of transport.
+8. Yì [[詣]] refers to going somewhere to pay a formal visit. See VISIT.
 ## Modern Chinese Criteria
 去
 去到

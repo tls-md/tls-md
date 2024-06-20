@@ -14,9 +14,9 @@ och: 肥／饒
 ABLE, as SOIL OR TERRITORY, to CAUSE PLANTS to GROW ABUNDANTLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for fertility of land is féi 肥 (ant. jí 瘠 "infertile"), and this refers to potentially fertile areas as well as to land already under cultivation.
-2. Ráo 饒 (ant. huāng 荒 "infertile") refers to the productive state of fields that are being cultivated.
-3. Wò 沃 (ant. què 埆 "infertile") is an archaising elevated word.
+1. The standard word for fertility of land is féi [[肥]] (ant. jí [[瘠]] "infertile"), and this refers to potentially fertile areas as well as to land already under cultivation.
+2. Ráo [[饒]] (ant. huāng [[荒]] "infertile") refers to the productive state of fields that are being cultivated.
+3. Wò [[沃]] (ant. què [[埆]] "infertile") is an archaising elevated word.
 ## Modern Chinese Criteria
 肥沃
 肥美

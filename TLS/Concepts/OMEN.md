@@ -27,8 +27,8 @@ och: 兆
 IMAGE SHOWING OR PROVING that a FUTURE EVENT will HAPPEN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a presage is zhào 兆.
-2. Xiáng 祥 is a less momentous sign or portent, positive or negative.
+1. The current general term for a presage is zhào [[兆]].
+2. Xiáng [[祥]] is a less momentous sign or portent, positive or negative.
 ## Modern Chinese Criteria
 預兆
 先兆

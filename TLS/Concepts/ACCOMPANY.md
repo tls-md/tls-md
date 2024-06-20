@@ -20,17 +20,17 @@ FOLLOW AND be TOGETHER with, TYPICALLY so as to SERVE or HELP.
 [GRAMMATICALISED/LEXICAL]
 [HIERARCHICAL/NON-HIERARCHICAL]
 [MOVING/STATIONARY]
-1. The general word for accompanying someone of superior status is probably shì 侍 refers to polite attendance upon a master or leader, typically while in residence, but occasionally also on journeys. See SERVE.
+1. The general word for accompanying someone of superior status is probably shì [[侍]] refers to polite attendance upon a master or leader, typically while in residence, but occasionally also on journeys. See SERVE.
 [ASCENDING], [STATIONARY]
-2. Péi 陪 typically refers to accompanying someone who is moving, and it adds to the literal meaning of accompaniment of a superior that of general support.
+2. Péi [[陪]] typically refers to accompanying someone who is moving, and it adds to the literal meaning of accompaniment of a superior that of general support.
 [ASCENDING], [MOVING]
-3. Jù 俱 and xié 偕 refer to a symmetric relation of togetherness rather than the transitive action of accompaniment of a superior. See TOGETHER.
+3. Jù [[俱]] and xié [[偕]] refer to a symmetric relation of togetherness rather than the transitive action of accompaniment of a superior. See TOGETHER.
 [GENERAL], [NON-HIERARCHICAL]
-4. Yǔ 與 adds to the notion of accompaniment that of tactical association, the siding with someone, and occasionally the latter nuance is stronger than the meaning "to accompany" so that the word comes to mean purely "to side with".
+4. Yǔ [[與]] adds to the notion of accompaniment that of tactical association, the siding with someone, and occasionally the latter nuance is stronger than the meaning "to accompany" so that the word comes to mean purely "to side with".
 [DESCENDING!]
-5. Ba4n 伴 is to keep company as a friend.
-6. Co2ng 從 is to keep company as a follower.
-7. So4ng 送 is to keep company with someone who is leaving.
+5. Ba4n [[伴]] is to keep company as a friend.
+6. Co2ng [[從]] is to keep company as a follower.
+7. So4ng [[送]] is to keep company with someone who is leaving.
 ## Modern Chinese Criteria
 陪伴 is a current modern word for accompaniment.
 陪 is a more informal word for accompanying a person.

@@ -20,10 +20,10 @@ zh: 射
 To ISSUE or send forth, esp. swiftly or by sudden impulse.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shè 射 is the current general term for the whole process of shooting.
-2. Zhòng 中 refers to hitting the mark by shooting.
-3. Fā 發 is to let off a shot.
-4. Tán 彈 refers to shooting off a bullet.
+1. Shè [[射]] is the current general term for the whole process of shooting.
+2. Zhòng [[中]] refers to hitting the mark by shooting.
+3. Fā [[發]] is to let off a shot.
+4. Tán [[彈]] refers to shooting off a bullet.
 ## 
 HUANG JINGUI 2006
 ANIMALS 34. STRINGED ARROW

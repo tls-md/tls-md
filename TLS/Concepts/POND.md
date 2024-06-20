@@ -15,8 +15,8 @@ zh: 池塘
 SMALL LAKE PRODUCED by HUMANS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word for an artificial lake of any kind is chí 池, and this word typically refers to a meandering lake, sometimes close in shape to a moat, particularly round elevated terraces and the like, around gardens and orchards, but also as part of palaces.
-2. Zhǎo 沼 is an elevated word referring to elaborate artificial lakes in or near palaces and the like, although the word can also come to refer more generally to natural lakes and marshlands.
+1. The most common word for an artificial lake of any kind is chí [[池]], and this word typically refers to a meandering lake, sometimes close in shape to a moat, particularly round elevated terraces and the like, around gardens and orchards, but also as part of palaces.
+2. Zhǎo [[沼]] is an elevated word referring to elaborate artificial lakes in or near palaces and the like, although the word can also come to refer more generally to natural lakes and marshlands.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 17.

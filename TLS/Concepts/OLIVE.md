@@ -7,7 +7,7 @@ zh: 橄欖
 [Olea sativa], a small oval drupe, with bitter pulp abounding in oil, and hard stone; valuable as a source of oil, and also eaten pickled in an unripe state.
 # Criteria and general notes
 ## Old Chinese Criteria
-000 左思 mentions the olive tree.
+000 [[左思]] mentions the olive tree.
 ## Modern Chinese Criteria
 橄欖
 青果

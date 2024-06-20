@@ -36,17 +36,17 @@ ASSENT that one is WILLING to ACT CONFORMing to someone OTHER:else's REQUEST. �
 [FORMAL/INFORMAL]
 [MENTAL/PRACTICAL]
 [REACTIVE/SPONTANEOUS]
-1. Nuò 諾 (ant. yǐ 已 "be unwilling") expresses a general agreement to do what is asked of one, and this is the most common word which can be used both by superiors and by inferiors when expressing agreement.
+1. Nuò [[諾]] (ant. yǐ [[已]] "be unwilling") expresses a general agreement to do what is asked of one, and this is the most common word which can be used both by superiors and by inferiors when expressing agreement.
 [EXPLICIT], [FORMAL], [REACTIVE]
-2. Wéi 唯 (ant. fǒu 否 "refuse") expresses an unquestioning agreement directed at superiors to do what is asked of one.concerning a major undertaking by means of a mutual promise.
+2. Wéi [[唯]] (ant. fǒu [[否]] "refuse") expresses an unquestioning agreement directed at superiors to do what is asked of one.concerning a major undertaking by means of a mutual promise.
 [ASCENDING], [EXPLICIT], [FORMAL], [REACTIVE]
-3. Qī 期 refers to the entering into a typically non-hierarchical agreement concerning any form of common action by means of a mutual promise.
+3. Qī [[期]] refers to the entering into a typically non-hierarchical agreement concerning any form of common action by means of a mutual promise.
 [EXPLICIT], [HORIZONTAL], [INFORMAL], [SPONTANEOUS]
-4. Yuē 約 refers to the entering into a voluntary binding agreement of any kind between equals.
+4. Yuē [[約]] refers to the entering into a voluntary binding agreement of any kind between equals.
 [EXPLICIT], [FORMAL], [HORIZONTAL], [SPONTANEOUS]
-5. Kěn 肯 (ant. jù (ér bù shòu) 拒（而不受 ) "refuse to accede to a request") refers to a willingness to do what one might refuse to do.
+5. Kěn [[肯]] (ant. jù (ér bù shòu) [[拒]]（[[而不受]] ) "refuse to accede to a request") refers to a willingness to do what one might refuse to do.
 [IMPLICIT], [MENTAL]
-6. Cóng 從 "do as one is told" (ant. cí 辭 "refuse") can refer to an agreement by a superior to do as is being suggested by an inferior rather than the obeying itself. See OBEY
+6. Cóng [[從]] "do as one is told" (ant. cí [[辭]] "refuse") can refer to an agreement by a superior to do as is being suggested by an inferior rather than the obeying itself. See OBEY
 [IMPLICIT], [PRACTICAL], [REACTIVE]
 ## Modern Chinese Criteria
 同意 is the current modern word for an agreement to do something, although the word can also refer more generally to assent.

@@ -20,13 +20,13 @@ och: 安
 DELIGHTFUL BECAUSE ORDERLY AND LACKING CHAOS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word for peacefulness is ān 安 (wēi 危 "in imminent danger"), but in addition the word also often has considerable philosophical depth and commonly refers to a deep state of unruffled inner serenity in harmony with the outer world.
-2. Píng 平 (ant. luàn 亂 "chaos") is prototypically an unruffled smooth surface, and the word refers to a state of harmonious tranquility, particularly in a community of people.
-3. Níng 寧 (ant. yáng 殃 "a totally disastrous state") refers to a state of affairs, primarily in a community of people, where disturbances have ceased.
-4. Yì 佚 / 逸 (ant. láo 勞 "engaged in exhausting effort") refers to restful peace of mind, typically after effort.
-5. Tián 恬 and dàn 淡 (all ant. dòng dàng 動蕩 "be all over the place) refer to serenity in an individual as cultivated, notoriously, by the Taoists.
-6. Jìng 靜 (ant. zào 躁 "flurried), is a state of mind in which one refuses to be rushed into any action and is fully at ease.
-7. Tài 泰 (all ant. jí 急 "be off balance or in urgent need of something, be in a critical state") and yí 夷 (ant. jīng 驚 "be upset") refers to relaxation, the state of being détendu.
+1. The dominant general word for peacefulness is ān [[安]] (wēi [[危]] "in imminent danger"), but in addition the word also often has considerable philosophical depth and commonly refers to a deep state of unruffled inner serenity in harmony with the outer world.
+2. Píng [[平]] (ant. luàn [[亂]] "chaos") is prototypically an unruffled smooth surface, and the word refers to a state of harmonious tranquility, particularly in a community of people.
+3. Níng [[寧]] (ant. yáng [[殃]] "a totally disastrous state") refers to a state of affairs, primarily in a community of people, where disturbances have ceased.
+4. Yì [[佚]] / [[逸]] (ant. láo [[勞]] "engaged in exhausting effort") refers to restful peace of mind, typically after effort.
+5. Tián [[恬]] and dàn [[淡]] (all ant. dòng dàng [[動蕩]] "be all over the place) refer to serenity in an individual as cultivated, notoriously, by the Taoists.
+6. Jìng [[靜]] (ant. zào [[躁]] "flurried), is a state of mind in which one refuses to be rushed into any action and is fully at ease.
+7. Tài [[泰]] (all ant. jí [[急]] "be off balance or in urgent need of something, be in a critical state") and yí [[夷]] (ant. jīng [[驚]] "be upset") refers to relaxation, the state of being détendu.
 ## Modern Chinese Criteria
 安靜, 平靜, 寧靜
 安定, 穩定, 穩固

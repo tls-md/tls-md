@@ -7,9 +7,9 @@ zh: 衣袖
 PART of GARMENT MOST NEAR to the HAND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a sleeve is xiù 袖, and the word has a colloquial flavour.
-2. Mèi 袂 is a very formal and literary word for a sleeve.
-3. Qū 袪 refers specifically to the opening of the sleeve.
+1. The general term for a sleeve is xiù [[袖]], and the word has a colloquial flavour.
+2. Mèi [[袂]] is a very formal and literary word for a sleeve.
+3. Qū [[袪]] refers specifically to the opening of the sleeve.
 ## Modern Chinese Criteria
 袖子
 衣袖

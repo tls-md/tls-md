@@ -12,8 +12,8 @@ zh: 水果汁
 LIQUID PRODUCED USING FRUIT, USED FOR DRINKING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zhī 汁 refers to a juice that is specifically designed for drinking.
-2. Yè 液 refers to a liquid which though not designed for drinking, can be delicious to drink. See LIQUID.
+1. Zhī [[汁]] refers to a juice that is specifically designed for drinking.
+2. Yè [[液]] refers to a liquid which though not designed for drinking, can be delicious to drink. See LIQUID.
 ## Modern Chinese Criteria
 果汁
 水果汁

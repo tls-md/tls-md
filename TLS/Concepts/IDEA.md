@@ -23,9 +23,9 @@ zh: 主意
 WHAT one THINKS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for an idea in someone's mind is yì 意.
-2. Zhǐ 旨／恉 refers to the main idea or meaning in a text or book.
-3. Xiàng 象 can refer to a mental idea in the form of an image.a
+1. The current standard word for an idea in someone's mind is yì [[意]].
+2. Zhǐ [[旨]]／[[恉]] refers to the main idea or meaning in a text or book.
+3. Xiàng [[象]] can refer to a mental idea in the form of an image.a
 ## Modern Chinese Criteria
 意見
 主意

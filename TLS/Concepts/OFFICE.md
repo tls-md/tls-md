@@ -27,12 +27,12 @@ och: 仕
 BUILDING OR social INSTITUTION in which PUBLIC DUTIES are ACTED:performed BY OFFICIALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shì 仕 refers to any office, private or public, civil or military and must probably count as the most general word for an office.
-2. The standard and very current general word for any elevated bureaucratic office, civil or military, is guān 官 (the original meaning of which refers to the building housing the office-holders office).
-3. Shǔ 暑 refers to Han dynasty bureaucratic departments of any kind.
-4. Sì 寺 refers to Han dynasty bureaucratic departments, typically - perhaps - of major kind.
-5. Zhí 職 are the official duties attached to a bureaucratic office. See DUTY
-6. Yè 業 refers to the traditional profession of a person and does not normally or necessarily relate to a place or the bureaucratic system.
+1. Shì [[仕]] refers to any office, private or public, civil or military and must probably count as the most general word for an office.
+2. The standard and very current general word for any elevated bureaucratic office, civil or military, is guān [[官]] (the original meaning of which refers to the building housing the office-holders office).
+3. Shǔ [[暑]] refers to Han dynasty bureaucratic departments of any kind.
+4. Sì [[寺]] refers to Han dynasty bureaucratic departments, typically - perhaps - of major kind.
+5. Zhí [[職]] are the official duties attached to a bureaucratic office. See DUTY
+6. Yè [[業]] refers to the traditional profession of a person and does not normally or necessarily relate to a place or the bureaucratic system.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 1.

@@ -29,14 +29,14 @@ och: 密
 VOLUNTARILY:deliberately CONCEALED FROM OTHERS OR from PERSONS OUTSIDE a certain GROUP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for something being kept secret from the general public, but it remaining accessible to an inner circle, is mì 密 (ant. míng 明 "openly, for everyone to see").
-2. Yǐn 隱 (ant. xiǎn 顯 "manifestly, demonstratively") refers primarily to hiding something or being hidden from everyone except the person who is hiding it.
-3. Yīn 陰 (ant. míng 明 "openly, for everyone to see") refers to covert actions hidden from a certain person group.
-4. Tōu 偷 (ant. zhèng 正 "regularly and openly") refers to unreglemented inappropriate secrecy.
-5. Sī 私 (ant. gōng 公 "openly") focusses on the aspect of discreetness in secrecy.
-6. Jiàn 間 (ant. zhèng 正 "straightforwardly") refers to the secretiveness of secret agents in espionage and the like.
-7. Wēi 微 (ant. zhí 直 "straightforwardly") typically refers to secrecy achieved through indirectness or subtlety in the form of communication.
-8. Àn 暗 / 闇 (ant. míng 明 "openly, for everyone to see") gains its nuance from the original meaning of darkness and focusses on the shadiness of secretive action.
+1. The current general word for something being kept secret from the general public, but it remaining accessible to an inner circle, is mì [[密]] (ant. míng [[明]] "openly, for everyone to see").
+2. Yǐn [[隱]] (ant. xiǎn [[顯]] "manifestly, demonstratively") refers primarily to hiding something or being hidden from everyone except the person who is hiding it.
+3. Yīn [[陰]] (ant. míng [[明]] "openly, for everyone to see") refers to covert actions hidden from a certain person group.
+4. Tōu [[偷]] (ant. zhèng [[正]] "regularly and openly") refers to unreglemented inappropriate secrecy.
+5. Sī [[私]] (ant. gōng [[公]] "openly") focusses on the aspect of discreetness in secrecy.
+6. Jiàn [[間]] (ant. zhèng [[正]] "straightforwardly") refers to the secretiveness of secret agents in espionage and the like.
+7. Wēi [[微]] (ant. zhí [[直]] "straightforwardly") typically refers to secrecy achieved through indirectness or subtlety in the form of communication.
+8. Àn [[暗]] / [[闇]] (ant. míng [[明]] "openly, for everyone to see") gains its nuance from the original meaning of darkness and focusses on the shadiness of secretive action.
 ## Modern Chinese Criteria
 暗暗 / 偷偷
 奧秘 / 奧妙

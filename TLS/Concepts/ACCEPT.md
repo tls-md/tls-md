@@ -18,12 +18,12 @@ AGREE-TO RECEIVE AND THEN HAVE. 
 [ELEVATED/INFORMAL]
 [GENERAL/SPECIFIC]
 [IMPOLITE/POLITE]
-1. The general word for accepting something offered to one is shòu 受, but the distinction with the passive "receive" is not made explicit.
+1. The general word for accepting something offered to one is shòu [[受]], but the distinction with the passive "receive" is not made explicit.
 [GENERAL]
-2. Fe4ng 奉 is literally to accept something with both arms, enthusiastically, formally.
-3. Sho1u 收 refers to accepting and keeping something.
-4. Na4 納 refers neutrally to not refusing what one is offered.
-5. Bài 拜 is sometimes used by itself to signify very polite acceptance of an offer.
+2. Fe4ng [[奉]] is literally to accept something with both arms, enthusiastically, formally.
+3. Sho1u [[收]] refers to accepting and keeping something.
+4. Na4 [[納]] refers neutrally to not refusing what one is offered.
+5. Bài [[拜]] is sometimes used by itself to signify very polite acceptance of an offer.
 [ASCENDING], [POLITE], [ELEVATED], [SPECIFIC]
 ## Modern Chinese Criteria
 接受

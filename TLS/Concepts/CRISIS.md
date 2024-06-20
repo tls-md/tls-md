@@ -19,7 +19,7 @@ zh: 危機
 IMPORTANT SITUATION OR PERIOD in which there EXIST MANY DIFFERENT POSSIBILITIES for the DEVELOPMENT of a SOCIETY.
 # Criteria and general notes
 ## Old Chinese Criteria
-急 NEED refers to a crisis in a negative sense, produced by insuffficient supply of something.
+[[急]] NEED refers to a crisis in a negative sense, produced by insuffficient supply of something.
 # Ontology
 
 ## Hypernym

@@ -15,13 +15,13 @@ och: 衣
 USE as GARMENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for wearing clothes or putting on clothes of any kind is yì 衣 (ant. tuō 脫 "take off").
-2. Fú 服 (ant. xiè 卸 "take off") refers to dressing up for an official occasion.
-3. Bèi 被 refers to putting on or wearing outer clothing of any kind, especially cloak-like garments.
-4. Zhōng 衷 and zhōng 中 refer to wearing as underwear.
-5. Biǎo 表 refers to wearing as outer visible clothes.
-6. Dài 戴 refers to wearing something on one's head.
-7. Lu# 履 refers to wearing something on one's feet.
+1. The current general word for wearing clothes or putting on clothes of any kind is yì [[衣]] (ant. tuō [[脫]] "take off").
+2. Fú [[服]] (ant. xiè [[卸]] "take off") refers to dressing up for an official occasion.
+3. Bèi [[被]] refers to putting on or wearing outer clothing of any kind, especially cloak-like garments.
+4. Zhōng [[衷]] and zhōng [[中]] refer to wearing as underwear.
+5. Biǎo [[表]] refers to wearing as outer visible clothes.
+6. Dài [[戴]] refers to wearing something on one's head.
+7. Lu# [[履]] refers to wearing something on one's feet.
 ## Modern Chinese Criteria
 穿 is to wear whatever one inserts one's arms or legs into.
 戴 is to wear on one's head.

@@ -14,7 +14,7 @@ och: 餌
 FOOD USED to ENTICE:seduce AND CATCH FISH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There are no competing terms in this field which is dominated by ěr 餌.
+1. There are no competing terms in this field which is dominated by ěr [[餌]].
 ## Modern Chinese Criteria
 魚餌
 釣餌

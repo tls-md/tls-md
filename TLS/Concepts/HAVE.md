@@ -27,7 +27,7 @@ zh: 有
 RELATION to something such that it BE-IN:is in one OR is CONTROLLED by one.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for having in general is yǒu 有.
+1. The standard current word for having in general is yǒu [[有]].
 ## Modern Chinese Criteria
 有
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

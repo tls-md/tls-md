@@ -24,10 +24,10 @@ och: 間
 SECRET INVESTIGATION of the SITUATION in OTHER STATES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for spying is jiàn 間, and this is the general word for military intelligence used in SUN.
-2. Dié 諜 refers to strictly professional and government-sponsored spying of any kind.
-3. Tàn 探 refers to a spy-like operation which is not necessarily entirely secret.
-4. Hòu 候 refers specifically to military espionage on the borders.
+1. The current general word for spying is jiàn [[間]], and this is the general word for military intelligence used in SUN.
+2. Dié [[諜]] refers to strictly professional and government-sponsored spying of any kind.
+3. Tàn [[探]] refers to a spy-like operation which is not necessarily entirely secret.
+4. Hòu [[候]] refers specifically to military espionage on the borders.
 ## Modern Chinese Criteria
 諜
 間諜活動

@@ -19,12 +19,12 @@ och: 立／設
 CAUSE TO BECOME:come to ENDURINGLY EXIST.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for setting up anything abstract or concrete is lì 立 and the almost equally common shè 設.
-2. Jiàn 建 refers to bringing something into existence through a comprehensive concerted effort.
-3. Jù 具 refers to establishing or setting up what is necessary in a certain context.
-4. Zhì 制 refers to set up institutionally a system.
-5. Cuò 錯 / 措 and zhì 置 (ant. feì 廢 "remove from its proper place") refer to putting something solidly and firmly in its proper place.
-6. Shù 樹 refers to planting or establishing something firmly where one intends it to remain.
+1. The current general word for setting up anything abstract or concrete is lì [[立]] and the almost equally common shè [[設]].
+2. Jiàn [[建]] refers to bringing something into existence through a comprehensive concerted effort.
+3. Jù [[具]] refers to establishing or setting up what is necessary in a certain context.
+4. Zhì [[制]] refers to set up institutionally a system.
+5. Cuò [[錯]] / [[措]] and zhì [[置]] (ant. feì [[廢]] "remove from its proper place") refer to putting something solidly and firmly in its proper place.
+6. Shù [[樹]] refers to planting or establishing something firmly where one intends it to remain.
 ## Modern Chinese Criteria
 建立
 成立

@@ -26,8 +26,8 @@ zh: 誇張
 SPEAK so as to SEEM to CAUSE OTHERS TO BELIEVE that THINGS are GREATER in SIZE, DEGREE of FEATURES, OR IMPORTANCE than they REALLY are.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for exaggeration is kuā 誇.
-2. Huāng táng 荒唐 refers to an extravagant and exaggerated use of language. See EXTRAVAGANT
+1. The general word for exaggeration is kuā [[誇]].
+2. Huāng táng [[荒唐]] refers to an extravagant and exaggerated use of language. See EXTRAVAGANT
 ## Modern Chinese Criteria
 誇張 is the current modern word for exaggeration.
 誇大 is another current word which focusses on the enlarging aspect of exaggeration.

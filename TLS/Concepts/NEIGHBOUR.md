@@ -8,10 +8,10 @@ och: 鄰
 HUMAN who DWELLS INTENSELY NEAR to one.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a neighbour is lín 鄰.
-2. Xiàng rén 巷人 refers to street neighbours.
-3. Xiāng rén 鄉人 refers to fellow villagers.
-4. Sì lín 四鄰 refers to all one's neighbours on all sides.
+1. The standard word for a neighbour is lín [[鄰]].
+2. Xiàng rén [[巷人]] refers to street neighbours.
+3. Xiāng rén [[鄉人]] refers to fellow villagers.
+4. Sì lín [[四鄰]] refers to all one's neighbours on all sides.
 ## Modern Chinese Criteria
 鄰居
 鄰人

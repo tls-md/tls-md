@@ -19,7 +19,7 @@ zh: 嬰兒
 INTENSELY YOUNG CHILD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a baby is yīng 嬰 sometimes expanded to yīng ér 嬰兒 "baby child".
+1. The current general word for a baby is yīng [[嬰]] sometimes expanded to yīng ér [[嬰兒]] "baby child".
 ## Modern Chinese Criteria
 嬰兒
 嬰孩

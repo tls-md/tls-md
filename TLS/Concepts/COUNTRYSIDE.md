@@ -12,12 +12,12 @@ zh: 郊外
 LANDSCAPE OUTSIDE CITIES AND SUBURBS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the undelimited non-urban areas is yě 野 (ant. yì 邑 "urbanised settlement").
-2. Jiāo 郊 is the fairly well-defined cultivated countryside immediately surround a conurbation; it is also the place where "suburban" sacrifices are held. See CITY
-3. Pì 僻 refers to unfrequented outlying parts of the country without strongly suggesting any deficiency in culture.
-4. Bǐ 鄙 refers again to the outlying parts of the countryside that are deficient in "high culture", and these words are predominantly used as adjectives.
-5. Lòu 陋 is a rare word referring to the remote countryside.
-6. Huāng 荒 refers to any lack of cultivated vegetation and even demarkation of fields.
+1. The current general word for the undelimited non-urban areas is yě [[野]] (ant. yì [[邑]] "urbanised settlement").
+2. Jiāo [[郊]] is the fairly well-defined cultivated countryside immediately surround a conurbation; it is also the place where "suburban" sacrifices are held. See CITY
+3. Pì [[僻]] refers to unfrequented outlying parts of the country without strongly suggesting any deficiency in culture.
+4. Bǐ [[鄙]] refers again to the outlying parts of the countryside that are deficient in "high culture", and these words are predominantly used as adjectives.
+5. Lòu [[陋]] is a rare word referring to the remote countryside.
+6. Huāng [[荒]] refers to any lack of cultivated vegetation and even demarkation of fields.
 ## Modern Chinese Criteria
 郊外
 鄉村

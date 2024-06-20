@@ -40,9 +40,9 @@ och: 怪
 FEW:rare AND NOT EXPECTED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for things strange is guài 怪 (ant. cháng 常 "ordinary").
-2. Qí 奇 (ant. fán 凡 "perfectly ordinary") refers to the positive quality of being remarkable and unusual.
-3. Yì 異 (ant. cháng 常 "ordinary") focusses on something being out of the ordinary.
+1. The current general word for things strange is guài [[怪]] (ant. cháng [[常]] "ordinary").
+2. Qí [[奇]] (ant. fán [[凡]] "perfectly ordinary") refers to the positive quality of being remarkable and unusual.
+3. Yì [[異]] (ant. cháng [[常]] "ordinary") focusses on something being out of the ordinary.
 ## Modern Chinese Criteria
 奇怪
 古怪

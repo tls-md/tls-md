@@ -20,13 +20,13 @@ och: 濕
 COVERED by or MIXED with LIQUID, TYPICALLY with WATER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shī 濕 refers to wetness as a property of surface or of the whole object.
-2. The current common word is rú 濡, and this word refers to being wet through and through.
-3. Zhān 沾 / 霑 refers to moistening by rain.
-4. Rùn 潤 refers to things that are mildly moistened (and look glossy).
-5. Jiàn 漸 refers to things getting gradually moistened.
-6. Wò 渥 is a poetic referring to something being wet on the outside.
-7. Jìn 浸 refers to water seeping into something so as to make it moist, and the word focusses not on something getting wet, but on the water seeping into it. The word is thus marginal in the group.
+1. Shī [[濕]] refers to wetness as a property of surface or of the whole object.
+2. The current common word is rú [[濡]], and this word refers to being wet through and through.
+3. Zhān [[沾]] / [[霑]] refers to moistening by rain.
+4. Rùn [[潤]] refers to things that are mildly moistened (and look glossy).
+5. Jiàn [[漸]] refers to things getting gradually moistened.
+6. Wò [[渥]] is a poetic referring to something being wet on the outside.
+7. Jìn [[浸]] refers to water seeping into something so as to make it moist, and the word focusses not on something getting wet, but on the water seeping into it. The word is thus marginal in the group.
 ## Modern Chinese Criteria
 濕
 濕淥淥

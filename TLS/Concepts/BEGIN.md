@@ -27,16 +27,16 @@ ENDURINGLY STOP NOT to ACT OR to BE RESEMBLING:as in the PAST.
 [[COMMON/RARE]]
 [ELEVATED/VULGAR]
 [FORMAL/INFORMAL]
-1. Shǐ 始 (ant. zhōng 終 "bring to an end; come to an end" and chéng 成 "bring to a successful end, complete") refers quite generally to the initiating of any action. But see also ARISE
+1. Shǐ [[始]] (ant. zhōng [[終]] "bring to an end; come to an end" and chéng [[成]] "bring to a successful end, complete") refers quite generally to the initiating of any action. But see also ARISE
 [GENERAL]
-2. Zào 造 (all ant. jì 繼 "continue" and chéng 承 "continue") can come to refer to the beginning of an action.
+2. Zào [[造]] (all ant. jì [[繼]] "continue" and chéng [[承]] "continue") can come to refer to the beginning of an action.
 [ARCHAIC]; [[RARE]]
-3. Chū 初 (ant. mò 末 "end") is purely chronological and refers to the early stage of something that persists, without indicating any lasting influence of that early stage on later developments. See FIRST
-4. Qǐ 起 is sometimes used in a rather formal way for getting underway with a major activity.
+3. Chū [[初]] (ant. mò [[末]] "end") is purely chronological and refers to the early stage of something that persists, without indicating any lasting influence of that early stage on later developments. See FIRST
+4. Qǐ [[起]] is sometimes used in a rather formal way for getting underway with a major activity.
 [FORMAL]
-5. Qǐ 啟 typically refers to a deliberate act of initiation, by Heaven as well as by man, and the word generally belongs to the dignified style of historians or rhetoricians.
+5. Qǐ [[啟]] typically refers to a deliberate act of initiation, by Heaven as well as by man, and the word generally belongs to the dignified style of historians or rhetoricians.
 [ELEVATED], [FORMAL]
-6. Zhāo 肇 is an elevated and archaic word referring to the initiation of rituals and the like.
+6. Zhāo [[肇]] is an elevated and archaic word referring to the initiation of rituals and the like.
 [ELEVATED]; [[RARE]]
 ## Modern Chinese Criteria
 開始 is the current modern word for beginning.

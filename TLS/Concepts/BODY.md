@@ -13,14 +13,14 @@ SHAPE of an ANIMAL OR HUMAN OR of THINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
 [[CONGERIES]]
-1. The general word for the body versus the heart and soul is xíng 形 (ant. xīn 心 ) but note that this word also applies generally to non-human physical shape..
-2. Qū 軀 "physical frame" refers to body as seen from the outside, objectively, not as part of the person, and as constituted by flesh and bones.
-3. Shēn 身 (which also means "person") specifically refers to the main trunk of the body typically excluding head, arms and legs.
-4. Tǐ 體 refers to body as constituted by its various parts, in particular the limbs, and when it refers to the body as a whole the reference is to the posture and carriage of the body.
-5. Zhī 肢 refers specifically to the limbs and cannot be used to refer to other parts of the body at all. See LIMB
-6. Gōng 躬 is an elevated word which can be used to refer to a person as a whole, but also specifically to the body. See PERSON
-7. Xíng tǐ 形體 is the standard current binome for the physical body of both men and animals, including the body after death, among other things as the container of vital energy qì 氣.
-NB: Shī 尸 refers specifically to the dead body. See CORPSE
+1. The general word for the body versus the heart and soul is xíng [[形]] (ant. xīn [[心]] ) but note that this word also applies generally to non-human physical shape..
+2. Qū [[軀]] "physical frame" refers to body as seen from the outside, objectively, not as part of the person, and as constituted by flesh and bones.
+3. Shēn [[身]] (which also means "person") specifically refers to the main trunk of the body typically excluding head, arms and legs.
+4. Tǐ [[體]] refers to body as constituted by its various parts, in particular the limbs, and when it refers to the body as a whole the reference is to the posture and carriage of the body.
+5. Zhī [[肢]] refers specifically to the limbs and cannot be used to refer to other parts of the body at all. See LIMB
+6. Gōng [[躬]] is an elevated word which can be used to refer to a person as a whole, but also specifically to the body. See PERSON
+7. Xíng tǐ [[形體]] is the standard current binome for the physical body of both men and animals, including the body after death, among other things as the container of vital energy qì [[氣]].
+NB: Shī [[尸]] refers specifically to the dead body. See CORPSE
 ## 
 HUANG JINGUI 2006
 BODY 26.

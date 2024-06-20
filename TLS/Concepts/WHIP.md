@@ -16,10 +16,10 @@ och: 鞭
 STICK which has ROPES OR LEATHER RIBBONS ON THE TOP, USED FOR STRIKING HUMANS OR ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a whip is biān 鞭, but the word also refers specifically to a leather whip. There is some controversy on whether the biān 鞭 was or was not used to drive horses in early times.
-2. Cè 策 refers specifically to a bamboo whip which remained current in Han times. The cè 策 has always been used to drive horses, but seems to have gone out of use in late Han times.
-3. Chuí 箠 refers to a bamboo whip typically used driving buffalo or sheep along, but the chuí 箠 was also used with horses.
-NB: Zhàng 杖 refers to a cane for beating prisoners.
+1. The current general word for a whip is biān [[鞭]], but the word also refers specifically to a leather whip. There is some controversy on whether the biān [[鞭]] was or was not used to drive horses in early times.
+2. Cè [[策]] refers specifically to a bamboo whip which remained current in Han times. The cè [[策]] has always been used to drive horses, but seems to have gone out of use in late Han times.
+3. Chuí [[箠]] refers to a bamboo whip typically used driving buffalo or sheep along, but the chuí [[箠]] was also used with horses.
+NB: Zhàng [[杖]] refers to a cane for beating prisoners.
 ## 
 HUANG JINGUI 2006
 COMM 21.

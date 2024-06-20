@@ -11,9 +11,9 @@ INTENSELY YOUNG BAMBOO TREE.
 [ARCHAIC/CURRENT]
 [[COMMON/RARE]]
 [GENERAL/SPECIFIC]
-1. The standard word for a bamboo shoot is sǔn 筍.
+1. The standard word for a bamboo shoot is sǔn [[筍]].
 [GENERAL]
-2. Jùn 箘 is a rare archaic word for a bamboo shoot.
+2. Jùn [[箘]] is a rare archaic word for a bamboo shoot.
 [ARCHAIC]; [[RARE]]
 ## Modern Chinese Criteria
 筍

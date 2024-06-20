@@ -34,10 +34,10 @@ och: 許
 ADDRESS ANOTHER SAYING that one FUTURE:will CERTAINLY DO something DESIRED by him/her.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for agreeing and undertaking to do something, after having been asked to do so, is xǔ 許, but the word applies only to superiors.
-2. Nuò 諾 refers to a solicited undertaking typically by an inferior, but occasionally also by a superior.
-3. Yǔn 允 "agree to" is typically a solicited promise from a superior.
-4. Yán 言 refers to a typically somewhat formal speech act by which a person commits himself to a future action. Compare 言而有信 "keep faith when one has promised something".
+1. The general word for agreeing and undertaking to do something, after having been asked to do so, is xǔ [[許]], but the word applies only to superiors.
+2. Nuò [[諾]] refers to a solicited undertaking typically by an inferior, but occasionally also by a superior.
+3. Yǔn [[允]] "agree to" is typically a solicited promise from a superior.
+4. Yán [[言]] refers to a typically somewhat formal speech act by which a person commits himself to a future action. Compare [[言而有信]] "keep faith when one has promised something".
 ## Modern Chinese Criteria
 答應 is the current modern word for promising.
 應諾 (lit) focusses on agreement in response to a request.

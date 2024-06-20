@@ -30,15 +30,15 @@ och: 敬
 ADMIRE as NOBLE AND SERVE POLITELY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for typically public respectful attitudes and actions is jìng 敬 (ant. màn 慢 "fail to show proper respect for").
-2. Gōng 恭 (ant. jù 倨 "behave in an informal impolite way") refers specifically to private proper polite and respectful attitudes shown to a deserving person.
-3. Zūn 尊 (ant. bǐ 鄙 "consider as not worthy of any veneration or respect") refers to psychological public or private respect for someone in a very exalted social, cultural, religious and/or political position, and the degree of public respect is much greater that that in jìng 敬 and reaches into the past to ancestors.
-4. Chóng 崇 and zōng 宗 refers to distant and typically religious veneration of a spirit or person very highly regarded. SHI 靡神不宗 "there are no spirits which we have not honoured"
-5. Lǐ 禮 (ant. màn 慢 "treat without proper ritual respect") refers to a proper show of public demonstrative respect for someone on the part of a host or a superior.
-6. Wèi 畏 (ant. xiá 狎 "treat without the proper respect due to someone in high position, treat with improper familiarity") refers to awe-struck respect for a person in authority.
-7. Lóng 隆 typically refers to due diligent respect for abstract values.
-8. Qīn 欽 is an archaic courtly word referring to formal conformity with the rules of polite respect for superiors on public occasions.
-9. Zhī 知 focusses on proper appreciation of a person, accompanied by recognition of that person's worth.
+1. The current general word for typically public respectful attitudes and actions is jìng [[敬]] (ant. màn [[慢]] "fail to show proper respect for").
+2. Gōng [[恭]] (ant. jù [[倨]] "behave in an informal impolite way") refers specifically to private proper polite and respectful attitudes shown to a deserving person.
+3. Zūn [[尊]] (ant. bǐ [[鄙]] "consider as not worthy of any veneration or respect") refers to psychological public or private respect for someone in a very exalted social, cultural, religious and/or political position, and the degree of public respect is much greater that that in jìng [[敬]] and reaches into the past to ancestors.
+4. Chóng [[崇]] and zōng [[宗]] refers to distant and typically religious veneration of a spirit or person very highly regarded. SHI [[靡神不宗]] "there are no spirits which we have not honoured"
+5. Lǐ [[禮]] (ant. màn [[慢]] "treat without proper ritual respect") refers to a proper show of public demonstrative respect for someone on the part of a host or a superior.
+6. Wèi [[畏]] (ant. xiá [[狎]] "treat without the proper respect due to someone in high position, treat with improper familiarity") refers to awe-struck respect for a person in authority.
+7. Lóng [[隆]] typically refers to due diligent respect for abstract values.
+8. Qīn [[欽]] is an archaic courtly word referring to formal conformity with the rules of polite respect for superiors on public occasions.
+9. Zhī [[知]] focusses on proper appreciation of a person, accompanied by recognition of that person's worth.
 ## Modern Chinese Criteria
 恭敬
 虔敬

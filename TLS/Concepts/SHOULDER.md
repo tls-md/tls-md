@@ -7,8 +7,8 @@ zh: 肩膀
 JOINT BETWEEN TRUNK AND ARM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the shoulder is jiān 肩.
-NB: Bàng 膀 and jiǎ 胛 are post-Han words for the shoulder.
+1. The standard word for the shoulder is jiān [[肩]].
+NB: Bàng [[膀]] and jiǎ [[胛]] are post-Han words for the shoulder.
 ## Modern Chinese Criteria
 肩
 肩膀

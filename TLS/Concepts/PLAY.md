@@ -20,9 +20,9 @@ och: 戲
 ACT NOT SERIOUSLY so as to CAUSE ONESELF to BECOME DELIGHTED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Wán 玩 "play" refers to the act of amusing oneself.
-2. Xì 戲 refers to playful pleasantry, the playing of linguistic games.
-3. Yóu xí 遊戲 refers to playful fun-seeking which involves physical movement.
+1. Wán [[玩]] "play" refers to the act of amusing oneself.
+2. Xì [[戲]] refers to playful pleasantry, the playing of linguistic games.
+3. Yóu xí [[遊戲]] refers to playful fun-seeking which involves physical movement.
 ## Modern Chinese Criteria
 遊戲
 遊玩

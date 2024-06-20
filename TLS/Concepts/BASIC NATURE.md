@@ -13,13 +13,13 @@ och: 性／情
 BASIC FEATURE, OR FEATURE EXISTING IN something FROM BIRTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current and quite dominant word for the stable inherent and prototypically innate features of something is xìng 性 (ant. wéi 為 "what belongs to human action", and wěi 偽 "artificial").
-2. Qíng 情 (ant. wěi 偽 "artificical acquired character") refers to the basic nature of a thing as forming a pattern of reaction to other things.
-3. Xīn 心 refers specifically to psychological aspects of animate nature.
-4. Tiān 天 refers specifically to the non-man-made aspect of the nature of things.
-5. Zī 資 refers to human nature as an endowment and an asset given to man by nature.
-6. Wéi rén 為人 and wéi wù 為物 the possibly conditioned and hardly alterable basic constitutive nature of thing.
-7. Rén qíng 人情 refers to the natural sensibilities of humans.
+1. The current and quite dominant word for the stable inherent and prototypically innate features of something is xìng [[性]] (ant. wéi [[為]] "what belongs to human action", and wěi [[偽]] "artificial").
+2. Qíng [[情]] (ant. wěi [[偽]] "artificical acquired character") refers to the basic nature of a thing as forming a pattern of reaction to other things.
+3. Xīn [[心]] refers specifically to psychological aspects of animate nature.
+4. Tiān [[天]] refers specifically to the non-man-made aspect of the nature of things.
+5. Zī [[資]] refers to human nature as an endowment and an asset given to man by nature.
+6. Wéi rén [[為人]] and wéi wù [[為物]] the possibly conditioned and hardly alterable basic constitutive nature of thing.
+7. Rén qíng [[人情]] refers to the natural sensibilities of humans.
 ## Modern Chinese Criteria
 性質
 習性

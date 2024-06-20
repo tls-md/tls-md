@@ -29,15 +29,15 @@ och: 說
 DISCUSS so as to CAUSE something to BECOME MORE CLEAR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a discursive "analytical" explanation of something that is not sufficiently clear in itself is shuō 說.
-2. Yán 言 refers to the explicit articulation of something, and the emphasis often is on the initiative taken to undertake this explanation.
-3. Chén 陳 refers to the laying out of something clearly so as to make it accessible to an overview and a clear understanding of the contents of what is laid out, and the social context is typically that of an inferior laying something out for superiors.
-4. Míng 明 is to throw intellectual light on something by any means, including illustration as well as historical explanation or definition.
-5. Yù 喻 / 諭 refers to making clear to others what is very clear to oneself, and the means is often comparsion or illustration, yù 諭 tending to be used for making something clear through words in later texts, and yù 喻 for explanation by comparison or metaphor.
-6. Jiě 解 refers primarily to the unravelling of something that would appear convoluted and non-transparent without the effort of intellectual unravelling.
-7. Shì 釋 is late and refers to explanation with special reference to individual difficult points.
-8. Shù 述 refers to laying out for others what oneself or others have done or said in the past.
-9. Xù 敘 refers to laying out something in an orderly manner, often in conversation with equals and in a confidential context, and the word became current in Han times.
+1. The current general word for a discursive "analytical" explanation of something that is not sufficiently clear in itself is shuō [[說]].
+2. Yán [[言]] refers to the explicit articulation of something, and the emphasis often is on the initiative taken to undertake this explanation.
+3. Chén [[陳]] refers to the laying out of something clearly so as to make it accessible to an overview and a clear understanding of the contents of what is laid out, and the social context is typically that of an inferior laying something out for superiors.
+4. Míng [[明]] is to throw intellectual light on something by any means, including illustration as well as historical explanation or definition.
+5. Yù [[喻]] / [[諭]] refers to making clear to others what is very clear to oneself, and the means is often comparsion or illustration, yù [[諭]] tending to be used for making something clear through words in later texts, and yù [[喻]] for explanation by comparison or metaphor.
+6. Jiě [[解]] refers primarily to the unravelling of something that would appear convoluted and non-transparent without the effort of intellectual unravelling.
+7. Shì [[釋]] is late and refers to explanation with special reference to individual difficult points.
+8. Shù [[述]] refers to laying out for others what oneself or others have done or said in the past.
+9. Xù [[敘]] refers to laying out something in an orderly manner, often in conversation with equals and in a confidential context, and the word became current in Han times.
 ## 
 HUANG JINGUI 2006
 EDUCATION 8.

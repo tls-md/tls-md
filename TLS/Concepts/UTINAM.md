@@ -9,7 +9,7 @@ DESIRE what one KNOWS is PAST OR CLEARLY IMPOSSIBLE.
 DESIRE what one KNOWS is CLEARLY IMPOSSIBLE.
 # Criteria and general notes
 ## Old Chinese Criteria
-It will be important to study the history of counterfactual desires in China. The relevant word is 願 "wish that" for which counterfactual usages need to be carefully analysed and collected.
+It will be important to study the history of counterfactual desires in China. The relevant word is [[願]] "wish that" for which counterfactual usages need to be carefully analysed and collected.
 ## Modern Chinese Criteria
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／ LU JIANMING
 # Ontology

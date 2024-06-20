@@ -20,12 +20,12 @@ och: 他
 DIFFERENT THING of the SAME CATEGORY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for "other" is tuō 他 / 它.
-2. Yú 餘 refers specifically to the left-over items or the remaining items, sometimes in later texts also to different items.
-3. Yì 異 "different" can occasionally come close in meaning to "other".
-4. Gèng 更 is always used adnominally or adverbially and implies an action of changing items or - typically - an action of waiting until "another" item.
-5. Rén 人 refers indefinitelyh to other persons, in the singular (someone else) or in the plural (other people), but never as "the other person" or as "the other people".
-6. Wù 物 can occasionally come to refer to other things or creatures, sometimes even other people, in the singular or plural.
+1. The current general word for "other" is tuō [[他]] / [[它]].
+2. Yú [[餘]] refers specifically to the left-over items or the remaining items, sometimes in later texts also to different items.
+3. Yì [[異]] "different" can occasionally come close in meaning to "other".
+4. Gèng [[更]] is always used adnominally or adverbially and implies an action of changing items or - typically - an action of waiting until "another" item.
+5. Rén [[人]] refers indefinitelyh to other persons, in the singular (someone else) or in the plural (other people), but never as "the other person" or as "the other people".
+6. Wù [[物]] can occasionally come to refer to other things or creatures, sometimes even other people, in the singular or plural.
 ## Modern Chinese Criteria
 其他
 其它

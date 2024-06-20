@@ -8,11 +8,11 @@ zh: 烏龜
 AQUATIC ANIMAL which HAS a HARD SHELL, AND IS FAMOUS for its LONG LIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Yuán tuó 黿鼉 refers generically to river reptiles.
-2. The current general term for turtles is guī 龜, but the word tends to refer specifically to marine turtles.
-3. Biē 鱉 refers to the ordinary soft-shelled turtle with a legendary biting power, a culinary delicacy.
-4. Áo 鼇 refers to the giant sea turtle.
-5. Yuán 黿 refers to a large variety of the soft-shelled sea turtle.
+1. Yuán tuó [[黿鼉]] refers generically to river reptiles.
+2. The current general term for turtles is guī [[龜]], but the word tends to refer specifically to marine turtles.
+3. Biē [[鱉]] refers to the ordinary soft-shelled turtle with a legendary biting power, a culinary delicacy.
+4. Áo [[鼇]] refers to the giant sea turtle.
+5. Yuán [[黿]] refers to a large variety of the soft-shelled sea turtle.
 ## Modern Chinese Criteria
 龜
 烏龜

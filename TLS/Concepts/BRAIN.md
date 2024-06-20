@@ -7,7 +7,7 @@ zh: 腦子
 SOFT BODY TISSUE INSIDE THE HEAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Nǎo 腦 is the standard word for the physiological substance of the brain, and there is no reference to the brain as the seat of thought or intelligence.
+1. Nǎo [[腦]] is the standard word for the physiological substance of the brain, and there is no reference to the brain as the seat of thought or intelligence.
 ## Modern Chinese Criteria
 腦子
 腦海

@@ -24,10 +24,10 @@ och: 求
 To ADDRESS someone so as to TRY TO CAUSE him/her TO ACT in a certain way.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a request is qiú 求 (ant. dé 得 "obtain"), which however can also come to mean demand and is therefore not a particularly polite term to use.
-2. Qǐng 請 is the polite term for a request addressed to a superior or an equal; and this term is currently used in early texts to refer to a suggestion made in the superficial rhetorical form of a request.
-3. Suǒ 索 is a strong request for someting one takes to be due to one.
-4. Yè 謁 refers to (inappropriate) special requests made to acquaintances in high office, and the term can come to have negative overtones when used as a noun.
+1. The current general word for a request is qiú [[求]] (ant. dé [[得]] "obtain"), which however can also come to mean demand and is therefore not a particularly polite term to use.
+2. Qǐng [[請]] is the polite term for a request addressed to a superior or an equal; and this term is currently used in early texts to refer to a suggestion made in the superficial rhetorical form of a request.
+3. Suǒ [[索]] is a strong request for someting one takes to be due to one.
+4. Yè [[謁]] refers to (inappropriate) special requests made to acquaintances in high office, and the term can come to have negative overtones when used as a noun.
 ## Modern Chinese Criteria
 請求 is the current modern word for a request.
 乞求 focusses on the urgency of a request.

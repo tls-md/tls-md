@@ -8,9 +8,9 @@ och: 月
 STAR INTENSELY NEAR TO, AND MOVING ROUND, the EARTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the moon is yuè 月.
-2. Wàng 望 refers to the full moon.
-3. Xián 弦 refers to the half full moon.
+1. The current word for the moon is yuè [[月]].
+2. Wàng [[望]] refers to the full moon.
+3. Xián [[弦]] refers to the half full moon.
 
 The early terminology of the phases of the moon are a highly controversial subject. See MONTH
 ## 

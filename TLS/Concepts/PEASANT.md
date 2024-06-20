@@ -7,7 +7,7 @@ zh: 農民
 ADULT WORKING in AGRICULTURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a peasant is nóng 農, sometimes expanded to nóng fū 農夫.
+1. The standard word for a peasant is nóng [[農]], sometimes expanded to nóng fū [[農夫]].
 ## Modern Chinese Criteria
 農民
 農夫

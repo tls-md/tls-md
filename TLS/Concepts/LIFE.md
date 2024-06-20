@@ -6,7 +6,7 @@ labels:
 PERIOD DURING WHICH ONE LIVES
 # Criteria and general notes
 ## Old Chinese Criteria
-全生
+[[全生]]
 ## Modern Chinese Criteria
 畢生 / 一生
 # Ontology

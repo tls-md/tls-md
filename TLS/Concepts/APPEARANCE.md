@@ -13,21 +13,21 @@ CLEAR:visible BUT SUBJECTIVELY PERCEIVED FEATURES.
 [DYNAMIC/STATIC]
 [OUTLINE/SURFACE]
 [SIGNIFICANT/SUPERFICIAL]
-1. Mào 貌 (ant. xīn 心 "real inner feelings") emphasises the merely external as less than indicative of what is inside, and this is the most general word.
+1. Mào [[貌]] (ant. xīn [[心]] "real inner feelings") emphasises the merely external as less than indicative of what is inside, and this is the most general word.
 [GENERAL], [STATIC], [SUPERFICIAL]
-2. Sè 色 (ant. xīn 心 "real inner feelings") is external appearance, particular facial expression, expressive of or productive of feeling. Thus hǎo sè 好色 is the kind of appearance which, being attractive, causes men to feel attracted. Hào sè 好色 "love beautiful women" involves a different meaning of the word: "female beauty; sex".
+2. Sè [[色]] (ant. xīn [[心]] "real inner feelings") is external appearance, particular facial expression, expressive of or productive of feeling. Thus hǎo sè [[好色]] is the kind of appearance which, being attractive, causes men to feel attracted. Hào sè [[好色]] "love beautiful women" involves a different meaning of the word: "female beauty; sex".
 [SIGNIFICANT+], [VOLUNTARY!]
-3. Zhuàng 狀 "external shape" and xíng 形 "physical form" (ant. zhì 質 "real inner substance") emphasise three-dimensional appearance as such. See SHAPE
+3. Zhuàng [[狀]] "external shape" and xíng [[形]] "physical form" (ant. zhì [[質]] "real inner substance") emphasise three-dimensional appearance as such. See SHAPE
 [INVOLUNTARY], [STATIC], [SUPERFICIAL]
-4. Zī 姿 is rare and emphasises the dynamic gestural aspect of one's external appearance.
+4. Zī [[姿]] is rare and emphasises the dynamic gestural aspect of one's external appearance.
 [DYNAMIC], [DELIBERATE]; [[RARE]]
-5. Tài 態 views external appearance as a typically deliberate manifestation of an attitude or stance.
+5. Tài [[態]] views external appearance as a typically deliberate manifestation of an attitude or stance.
 [DELIBERATE], [DYNAMIC], [SIGNIFICANT]
-6. Róng 容 refers to the contours of a person, expecially the contours of his or her face. See FACE.
+6. Róng [[容]] refers to the contours of a person, expecially the contours of his or her face. See FACE.
 [DYNAMIC], [OUTLINE]
-7. Wài 外 (ant. nèi 內 "inner reality") refers colourlessly and neutrally to outer apperance as opposed to inner reality.
+7. Wài [[外]] (ant. nèi [[內]] "inner reality") refers colourlessly and neutrally to outer apperance as opposed to inner reality.
 [OUTLINE], [STATIC]
-8. Xiàng 相 refers to the outward appearance of something as profoundly indicative of inward qualities (as in physiognomy).
+8. Xiàng [[相]] refers to the outward appearance of something as profoundly indicative of inward qualities (as in physiognomy).
 [INVOLUNTARY], [SIGNIFICANT], [STATIC]
 ## Modern Chinese Criteria
 外貌

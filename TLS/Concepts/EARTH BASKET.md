@@ -8,9 +8,9 @@ och: 籠
 BASKET FOR CARRYING SOIL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current word for a basket designed to transport soil is lóng 籠.
-2. Kuì 簣 refers to an uncovered round bamboo basket for carrying earth.
-3. Běn 畚 refers to a small straw basket for carrying earth.
+1. The most current word for a basket designed to transport soil is lóng [[籠]].
+2. Kuì [[簣]] refers to an uncovered round bamboo basket for carrying earth.
+3. Běn [[畚]] refers to a small straw basket for carrying earth.
 ## Modern Chinese Criteria
 ？？
 # Ontology

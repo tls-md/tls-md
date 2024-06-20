@@ -60,9 +60,9 @@ zh: 褲子
 GARMENT WORN OVER STOMACH AND LEGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word for trousers, worn as a kind of underwear in ancient times, is kù 褲.
-2. Kūn 褌 is a Han word referring to short trousers without a crotch.
-3. Qiā1n 褰 is an archaic word for crotchless trousers.
+1. The general current word for trousers, worn as a kind of underwear in ancient times, is kù [[褲]].
+2. Kūn [[褌]] is a Han word referring to short trousers without a crotch.
+3. Qiā1n [[褰]] is an archaic word for crotchless trousers.
 NB: The question of trouser-underwear is controversial. HUANG TU 144 has a Zhou figure which might appear to be wearing underwear. Many scholars traditionally believed that there were no such things as trouser underwear.
 ## Modern Chinese Criteria
 褲子

@@ -7,9 +7,9 @@ zh: 皮革
 SKIN, LACKING FUR, of ANIMALS OFTEN USED to PRODUCE ARTEFACTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for leather or hide with fur removed is gé 革.
-2. Wéi 韋 refers to softened leather.
-3. Kuò 鞹 refers very specifically to the the leather of animals after all fur has been removed.
+1. The general word for leather or hide with fur removed is gé [[革]].
+2. Wéi [[韋]] refers to softened leather.
+3. Kuò [[鞹]] refers very specifically to the the leather of animals after all fur has been removed.
 ## Modern Chinese Criteria
 皮革
 皮子

@@ -27,11 +27,11 @@ och: 墜
 MOVE DOWN PULLED by the FORCE of one's WEIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for falling is zhuì 墜, and this word always has concrete meanings typically involving things falling out of the sky or from a high place.
-2. Duò 墮 typically refers to things falling from a much more moderate height.
-3. Yǔn 隕 refers to the falling down of something that has its natural place in a high position, including leaves growing on trees.
-4. Luò 落 is a rare word which usually refers to the falling of leaves from trees.
-5. Xiàn 陷 refers to falling into objects like pits or holes in the ground, also bogs zé 澤, but not rivers and the like.
+1. The current general word for falling is zhuì [[墜]], and this word always has concrete meanings typically involving things falling out of the sky or from a high place.
+2. Duò [[墮]] typically refers to things falling from a much more moderate height.
+3. Yǔn [[隕]] refers to the falling down of something that has its natural place in a high position, including leaves growing on trees.
+4. Luò [[落]] is a rare word which usually refers to the falling of leaves from trees.
+5. Xiàn [[陷]] refers to falling into objects like pits or holes in the ground, also bogs zé [[澤]], but not rivers and the like.
 ## Modern Chinese Criteria
 下降
 降落

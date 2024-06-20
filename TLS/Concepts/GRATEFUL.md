@@ -15,8 +15,8 @@ och: 德／得
 SOCIAL-EMOTION MAKING ONE WANT TO THANK SOMEONE BECAUSE S/HE BENEFITED ONE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Surprisingly, there is only one general word for gratitude as a psychological attitude, and that is the relatively rare dé 德, a highly problematic word which much more often seems to mean "spiritual power" or "virtue" among many other things.
-NB: Gǎn 感 "be grateful" is post-Han (JIN, LU JI) and still relatively rare.
+1. Surprisingly, there is only one general word for gratitude as a psychological attitude, and that is the relatively rare dé [[德]], a highly problematic word which much more often seems to mean "spiritual power" or "virtue" among many other things.
+NB: Gǎn [[感]] "be grateful" is post-Han (JIN, LU JI) and still relatively rare.
 ## Modern Chinese Criteria
 感恩 is the most current modern word for gratitude.
 銜恩 (lit) refers to a polite formal feeling of gratitude.

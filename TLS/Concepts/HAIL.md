@@ -7,7 +7,7 @@ zh: 冰雹
 SNOW which has BECOME ICE SPHERES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for hail is báo 雹, and i have not found any competing near-synonyms.
+1. The current word for hail is báo [[雹]], and i have not found any competing near-synonyms.
 ## Modern Chinese Criteria
 雹
 冰雹

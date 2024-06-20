@@ -14,11 +14,11 @@ RELATION of one PLACE to TWO PLACES IN EXACTLY CONTRARY DIRECTIONS, OR the PLACE
 ## Old Chinese Criteria
 [BASIC/MARGINAL]
 [ELEVATED/FAMILIAR]
-1. The standard (semi-grammaticalised) word is jiān 間 which refers to anything interposed between two things.
+1. The standard (semi-grammaticalised) word is jiān [[間]] which refers to anything interposed between two things.
 [BASIC]
-2. Jì 際 is a dignified term for the area in space or time where different things meet.
+2. Jì [[際]] is a dignified term for the area in space or time where different things meet.
 [ELEVATED]
-3. Zhōng 中 which regularly means "in the middle of" can occasionally come to be used in place of jiān 間 "between".
+3. Zhōng [[中]] which regularly means "in the middle of" can occasionally come to be used in place of jiān [[間]] "between".
 [MARGINAL]
 ## Modern Chinese Criteria
 之間

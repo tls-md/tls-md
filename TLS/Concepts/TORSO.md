@@ -7,7 +7,7 @@ zh: 軀幹
 CENTRAL PART of the BODY of a HUMAN OR ANIMAL CONTAINING the INNARDS ETC..
 # Criteria and general notes
 ## Old Chinese Criteria
-幹，特指身體的主要部分，即軀幹。
+[[幹]]，[[特指身體的主要部分]]，[[即軀幹]]。
 # Ontology
 
 ## Hypernym

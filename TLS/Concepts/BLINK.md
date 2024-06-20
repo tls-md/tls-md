@@ -11,7 +11,7 @@ zh: 眨
 LOOK so as to SHUT AND OPEN one's EYES, OFTEN INVOLUNTARILY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word is shùn 瞬, and even that word is rarely used in ancient literature. The blinking of the eye was not a favourite subject for discourse in our sources.
+1. The current word is shùn [[瞬]], and even that word is rarely used in ancient literature. The blinking of the eye was not a favourite subject for discourse in our sources.
 ## Modern Chinese Criteria
 眨 zhǎ is a colloquial word for blinking.
 眨眼 is the current modern word for blinking.

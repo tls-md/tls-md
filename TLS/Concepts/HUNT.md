@@ -8,9 +8,9 @@ och: 田/畋
 TRY to KILL WILD BEASTS OR BIRDS IN the COUNTRYSIDE OR IN a BIG PARK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Tián 田 refers to an officially organised hunt, often in an official hunting ground reserved for such activities.
-2. Liè 獵 refers to professional hunting, and sometimes also to general non-official hunting for pleasure.
-3. Shòu 狩 is defined as a winter hunt, but in ZUO and CQ hunts by this name do occur regularly in spring also.
+1. Tián [[田]] refers to an officially organised hunt, often in an official hunting ground reserved for such activities.
+2. Liè [[獵]] refers to professional hunting, and sometimes also to general non-official hunting for pleasure.
+3. Shòu [[狩]] is defined as a winter hunt, but in ZUO and CQ hunts by this name do occur regularly in spring also.
 ## 
 HUANG JINGUI 2006
 ANIMALS 37.

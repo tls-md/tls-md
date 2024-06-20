@@ -16,8 +16,8 @@ DEVELOP OR CHANGE so as to BECOME MORE EXCELLENT.
 [[FORTSCHRITT]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word denoting progress of any kind is yì 益.
-2. Jìn 進 is very occasionally used to denote progress.
+1. The current general word denoting progress of any kind is yì [[益]].
+2. Jìn [[進]] is very occasionally used to denote progress.
 ## Modern Chinese Criteria
 進步
 上進

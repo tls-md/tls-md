@@ -23,10 +23,10 @@ och: 妒
 ENVY ANOTHER PERSON for a RELATION of FRIENDSHIP OR LOVE IN-RELATION-TO an OTHER:third PERSON.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word for jealousy of any kind, political, emotional, or sexual, is dù 妒.
-2. Jí 嫉 refers primarily to sexual jealousy and often involves strong connotations of hatred.
-3. Mào 媢 is a rare and archaic word referring to jealously in a dignified way.
-4. Jì 忌 refers to resentful jealousy or envy of someone, typically for some advantage he has. The word is thus marginal in this group.
+1. The general current word for jealousy of any kind, political, emotional, or sexual, is dù [[妒]].
+2. Jí [[嫉]] refers primarily to sexual jealousy and often involves strong connotations of hatred.
+3. Mào [[媢]] is a rare and archaic word referring to jealously in a dignified way.
+4. Jì [[忌]] refers to resentful jealousy or envy of someone, typically for some advantage he has. The word is thus marginal in this group.
 NB: While there are number of words for jealousy, it is hard to find any common word for envy in pre-Buddhist Chinese. See ENVY.
 ## Modern Chinese Criteria
 妒忌

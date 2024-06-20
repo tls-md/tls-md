@@ -33,9 +33,9 @@ och: 薦
 PRAISE so as to ADVISE USE of by the HUMAN ADDRESSED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for recommending someone is jiàn 薦 (ant. yǐn 隱 "refuse to recommend and keep unknown").
-2. Tuī 推 (ant. xiàn 陷 "intrugue against") refers to the recommending someone and the pushing for his promotion.
-3. Jǔ 舉 and jìn 進 are both occasionally used not only for the act of promotion itself but for the attempt to get someone promoted through recommendation.
+1. The current general word for recommending someone is jiàn [[薦]] (ant. yǐn [[隱]] "refuse to recommend and keep unknown").
+2. Tuī [[推]] (ant. xiàn [[陷]] "intrugue against") refers to the recommending someone and the pushing for his promotion.
+3. Jǔ [[舉]] and jìn [[進]] are both occasionally used not only for the act of promotion itself but for the attempt to get someone promoted through recommendation.
 ## Modern Chinese Criteria
 推薦 is the current modern word for a recommendation.
 引薦 is a rather formal word for a recommendation.

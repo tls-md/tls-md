@@ -14,8 +14,8 @@ och: 莖
 IMPORTANT PLANT PART LEADS FROM ROOT TO BRANCHES ETC..
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the stem of any plant is jīng 莖.
-2. Tíng 莛 refers to the stem of a plant that has been removed.
+1. The general word for the stem of any plant is jīng [[莖]].
+2. Tíng [[莛]] refers to the stem of a plant that has been removed.
 ## Modern Chinese Criteria
 稈 refers to a stalk.
 稈子

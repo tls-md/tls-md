@@ -9,7 +9,7 @@ MUTUAL LOVE AND CARE.
 FRATERNITE.
 # Criteria and general notes
 ## Old Chinese Criteria
-MO 相愛
+MO [[相愛]]
 # Ontology
 
 ## Hypernym

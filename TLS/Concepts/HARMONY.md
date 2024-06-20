@@ -35,11 +35,11 @@ och: 和
 COOPERATION among INTERACTING ELEMENTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a well-attuned state obtaining between a multiplicity of elements, prototypically sounds, is hé 和.
-2. Tóng 同 refers to external adjusted conformity as opposed to inner adjustment and harmony.
-3. Xié 協 and the much rarer jí 輯 and mù 睦 refer primarily to harmonious social cooperation.
-4. Chèn 稱 is to bring primarily weights, and by extension other features, into proper harmony and exact balance.
-5. Tiáo 調 is primarily to blend harmoniously edibles, and by extension the harmonious blending of anything to produce a pleasing whole.
+1. The general word for a well-attuned state obtaining between a multiplicity of elements, prototypically sounds, is hé [[和]].
+2. Tóng [[同]] refers to external adjusted conformity as opposed to inner adjustment and harmony.
+3. Xié [[協]] and the much rarer jí [[輯]] and mù [[睦]] refer primarily to harmonious social cooperation.
+4. Chèn [[稱]] is to bring primarily weights, and by extension other features, into proper harmony and exact balance.
+5. Tiáo [[調]] is primarily to blend harmoniously edibles, and by extension the harmonious blending of anything to produce a pleasing whole.
 ## Modern Chinese Criteria
 和睦
 輯睦

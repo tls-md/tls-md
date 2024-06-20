@@ -16,14 +16,14 @@ och: 令
 ADDRESS someone, USING AUTHORITY, INTENDING to CAUSE that person to ACT RESEMBLE:as one INTENDS him to ACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard current word for a command is lìng 令, and the content (not the words) of the command is typically in the sentence that follows. We do not find: 令曰, and it is significant that lìng 令 also regularly means "to cause to".
-2. Mìng 命 is typically an order from a person of high, perhaps even supernatural, authority, and what follows are often the words used to express the order. 命曰. Mìng 命 is an order on a higher level than lìng 令.
-3. Shǐ 使 often refers to a superior getting or sending subordinates to do something by an order, but this word never focusses on the form of words used. See SEND, CAUSE TO
-4. Zhì 制 is a formalised administrative instruction on procedure.
-5. Huī 麾 is an order given prototypically by signal of the hand, and in the process of a battle.
-6. Hào 號 is a publicly proclaimed political command or instruction.
-7. Wèi 謂 is simply a way of telling someone to do something, informally or formally, but without the formal force of a rigid order.
-8. Chì 敕 / 飭 is an order from a person in an elevated position, and in post-Buddhist times chì 敕 came to refer standardly to imperial orders.
+1. The standard current word for a command is lìng [[令]], and the content (not the words) of the command is typically in the sentence that follows. We do not find: [[令曰]], and it is significant that lìng [[令]] also regularly means "to cause to".
+2. Mìng [[命]] is typically an order from a person of high, perhaps even supernatural, authority, and what follows are often the words used to express the order. [[命曰]]. Mìng [[命]] is an order on a higher level than lìng [[令]].
+3. Shǐ [[使]] often refers to a superior getting or sending subordinates to do something by an order, but this word never focusses on the form of words used. See SEND, CAUSE TO
+4. Zhì [[制]] is a formalised administrative instruction on procedure.
+5. Huī [[麾]] is an order given prototypically by signal of the hand, and in the process of a battle.
+6. Hào [[號]] is a publicly proclaimed political command or instruction.
+7. Wèi [[謂]] is simply a way of telling someone to do something, informally or formally, but without the formal force of a rigid order.
+8. Chì [[敕]] / [[飭]] is an order from a person in an elevated position, and in post-Buddhist times chì [[敕]] came to refer standardly to imperial orders.
 ## 
 HUANG JINGUI 2006 GOVERNMENT/LAW 10.
 命，先秦是皇帝詔令的通稱。

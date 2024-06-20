@@ -7,13 +7,13 @@ zh: 自殺
 KILL ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for suicide is zì shā 自殺, and 殺己 is hardly ever used for suicide.
-2. Zì cǎi 自裁 refers to suicide by cutting oneself in some way or other.
-3. Zì jìn 自盡 is politely periphrastic and refers to putting an end to one's life in any way.
-4. Zì wěn 自刎 refers to a dramatic act of cutting one's own throat.
-5. Zì jīng 自經 refers to suicide by strangling oneself.
-6. Zì chén 自沉 refers to suicide by drowning.
-7. Sǐ 死 is often used causatively and reflexively to refer to an act of suicide.
+1. The general term for suicide is zì shā [[自殺]], and [[殺己]] is hardly ever used for suicide.
+2. Zì cǎi [[自裁]] refers to suicide by cutting oneself in some way or other.
+3. Zì jìn [[自盡]] is politely periphrastic and refers to putting an end to one's life in any way.
+4. Zì wěn [[自刎]] refers to a dramatic act of cutting one's own throat.
+5. Zì jīng [[自經]] refers to suicide by strangling oneself.
+6. Zì chén [[自沉]] refers to suicide by drowning.
+7. Sǐ [[死]] is often used causatively and reflexively to refer to an act of suicide.
 ## Modern Chinese Criteria
 自殺
 自盡

@@ -19,21 +19,21 @@ och: 大辟
 KILL a PRISONER, OBEYING PUBLIC COMMAND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for legal execution of a person condemned to death is zhū 誅.
-2. Lù 戮 refers to public and often even summary execution.
-3. Sì 肆 and xùn 徇 refer to public execution followed by exposure of the body to public view, with the focus on the latter.
-4. Zú 族 refers to legal execution of the whole clan of a culprit.
-5. Dà pì 大辟 is the bureaucratic legal term for capital punishment.
-6. Qì shì 棄市 refers to public execution in the market place.
-7. Jiǎo 絞 "strangulation"
-8. Pēng 烹 "boiling alive"
-9. Fēn chǐ 分胣 "cutting up and disembowelling"
-10. Kēng 坑 "burying alive"
-11. Chē liè 車列 "tearing apart between two vehicles"
-12. Zhī jiě 肢解 "dismembering"
-13. Fǔ 脯 "cutting into slices"
-14. Hǎi 醢 "cutting into small pieces"
-15. Zū 菹 "making into minced meat". See also BEHEAD.
+1. The current general term for legal execution of a person condemned to death is zhū [[誅]].
+2. Lù [[戮]] refers to public and often even summary execution.
+3. Sì [[肆]] and xùn [[徇]] refer to public execution followed by exposure of the body to public view, with the focus on the latter.
+4. Zú [[族]] refers to legal execution of the whole clan of a culprit.
+5. Dà pì [[大辟]] is the bureaucratic legal term for capital punishment.
+6. Qì shì [[棄市]] refers to public execution in the market place.
+7. Jiǎo [[絞]] "strangulation"
+8. Pēng [[烹]] "boiling alive"
+9. Fēn chǐ [[分胣]] "cutting up and disembowelling"
+10. Kēng [[坑]] "burying alive"
+11. Chē liè [[車列]] "tearing apart between two vehicles"
+12. Zhī jiě [[肢解]] "dismembering"
+13. Fǔ [[脯]] "cutting into slices"
+14. Hǎi [[醢]] "cutting into small pieces"
+15. Zū [[菹]] "making into minced meat". See also BEHEAD.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 43.

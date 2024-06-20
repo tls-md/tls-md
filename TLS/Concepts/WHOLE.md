@@ -13,10 +13,10 @@ och: 一
 PERFECT so as to LACK NONE OF ITS PARTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for the whole of something is yī 一.
-2. Quán 全 (ant. cán 殘 "impaired") indicates that what is referred to is being referred to in its entirety and in an undiminished state.
-3. Jǔ 舉 "the whole of" is frequent but limited to the the idiomatic phrase jǔ guó 舉國 "the whole state".
-4. Jī 期 "the whole of" is fairly frequent but limited to the idiomatic phrases jī nián 期年 "the whole year" and jī yuè 期月 "the whole month".
+1. The most general word for the whole of something is yī [[一]].
+2. Quán [[全]] (ant. cán [[殘]] "impaired") indicates that what is referred to is being referred to in its entirety and in an undiminished state.
+3. Jǔ [[舉]] "the whole of" is frequent but limited to the the idiomatic phrase jǔ guó [[舉國]] "the whole state".
+4. Jī [[期]] "the whole of" is fairly frequent but limited to the idiomatic phrases jī nián [[期年]] "the whole year" and jī yuè [[期月]] "the whole month".
 ## Modern Chinese Criteria
 全部
 全體

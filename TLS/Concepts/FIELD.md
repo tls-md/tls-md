@@ -15,12 +15,12 @@ och: 田
 SMALL TERRITORY to be TILLED by DEFINED PEASANTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a cultivated field of any kind is tián 田.
-2. Qí 畦 refers to a rectangular bounded patch of land prepared for intensive agricultural cultivation.
-3. Chóu 疇 refers to regularly marked-out fields ready for cultivation.
-4. Jī 畸 is said to refer to irregularly marked-out fields ready for cultivation.
-5. Chán 廛 is said to refer to the small plot of land cultivated by an individual family.
-6. Wò 沃 fertile low-lying land suitable for irrigation or naturally wet.
+1. The current general word for a cultivated field of any kind is tián [[田]].
+2. Qí [[畦]] refers to a rectangular bounded patch of land prepared for intensive agricultural cultivation.
+3. Chóu [[疇]] refers to regularly marked-out fields ready for cultivation.
+4. Jī [[畸]] is said to refer to irregularly marked-out fields ready for cultivation.
+5. Chán [[廛]] is said to refer to the small plot of land cultivated by an individual family.
+6. Wò [[沃]] fertile low-lying land suitable for irrigation or naturally wet.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 21.

@@ -61,14 +61,14 @@ och: 甚
 To a HIGH DEGREE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word referring to high degree of something or intensity of the application of a predicate is shèn 甚 (ant.* post-Buddhist (NANBEICHAO) lè 略 "slightly").
-2. Yǐ 已 and dà 大 refer to an extreme degree. See also EXCESSIVE
-3. Zhì 至 and jí 極 refers to the ultimate or extreme high degree of something, but the meaning of jí 極 was weakened by Han times times to something like the general meaning of shèn 甚.
-4. Zuì 最 refers to the largest degree or highest intensity within a given set compared. See MOST.
-5. Jìng 勁 and jí 疾 add the notion of vigour to that of intensity of degree.
-6. Hòu 厚 typically refers to a high degree or high intensity of something positive.
-7. Zhòng 重 freely refers to an impressive intensity beyond expectation of both positive or negative qualities or actions.
-8. Tòng 痛 refers specifically to a high degree of feelings or emotions.
+1. The current general word referring to high degree of something or intensity of the application of a predicate is shèn [[甚]] (ant.* post-Buddhist (NANBEICHAO) lè [[略]] "slightly").
+2. Yǐ [[已]] and dà [[大]] refer to an extreme degree. See also EXCESSIVE
+3. Zhì [[至]] and jí [[極]] refers to the ultimate or extreme high degree of something, but the meaning of jí [[極]] was weakened by Han times times to something like the general meaning of shèn [[甚]].
+4. Zuì [[最]] refers to the largest degree or highest intensity within a given set compared. See MOST.
+5. Jìng [[勁]] and jí [[疾]] add the notion of vigour to that of intensity of degree.
+6. Hòu [[厚]] typically refers to a high degree or high intensity of something positive.
+7. Zhòng [[重]] freely refers to an impressive intensity beyond expectation of both positive or negative qualities or actions.
+8. Tòng [[痛]] refers specifically to a high degree of feelings or emotions.
 ## Modern Chinese Criteria
 很
 挺

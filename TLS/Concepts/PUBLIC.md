@@ -23,7 +23,7 @@ och: 公／出
 OUTSIDE the HOME, AND what CAN be KNOWN by OR SHOWN to MANY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is only one dominant word for what pertains to the community or nation at large, gōng 公 (ant sī 私 "private").
+1. There is only one dominant word for what pertains to the community or nation at large, gōng [[公]] (ant sī [[私]] "private").
 ## Modern Chinese Criteria
 公開
 

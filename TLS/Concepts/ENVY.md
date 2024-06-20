@@ -12,9 +12,9 @@ och: 羨
 SOCIAL EMOTION: HATE someone BECAUSE one LACKS something GOOD which that OTHER PERSON HAS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for the positive aspects envy is probably xiàn 羨 (ant. dù 妒 "resentful envy"), but this word rarely has negative overtones of dissatisfaction and is often close in meaning to "admiration". See ADMIRE.
-2. The rare usage of the word lián 憐 which normally means "to pity", to mean "envy" has no strong overtones of objective admiration.
-NB: for dù 妒 etc. see HATE and JEALOUS. It is difficult to find a general word for envy as a negative attitude without that element of hatred and resentment in pre-Buddhist China.
+1. The most current general word for the positive aspects envy is probably xiàn [[羨]] (ant. dù [[妒]] "resentful envy"), but this word rarely has negative overtones of dissatisfaction and is often close in meaning to "admiration". See ADMIRE.
+2. The rare usage of the word lián [[憐]] which normally means "to pity", to mean "envy" has no strong overtones of objective admiration.
+NB: for dù [[妒]] etc. see HATE and JEALOUS. It is difficult to find a general word for envy as a negative attitude without that element of hatred and resentment in pre-Buddhist China.
 ## Modern Chinese Criteria
 羨慕
 慕

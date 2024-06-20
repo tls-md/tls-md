@@ -28,10 +28,10 @@ zh: 指使
 MOVE in SUCH a way that THEREFORE someone or something else CHANGES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for causation is shǐ 使 which can refer to any form of bringing about a process or an action. See also COMMAND and SEND
-2. Lìng 令, though primarily used for getting things done by ordering them to be done (see COMMAND) came to be used in Warring States times as a general equivalent for shǐ 使. NB: I have not so far found a neat distinction between these two common words in the group.
-3. Qiǎn 遣, fā 發 all refer to causing things to happen by sending a person to bring them about. See also SEND
-4. Zhì 致 refers to making others go further in doing something than they normally would.
+1. The current general word for causation is shǐ [[使]] which can refer to any form of bringing about a process or an action. See also COMMAND and SEND
+2. Lìng [[令]], though primarily used for getting things done by ordering them to be done (see COMMAND) came to be used in Warring States times as a general equivalent for shǐ [[使]]. NB: I have not so far found a neat distinction between these two common words in the group.
+3. Qiǎn [[遣]], fā [[發]] all refer to causing things to happen by sending a person to bring them about. See also SEND
+4. Zhì [[致]] refers to making others go further in doing something than they normally would.
 ## Modern Chinese Criteria
 指使
 主使

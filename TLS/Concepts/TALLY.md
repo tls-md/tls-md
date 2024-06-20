@@ -15,10 +15,10 @@ A physical CONTRACT in the form stick or rod of wood, usually squared, marked on
 # Criteria and general notes
 ## Old Chinese Criteria
 All these words refer to documents which officially or formally convey authority or are symbols of a contractual relationship.
-1. The fú 符 tally always has two "halves" only.
-2. The jié 節 is originally made of bamboo and can be divided into one or more "halves" that have to fit together to count as tallies.
-3. The zhuàn 傳 is a tally with an inscription specifying what the authority conveyed is.
-4. Quàn 券 and the somewhat more archaic qì 契 refers to the physical object which constitutes the written version of a contract or an agreement.
+1. The fú [[符]] tally always has two "halves" only.
+2. The jié [[節]] is originally made of bamboo and can be divided into one or more "halves" that have to fit together to count as tallies.
+3. The zhuàn [[傳]] is a tally with an inscription specifying what the authority conveyed is.
+4. Quàn [[券]] and the somewhat more archaic qì [[契]] refers to the physical object which constitutes the written version of a contract or an agreement.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 9.

@@ -21,16 +21,16 @@ och: 柱
 VERTICAL BEAM OR RESEMBLING STONE USED TO KEEP SOMETHING LARGE AND HEAVY IN A HIGH PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a pillar is zhù 柱. Pillars were in ancient China basic elements of a building, and they supported the roof. They were ussually made of wood, and could be painted (there is evidence for pillars painted red in ZUO: ZHUANG 23) or curved. From pictorial evidence are best known pillars of the Han period, which can be divided into several types according to the shape in section: most usual are pillars with a round section, but there are also pillars with rectangular section, with eight-edged section, pillars resembling the bound bamboo, and pillars with cannelures.
-2. Yíng 楹 refers specifically to a pillar in front of the main hall, but it can be also used like a general term for a pillar.
-3. Zhū rú 侏儒 can refer to a short pillar staying on the north-southern beam and supporting higher north-southern beam; also referred to as zhuó ????
-4. Zhuó (I have not found the character in a list) is another word for zhū rú 侏儒.
-5. Wú 梧 / 牾 refers to one of two inclined beams which lean one against other and thus create triangular construction supporting the roof. Wú 梧 / 牾 does fit the definition of a pillar given above, but it was viewed by the Chinese as belonging to the group of zhù 柱.
-6. Chū 礎 refers to the pillar base which was made of stone. It can be either a hole filled with stones, or a flat stone put on the floor. Both types were known in China since prehistoric times.
-7. Xì (I have not found the character in a list) is another term for chū 礎.
-7. Zhī 榰 refers to a pillar base made either of wood or stone.
+1. The current general term for a pillar is zhù [[柱]]. Pillars were in ancient China basic elements of a building, and they supported the roof. They were ussually made of wood, and could be painted (there is evidence for pillars painted red in ZUO: ZHUANG 23) or curved. From pictorial evidence are best known pillars of the Han period, which can be divided into several types according to the shape in section: most usual are pillars with a round section, but there are also pillars with rectangular section, with eight-edged section, pillars resembling the bound bamboo, and pillars with cannelures.
+2. Yíng [[楹]] refers specifically to a pillar in front of the main hall, but it can be also used like a general term for a pillar.
+3. Zhū rú [[侏儒]] can refer to a short pillar staying on the north-southern beam and supporting higher north-southern beam; also referred to as zhuó ????
+4. Zhuó (I have not found the character in a list) is another word for zhū rú [[侏儒]].
+5. Wú [[梧]] / [[牾]] refers to one of two inclined beams which lean one against other and thus create triangular construction supporting the roof. Wú [[梧]] / [[牾]] does fit the definition of a pillar given above, but it was viewed by the Chinese as belonging to the group of zhù [[柱]].
+6. Chū [[礎]] refers to the pillar base which was made of stone. It can be either a hole filled with stones, or a flat stone put on the floor. Both types were known in China since prehistoric times.
+7. Xì (I have not found the character in a list) is another term for chū [[礎]].
+7. Zhī [[榰]] refers to a pillar base made either of wood or stone.
 8. Jī (not found) refers perhaps to a rectangular piece of wood on a top of the pillar???. It is mentioned in ZHUANGZI and HUAINANZI.
-9. Lú 櫨 probably refers to a rectangular piece of wood on the top of a pillar or on the top of a pillar capital???. Mentioned in HUAINANZI together with jī; it is not clear which was difference between these two terms.
+9. Lú [[櫨]] probably refers to a rectangular piece of wood on the top of a pillar or on the top of a pillar capital???. Mentioned in HUAINANZI together with jī; it is not clear which was difference between these two terms.
 NB: THIS OBVIOUSLY STILL NEEDS REVISION.
 ## 
 HUANG JINGUI 2006

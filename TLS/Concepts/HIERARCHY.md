@@ -7,7 +7,7 @@ zh: 層級
 SOCIETY:social RELATION SYSTEM BETWEEN MORE NOBLE AND MORE HUMBLE HUMANS.
 # Criteria and general notes
 ## Old Chinese Criteria
-CF. 差等
+CF. [[差等]]
 # Ontology
 
 ## Hypernym

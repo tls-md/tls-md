@@ -7,8 +7,8 @@ zh: 扣子
 THREADS OR ROPES PUT TOGETHER so as to CAUSE it TO be DIFFICULT to MUTUALLY REMOVE them from each other.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The specialised word for a knot is niǔ 紐.
-2. Jié 結 "tie up" is also used to refer to what is tied up, a knot.
+1. The specialised word for a knot is niǔ [[紐]].
+2. Jié [[結]] "tie up" is also used to refer to what is tied up, a knot.
 ## Modern Chinese Criteria
 紐扣
 紐

@@ -7,7 +7,7 @@ zh: 閃電
 The WEATHER condition constituted by flashes of lightning.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for lightning is diàn 電.
+1. The standard word for lightning is diàn [[電]].
 ## Modern Chinese Criteria
 閃電
 電

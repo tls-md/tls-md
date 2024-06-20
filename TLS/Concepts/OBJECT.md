@@ -7,7 +7,7 @@ zh: 對象
 [NO HYPERNYM.] WHAT one CAN NAME:refer to.
 # Criteria and general notes
 ## Old Chinese Criteria
-Wù 物 is used in philsophical contexts to objects of thought of any kind.
+Wù [[物]] is used in philsophical contexts to objects of thought of any kind.
 ## 
 LEIBNIZ 6.4 P. 27: R e s est quae distincte cogitari potest.
 # Ontology

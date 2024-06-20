@@ -7,7 +7,7 @@ zh: 脊飾
 SCULPTURE as ORNAMENT ON a ROOF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word chī wěn 鴟吻 is first attested in TANG, but the fish-tail gargoyle is found in archeological finds from Han times. See HUANG's illustrations.
+1. The standard word chī wěn [[鴟吻]] is first attested in TANG, but the fish-tail gargoyle is found in archeological finds from Han times. See HUANG's illustrations.
 # Ontology
 
 ## Hypernym

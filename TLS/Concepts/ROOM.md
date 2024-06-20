@@ -9,11 +9,11 @@ och: 室
 PLACE in which one DWELLS, SURROUNDED BY WALLS, in a BUILDING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a room within a house is presumably shì 室, but note in traditional Chinese architecture many kinds of buildings may consist of exactly one room so that the distinction between house and room becomes blurred.
-2. Qin 寑 refers specifically to the bedroom.
-3. Xiāng 廂 refers to the the two rooms on the sides of the main room in the main building.
-4. Fáng 房 refers to a non-main room in a building.
-5. Táng 堂 refers to the (typically elevated) main sitting room or the main wing in any dwelling. See BUILDING.
+1. The general word for a room within a house is presumably shì [[室]], but note in traditional Chinese architecture many kinds of buildings may consist of exactly one room so that the distinction between house and room becomes blurred.
+2. Qin [[寑]] refers specifically to the bedroom.
+3. Xiāng [[廂]] refers to the the two rooms on the sides of the main room in the main building.
+4. Fáng [[房]] refers to a non-main room in a building.
+5. Táng [[堂]] refers to the (typically elevated) main sitting room or the main wing in any dwelling. See BUILDING.
 ## Modern Chinese Criteria
 房間
 屋子

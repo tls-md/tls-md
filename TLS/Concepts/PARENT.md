@@ -16,7 +16,7 @@ zh: 老人家
 RELATIVE who has ENGENDERED OR BIRTH:given birth to a CHILD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for parents is qīn 親, and the word is always used to refer to both parents (a rare case of dualis), so that the father or mother separately are not referred to as a qīn 親.
+1. The current word for parents is qīn [[親]], and the word is always used to refer to both parents (a rare case of dualis), so that the father or mother separately are not referred to as a qīn [[親]].
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 5.

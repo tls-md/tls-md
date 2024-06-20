@@ -11,8 +11,8 @@ zh: 還給
 GIVE so as to CAUSE someone to HAVE AGAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for giving something back is fǎn 反.
-2. Guī 歸 focusses on the giving something back being an act of returning something where it really does belong.
+1. The current word for giving something back is fǎn [[反]].
+2. Guī [[歸]] focusses on the giving something back being an act of returning something where it really does belong.
 ## Modern Chinese Criteria
 還給
 歸

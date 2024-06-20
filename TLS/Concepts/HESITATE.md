@@ -32,12 +32,12 @@ och: 猶豫
 DOUBT HOW one SHOULD ACT AND THEREFORE NOT ACT OR MOVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for psychological hesitation happens to be bisyllabic: yóuyù 猶豫 (compare the rare but synonymous yíyóu 夷猶 ) (ant. guǒ 果 "resolute"), but the word primarily refers to the mental state which brings about hesitation in action, but the diffident behaviour is also included in the meaning of the word.
-2. Chóu chú 躊躇 refers to the physical result of an attitude of hesitation, the lingering in one place, and the indecisiveness of movement, and these forms of action are clearly construed as expressive of the psychological hesitation.
-3. Pái huái 徘徊, pánghuáng 彷徨, zhízhú 躑躅, refers primarily to the action of going back and forth, as if in doubt, but the words can occasionally be used, by extension, to refer to the doubt or hesitation itself.
-4. Yí 疑 and the much rarer chǐ huí 祗迴 refers primarily to the intellectual aspect of hesitation.
-5. Xū 需 refers to hesitation as a permanent characteristic of a person.
-6. Rèn 訒 (ant. nìng 佞 "quick-witted eloquence") refers to reticent hesitation in the articulation of what is on one's mind.
+1. The current general word for psychological hesitation happens to be bisyllabic: yóuyù [[猶豫]] (compare the rare but synonymous yíyóu [[夷猶]] ) (ant. guǒ [[果]] "resolute"), but the word primarily refers to the mental state which brings about hesitation in action, but the diffident behaviour is also included in the meaning of the word.
+2. Chóu chú [[躊躇]] refers to the physical result of an attitude of hesitation, the lingering in one place, and the indecisiveness of movement, and these forms of action are clearly construed as expressive of the psychological hesitation.
+3. Pái huái [[徘徊]], pánghuáng [[彷徨]], zhízhú [[躑躅]], refers primarily to the action of going back and forth, as if in doubt, but the words can occasionally be used, by extension, to refer to the doubt or hesitation itself.
+4. Yí [[疑]] and the much rarer chǐ huí [[祗迴]] refers primarily to the intellectual aspect of hesitation.
+5. Xū [[需]] refers to hesitation as a permanent characteristic of a person.
+6. Rèn [[訒]] (ant. nìng [[佞]] "quick-witted eloquence") refers to reticent hesitation in the articulation of what is on one's mind.
 ## Modern Chinese Criteria
 猶豫
 猶疑

@@ -10,8 +10,8 @@ zh: 日
 PERIOD FROM MORNING TO EVENING OR FROM MIDNIGHT TO MIDNIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for the day as the time of human activity is 日 (ant. 夜 "nighttime, when there is no activity", and perhaps sometimes xì 夕 "the time of day when the sun is declining and including the time when the sun has gone down but one has not yet gone to bed"). It was unclear in ancient times exactly when during the night one day ends and the next begins.
-2. Zhòu 晝 (ant. xiāo 宵 "nighttime" and yè 夜 "night") refers to that part of the day when there is daylight.
+1. The general term for the day as the time of human activity is [[日]] (ant. [[夜]] "nighttime, when there is no activity", and perhaps sometimes xì [[夕]] "the time of day when the sun is declining and including the time when the sun has gone down but one has not yet gone to bed"). It was unclear in ancient times exactly when during the night one day ends and the next begins.
+2. Zhòu [[晝]] (ant. xiāo [[宵]] "nighttime" and yè [[夜]] "night") refers to that part of the day when there is daylight.
 ## Modern Chinese Criteria
 日
 天

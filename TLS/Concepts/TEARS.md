@@ -7,10 +7,10 @@ zh: 淚
 BODY JUICE in the form of SALTY WATER TYPICALLY ISSUING from the EYES WHEN one FEELS INTENSE GRIEF OR SADNESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for tears is qì 泣.
-2. Lèi 淚 is a general word for tears, but probably not as common as qì 泣.
-3. Tì 涕 refers to tears (possibly mixed with snivel from the nose, the latter meaning becoming prominent at later stages of the language).
-4. Yí 洟 and sì 泗 are rare words referring to tears in early times, and to snivel or mucus from the nose in later times.
+1. The current general word for tears is qì [[泣]].
+2. Lèi [[淚]] is a general word for tears, but probably not as common as qì [[泣]].
+3. Tì [[涕]] refers to tears (possibly mixed with snivel from the nose, the latter meaning becoming prominent at later stages of the language).
+4. Yí [[洟]] and sì [[泗]] are rare words referring to tears in early times, and to snivel or mucus from the nose in later times.
 ## 
 HUANG JINGUI 2006
 BODY 41.

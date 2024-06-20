@@ -7,7 +7,7 @@ zh: 皮膚病
 ILLNESS of the SKIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-NB: Lài 癩 refers to leprosy, but the character is post-Buddhist
+NB: Lài [[癩]] refers to leprosy, but the character is post-Buddhist
 ## 
 HUANG JINGUI 2006
 BODY 16. 瘡瘍。

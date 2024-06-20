@@ -18,8 +18,8 @@ zh: 角落
 PLACE where EDGES OR SIDES of something MEET.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a corner in anything is yú 隅, but the word very often refers specifically to corners in buildings or man-made structures of any kind. The word often refers to the corner of the wall, usually raised above the level of the wall and with building on it. [SUN 1991: 196]
-2. Zōu 陬 primarily refers to corners that are naturally produced, but by extension also to man-made corners.
+1. The current general word for a corner in anything is yú [[隅]], but the word very often refers specifically to corners in buildings or man-made structures of any kind. The word often refers to the corner of the wall, usually raised above the level of the wall and with building on it. [SUN 1991: 196]
+2. Zōu [[陬]] primarily refers to corners that are naturally produced, but by extension also to man-made corners.
 ## Modern Chinese Criteria
 角落
 角

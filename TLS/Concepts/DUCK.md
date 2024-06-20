@@ -7,10 +7,10 @@ zh: 鴨子
 DOMESTIC ANIMAL in the form of a SMALL WATER BIRD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Wù 鶩 is the domestic duck.
-2. Fú 鳧 is the wild duck.
-3. Yuān yāng 鴛鴦 refers to mandarin ducks, often a pair.
-NB Yā 鴨 is post-Buddhist and refers to the domestic duck.
+1. Wù [[鶩]] is the domestic duck.
+2. Fú [[鳧]] is the wild duck.
+3. Yuān yāng [[鴛鴦]] refers to mandarin ducks, often a pair.
+NB Yā [[鴨]] is post-Buddhist and refers to the domestic duck.
 ## Modern Chinese Criteria
 鴨
 鴨子

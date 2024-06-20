@@ -6,7 +6,7 @@ labels:
 REGRET so as to FEEL SHAME AND DECIDE TO CHANGE ONE'S BEHAVIOUR.
 # Criteria and general notes
 ## Old Chinese Criteria
-懺悔
+[[懺悔]]
 # Ontology
 
 ## Hypernym

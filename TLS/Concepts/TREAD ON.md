@@ -16,13 +16,13 @@ och: 踐
 WALK so as to PRESS DOWN USING ONE'S FEET.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for treading on something is jiàn 踐.
-2. Dào 蹈 refers specifically to stepping on something with deliberate force or as the result of special courage.
-3. Tà 踏 refers to a quick and light stepping on something.
-4. Lu# 履 refers to stepping on something in order to walk over it.
-5. Niè 躡 refers to stepping or even trampling on something and typically focusses on this having an ulterior purpose and being very deliberate.
-6. Róu 蹂 and lì3n 躪 refer to treading on something in an unreglemented and inappropriate way, and the two words are often used together.
-7. Cù 蹴 seems to refer to demonstratively trampling on something.
+1. The most current general word for treading on something is jiàn [[踐]].
+2. Dào [[蹈]] refers specifically to stepping on something with deliberate force or as the result of special courage.
+3. Tà [[踏]] refers to a quick and light stepping on something.
+4. Lu# [[履]] refers to stepping on something in order to walk over it.
+5. Niè [[躡]] refers to stepping or even trampling on something and typically focusses on this having an ulterior purpose and being very deliberate.
+6. Róu [[蹂]] and lì3n [[躪]] refer to treading on something in an unreglemented and inappropriate way, and the two words are often used together.
+7. Cù [[蹴]] seems to refer to demonstratively trampling on something.
 ## Modern Chinese Criteria
 踩
 踏

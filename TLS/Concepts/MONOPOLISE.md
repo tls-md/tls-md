@@ -8,10 +8,10 @@ och: 專／主
 CONTROL AND NOT PERMIT OTHERS TO CONTROL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for taking sovereign charge of something is probably zhǔ 主.
-2. Zhuān 專 emphasises that one takes exclusive control, by whatever means.
-3. Shàn 擅 emphasises the improper arrogation of monopolised control.
-4. Cuàn 篡 suggests the violent arrogation of monopolised power.
+1. The most general word for taking sovereign charge of something is probably zhǔ [[主]].
+2. Zhuān [[專]] emphasises that one takes exclusive control, by whatever means.
+3. Shàn [[擅]] emphasises the improper arrogation of monopolised control.
+4. Cuàn [[篡]] suggests the violent arrogation of monopolised power.
 ## Modern Chinese Criteria
 專制
 獨裁

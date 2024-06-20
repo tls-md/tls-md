@@ -8,7 +8,7 @@ ADULT who HAS DEFINED RIGHTS AND DUTIES BECAUSE s/he BELONGS TO a STATE.
 # Criteria and general notes
 ## Old Chinese Criteria
 The insistution of legal citizenship was linked to tax-paying duty and military duty, not in terms of any specific civic rights. The concrete definition of citizenship will have differed from state to state in Warring States times, and the importance of the definition will have depended on the degree of detailedness of public registers. In China, there was no central and important institution like the bundle of rights and duties of the civis Romanus. The civis Romanus defined himself in terms of rights. It would appear that the Chinese citizen defined himself as a citizen (less enthusiastically) through his duties.
-An expression like 齊人 had three meanings in ancient China:
+An expression like [[齊人]] had three meanings in ancient China:
 1. commonly: a man from Qí, people from Qí;
 2. (in the ANNALS (CQ) and other annalistic contexts: the senior citizens of Qí, the aristocracy of Qí;
 3. from Warring States onwards: citizens of Qí.

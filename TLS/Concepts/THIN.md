@@ -10,9 +10,9 @@ zh: 薄
 SMALL in the MOST SMALL DIMENSION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for thinness of any kind is is báo 薄.
-2. Zhěn 袗 refers to thin cloth that is not lined or double.
-3. Xiān 纖 refers to anything that is slender and thin, or slim. See SLIM.
+1. The current standard word for thinness of any kind is is báo [[薄]].
+2. Zhěn [[袗]] refers to thin cloth that is not lined or double.
+3. Xiān [[纖]] refers to anything that is slender and thin, or slim. See SLIM.
 ## Modern Chinese Criteria
 細
 纖細

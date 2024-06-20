@@ -13,10 +13,10 @@ och: 延
 RITUALLY REQUEST someone to JOIN one in an ACT:activity one ASSUMES to be MUTALLY PLEASANT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. An ordinary general word for a ritualised invitation is yán 延.
-2. Yāo 要 refers to a rather formal invitation to a meal, a feast, or a stay, and the word never refers to an invitation to join a political movement or the like.
-3. Pìn 聘 refers to a strictly formal diplomatic invitation.
-4. Qǐng 請 comes to refer to a general social invitation by SHIJI times, but the word can also refer more generally to an invitation to join any activity or movement.
+1. An ordinary general word for a ritualised invitation is yán [[延]].
+2. Yāo [[要]] refers to a rather formal invitation to a meal, a feast, or a stay, and the word never refers to an invitation to join a political movement or the like.
+3. Pìn [[聘]] refers to a strictly formal diplomatic invitation.
+4. Qǐng [[請]] comes to refer to a general social invitation by SHIJI times, but the word can also refer more generally to an invitation to join any activity or movement.
 ## Modern Chinese Criteria
 邀請 is the current modern word referring (verbally or nominally) to an invitation.
 請 is a current informal way of referring (always verbally) to an invitation.

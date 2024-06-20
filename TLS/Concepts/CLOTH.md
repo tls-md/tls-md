@@ -12,12 +12,12 @@ och: 布
 ARTEFACT TYPICALLY PRODUCED by WEAVING OR KNITTING, SOMETIMES USED FOR PRODUCING GARMENTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for cloth is bù bó 布帛 "coarse or silk cloth".
-2. Bó 帛 refers quite generally to silk cloth. See SILK.
-3. Bù 布 refers quite generally to all kind of coarse cloth, typically made of hemp and the like, but the word is also occasionally used loosely as a general term for cloth including silk.
-4. Chī 絺 refers to fine linen or hemp cloth.
-5. Xì 綌 refers to coarse dolichos cloth.
-6. Sī 緦 refers generally to any kind of coarse cloth worn in periods of mourning.
+1. The general word for cloth is bù bó [[布帛]] "coarse or silk cloth".
+2. Bó [[帛]] refers quite generally to silk cloth. See SILK.
+3. Bù [[布]] refers quite generally to all kind of coarse cloth, typically made of hemp and the like, but the word is also occasionally used loosely as a general term for cloth including silk.
+4. Chī [[絺]] refers to fine linen or hemp cloth.
+5. Xì [[綌]] refers to coarse dolichos cloth.
+6. Sī [[緦]] refers generally to any kind of coarse cloth worn in periods of mourning.
 ## Modern Chinese Criteria
 布
 布匹

@@ -7,10 +7,10 @@ zh: 肉
 FLESH of DEAD ANIMALS USED as FOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for meat as something edible is ròu 肉.
-2. Xīng 腥 refers to raw meat.
-3. Niú 牛 is sometimes used to refer to beef.
-4. Yáng 羊 is sometimes used to refer to mutton.
+1. The current general word for meat as something edible is ròu [[肉]].
+2. Xīng [[腥]] refers to raw meat.
+3. Niú [[牛]] is sometimes used to refer to beef.
+4. Yáng [[羊]] is sometimes used to refer to mutton.
 ## 
 HUANG JINGUI 2006
 FOOD 39.

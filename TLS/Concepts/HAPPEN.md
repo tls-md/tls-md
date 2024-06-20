@@ -23,8 +23,8 @@ zh: 發生
 ARISE as AN EVENT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The only word that corresponds to a notion of an event occurring is yǒu 有.
-2. Rán 然 can refer to something tending to happen in general.
+1. The only word that corresponds to a notion of an event occurring is yǒu [[有]].
+2. Rán [[然]] can refer to something tending to happen in general.
 ## Modern Chinese Criteria
 發生
 出現

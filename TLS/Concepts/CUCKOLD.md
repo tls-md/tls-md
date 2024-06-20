@@ -6,9 +6,9 @@ labels:
 HUSBAND WHOSE WIFE HAS COMMITTED ADULTERY AND WHO IS LAUGHED-AT BECAUSE OF THIS.
 # Criteria and general notes
 ## Old Chinese Criteria
-烏龜
-奸婦之夫人
-戴綠帽
+[[烏龜]]
+[[奸婦之夫人]]
+[[戴綠帽]]
 ## Modern Chinese Criteria
 戴綠頭巾的人
 戴綠帽的

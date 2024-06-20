@@ -15,8 +15,8 @@ och: 齊
 AVOID EATING SOME THINGS, CONFORMING to RITUAL FORBID:prohibitions.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the ritually purifying act of fasting is zhāi 齋.
-2. Jiè 戒 can refer to the ritual observance of prohibitions against eating or drinking at certain times.
+1. The standard word for the ritually purifying act of fasting is zhāi [[齋]].
+2. Jiè [[戒]] can refer to the ritual observance of prohibitions against eating or drinking at certain times.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 17.

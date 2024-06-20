@@ -13,16 +13,16 @@ och: 祭
 RITUAL in the form of GIVING gifts to DEITIES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for making sacrificial offerings of wine and food to spirits of Heaven, of Earth and to the ancestors (perhaps primarily to the spirits of Earth and of the ancestors) is jì 祭 which has become the most common word in Warring States times, replacing sì 祀, which was more common in SHU and SHI.
-2. Sì4 祀 is an archaic word which refers to the making of sacrificial offerings of wine and food to the spirits of Heaven, of Earth and to the ancestors, perhaps primarily and originally to the spirits of Heaven.
-3. Xiǎng 饗／享 refers to making sacrificial offerings in the form of food to one's ancestors.
-4. Diàn 奠 refers specifically to making formal sacrifices to the deceased not too long after his death.
-5. Là 臘 refers specifically to the winter sacrifice to Heaven and Earth.
-6. Fēng 封 refers to an imperial sacrifice to the spirits of Heaven at mount Taishan, where an altar had to be established for the occasion.
-7. Shàn 禪 refers specifically to the imperial sacrifice to the spirits of the Earth at the foot of mount Taishan,.
-8. Wàng 望 refers to sacrifices to the spirits of mountains and streams.
-9. Yì 瘞 refers to placing something (typically jade, or domestic animals) in the ground as part of or as a form of sacrifice to a deceased person.
-10. Lèi 酹 refers to the pouring of libations of wine on the ground.
+1. The most general word for making sacrificial offerings of wine and food to spirits of Heaven, of Earth and to the ancestors (perhaps primarily to the spirits of Earth and of the ancestors) is jì [[祭]] which has become the most common word in Warring States times, replacing sì [[祀]], which was more common in SHU and SHI.
+2. Sì4 [[祀]] is an archaic word which refers to the making of sacrificial offerings of wine and food to the spirits of Heaven, of Earth and to the ancestors, perhaps primarily and originally to the spirits of Heaven.
+3. Xiǎng [[饗]]／[[享]] refers to making sacrificial offerings in the form of food to one's ancestors.
+4. Diàn [[奠]] refers specifically to making formal sacrifices to the deceased not too long after his death.
+5. Là [[臘]] refers specifically to the winter sacrifice to Heaven and Earth.
+6. Fēng [[封]] refers to an imperial sacrifice to the spirits of Heaven at mount Taishan, where an altar had to be established for the occasion.
+7. Shàn [[禪]] refers specifically to the imperial sacrifice to the spirits of the Earth at the foot of mount Taishan,.
+8. Wàng [[望]] refers to sacrifices to the spirits of mountains and streams.
+9. Yì [[瘞]] refers to placing something (typically jade, or domestic animals) in the ground as part of or as a form of sacrifice to a deceased person.
+10. Lèi [[酹]] refers to the pouring of libations of wine on the ground.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 1.

@@ -22,10 +22,10 @@ zh: 圓
 CURVED IN ALL DIMENSIONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for roundness is yuán 圓.
-2. Tú 凸 refers to convexness.
-3. Āo 凹 refers to concaveness, but I have not found the word in pre-Buddhist texts (Southern Dynasties examples are found).
-4. Qiú 毬 refers to things of spherical roundness like balls, but the word is exceedingly rare in pre-Buddhist times. See BALL
+1. The current general word for roundness is yuán [[圓]].
+2. Tú [[凸]] refers to convexness.
+3. Āo [[凹]] refers to concaveness, but I have not found the word in pre-Buddhist texts (Southern Dynasties examples are found).
+4. Qiú [[毬]] refers to things of spherical roundness like balls, but the word is exceedingly rare in pre-Buddhist times. See BALL
 ## Modern Chinese Criteria
 圓
 渾圓

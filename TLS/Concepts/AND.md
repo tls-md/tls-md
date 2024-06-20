@@ -10,17 +10,17 @@ ALL of TWO THINGS OR ACTIONS OR FEATURES.
 ## Old Chinese Criteria
 [VERBAL-SCOPE/NOMINAL-SCOPE]
 [PREDICATE-SCOPE/SENTENCE-SCOPE/SUBJECT-SCOPE]
-1. Yǔ 與 "and" is the general all-purpose coordinating particle between NPs which, in ZUO, is equally common in subject and object position, and which coordinates both with concrete and abstract items, often topics, sometimes even pivots.
+1. Yǔ [[與]] "and" is the general all-purpose coordinating particle between NPs which, in ZUO, is equally common in subject and object position, and which coordinates both with concrete and abstract items, often topics, sometimes even pivots.
 [NOMINAL-SCOPE]
-2. Jí 及 "and" is between NPs, and at least in ZUO the conjunction is predominantly between concrete (also multiple) objects and occasionally between non-abstract subjects.
+2. Jí [[及]] "and" is between NPs, and at least in ZUO the conjunction is predominantly between concrete (also multiple) objects and occasionally between non-abstract subjects.
 [NOMINAL-SCOPE]
-3. E@r 而 is between VPs or sentences (and can occasionally occur between subject/topic nouns and the predicate in subordinate sentences, but in usage it does not belong into the present synonym group).
+3. E@r [[而]] is between VPs or sentences (and can occasionally occur between subject/topic nouns and the predicate in subordinate sentences, but in usage it does not belong into the present synonym group).
 [SENTENCE-SCOPE], [VERBAL SCOPE]
-4. Yǐ 以 is normally between a non-main and a main VP but may occasionally be purely coordinating and equivalent to ér 而.
+4. Yǐ [[以]] is normally between a non-main and a main VP but may occasionally be purely coordinating and equivalent to ér [[而]].
 [VERBAL-SCOPE]
-5. Jì 既... ér 而 is between coordinates and equally weighted VPs.
+5. Jì [[既]]... ér [[而]] is between coordinates and equally weighted VPs.
 [VERBAL-SCOPE]
-6. Qiě 且 is between coordinate VPs, but the word also functions as a sentence connective.
+6. Qiě [[且]] is between coordinate VPs, but the word also functions as a sentence connective.
 [VERBAL-SCOPE], [SENTENCE-SCOPE]
 ## Modern Chinese Criteria
 并

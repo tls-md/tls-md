@@ -17,7 +17,7 @@ zh: 謀殺
 MURDER ONE'S RULER. 
 # Criteria and general notes
 ## Old Chinese Criteria
-弒
+[[弒]]
 # Ontology
 
 ## Hypernym

@@ -39,10 +39,10 @@ zh: 殘酷
 VIOLENT AND WICKED so as to DELIGHT in INJURING OR DAMAGING OTHERS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for psychological cruelty is rěn 忍 (ant. cí 慈 "show kind loving concern"), and the current general word for cruelty in action is cán 殘 (ant. rén 仁 "kind-heartedness").
-2. Nè 虐 (ant. fǔ 撫 "take good care of, show proper concern for subordinates or subjects") refers to wanton cruelty in the exercise of political authority.
-3. Lì 戾 typically refers to deliberate cruelty for its own sake, typically by those in political authority, viewed as a political mistake. See SEVERE
-4. Bào 暴 refers to a propensity towards public violence by those in authority, viewed as a character defect. See VIOLENT
+1. The current general word for psychological cruelty is rěn [[忍]] (ant. cí [[慈]] "show kind loving concern"), and the current general word for cruelty in action is cán [[殘]] (ant. rén [[仁]] "kind-heartedness").
+2. Nè [[虐]] (ant. fǔ [[撫]] "take good care of, show proper concern for subordinates or subjects") refers to wanton cruelty in the exercise of political authority.
+3. Lì [[戾]] typically refers to deliberate cruelty for its own sake, typically by those in political authority, viewed as a political mistake. See SEVERE
+4. Bào [[暴]] refers to a propensity towards public violence by those in authority, viewed as a character defect. See VIOLENT
 ## Modern Chinese Criteria
 凶殘
 殘酷

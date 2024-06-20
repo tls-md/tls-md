@@ -19,11 +19,11 @@ och: 處
 PART of SPACE that THINGS BE-IN:are-in.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word referring to the location of something is chù 處 which may refer to the location in which a thing happens to be at some point in time, or to the place where something belongs, and the word refers to both abstract and concrete spatial location.
-2. Suǒ 所 "proper place", when used pregnantly on its own, refers to the place where a thing basically belongs, where someone lives, and where something should be. This word was the most common word for a place in early literature. Quite frequently, the word refers not just to a place, but particularly to a building in a place.
-3. Dì 地 is primarily a territory, and only by occasional extension the abstract location of something.
-4. W4èi 位 sometimes comes to refer to the position in a terrain.
-5. Chǎng 場 refers specifically to the location for certain activities like threshing etc.
+1. The most general word referring to the location of something is chù [[處]] which may refer to the location in which a thing happens to be at some point in time, or to the place where something belongs, and the word refers to both abstract and concrete spatial location.
+2. Suǒ [[所]] "proper place", when used pregnantly on its own, refers to the place where a thing basically belongs, where someone lives, and where something should be. This word was the most common word for a place in early literature. Quite frequently, the word refers not just to a place, but particularly to a building in a place.
+3. Dì [[地]] is primarily a territory, and only by occasional extension the abstract location of something.
+4. W4èi [[位]] sometimes comes to refer to the position in a terrain.
+5. Chǎng [[場]] refers specifically to the location for certain activities like threshing etc.
 ## Modern Chinese Criteria
 地方 is the current general modern word for a place.
 地兒 is northern colloquial for 地方.

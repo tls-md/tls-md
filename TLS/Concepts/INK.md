@@ -8,8 +8,8 @@ och: 墨
 TYPICALLY BLACK LIQUID one USES TO WRITE OR PAINT with.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for ink in Han times is mò 墨, and it is important to realise that this did not refer to an inkslab in Warring States times, but rather to an ink powder which was mixed with water to produce a kind of ink mud with one's hands. The ink slab became current from Han times onwards.
-2. Yàn 硯 refers to an inkstone on which the inkslab is rubbed in order to produce ink. The earliest inkslabs are from Western Han times. These could be round or round on one side and right-angled on the other. See illustrations.
+1. The current word for ink in Han times is mò [[墨]], and it is important to realise that this did not refer to an inkslab in Warring States times, but rather to an ink powder which was mixed with water to produce a kind of ink mud with one's hands. The ink slab became current from Han times onwards.
+2. Yàn [[硯]] refers to an inkstone on which the inkslab is rubbed in order to produce ink. The earliest inkslabs are from Western Han times. These could be round or round on one side and right-angled on the other. See illustrations.
 ## Modern Chinese Criteria
 墨汁
 墨水

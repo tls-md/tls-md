@@ -7,9 +7,9 @@ zh: 窺
 LOOK AND HOPE that one is NOT SEEN LOOKING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Kuī 窺 refers to a strained effort towards catching sight of something without being seen oneself.
-2. Chān 覘 refers to visual peeping as well as to guessing on the basis of what has been observed.
-3. Jiàn 瞷 refers to generally observing someone or something secretly, spying on someone, but not necessarily only on one particular occasion and in one place.
+1. Kuī [[窺]] refers to a strained effort towards catching sight of something without being seen oneself.
+2. Chān [[覘]] refers to visual peeping as well as to guessing on the basis of what has been observed.
+3. Jiàn [[瞷]] refers to generally observing someone or something secretly, spying on someone, but not necessarily only on one particular occasion and in one place.
 ## Modern Chinese Criteria
 窺探
 窺見

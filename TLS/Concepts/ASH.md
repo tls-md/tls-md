@@ -13,14 +13,14 @@ SUBSTANCE that REMAINS AFTER a THING is BURNT. 
 [[COMMON/RARE]]
 [GENERAL/SPECIFIC]
 [LASTING/TEMPORARY]
-1. The most general word for what is left of something after it is burnt is perhaps the rather rare jìn 燼, and these substances can be cold or still hot.
+1. The most general word for what is left of something after it is burnt is perhaps the rather rare jìn [[燼]], and these substances can be cold or still hot.
 [GENERAL]
-2. Huī 灰 refers specifically to cold ashes.
+2. Huī [[灰]] refers specifically to cold ashes.
 [SPECIFIC]; [[COMMON]]
-3. Wēi 煨 refers to embers that are still very hot.
+3. Wēi [[煨]] refers to embers that are still very hot.
 [SPECIFIC], [TEMPORARY]; [[RARE]]
 Compare also SOOT for the dark remnants of something burnt.
-NB: Xiè 灺 refers specifically to what is left of candles etc after they are burnt out and came into use in Tang times (Hán Yù).
+NB: Xiè [[灺]] refers specifically to what is left of candles etc after they are burnt out and came into use in Tang times (Hán Yù).
 ## Modern Chinese Criteria
 火底
 灰燼

@@ -20,11 +20,11 @@ och: 化／風
 CAUSE TO CHANGE ENDURINGLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no current general word for influence, and the closest one gets to the notion is probably huà 化 "transform through one's influence".
-2. Fēng 風 refers to transformation through one's influence, and this is a very literary word.
-3. Jí 及 occasionally comes to refer to the impact something has on something else.
-4. Zhèn 振 refers to a deep and strong physical impact.
-5. Shī 施 occasionally comes to refer to a deliberate impact one has on other things.
+1. There is no current general word for influence, and the closest one gets to the notion is probably huà [[化]] "transform through one's influence".
+2. Fēng [[風]] refers to transformation through one's influence, and this is a very literary word.
+3. Jí [[及]] occasionally comes to refer to the impact something has on something else.
+4. Zhèn [[振]] refers to a deep and strong physical impact.
+5. Shī [[施]] occasionally comes to refer to a deliberate impact one has on other things.
 ## Modern Chinese Criteria
 影響
 燻陶

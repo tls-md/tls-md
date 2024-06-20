@@ -26,9 +26,9 @@ PLACE in SPACE CONTAINING the SUN, the MOON and the STARS.
 PLACE CONTAINING the SUN, the MOON and the STARS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the sky, and for Heaven, is tiān 天 (ant. dì 地 "earth").
-2. Qián 乾 (ant. kūn 坤 "metaphysical: Earth") is a learned "metaphyisical" way of referring to Heaven.
-3. Cāng 蒼 is a poetic word for blue sky, but the word is not apparently attested in pre-Buddhist texts.
+1. The current word for the sky, and for Heaven, is tiān [[天]] (ant. dì [[地]] "earth").
+2. Qián [[乾]] (ant. kūn [[坤]] "metaphysical: Earth") is a learned "metaphyisical" way of referring to Heaven.
+3. Cāng [[蒼]] is a poetic word for blue sky, but the word is not apparently attested in pre-Buddhist texts.
 ## Modern Chinese Criteria
 天
 天空

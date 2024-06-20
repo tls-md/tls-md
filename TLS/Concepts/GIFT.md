@@ -22,10 +22,10 @@ GOOD THING which one GIVES to someone.
 # Criteria and general notes
 ## Old Chinese Criteria
 NB: all the words below are derived from semantically corresponding verbs for to give and could be subsumed under these:
-1. The general current word for any generous gift is cì 賜, and the general completely neutral term for a gift is wèi 遺.
-2. Huì 賄 and lù 賂 are words for "gift" which is often given with an ulterior purpose, and the word regularly comes to mean "bribe", especially in the current binome huì lù 賄賂 "bribe".
-3. Kuì 饋 refers to a ritual gift.
-4. Xiàn 獻 is occasionally used for a gift to superiors.
+1. The general current word for any generous gift is cì [[賜]], and the general completely neutral term for a gift is wèi [[遺]].
+2. Huì [[賄]] and lù [[賂]] are words for "gift" which is often given with an ulterior purpose, and the word regularly comes to mean "bribe", especially in the current binome huì lù [[賄賂]] "bribe".
+3. Kuì [[饋]] refers to a ritual gift.
+4. Xiàn [[獻]] is occasionally used for a gift to superiors.
 ## Modern Chinese Criteria
 禮品
 禮物

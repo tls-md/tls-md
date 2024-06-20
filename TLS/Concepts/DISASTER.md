@@ -14,16 +14,16 @@ zh: 災禍
 EVENT that CAUSES HUMANS to BECOME INTENSELY SAD OR to GRIEF:grieve.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common general word for disasters is huò 禍 (ant. fú 福 "good fortune") which has no connotations of any metaphysical kind. (In OBI the character currently transcribed as huò 禍 - and closely related to 占 - refers not only to disasters as such, but particularly to disastrous omens.)
-2. Zāi 災 refers to a natural disaster, typically sent down by Heaven.
-3. Huàn 患 refers to any major or minor disaster, even down to minor irritations.
-4. Yāng 殃 always refers to major natural disasters, often construed as causes by human misdemeanour, or by a failure to take preventive action.
-5. Niè 孽 often has heavy metaphysical connotations and refers to disasters as caused by higher powers acting with an intention to harm, but there are some clear cases where the word refers to man-made trouble in MENG.
-6. Nàn 難 refer to man-made disasters of every kind.
-7. Jí 急 is a disastrous or highly precarious situation that has occurred suddenly and requires urgent attention.
-8. Bù yú 不虞 is normally a minor disaster that was utterly unexpected.
-9. Xiōng 凶, shěng 眚 and jiù 咎 are archaic metaphysical terms for misfortunes.
-10. Hài 害 refers generally to harm, but in OBI the word standardly refers to harm done by supernatural powers or ancestors.
+1. The most common general word for disasters is huò [[禍]] (ant. fú [[福]] "good fortune") which has no connotations of any metaphysical kind. (In OBI the character currently transcribed as huò [[禍]] - and closely related to [[占]] - refers not only to disasters as such, but particularly to disastrous omens.)
+2. Zāi [[災]] refers to a natural disaster, typically sent down by Heaven.
+3. Huàn [[患]] refers to any major or minor disaster, even down to minor irritations.
+4. Yāng [[殃]] always refers to major natural disasters, often construed as causes by human misdemeanour, or by a failure to take preventive action.
+5. Niè [[孽]] often has heavy metaphysical connotations and refers to disasters as caused by higher powers acting with an intention to harm, but there are some clear cases where the word refers to man-made trouble in MENG.
+6. Nàn [[難]] refer to man-made disasters of every kind.
+7. Jí [[急]] is a disastrous or highly precarious situation that has occurred suddenly and requires urgent attention.
+8. Bù yú [[不虞]] is normally a minor disaster that was utterly unexpected.
+9. Xiōng [[凶]], shěng [[眚]] and jiù [[咎]] are archaic metaphysical terms for misfortunes.
+10. Hài [[害]] refers generally to harm, but in OBI the word standardly refers to harm done by supernatural powers or ancestors.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 30. 災難、禍患。

@@ -14,13 +14,13 @@ zh: 男孩子
 INTENSELY YOUNG MALE HUMAN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Tóng zǐ 童子 is the standard neutral word for a boy below the age of 15, but the strong connotation is that of ignorance and immaturity.
-2. Shù zǐ 豎子 refers to a boy as opposed to an infant, but very often often with strong pejorative force.
-3. Tóng 童 by itself is an archaic word referring to a boy, but the term enters freely into non-archaic binomes.
-4. Rú zǐ 孺子 can refer to a child of any sex, and certainly often refers to young girls, but like rú 孺 alone the word does sometimes refer specifically to boys regarded as catamites.
-5. Nán 男 refers generally to males, and only by extension to boys. Note incidentally that apparently even in Tang times a nán ér 男兒 tends to be a young man rather than a boy.
-6. Zǐ 子 refers generally to children, but it is often hard to distinguish the meaning from that of boy, when the reference obviously is to males. See CHILD.
-7. Ruò zǐ 弱子 refers to a (probably male) child as an object of maternal love, and there is pervasive doubt whether this term refers to a boy or a girl, although given traditional preoccupations with boys, one suspects the typical reference is taken to little boys needful of motherly care. See CHILD.
+1. Tóng zǐ [[童子]] is the standard neutral word for a boy below the age of 15, but the strong connotation is that of ignorance and immaturity.
+2. Shù zǐ [[豎子]] refers to a boy as opposed to an infant, but very often often with strong pejorative force.
+3. Tóng [[童]] by itself is an archaic word referring to a boy, but the term enters freely into non-archaic binomes.
+4. Rú zǐ [[孺子]] can refer to a child of any sex, and certainly often refers to young girls, but like rú [[孺]] alone the word does sometimes refer specifically to boys regarded as catamites.
+5. Nán [[男]] refers generally to males, and only by extension to boys. Note incidentally that apparently even in Tang times a nán ér [[男兒]] tends to be a young man rather than a boy.
+6. Zǐ [[子]] refers generally to children, but it is often hard to distinguish the meaning from that of boy, when the reference obviously is to males. See CHILD.
+7. Ruò zǐ [[弱子]] refers to a (probably male) child as an object of maternal love, and there is pervasive doubt whether this term refers to a boy or a girl, although given traditional preoccupations with boys, one suspects the typical reference is taken to little boys needful of motherly care. See CHILD.
 ## Modern Chinese Criteria
 男孩子
 男

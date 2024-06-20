@@ -8,9 +8,9 @@ och: 地
 INTENSELY LARGE THING on the SURFACE of which HUMANS AND ANIMALS LIVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for the earth or land is dì 地 (ant. tiān 天 "Heaven").
-2. Kūn 坤 (ant. qián 乾 is a metaphysical way of referring to Earth as an agentive principle.
-3. Lù 陸 (ant. shuǐ 水 ) refers to land versus river or sea areas.
+1. The current general term for the earth or land is dì [[地]] (ant. tiān [[天]] "Heaven").
+2. Kūn [[坤]] (ant. qián [[乾]] is a metaphysical way of referring to Earth as an agentive principle.
+3. Lù [[陸]] (ant. shuǐ [[水]] ) refers to land versus river or sea areas.
 ## Modern Chinese Criteria
 地球
 地

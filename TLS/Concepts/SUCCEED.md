@@ -17,12 +17,12 @@ och: 達
 ACHIEVE an IMPORTANT AIM with DIFFICULTY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for succeeding is 達 (ant. qiǒ2ng 窮 "get nowhere, have no way out") refers quite simply to "making it".
-2. Tōng 通 (ant. kùn 困 "run into trouble, get into trouble") refers to the achievement of unimpeded progress in what one is trying to do.
-3. Jī 幾 (ant. jiǒng 窘 "get into a hopeless position") refers to an almost complete success.
-4. Jí 及 refers to the successful reaching of a high level.
-5. Dé yì 得意 (liǎo dǎo 潦倒 "end up in a hopeless position") refers to the full achievement of one's highest ambitions or hopes.
-6. Yù 遇 (ant. bù yù 不遇 "fail to succeed") refers to success under certain specific circumstances or by chance.
+1. The general word for succeeding is [[達]] (ant. qiǒ2ng [[窮]] "get nowhere, have no way out") refers quite simply to "making it".
+2. Tōng [[通]] (ant. kùn [[困]] "run into trouble, get into trouble") refers to the achievement of unimpeded progress in what one is trying to do.
+3. Jī [[幾]] (ant. jiǒng [[窘]] "get into a hopeless position") refers to an almost complete success.
+4. Jí [[及]] refers to the successful reaching of a high level.
+5. Dé yì [[得意]] (liǎo dǎo [[潦倒]] "end up in a hopeless position") refers to the full achievement of one's highest ambitions or hopes.
+6. Yù [[遇]] (ant. bù yù [[不遇]] "fail to succeed") refers to success under certain specific circumstances or by chance.
 ## Modern Chinese Criteria
 順利
 順手

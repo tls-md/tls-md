@@ -20,11 +20,11 @@ zh: 樓
 BUILDING which is MUCH HIGHER THAN BROAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for an elevated building erected for pleasure is tái 臺, and the word refers originally to a raised platform with stairs leading up to it, and with balustrades. In ancient China, most of important building were raised on platforms built of rammed earth. This custom spread already in the third millenium B.C. Since these times, large platforms without substantial buildings on it were also known, and they probably served to important public purposes. In the Chunqiu period, tái 臺 were often part of palaces. The period during which raised platforms - built for pleasure - most flourished was nevertheless the Warring States and Han. [HUANG 1995: 1116 - 1117]
-2. Què 闕 refers to the towers built by the city gates or close to other main entrances, part of the function of which was to guard against evil spirits. Representations of these are extremely common throughout Han reliefs.
-3. Xiè 榭 is a platform with a pavilion, and the word can also refer to the pavilion as such. The term sometimes also refers to a building used for military purposes, perhaps in the form of an open pavilion.
-4. Tíng 停／亭 refers to an observation post in the form of an open-wall pavilion. The word also generally refers to the pavilion with open walls which can be built everywhere. It can be, but not necesarilly, raised on a high platform.
-5. Guàn 觀 is a pavilion built in a high place, and with a good view. It was originally part of a palace, later it could be built everywhere.
+1. The most current general word for an elevated building erected for pleasure is tái [[臺]], and the word refers originally to a raised platform with stairs leading up to it, and with balustrades. In ancient China, most of important building were raised on platforms built of rammed earth. This custom spread already in the third millenium B.C. Since these times, large platforms without substantial buildings on it were also known, and they probably served to important public purposes. In the Chunqiu period, tái [[臺]] were often part of palaces. The period during which raised platforms - built for pleasure - most flourished was nevertheless the Warring States and Han. [HUANG 1995: 1116 - 1117]
+2. Què [[闕]] refers to the towers built by the city gates or close to other main entrances, part of the function of which was to guard against evil spirits. Representations of these are extremely common throughout Han reliefs.
+3. Xiè [[榭]] is a platform with a pavilion, and the word can also refer to the pavilion as such. The term sometimes also refers to a building used for military purposes, perhaps in the form of an open pavilion.
+4. Tíng [[停]]／[[亭]] refers to an observation post in the form of an open-wall pavilion. The word also generally refers to the pavilion with open walls which can be built everywhere. It can be, but not necesarilly, raised on a high platform.
+5. Guàn [[觀]] is a pavilion built in a high place, and with a good view. It was originally part of a palace, later it could be built everywhere.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 5.

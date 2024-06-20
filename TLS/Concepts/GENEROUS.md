@@ -37,14 +37,14 @@ och: 惠
 HABITUALLY GIVE of one's WEALTH to THOSE WHO NEED it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Probably the most general word for generosity is huì 惠 (ant. sè 嗇 "stingy, ungenerous"), and this refers to any kind of emotional as well as material munificence by a person of superior status.
-2. Hòu 厚 (ant. báo 薄 "less than ample") refers to generosity of treatment which is not necessarily directed towards inferiors.
-3. Shī 施 focuses on the very activity involved in generous treatment of others, and the subject of this activitiy is normally a person of superior status.
-4. E!n 恩 (ant. chóu 仇 "hostile attitude") refers primarily to an attitude or disposition (typically on the part of a person of superior status) to be generous.
-5. Dé 德 and the rarer zé 澤 refer to graceful and spiritually inspiring munificence, typically from a person of supremely high status.
-6. Kuān 寬 and the rarer guǎng 廣 can refer to a general disposition towards non-narrow and broadly directed generosity.
-7. Zhān 霑 refers to receiving the benefits of generosity and is thus marginal in this group, and the word is rare.
-NB: Kāng kǎi 慷慨 refers to generousity with one's resources, but the usage is first attested in Ming novels.
+1. Probably the most general word for generosity is huì [[惠]] (ant. sè [[嗇]] "stingy, ungenerous"), and this refers to any kind of emotional as well as material munificence by a person of superior status.
+2. Hòu [[厚]] (ant. báo [[薄]] "less than ample") refers to generosity of treatment which is not necessarily directed towards inferiors.
+3. Shī [[施]] focuses on the very activity involved in generous treatment of others, and the subject of this activitiy is normally a person of superior status.
+4. E!n [[恩]] (ant. chóu [[仇]] "hostile attitude") refers primarily to an attitude or disposition (typically on the part of a person of superior status) to be generous.
+5. Dé [[德]] and the rarer zé [[澤]] refer to graceful and spiritually inspiring munificence, typically from a person of supremely high status.
+6. Kuān [[寬]] and the rarer guǎng [[廣]] can refer to a general disposition towards non-narrow and broadly directed generosity.
+7. Zhān [[霑]] refers to receiving the benefits of generosity and is thus marginal in this group, and the word is rare.
+NB: Kāng kǎi [[慷慨]] refers to generousity with one's resources, but the usage is first attested in Ming novels.
 ## Modern Chinese Criteria
 恩惠
 恩典

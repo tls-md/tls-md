@@ -8,7 +8,7 @@ och: 鉤
 ROUND SHARP TOOL USED to CATCH FISH PULL OR SUSPEND THINGS. []
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a hook is gōu 鉤, which can refer to:
+1. The current general word for a hook is gōu [[鉤]], which can refer to:
 a. the fishhook, mentioned for the Warring States in ZHUANGZI. Fishhooks can be made of bone or metal; bone ones are known since the Neolithic, bronze ones since the early Shang period.
 b. belt-hook, which came to use in the late Western Zhou and Chunqiu period, and became common in Warring States times. It was made of bronze, iron, gold, silver, jade, or ivory; valuable pieces were richly inlaid with precious metals or turquoise.
 c. the hook to hang up something; the most remarkable among this group are hooks for suspending bronze bells, which are known already from the early Chunqiu period.

@@ -17,7 +17,7 @@ zh: 飽滿
 COMFORTABLE BECAUSE one has EATEN ENOUGH.
 # Criteria and general notes
 ## Old Chinese Criteria
-飽
+[[飽]]
 ## 
 HUANG JINGUI 2006
 FOOD 11.

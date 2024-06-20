@@ -8,7 +8,7 @@ och: 今日
 The DAY NOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard term for "today" is jīn rì 今日.
+1. The standard term for "today" is jīn rì [[今日]].
 ## Modern Chinese Criteria
 當日
 當天

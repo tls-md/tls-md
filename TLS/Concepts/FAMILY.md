@@ -21,14 +21,14 @@ zh: 家族
 GROUP of PERSONS with the SAME ANCESTORS, OR WITH the SAME GRANDFATHER OR GREAT GRANDFATHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current dominant word is jiā 家 which refers to a whole household, including men, domestic animals and utensils as well as the whole clan system that defines its lineage affiliation.
-2. Zōng 宗 refers unambiguously as a technical term to the lineage group.
-3. Zú 族 refers to the extended lineage group including all manner of in-laws, with the outer boundaries of reference ill-defined.
-4. Shì 室 refers to a (typically substantial or powerful) household with all its appurtenances.
-5. Mén 門 refers to the any complete respectable household including servants and dogs.
-6. Hù 戶 refers to any complete household whatever, often in administrative contexts, with no regard to its status of respectability or political influence.
-7. Nú 孥 is an archaic rare word referring to the members of a family.
-NB: For 氏 and 姓 see NAME.
+1. The current dominant word is jiā [[家]] which refers to a whole household, including men, domestic animals and utensils as well as the whole clan system that defines its lineage affiliation.
+2. Zōng [[宗]] refers unambiguously as a technical term to the lineage group.
+3. Zú [[族]] refers to the extended lineage group including all manner of in-laws, with the outer boundaries of reference ill-defined.
+4. Shì [[室]] refers to a (typically substantial or powerful) household with all its appurtenances.
+5. Mén [[門]] refers to the any complete respectable household including servants and dogs.
+6. Hù [[戶]] refers to any complete household whatever, often in administrative contexts, with no regard to its status of respectability or political influence.
+7. Nú [[孥]] is an archaic rare word referring to the members of a family.
+NB: For [[氏]] and [[姓]] see NAME.
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 同姓親族。
 家，以血緣聚居團體為基礎的財產單位，即家族，上古文獻中一般指卿大夫的家族。

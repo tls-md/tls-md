@@ -7,14 +7,14 @@ zh: 兄弟
 MALE SIBLING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard collective term for brothers is xiōng dì 兄弟.
-2. Xiōng 兄 can refer to the eldest brother as the head of his own generation (explicitly bó xiōng 伯兄 ), but it word often refers more generally to elder brothers, including those who are not the heir in the clan.
-3. Dì 弟 refers to the younger brothers, and never specifically to the youngest.
-4. Zōng zǐ 宗子 is a specific, formal, and ritual term for the eldest brother and heir in a family, typically after the death of whom he succeeds. See HEIR.
-5. Zhòng 仲 refers to the next-eldest or second-eldest brother.
-6. Bó 伯／霸 is the technical term for the eldest brother, and this word is sometimes expanded to bó xiōng 伯兄.
-7. Jì 季 refers to the last-born brother or sister.
-8. Kūn dì 昆弟 refers to brothers in general, but there is a pervasive doubt whether it does not also include the notion of cousins. See COUSIN.
+1. The standard collective term for brothers is xiōng dì [[兄弟]].
+2. Xiōng [[兄]] can refer to the eldest brother as the head of his own generation (explicitly bó xiōng [[伯兄]] ), but it word often refers more generally to elder brothers, including those who are not the heir in the clan.
+3. Dì [[弟]] refers to the younger brothers, and never specifically to the youngest.
+4. Zōng zǐ [[宗子]] is a specific, formal, and ritual term for the eldest brother and heir in a family, typically after the death of whom he succeeds. See HEIR.
+5. Zhòng [[仲]] refers to the next-eldest or second-eldest brother.
+6. Bó [[伯]]／[[霸]] is the technical term for the eldest brother, and this word is sometimes expanded to bó xiōng [[伯兄]].
+7. Jì [[季]] refers to the last-born brother or sister.
+8. Kūn dì [[昆弟]] refers to brothers in general, but there is a pervasive doubt whether it does not also include the notion of cousins. See COUSIN.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 14. 哥哥。

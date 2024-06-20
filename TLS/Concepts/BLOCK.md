@@ -18,17 +18,17 @@ HINDER something by PUTTING something in a PLACE where it CAUSES THINGS which NO
 # Criteria and general notes
 ## Old Chinese Criteria
 [[CONGERIES]]; [GENERAL], [SPECIFIC]
-1. Sè 塞 (ant. tōng 通 "be unblocked") is the standard word for blocking the progress of something, or for blocking up an opening, and the word specifically refers to the blocking of things from getting out of something.
+1. Sè [[塞]] (ant. tōng [[通]] "be unblocked") is the standard word for blocking the progress of something, or for blocking up an opening, and the word specifically refers to the blocking of things from getting out of something.
 [GENERAL]
-2. Yǎn 掩 is the standard word for blocking visual access to an object.
+2. Yǎn [[掩]] is the standard word for blocking visual access to an object.
 [SPECIFIC]
-3. Yōng 壅 (ant. chè 徹 "unblock") refers to blocking things from entering.
+3. Yōng [[壅]] (ant. chè [[徹]] "unblock") refers to blocking things from entering.
 [SPECIFIC]
-4. Dāng 當 refers to a deliberate act of standing in the way of something or ensuring that something cannot proceed in a natural way.
+4. Dāng [[當]] refers to a deliberate act of standing in the way of something or ensuring that something cannot proceed in a natural way.
 [SPECIFIC]
-5. Bì 閉 refers to the blocking of something so as to prevent it to get out. See LOCK.
+5. Bì [[閉]] refers to the blocking of something so as to prevent it to get out. See LOCK.
 [SPECIFIC]
-6. Xiàn 限 refers to a border as blocking access. See BORDER
+6. Xiàn [[限]] refers to a border as blocking access. See BORDER
 ## Modern Chinese Criteria
 阻塞
 閉塞

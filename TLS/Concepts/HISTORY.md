@@ -7,7 +7,7 @@ zh: 歷史
 The DEVELOPMENT of EVENTS in the PAST, PRESENT, AND FUTURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-史 refers to officials in charge of historical records on the one hand, and on compilations like those they compile on the other. The development of a standard current term for historia ipsa, the historical developments themselves, was late and still needs to be explored. In the Guodian Luncong 1 we find 春秋 for historiography contrasting with 古今之事.
+[[史]] refers to officials in charge of historical records on the one hand, and on compilations like those they compile on the other. The development of a standard current term for historia ipsa, the historical developments themselves, was late and still needs to be explored. In the Guodian Luncong 1 we find [[春秋]] for historiography contrasting with [[古今之事]].
 ## Modern Chinese Criteria
 歷史
 陳跡

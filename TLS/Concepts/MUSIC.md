@@ -8,11 +8,11 @@ och: 樂
 ART USING SOUNDS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for music, including dance, is yuè 樂.
-2. Yīn 音 "tone, tones" is sometimes used by poetic extension to refer generally to music.
-3. Shēng 聲 "sound" is sometimes used to refer specifically to folkways of music.
-4. Qǔ 曲 refers to a piece of folk poetry set to music, but the word is also sometimes used in a generalised sense to refer to a tune as such. See SONG.
-5. Fēng 風 refers to folk tunes, typically associated with folk poetry.
+1. The current general term for music, including dance, is yuè [[樂]].
+2. Yīn [[音]] "tone, tones" is sometimes used by poetic extension to refer generally to music.
+3. Shēng [[聲]] "sound" is sometimes used to refer specifically to folkways of music.
+4. Qǔ [[曲]] refers to a piece of folk poetry set to music, but the word is also sometimes used in a generalised sense to refer to a tune as such. See SONG.
+5. Fēng [[風]] refers to folk tunes, typically associated with folk poetry.
 ## 
 HUANG JINGUI 2006
 ART 2.

@@ -14,7 +14,7 @@ zh: 兒子
 MALE CHILD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current way of referring to a son is by the word zǐ 子 "child" which regularly denotes a son. See CHILD.
+1. The current way of referring to a son is by the word zǐ [[子]] "child" which regularly denotes a son. See CHILD.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 18.

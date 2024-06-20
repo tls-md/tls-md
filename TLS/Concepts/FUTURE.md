@@ -8,13 +8,13 @@ och: 來
 TIME PERIOD LATE IN-RELATION-TO NOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the immediate future is jiāng 將 (ant. yǐ 已 "already") which refers freely to any part of the future, distant or imminent.
-2. Qiě 且 (ant. jì 既 "already") refers to immiment and immediate future. See SOON.
-3. Yù 欲 comes to be used as a neutral indicator of the likely future so that we are not likely to find bì yù 必欲 ever coming to mean "will surely, will necessarily".
-4. Yǐ 以 "in order to" is restricted to subordinate clauses and refers specifically to the intended future.
-5. The most current and general word for the nominalised notion of the future is probably lái 來 (ant. wǎng 往 "the past").
-6. Hòu 後 (ant. qíán 前 "earlier times") often refers to what comes afterwards, the future.
-7. Wèi 未 "not yet" is sometimes -very rarely- used as a noun to refer to the future. NB: yǐ 已 is never used as an antonym.
+1. The current general word for the immediate future is jiāng [[將]] (ant. yǐ [[已]] "already") which refers freely to any part of the future, distant or imminent.
+2. Qiě [[且]] (ant. jì [[既]] "already") refers to immiment and immediate future. See SOON.
+3. Yù [[欲]] comes to be used as a neutral indicator of the likely future so that we are not likely to find bì yù [[必欲]] ever coming to mean "will surely, will necessarily".
+4. Yǐ [[以]] "in order to" is restricted to subordinate clauses and refers specifically to the intended future.
+5. The most current and general word for the nominalised notion of the future is probably lái [[來]] (ant. wǎng [[往]] "the past").
+6. Hòu [[後]] (ant. qíán [[前]] "earlier times") often refers to what comes afterwards, the future.
+7. Wèi [[未]] "not yet" is sometimes -very rarely- used as a noun to refer to the future. NB: yǐ [[已]] is never used as an antonym.
 ## Modern Chinese Criteria
 即將
 行將

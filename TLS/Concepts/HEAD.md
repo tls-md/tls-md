@@ -15,10 +15,10 @@ och: 首
 LIMB CONTAINING EYES, NOSE AND MOUTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for the head is shǒu 首.
-2. Tóu 頭 is probably a dialect word meaning "head" and in any case the word seems to have a colloquial flavour.
-3. Yuán 元 is already archaic by Warring States times.
-NB: Lú 顱 is the standard word for the skull, and perhaps marginal to this group. See SKULL
+1. The standard word for the head is shǒu [[首]].
+2. Tóu [[頭]] is probably a dialect word meaning "head" and in any case the word seems to have a colloquial flavour.
+3. Yuán [[元]] is already archaic by Warring States times.
+NB: Lú [[顱]] is the standard word for the skull, and perhaps marginal to this group. See SKULL
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 30. 人頭。

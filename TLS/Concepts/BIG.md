@@ -47,17 +47,17 @@ OF INTENSE SIZE OR DEGREE IN-RELATION-TO a STANDARD, OR IN-RELATION-TO the SIZE 
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
 [HORIZONTAL/VERTICAL]
-1. The general word is dà 大 (ant. xiǎo 小 "small").
+1. The general word is dà [[大]] (ant. xiǎo [[小]] "small").
 [GENERAL]; [[COMMON]]
-2. Jù 巨 "huge" (ant. xì 細 "slight") indicates a higher degree of size.
+2. Jù [[巨]] "huge" (ant. xì [[細]] "slight") indicates a higher degree of size.
 [HIGH-DEGREE+], [LITERAL], [VERTICAL]
-3. Kuí 魁 and páng 龐 (ant. wēi 微 "small and slight"), both rare, add to the notion of vertical size that of impressiveness.
+3. Kuí [[魁]] and páng [[龐]] (ant. wēi [[微]] "small and slight"), both rare, add to the notion of vertical size that of impressiveness.
 [+FIG], [HIGH-DEGREE], [VERTICAL]; [[RARE]]
-4. Hóng 洪 refers to the size of water masses, and the word is often used in metaphorical senses.
+4. Hóng [[洪]] refers to the size of water masses, and the word is often used in metaphorical senses.
 [ELEVATED], [+FIG], [HORIZONTAL]
-5. Hào 昊 refers to the vastness of the sky, as a poetic elevated epithet (sometimes perhaps confused by scribes with 旻 ).
+5. Hào [[昊]] refers to the vastness of the sky, as a poetic elevated epithet (sometimes perhaps confused by scribes with [[旻]] ).
 [ARCHAIC], [ELEVATED], [+FIG], [HORIZONTAL]
-6. Jù 巨 "huge" (ant. xì 細 "slight") indicates a very high degree of size.
+6. Jù [[巨]] "huge" (ant. xì [[細]] "slight") indicates a very high degree of size.
 ## Modern Chinese Criteria
 大
 巨

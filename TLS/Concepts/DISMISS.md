@@ -21,11 +21,11 @@ zh: 免職
 STOP EMPLOYING someone in a JOB.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard bureaucratic general term for dismissal from office is miǎn 免.
-2. Yǐ 已 is a polite periphrastic word for dismissal.
-3. Fèi 廢 refers informally to dismissal from office.
-4. Bà 罷 is a Han dynasty administrative term for dismissal.
-5. Chì 斥 refers to dismissal followed by banishment. See BANISH
+1. The standard bureaucratic general term for dismissal from office is miǎn [[免]].
+2. Yǐ [[已]] is a polite periphrastic word for dismissal.
+3. Fèi [[廢]] refers informally to dismissal from office.
+4. Bà [[罷]] is a Han dynasty administrative term for dismissal.
+5. Chì [[斥]] refers to dismissal followed by banishment. See BANISH
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 28.

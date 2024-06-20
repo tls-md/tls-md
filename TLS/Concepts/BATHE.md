@@ -19,15 +19,15 @@ WASH one's BODY OR PARTS of one's BODY.
 [FORMAL/INFORMAL]
 [GENERAL/SPECIFIC]
 [GENERAL-USE/TECHNICAL-TERM]
-1. The standard general word is yù 浴 and refers typically to taking a bath or washing of the whole body. The still more general word, which may even apply to washing things other than the body, is zhuó 濯.
+1. The standard general word is yù [[浴]] and refers typically to taking a bath or washing of the whole body. The still more general word, which may even apply to washing things other than the body, is zhuó [[濯]].
 [GENERAL], [GENERAL-USE]; [[COMMON]]
-2. Tāng 湯 emphasises the use of warm water, and standardly co-occurs with mù 沐 "wash one's body including one's hair", probably because the use of hot water was largely restricted to the washing of hair. Perhaps one should often interpret tāng 湯 adverbially as "with hot water" in this idiomatic connection.
+2. Tāng [[湯]] emphasises the use of warm water, and standardly co-occurs with mù [[沐]] "wash one's body including one's hair", probably because the use of hot water was largely restricted to the washing of hair. Perhaps one should often interpret tāng [[湯]] adverbially as "with hot water" in this idiomatic connection.
 [GENERAL-USE], [SPECIFIC]
-3. Guàn 盥 is to wash one's hands, often in a ritual context.
+3. Guàn [[盥]] is to wash one's hands, often in a ritual context.
 [FORMAL], [TECHNICAL-TERM]
-4. Zǎo 澡 "washing one's hands" is a specialised term which is sometimes used in wider senses.
+4. Zǎo [[澡]] "washing one's hands" is a specialised term which is sometimes used in wider senses.
 [GENERAL-USE]
-5. Xǐ 洗 "wash one's feet" but the word is is sometimes used in a more generalised way, being especially common in the context of ritualised formal bathing, as well as in the context of ritual washing of cups. See WASH
+5. Xǐ [[洗]] "wash one's feet" but the word is is sometimes used in a more generalised way, being especially common in the context of ritualised formal bathing, as well as in the context of ritual washing of cups. See WASH
 [FORMAL]; [[RARE]]
 ## Modern Chinese Criteria
 洗澡

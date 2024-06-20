@@ -22,11 +22,11 @@ och: 記
 WRITE so as to TRANSMIT TO FUTURE GENERATIONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for noting something down so as to prevent it from being forgotten is jì 記.
-2. Zhì 志 as well as the late and rare lù 錄 refer to making a record of something for the inspiration of others.
-3. Zǎi 載 is a rare word and refers to making a due formal, sometimes even ritual record of something in the proper literary place.
-4. Jǔ 舉 refers to not omitting something from the record and bringing it up there as one should.
-5. Jì 紀 is sometimes used interchangeably with jì 記, but the specific force of jì 紀 is to focus not just on recording but on the compilation and redaction of a comprehensive record.
+1. The most current general word for noting something down so as to prevent it from being forgotten is jì [[記]].
+2. Zhì [[志]] as well as the late and rare lù [[錄]] refer to making a record of something for the inspiration of others.
+3. Zǎi [[載]] is a rare word and refers to making a due formal, sometimes even ritual record of something in the proper literary place.
+4. Jǔ [[舉]] refers to not omitting something from the record and bringing it up there as one should.
+5. Jì [[紀]] is sometimes used interchangeably with jì [[記]], but the specific force of jì [[紀]] is to focus not just on recording but on the compilation and redaction of a comprehensive record.
 ## 
 HUANG JINGUI 2006
 EDUCATION 9.

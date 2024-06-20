@@ -7,8 +7,8 @@ zh: 一個
 MOST SMALL NUMBER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for one is yī 一.
-2. Yī 壹 is primarily "to be concentrated", and the word is only rarely used for the adjectivally used number one, or nominally to refer to one thing. The convention of using yī 壹 as a complex way of writing a number is late, certainly post-Han.
+1. The general word for one is yī [[一]].
+2. Yī [[壹]] is primarily "to be concentrated", and the word is only rarely used for the adjectivally used number one, or nominally to refer to one thing. The convention of using yī [[壹]] as a complex way of writing a number is late, certainly post-Han.
 ## Modern Chinese Criteria
 一個
 # Ontology

@@ -7,10 +7,10 @@ zh: 車箱
 The VEHICLE PART which serves as container for what is being transported in vehicles, and its constituent parts.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the compartment in which persons or goods are transported is yú 輿, but the word can also refer specifically to that part of the carriage in which persons are transported.
-2. Xiāng 箱 is the general word for the box in which goods are placed on a carriage.
-3. Shì 軾 refers specifically to the board at the front of a carriage box on which one may lean and across which one will bow politely.
-4. Zhěn 軫 refers to the back bord on carriage box in a carriage.
+1. The general word for the compartment in which persons or goods are transported is yú [[輿]], but the word can also refer specifically to that part of the carriage in which persons are transported.
+2. Xiāng [[箱]] is the general word for the box in which goods are placed on a carriage.
+3. Shì [[軾]] refers specifically to the board at the front of a carriage box on which one may lean and across which one will bow politely.
+4. Zhěn [[軫]] refers to the back bord on carriage box in a carriage.
 ## 
 HUANG JINGUI 2006
 COMM 12.

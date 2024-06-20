@@ -10,7 +10,7 @@ zh: 回還
 WALK IN OPPOSITE DIRECTION one was WALKING, TYPICALLY INTENDing to RETURN. 
 # Criteria and general notes
 ## Old Chinese Criteria
-The standard word for changing direction and turning to one side is huán 還. 馬還 "the horses turn round" contrasts with tuì 退 "withdraw" in that there is no focus on the turning round in tui 退, and no ultimate aim of the withdrawal is envisaged.
+The standard word for changing direction and turning to one side is huán [[還]]. [[馬還]] "the horses turn round" contrasts with tuì [[退]] "withdraw" in that there is no focus on the turning round in tui [[退]], and no ultimate aim of the withdrawal is envisaged.
 [THIS NEEDS CAREFUL ANALYSIS AND REVISION]
 ## Modern Chinese Criteria
 退還

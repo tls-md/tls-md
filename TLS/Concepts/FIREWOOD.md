@@ -8,10 +8,10 @@ och: 薪
 SMALL TIMBER USED FOR BURNING IN STOVES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for firewood is xīn 薪 and specifically the word refers to thick branches that can perhaps be used for making logs.
-2. Ráo 蕘 refers to hey and straw used for burning.
-3. Qiáo 樵 refers to largish branches cut up and used for firewood.
-4. Chái 柴 refers to firewood, specifically cut into smaller pieces than xīn 薪, and the word came to the current general word.
+1. The current general word for firewood is xīn [[薪]] and specifically the word refers to thick branches that can perhaps be used for making logs.
+2. Ráo [[蕘]] refers to hey and straw used for burning.
+3. Qiáo [[樵]] refers to largish branches cut up and used for firewood.
+4. Chái [[柴]] refers to firewood, specifically cut into smaller pieces than xīn [[薪]], and the word came to the current general word.
 ## Modern Chinese Criteria
 木柴
 柴火

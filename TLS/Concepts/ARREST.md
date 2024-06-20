@@ -22,21 +22,21 @@ CATCH and in so doing OBEY a COMMAND of a GOVERNMENT, a LAW, OR a SUPERIOR
 [GENERAL/SPECIFIC]
 [INFORMAL/OFFICIAL]
 [LASTING/TRANSITORY]
-1. The current general word for arresting someone or apprehending him for any reason whatever is zhí 執 (ant. shì 釋 "set free"), but this term typically has a rather bureaucratic flavour.
+1. The current general word for arresting someone or apprehending him for any reason whatever is zhí [[執]] (ant. shì [[釋]] "set free"), but this term typically has a rather bureaucratic flavour.
 [CIVIL], [OFFICIAL]
-2. Qín 擒 (ant zòng 縱 "let loose") refers in somewhat dramatic terms to managing to apprehend a person who might be trying to escape, often to taking a distinguished prisoner in military contexts.
+2. Qín [[擒]] (ant zòng [[縱]] "let loose") refers in somewhat dramatic terms to managing to apprehend a person who might be trying to escape, often to taking a distinguished prisoner in military contexts.
 [DRAMATIC]
-3. Bǔ 捕 refers specifically to catching a criminal, sometimes to the catching of a common criminal. See also CATCH.
+3. Bǔ [[捕]] refers specifically to catching a criminal, sometimes to the catching of a common criminal. See also CATCH.
 [CIVIL], [OFFICIAL]
-4. Huò 獲 typically refers to managing to capture a person who is trying to escape or who is difficult to catch.
+4. Huò [[獲]] typically refers to managing to capture a person who is trying to escape or who is difficult to catch.
 [DIFFICULT], [DRAMATIC]
-5. Fú 俘 and lǔ 虜 refer bureaucratically and neutrally to taking prisoners of war.
+5. Fú [[俘]] and lǔ [[虜]] refer bureaucratically and neutrally to taking prisoners of war.
 [LASTING], [MILITARY]
-6. Qiú 囚 (ant. shì 釋 "set free") refers specifically to detaining and imprisoning a person in a public prison.
+6. Qiú [[囚]] (ant. shì [[釋]] "set free") refers specifically to detaining and imprisoning a person in a public prison.
 [LASTING], [OFFICIAL], [SPECIFIC]
-7. Jū 拘 is occasionally used as a bureaucratic term for holding someone legal detention.
+7. Jū [[拘]] is occasionally used as a bureaucratic term for holding someone legal detention.
 [CIVIL], [LASTING], [OFFICIAL]
-8. Dài 逮 refers specifically to the official apprehending or arresting of a presumed culprit.
+8. Dài [[逮]] refers specifically to the official apprehending or arresting of a presumed culprit.
 [CIVIL], [OFFICIAL]
 ## Modern Chinese Criteria
 逮捕 is the current modern word for arresting a person.

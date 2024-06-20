@@ -27,10 +27,10 @@ och: 非
 SPEAK:say OR BELIEVE that what someone SPEAK:says OR BELIEVES is NOT TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for entertaining an attitude of dissent is fēi 非 "consider as wrong" (ant. shì 是 "agree").
-2. Yì 異 (ant. tóng 同 "agree") refers to the holding of an alternative opinion.
-3. Yì 議 (ant. yī 一 "make no objections") is to put forward a dissenting opinion in public discussion.
-4. Zhēng 爭 (ant. dìng 定 "confirm and not contest") refers to contending a conflicting point of view in a combative intellectual or rhetorical way.
+1. The current general word for entertaining an attitude of dissent is fēi [[非]] "consider as wrong" (ant. shì [[是]] "agree").
+2. Yì [[異]] (ant. tóng [[同]] "agree") refers to the holding of an alternative opinion.
+3. Yì [[議]] (ant. yī [[一]] "make no objections") is to put forward a dissenting opinion in public discussion.
+4. Zhēng [[爭]] (ant. dìng [[定]] "confirm and not contest") refers to contending a conflicting point of view in a combative intellectual or rhetorical way.
 ## Modern Chinese Criteria
 不同意
 爭論

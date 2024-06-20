@@ -12,8 +12,8 @@ zh: 祝賀
 ADDRESS someone who is CELEBRATING SOMETHING so as to RITUALLY COMMUNICATE one's GOOD WISHES FOR him/her at THIS TIME.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Hè 賀 (ant. diào 弔 "condolence) is a formal act of felicitation usually accompanied with the giving of presents.
-2. Qìng 慶 refers to a celebration of something regarded as felicitous, and the range of the occasions of such felicitations is somewhat broader than with hè 賀, including such things as lucky escapes and the like.
+1. Hè [[賀]] (ant. diào [[弔]] "condolence) is a formal act of felicitation usually accompanied with the giving of presents.
+2. Qìng [[慶]] refers to a celebration of something regarded as felicitous, and the range of the occasions of such felicitations is somewhat broader than with hè [[賀]], including such things as lucky escapes and the like.
 ## Modern Chinese Criteria
 祝賀 is the current modern word for congratulation.
 恭喜 is the current performative expression for "Congratulations!".

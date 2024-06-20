@@ -42,9 +42,9 @@ och: 玄
 DARK so as to be DIFFICULT to SEE, DIFFICULT to UNDERSTAND OR STRANGE to THINK of.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for mysteriousness is xuán 玄.
-2. Miào 妙 adds to the notion of mysteriousness that of intricacy and felicity of structure.
-3. Ào 奧 emphasises the recondite obscurity and supernatural links of the mysterious.
+1. The current general word for mysteriousness is xuán [[玄]].
+2. Miào [[妙]] adds to the notion of mysteriousness that of intricacy and felicity of structure.
+3. Ào [[奧]] emphasises the recondite obscurity and supernatural links of the mysterious.
 ## Modern Chinese Criteria
 玄妙
 奧妙

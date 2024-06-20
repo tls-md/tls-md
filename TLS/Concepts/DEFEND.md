@@ -18,16 +18,16 @@ zh: 保衛
 SAFEGUARD so as to CAUSE NOT TO be DEFEATED WHEN ATTACKED OR ACCUSED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for defending a community is wèi 衛 (ant. gōng 攻 "attack").
-2. The standard word for defending a place is shǒu 守 (ant. gōng 攻 "attack").
-3. Yù 禦 is to hinder attack effectively and successfully. See HINDER
-4. Fáng 防 refers to defending a concrete or abstract thing successfully.
-5. Hàn 扞 / 捍 is to try to resist an outside attack successfully.
-6. Bǎo 保 is to try to ensure the safety of one's place against a threat from outside.
-7. Shù 戍 put up a (not necessarily successful) military defense.
-8. Bèi 備 is to make defensive arrangements.
-9. Yù 豫 is to make defensive arrangements well ahead in time or in good time. [See also PREPARE][CA]
-10. Kàng 亢 typically refers to the mounting of a vigorous and energetic offensive defence against a violent attack.
+1. The standard general word for defending a community is wèi [[衛]] (ant. gōng [[攻]] "attack").
+2. The standard word for defending a place is shǒu [[守]] (ant. gōng [[攻]] "attack").
+3. Yù [[禦]] is to hinder attack effectively and successfully. See HINDER
+4. Fáng [[防]] refers to defending a concrete or abstract thing successfully.
+5. Hàn [[扞]] / [[捍]] is to try to resist an outside attack successfully.
+6. Bǎo [[保]] is to try to ensure the safety of one's place against a threat from outside.
+7. Shù [[戍]] put up a (not necessarily successful) military defense.
+8. Bèi [[備]] is to make defensive arrangements.
+9. Yù [[豫]] is to make defensive arrangements well ahead in time or in good time. [See also PREPARE][CA]
+10. Kàng [[亢]] typically refers to the mounting of a vigorous and energetic offensive defence against a violent attack.
 ## Modern Chinese Criteria
 保衛
 捍衛

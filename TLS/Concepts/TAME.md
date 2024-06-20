@@ -19,8 +19,8 @@ och: 馴
 OBEY ENDURINGLY AND NOT OFFEND one's OWNER, as an ANIMAL, so as NOT to be WILD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for tameness is xún 馴 (ant. jué 倔 "stubbornly insubordinate").
-2. Fú 服 "submit" (ant. jiàng 強 "headstrong") is sometimes used referring to animals becoming or being tame.
+1. The current word for tameness is xún [[馴]] (ant. jué [[倔]] "stubbornly insubordinate").
+2. Fú [[服]] "submit" (ant. jiàng [[強]] "headstrong") is sometimes used referring to animals becoming or being tame.
 ## Modern Chinese Criteria
 溫順
 和順

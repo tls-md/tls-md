@@ -24,14 +24,14 @@ och: 明
 FEATURE of ISSUING:giving out INTENSE LIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for what appears luminous or bright in the broadest sense of these terms is míng 明 (ant. àn 暗 "dark" and yǐn 隱 "dark"), a word heavily laden with religious overtones.
-2. Liàng 亮 "bright" (ant. yōu 幽 "dark and shady"), càn 燦 and làn 爛 are primarily optical and rather prosaic terms to use.
-3. Zhāo 昭 "resplendent" (ant. míng 冥 "dark"), gěng 耿 "brilliant", hào 皓 "shining bright", yè 燁, and hè 赫 "luminous" is a highly charged ritually high-flown word that belongs to court language, often with metaphorical force.
-4. Yáng 陽 "bright" (ant. yīn 陰 "dark") is simply the opposite of dark and does not connote any high degree of luminosity.
-5. Lǎng 朗 is an elevated word used to refer to things resplendent and bright.
-6. Hào 顥 and qíng 晴 "bright" refers to the brightness of the sky.
-7. Yàn 宴／曣 refers specifically to the brightness of the sky.
-8. Guāng 光 refers generally to light or even resplendence. See LIGHT
+1. The general term for what appears luminous or bright in the broadest sense of these terms is míng [[明]] (ant. àn [[暗]] "dark" and yǐn [[隱]] "dark"), a word heavily laden with religious overtones.
+2. Liàng [[亮]] "bright" (ant. yōu [[幽]] "dark and shady"), càn [[燦]] and làn [[爛]] are primarily optical and rather prosaic terms to use.
+3. Zhāo [[昭]] "resplendent" (ant. míng [[冥]] "dark"), gěng [[耿]] "brilliant", hào [[皓]] "shining bright", yè [[燁]], and hè [[赫]] "luminous" is a highly charged ritually high-flown word that belongs to court language, often with metaphorical force.
+4. Yáng [[陽]] "bright" (ant. yīn [[陰]] "dark") is simply the opposite of dark and does not connote any high degree of luminosity.
+5. Lǎng [[朗]] is an elevated word used to refer to things resplendent and bright.
+6. Hào [[顥]] and qíng [[晴]] "bright" refers to the brightness of the sky.
+7. Yàn [[宴]]／[[曣]] refers specifically to the brightness of the sky.
+8. Guāng [[光]] refers generally to light or even resplendence. See LIGHT
 For causative uses see ILLUMINATE.
 For figurative uses see ILLUSTRIOUS
 ## Modern Chinese Criteria

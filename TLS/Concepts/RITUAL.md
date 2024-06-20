@@ -42,8 +42,8 @@ och: 禮
 TYPICALLY COMPLEX SHOULD:obligatory PUBLIC CUSTOM.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for everything relating to the system of ritual propriety is lǐ 禮. The term refers concretely to ritual ceremonies, to ritual decorum more generally, then specifically to adherence to explicitly prescribed ritual procedure, and then also informally to any ritual propriety in social behaviour
-2. Yí 儀 refers to prescribed concrete ritual procedures, as typically described in Yí lǐ 儀禮.
+1. The current general term for everything relating to the system of ritual propriety is lǐ [[禮]]. The term refers concretely to ritual ceremonies, to ritual decorum more generally, then specifically to adherence to explicitly prescribed ritual procedure, and then also informally to any ritual propriety in social behaviour
+2. Yí [[儀]] refers to prescribed concrete ritual procedures, as typically described in Yí lǐ [[儀禮]].
 ## Modern Chinese Criteria
 禮儀
 儀式

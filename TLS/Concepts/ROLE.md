@@ -21,7 +21,7 @@ zh: 角色
 DEFINED METHOD of ACTING one MUST USE in a SOCIETY.
 # Criteria and general notes
 ## Old Chinese Criteria
-所 in 各有其所 comes close to meaning "role", "function in life".
+[[所]] in [[各有其所]] comes close to meaning "role", "function in life".
 # Ontology
 
 ## Hypernym

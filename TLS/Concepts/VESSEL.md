@@ -19,9 +19,9 @@ zh: 器具
 HARD CONTAINER USED FOR PUTTING SUBSTANCES INTO it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for vessels of any kind is qì 器.
-2. Jù 具 refers primarily to containers for food, but by extension the word can refer to any container.
-3. Mǐng 皿 refers to a large container for food ready for consumption.
+1. The general word for vessels of any kind is qì [[器]].
+2. Jù [[具]] refers primarily to containers for food, but by extension the word can refer to any container.
+3. Mǐng [[皿]] refers to a large container for food ready for consumption.
 ## 
 HUANG JINGUI 2006
 FOOD 14.

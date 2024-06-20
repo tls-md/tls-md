@@ -20,13 +20,13 @@ och: 山
 INTENSELY HIGH PART of a LANDSCAPE, TYPICALLY WITH STEEP SIDES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a mountain of any kind, large or small, is shān 山.
-2. Yuè 岳／嶽 refers is a positive way to one of the great mountains of China, and the word typically functions as the head word in a noun phrase, as in 五岳. (Note that obviously in proper names and designations of titles (e.g. the title sì yuè 四岳 ) the two characters are not interchangeable.)
-3. Fù 阜 refers to a large non-rocky mountain with an elevated plain on top.
-4. Ā 阿 refers to a very large non-rocky mountan with an elevated plain on top.
-5. Qiū 丘 refers to a small non-rocky earth mound.
-6. Yuán 原 can refer to the highlands and is marginal in this group.
-7. Lǐng 嶺, later sometimes written 領, is not a post-Han word, as many dictionaries might lead one to suppose, but the word is very rare in pre-Han times. The word refers to mountains as forming a series, often connoting a road along the ridge.
+1. The general term for a mountain of any kind, large or small, is shān [[山]].
+2. Yuè [[岳]]／[[嶽]] refers is a positive way to one of the great mountains of China, and the word typically functions as the head word in a noun phrase, as in [[五岳]]. (Note that obviously in proper names and designations of titles (e.g. the title sì yuè [[四岳]] ) the two characters are not interchangeable.)
+3. Fù [[阜]] refers to a large non-rocky mountain with an elevated plain on top.
+4. Ā [[阿]] refers to a very large non-rocky mountan with an elevated plain on top.
+5. Qiū [[丘]] refers to a small non-rocky earth mound.
+6. Yuán [[原]] can refer to the highlands and is marginal in this group.
+7. Lǐng [[嶺]], later sometimes written [[領]], is not a post-Han word, as many dictionaries might lead one to suppose, but the word is very rare in pre-Han times. The word refers to mountains as forming a series, often connoting a road along the ridge.
 ## 
 HUANG JINGUI 2006
 GEOGRAPHY 6. 地面上由土石構成的隆起部分。

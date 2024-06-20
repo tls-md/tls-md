@@ -11,9 +11,9 @@ zh: 萌芽
 INTENSELY YOUNG STEM OR BRANCH of a PLANT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common general word for the young sprouts of a tree is méng 萌, and this word is also current in verbal as well as transferred senses.
-2. Yá 芽 refers to sprouts, typically of smaller plants like flowers or shrubs.
-3. Niè 櫱／蘗／孽 refers to new twigs, especially those emerging from a tree that has been cut down, and the word comes to take on negative transferred senses like "illegitimate offspring".
+1. The most common general word for the young sprouts of a tree is méng [[萌]], and this word is also current in verbal as well as transferred senses.
+2. Yá [[芽]] refers to sprouts, typically of smaller plants like flowers or shrubs.
+3. Niè [[櫱]]／[[蘗]]／[[孽]] refers to new twigs, especially those emerging from a tree that has been cut down, and the word comes to take on negative transferred senses like "illegitimate offspring".
 ## Modern Chinese Criteria
 萌芽
 胚芽

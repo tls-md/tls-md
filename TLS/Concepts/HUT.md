@@ -17,8 +17,8 @@ zh: 平房
 SMALL DWELLING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a hut is lú 廬.
-2. Máo wū 茅屋 "thatched cottage" describes a typical countryside dwelling.
+1. The general word for a hut is lú [[廬]].
+2. Máo wū [[茅屋]] "thatched cottage" describes a typical countryside dwelling.
 ## Modern Chinese Criteria
 庵
 草堂

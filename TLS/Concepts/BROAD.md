@@ -16,11 +16,11 @@ zh: 廣博
 BIG in the MORE SMALL HORIZONTAL DIRECTION:dimension.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word is guǎng 廣 (ant. xiá 狹 "narrow") referring to anything of get spatial extension, also in various metaphorical senses.
-2. Bó 博 (ant. yuē 約 "confined") is primarily metaphorical in application, and its concrete senses applied to physical objects are derived senses of the word only.
-3. Kuàng 曠 adds to the feature of broadness and wide space that of emptiness.
-4. Kuò 闊 (ant. xiá 狹 "narrow") adds to the concept of broadness of spatial extent that of remote distance, and the word was late to enter the pre-Buddhist language.
-5. Kuān 寬 (ant. zhǎi 窄 "narrow") is recorded as meaning "broad" in SHUOWEN and is so used in HOUHANSHU, but the word was predominantly used in metaphorical senses like "broad-minded, forgiving, not strict", and related to huì 惠 "generous".
+1. The standard general word is guǎng [[廣]] (ant. xiá [[狹]] "narrow") referring to anything of get spatial extension, also in various metaphorical senses.
+2. Bó [[博]] (ant. yuē [[約]] "confined") is primarily metaphorical in application, and its concrete senses applied to physical objects are derived senses of the word only.
+3. Kuàng [[曠]] adds to the feature of broadness and wide space that of emptiness.
+4. Kuò [[闊]] (ant. xiá [[狹]] "narrow") adds to the concept of broadness of spatial extent that of remote distance, and the word was late to enter the pre-Buddhist language.
+5. Kuān [[寬]] (ant. zhǎi [[窄]] "narrow") is recorded as meaning "broad" in SHUOWEN and is so used in HOUHANSHU, but the word was predominantly used in metaphorical senses like "broad-minded, forgiving, not strict", and related to huì [[惠]] "generous".
 ## Modern Chinese Criteria
 廣闊
 廣博

@@ -18,10 +18,10 @@ zh: 開車
 DISPLACE A VEHICLE so that it MOVES AS IT IS INTENDED TO MOVE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Yù 御 refers to the driving and steering of a carriage.
-2. Chéng 乘 is simply to ride in a conveyance without necessarily steering it.
-3. Jià 駕 is to get the horses and/or a conveyance ready for driving, or to order this to be done, and then by extension the going to a place by a conveyance.
-4. Qū 驅 is to drive a conveyance at high speed, or to have it driven for one at high speed.
+1. Yù [[御]] refers to the driving and steering of a carriage.
+2. Chéng [[乘]] is simply to ride in a conveyance without necessarily steering it.
+3. Jià [[駕]] is to get the horses and/or a conveyance ready for driving, or to order this to be done, and then by extension the going to a place by a conveyance.
+4. Qū [[驅]] is to drive a conveyance at high speed, or to have it driven for one at high speed.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 47. DRIVER

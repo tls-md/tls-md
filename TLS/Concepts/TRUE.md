@@ -36,15 +36,15 @@ EXIST CONFORMing to SPEAK(what is claimed). (BE AS SAID(asserted))
 BE AS SAID(descrbed/stated)
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current word is rán 然 "it is so" (ant. fǒu 否 "be untrue"), and what is said to be so is a yán 言 "statement', and things are claimed to be as stated in that statement.
-2. Kě 可 refers to logical or ethical acceptability.
-3. Xìn 信 (ant. zhà 詐 "fraudulent and not reliable") refers prototypically to reliablity as information.
-4. Shì 是 (ant. fēi 非 "wrong") refers prototypically to what invites assent or approval.
-5. Zhēn 真 (ant. jiǎ 假 "fake") typically refers to what contains nothing faked or unreal and is genuinely true.
-6. Dāng 當 (ant. guò 過 "wrong") refers prototypically to what fits the facts and does not deviate.
-7. Yǒu 有 (ant. wú 無 "there is no such fact")refers abstractly to the occurrence of an event or the truth of an abstract proposition.
-8. Chéng 誠 (ant. wěi 偽 "faked") refers to honest truth. (Note that chéng 誠 normally means "earnest" in early texts and has nothing to do with this meaning.)
-9. Shí 實 "real and true" (ant. xū 虛 "only apparently") refers to something not being a figment of the imagination. See REAL.
+1. The most current word is rán [[然]] "it is so" (ant. fǒu [[否]] "be untrue"), and what is said to be so is a yán [[言]] "statement', and things are claimed to be as stated in that statement.
+2. Kě [[可]] refers to logical or ethical acceptability.
+3. Xìn [[信]] (ant. zhà [[詐]] "fraudulent and not reliable") refers prototypically to reliablity as information.
+4. Shì [[是]] (ant. fēi [[非]] "wrong") refers prototypically to what invites assent or approval.
+5. Zhēn [[真]] (ant. jiǎ [[假]] "fake") typically refers to what contains nothing faked or unreal and is genuinely true.
+6. Dāng [[當]] (ant. guò [[過]] "wrong") refers prototypically to what fits the facts and does not deviate.
+7. Yǒu [[有]] (ant. wú [[無]] "there is no such fact")refers abstractly to the occurrence of an event or the truth of an abstract proposition.
+8. Chéng [[誠]] (ant. wěi [[偽]] "faked") refers to honest truth. (Note that chéng [[誠]] normally means "earnest" in early texts and has nothing to do with this meaning.)
+9. Shí [[實]] "real and true" (ant. xū [[虛]] "only apparently") refers to something not being a figment of the imagination. See REAL.
 ## Modern Chinese Criteria
 實在
 委實

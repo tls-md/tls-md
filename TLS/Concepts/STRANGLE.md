@@ -11,9 +11,9 @@ zh: 絞殺
 KILL someone by BLOCKING BREATHING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Jiǎo 絞 refers to the act of strangling someone else.
-2. Yì 縊 refers to strangling oneself. See SUICIDE.
-3. Jīng 經 refers to strangling oneself by hanging oneself.
+1. Jiǎo [[絞]] refers to the act of strangling someone else.
+2. Yì [[縊]] refers to strangling oneself. See SUICIDE.
+3. Jīng [[經]] refers to strangling oneself by hanging oneself.
 ## Modern Chinese Criteria
 絞決
 繯首

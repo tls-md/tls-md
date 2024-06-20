@@ -17,9 +17,9 @@ labels:
 DEFECATE so as to CAUSE the BLADDER TO BECOME EMPTY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard neutral term for urination is niào 尿／溺.
-2. Sī 私 is polite and periphrastic for (apparently predominantly male) urination.
-3. Xiǔ 滫 is a rare word for urination the semantic nuance of which is not easy to ascertain.
+1. The standard neutral term for urination is niào [[尿]]／[[溺]].
+2. Sī [[私]] is polite and periphrastic for (apparently predominantly male) urination.
+3. Xiǔ [[滫]] is a rare word for urination the semantic nuance of which is not easy to ascertain.
 ## 
 HUANG JINGUI 2006
 BODY 14. 泌尿系統疾病。

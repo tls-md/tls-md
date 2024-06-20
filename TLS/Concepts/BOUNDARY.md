@@ -15,18 +15,18 @@ LIMIT which DIVIDES something into the INSIDE and OUTSIDE.
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
 [AREA/LINE]
-1. Jiè 界 is perhaps the most general word for any border or boundary of any kind, current especially from Han times onwards, but the border thus designated is typically demarkated by some signs or symbols.
+1. Jiè [[界]] is perhaps the most general word for any border or boundary of any kind, current especially from Han times onwards, but the border thus designated is typically demarkated by some signs or symbols.
 [GENERAL]
-2. Jìng 境 is the technical general term for a border or borderline between states.
+2. Jìng [[境]] is the technical general term for a border or borderline between states.
 [LINE], [SPECIFIC]
-3. Fēng 封 is an ancient word referring prototypically to a demarkated border betweem territories marked by raised mounds planted with trees, and with a prototypical link to borders established by feudal enfeofment..
+3. Fēng [[封]] is an ancient word referring prototypically to a demarkated border betweem territories marked by raised mounds planted with trees, and with a prototypical link to borders established by feudal enfeofment..
 [LINE], [SPECIFIC]
-4. Biān 邊 refers to a border area as viewed from the angle of what is within this border. See BORDER AREA
+4. Biān [[邊]] refers to a border area as viewed from the angle of what is within this border. See BORDER AREA
 [AREA],
-5. Lè 略 is sometimes used to refer to the borders between territories or states in ZUO.
+5. Lè [[略]] is sometimes used to refer to the borders between territories or states in ZUO.
 [ARCHAIC], [LINE]; [[RARE]]
-6. Fēng jiāng 封疆 refers in an abstract or bureaucratic way to all manner of boundaries.
-7. Xiàn 限 is an elevated very rare term for a delimitation regarded as something set deliberately rather than naturally or historically given. Compare also LIMIT
+6. Fēng jiāng [[封疆]] refers in an abstract or bureaucratic way to all manner of boundaries.
+7. Xiàn [[限]] is an elevated very rare term for a delimitation regarded as something set deliberately rather than naturally or historically given. Compare also LIMIT
 [ELEVATED], [+FIG]; [[RARE]]
 ## 
 HUANG JINGUI 2006

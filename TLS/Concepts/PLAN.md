@@ -28,18 +28,18 @@ THINK ABOUT A COMPLEX ENDURING INTEND:intention
 ## Old Chinese Criteria
 1. The current general word for a planning process involving consultation among
                 several people, and taking into account all aspects of a long term strategy for an
-                individual or a state is móu 謀.
-2. Lu �慮 refers to a careful personal planning effort based on serious
+                individual or a state is móu [[謀]].
+2. Lu �[[慮]] refers to a careful personal planning effort based on serious
                 reflection.
-3. Tú 圖 suggests that the person who plans has the formal authority to take a
+3. Tú [[圖]] suggests that the person who plans has the formal authority to take a
                 decision.
-4. Jì 計 refers to planning involving calculations of relative advantages and
+4. Jì [[計]] refers to planning involving calculations of relative advantages and
                 disadvantages, and the planning typically or primarily concerns the actions of an
                 individual.
-5. Guī 規 suggests that the planning is in order to ensure an orderly progress of
+5. Guī [[規]] suggests that the planning is in order to ensure an orderly progress of
                 things.
-6. Huà 畫 refers to an elaborated strategy that is fairly well-defined.
-7. Xīn 心 refers to a secret motivation or ultimate design, an aim in planning. See
+6. Huà [[畫]] refers to an elaborated strategy that is fairly well-defined.
+7. Xīn [[心]] refers to a secret motivation or ultimate design, an aim in planning. See
                 INTENTION
 ## Modern Chinese Criteria
 規劃

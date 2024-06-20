@@ -16,10 +16,10 @@ och: 懷
 NATURAL REACTION IN one's MIND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for emotional states and feelings as well as attitudes is xīn 心.
-2. Qíng 情 refers specifically to one's real inner state, and one's basic essential feelings, one's essential emotional repertoire, also: one's instincts as opposed to one's aspirations mediated by reflection. [NB: We have no "love is a 情 " in classical Chinese, and neither do we have anything like "love is a 心 ".]
-3. Huái 懷 refers to a current emotional state or intensely felt attitude of any kind.
-4. Duān 端 is a philosophical term referring to a specific basic moral and emotional sensibility or instinct.
+1. The current general word for emotional states and feelings as well as attitudes is xīn [[心]].
+2. Qíng [[情]] refers specifically to one's real inner state, and one's basic essential feelings, one's essential emotional repertoire, also: one's instincts as opposed to one's aspirations mediated by reflection. [NB: We have no "love is a [[情]] " in classical Chinese, and neither do we have anything like "love is a [[心]] ".]
+3. Huái [[懷]] refers to a current emotional state or intensely felt attitude of any kind.
+4. Duān [[端]] is a philosophical term referring to a specific basic moral and emotional sensibility or instinct.
 See also FEEL
 ## Modern Chinese Criteria
 感情 is the general abstract word for emotions.

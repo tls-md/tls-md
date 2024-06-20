@@ -20,12 +20,12 @@ zh: 合併
 CAUSE things to MOVE OR BECOME TOGETHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for combining or linking things, or joining a new unit into an old one is jiān 兼 (ant. fēn 分 "be divided").
-2. Hé 合 (ant. lí 離 "get separated off") is the combining of typically abstract items into a single whole.
-3. Lián 聯 and the Han equivalent lián 連 (all ant. jué 絕 "break relations with") refer to the establishing of links without the creation of a new unity.
-4. Huì 會 refers to the combination of separate units into a whole as in huì yì 會意 "complex characters where semantically significant elements retain their graphic significance".
-5 Bìng 並 refers to the lining things up and joining them together. See ANNEX.
-6. Zhuān 專 is occasionally used to refer to the combining or uniting of things. See CONCENTRATE
+1. The current general word for combining or linking things, or joining a new unit into an old one is jiān [[兼]] (ant. fēn [[分]] "be divided").
+2. Hé [[合]] (ant. lí [[離]] "get separated off") is the combining of typically abstract items into a single whole.
+3. Lián [[聯]] and the Han equivalent lián [[連]] (all ant. jué [[絕]] "break relations with") refer to the establishing of links without the creation of a new unity.
+4. Huì [[會]] refers to the combination of separate units into a whole as in huì yì [[會意]] "complex characters where semantically significant elements retain their graphic significance".
+5 Bìng [[並]] refers to the lining things up and joining them together. See ANNEX.
+6. Zhuān [[專]] is occasionally used to refer to the combining or uniting of things. See CONCENTRATE
 ## Modern Chinese Criteria
 合併
 并

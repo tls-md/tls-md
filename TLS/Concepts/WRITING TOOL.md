@@ -8,9 +8,9 @@ och: 筆
 TOOL USED FOR WRITING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word is bǐ 筆. This is often produced with wolves' hair and with hare's hair. See BRUSH.
-2. Háo 毫 is a late poetic word that can be used to refer to a brush.
-3. Xué 削 refers to a small knife used for erasing writing.
+1. The current general word is bǐ [[筆]]. This is often produced with wolves' hair and with hare's hair. See BRUSH.
+2. Háo [[毫]] is a late poetic word that can be used to refer to a brush.
+3. Xué [[削]] refers to a small knife used for erasing writing.
 4. Dāo
 ## Modern Chinese Criteria
 毛筆

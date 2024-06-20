@@ -16,10 +16,10 @@ och: 聲
 WHAT CAN be HEARD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant word for any sound produced by any creature or instrument is shēng 聲 and the word can come to refer specifically to the sound produced by the human voice (see VOICE), hence the word can also refer to a song with a melody and also to the tones as making up a melody. See SONG.
-2. Yīn 音 is much narrower in application, and more elevated in style, and the word typically applies to sound shaped into music or the like and often viewed as an aesthetic object. 聲成文謂之音。 "When sound makes a pattern it becomes yīn", true enough, but it does remain shēng 聲 also.
-3. Xiāo 囂 and xuān 喧 refer primarily to the din of human voices, but these words do have regular extended uses where they refer to any noisy or irritating sound.
-4. Xiǎng 響, which primarily means "echo", often comes to refer to any sound without any connotations concerning the irritating nature of the sound.
+1. The dominant word for any sound produced by any creature or instrument is shēng [[聲]] and the word can come to refer specifically to the sound produced by the human voice (see VOICE), hence the word can also refer to a song with a melody and also to the tones as making up a melody. See SONG.
+2. Yīn [[音]] is much narrower in application, and more elevated in style, and the word typically applies to sound shaped into music or the like and often viewed as an aesthetic object. [[聲成文謂之音]]。 "When sound makes a pattern it becomes yīn", true enough, but it does remain shēng [[聲]] also.
+3. Xiāo [[囂]] and xuān [[喧]] refer primarily to the din of human voices, but these words do have regular extended uses where they refer to any noisy or irritating sound.
+4. Xiǎng [[響]], which primarily means "echo", often comes to refer to any sound without any connotations concerning the irritating nature of the sound.
 ## 
 HUANG JINGUI 2006
 ART 1.

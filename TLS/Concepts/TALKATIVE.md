@@ -27,7 +27,7 @@ och: 誻
 BASIC NATURE so as to TEND to SPEAK EXCESSIVELY OFTEN AND for an EXCESSIVELY LONG TIME.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is no current word for this notion in pre-Buddhist Chinese. Tà 誻 "talkative" is the only word that comes to mind, and this is a very rare word.
+1. There is no current word for this notion in pre-Buddhist Chinese. Tà [[誻]] "talkative" is the only word that comes to mind, and this is a very rare word.
 ## Modern Chinese Criteria
 愛說話 is current modern mild way of complaining of talkativeness.
 拉不斷扯不斷 makes a stronger complaint.

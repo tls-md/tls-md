@@ -13,7 +13,7 @@ och: 渴
 NEED LIQUID to DRINK NOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word fir thirstiness is kě 渴.
+1. The dominant general word fir thirstiness is kě [[渴]].
 ## Modern Chinese Criteria
 口渴
 渴

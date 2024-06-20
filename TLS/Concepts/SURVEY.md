@@ -25,8 +25,8 @@ zh: 通觀
 LOOK at so as to INVESTIGATE MANY THINGS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Guān 觀 is to try to get a detailed careful overview of something and to survey something complex with careful analytic attention.
-2. Lǎn 覽 is to look over something (often with pleasure, and typically from a highe perspective) with careful aesthetic and analytic attention and in order to get a full survey of all there is.
+1. Guān [[觀]] is to try to get a detailed careful overview of something and to survey something complex with careful analytic attention.
+2. Lǎn [[覽]] is to look over something (often with pleasure, and typically from a highe perspective) with careful aesthetic and analytic attention and in order to get a full survey of all there is.
 ## Modern Chinese Criteria
 綜觀
 通觀

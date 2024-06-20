@@ -18,10 +18,10 @@ och: 交／接
 ACT so as to CAUSE ANOTHER TO REACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general objective word referring to mutual social interaction is jiāo 交.
-2. Jiē 接, literally "get in touch with", refers to the making contact of one agent with another.
-3. Jì 際 is the interface on which interaction occurs or does not occur.
-4. Xiāng 相 and the rare hù 互 are grammaticalised words referring to reciprocity.
+1. The general objective word referring to mutual social interaction is jiāo [[交]].
+2. Jiē [[接]], literally "get in touch with", refers to the making contact of one agent with another.
+3. Jì [[際]] is the interface on which interaction occurs or does not occur.
+4. Xiāng [[相]] and the rare hù [[互]] are grammaticalised words referring to reciprocity.
 ## Modern Chinese Criteria
 交往
 交際

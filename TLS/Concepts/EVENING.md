@@ -21,9 +21,9 @@ och: 夕
 PERIOD of DAY BEFORE one SLEEPS AND LATER:after one STOPS WORKING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the evening is xì 夕 (ant. zhāo 朝 "morning"), and the term refers to the period when the sun is declining and including the time when the sun has just gone down.
-2. Huì 晦 (ant. míng 明 "full morning, morning immediately after daybreak") and mù 暮 (ant. dàn 旦 "morning") refer to time when it is beginning to get dark. The focus is on reduced light conditions.
-3. Wǎn 晚 can refer to the evening from Han times onwards.
+1. The current general word for the evening is xì [[夕]] (ant. zhāo [[朝]] "morning"), and the term refers to the period when the sun is declining and including the time when the sun has just gone down.
+2. Huì [[晦]] (ant. míng [[明]] "full morning, morning immediately after daybreak") and mù [[暮]] (ant. dàn [[旦]] "morning") refer to time when it is beginning to get dark. The focus is on reduced light conditions.
+3. Wǎn [[晚]] can refer to the evening from Han times onwards.
 ## 
 HUANG JINGUI 2006
 ASTRONOMY 29.

@@ -19,13 +19,13 @@ och: 笛
 TIMBER OR CLAY MUSICAL INSTRUMENT RESEMBLING A TUBE which one BLOWS into FOR PRODUCING SOUND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word for a pipe is dí 笛 which is made of bamboo and has seven holes. This is what today is called xiāo 簫.
-2. Lài 籟 refers to a short pipe with three holes.
-3. Xūn 壎 refers to an egg-shaped flute with three or more holes in it.
-4. Yuè 籥 is a rare word referring to a rather primitive three-hole bamboo flute.
-5. Chí 篪 refers to a traverse flute with seven holes. This is the oldest type of traverse flute that is known.
-6. Lu �律 is a very abstract technical term for a pitch-pipe of any kind.
-7. Huáng 簧 refers to the reed used to enhance the sonority of pipes.
+1. The most common word for a pipe is dí [[笛]] which is made of bamboo and has seven holes. This is what today is called xiāo [[簫]].
+2. Lài [[籟]] refers to a short pipe with three holes.
+3. Xūn [[壎]] refers to an egg-shaped flute with three or more holes in it.
+4. Yuè [[籥]] is a rare word referring to a rather primitive three-hole bamboo flute.
+5. Chí [[篪]] refers to a traverse flute with seven holes. This is the oldest type of traverse flute that is known.
+6. Lu �[[律]] is a very abstract technical term for a pitch-pipe of any kind.
+7. Huáng [[簧]] refers to the reed used to enhance the sonority of pipes.
 ## 
 HUANG JINGUI 2006
 ART 7.

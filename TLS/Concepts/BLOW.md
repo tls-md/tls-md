@@ -15,9 +15,9 @@ BREATHE so as to CAUSE the LUNGS TO BECOME EMPTY of AIR in order to PRODUCE a TE
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The standard word is chuī 吹 (opp. xī 吸 "breathe in") and this word can have human, animal as well natural subjects, and the word can also refer to the playing of wind instruments.
+1. The standard word is chuī [[吹]] (opp. xī [[吸]] "breathe in") and this word can have human, animal as well natural subjects, and the word can also refer to the playing of wind instruments.
 [GENERAL]
-2. Fēng 風 can very occasionally be used verbally for the wind's "action" of blowing.
+2. Fēng [[風]] can very occasionally be used verbally for the wind's "action" of blowing.
 [SPECIFIC]
 ## Modern Chinese Criteria
 吹 is the current modern word for the act of blowing by a person.

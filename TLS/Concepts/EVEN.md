@@ -11,10 +11,10 @@ och: 雖
 SURPRISINGLY, EVEN-IF one would NOT have GUESSED, ALSO.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word to make explicitly concessive nominals is suī 雖.
-2. E@r 而 is restricted to subordinate clauses, and the word stresses the subjective incongruousness, thus coming close to being a counterfactual "even".
-3. Yóu 猶 stresses the objective unlikeliness of the subject being characterised by the predicate.
-NB: Lián 連 is post-Buddhist (MING)
+1. The current word to make explicitly concessive nominals is suī [[雖]].
+2. E@r [[而]] is restricted to subordinate clauses, and the word stresses the subjective incongruousness, thus coming close to being a counterfactual "even".
+3. Yóu [[猶]] stresses the objective unlikeliness of the subject being characterised by the predicate.
+NB: Lián [[連]] is post-Buddhist (MING)
 ## Modern Chinese Criteria
 連
 甚或

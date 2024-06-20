@@ -12,9 +12,9 @@ och: 枝
 PART of TREE that GROWS on the TRUNK.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for any kind of branch, large or small, is zhī 枝 (ant. gàn 幹 "trunk"), a word etymologically related to zhī 肢 "limb".
-2. Méi 枚 and kē 柯 refer to non-main branches on a tree.
-3. Tiáo 條 refers to a small twig.
+1. The standard word for any kind of branch, large or small, is zhī [[枝]] (ant. gàn [[幹]] "trunk"), a word etymologically related to zhī [[肢]] "limb".
+2. Méi [[枚]] and kē [[柯]] refer to non-main branches on a tree.
+3. Tiáo [[條]] refers to a small twig.
 ## Modern Chinese Criteria
 枝
 分枝

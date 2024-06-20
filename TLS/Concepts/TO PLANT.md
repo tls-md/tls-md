@@ -7,7 +7,7 @@ zh: 種
 SOW so as to PUT INTENSELY YOUNG PLANTS into the EARTH FOR:in order to CAUSE them to GROW.
 # Criteria and general notes
 ## Old Chinese Criteria
-樹
+[[樹]]
 # Ontology
 
 ## Hypernym

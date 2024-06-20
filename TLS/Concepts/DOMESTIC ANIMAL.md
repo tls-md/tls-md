@@ -7,13 +7,13 @@ zh: 畜生
 ANIMAL REARED IN OR NEAR HOMES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for domestic animals is shēng 牲.
-2. Chú huàn 芻豢 refers to grain and hay-eating domestic animals, particularly sheep, bovines, pigs.
-3. Chù 畜 refers to domestic animals under the aspect that they are being reared.
-4. Chú 芻 refers to domestic animals fed on hey.
-5. Huàn 豢 refers to domestic animals fed on grain.
-6. Wù 鶩 refers to the domestic duck but can also come to refer to the wild duck.
-NB Yā 鴨 is post-Buddhist and refers to the domestic duck.
+1. The current general word for domestic animals is shēng [[牲]].
+2. Chú huàn [[芻豢]] refers to grain and hay-eating domestic animals, particularly sheep, bovines, pigs.
+3. Chù [[畜]] refers to domestic animals under the aspect that they are being reared.
+4. Chú [[芻]] refers to domestic animals fed on hey.
+5. Huàn [[豢]] refers to domestic animals fed on grain.
+6. Wù [[鶩]] refers to the domestic duck but can also come to refer to the wild duck.
+NB Yā [[鴨]] is post-Buddhist and refers to the domestic duck.
 ## Modern Chinese Criteria
 牲畜
 畜

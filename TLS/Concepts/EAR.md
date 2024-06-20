@@ -8,8 +8,8 @@ och: 耳
 ORGAN of HEARING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for the ear is ěr 耳.
-2. Guó 聝 is a rare word referring to the ear cut off dead soldiers in war.
+1. The current standard word for the ear is ěr [[耳]].
+2. Guó [[聝]] is a rare word referring to the ear cut off dead soldiers in war.
 ## Modern Chinese Criteria
 耳
 耳朵

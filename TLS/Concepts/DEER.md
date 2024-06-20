@@ -13,16 +13,16 @@ och: 鹿
 The general name of a family of ruminant quadruped BEASTS, distinguished by the possession of deciduous branching horns or antlers, and by the presence of spots on the young: the various genera and species being distinguished as rein-deer, moose-deer, red deer, fallow deer.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for a deer is lù 鹿.
-2. Mí 麋 refers to a large animal with antlers, resembling a deer.
-3. Mílù 麋鹿 is another term for mí 麋.
-4. Ní 麑 refers to a fawn.
-5. Mí 麛 is another term for a fawn.
-6. Jiā 麚 refers to a large deer.
-7. Jǐ 麂 refers to a small deer.
-8. Zhāng 獐 refers to a hornless river-deer.
-9. Jūn 麇 is an ancient term for zhāng 獐.
-10. Páo 麃 is a word for mí 麋 that was in use in a southern state of >Chǔ 楚.
+1. The current general term for a deer is lù [[鹿]].
+2. Mí [[麋]] refers to a large animal with antlers, resembling a deer.
+3. Mílù [[麋鹿]] is another term for mí [[麋]].
+4. Ní [[麑]] refers to a fawn.
+5. Mí [[麛]] is another term for a fawn.
+6. Jiā [[麚]] refers to a large deer.
+7. Jǐ [[麂]] refers to a small deer.
+8. Zhāng [[獐]] refers to a hornless river-deer.
+9. Jūn [[麇]] is an ancient term for zhāng [[獐]].
+10. Páo [[麃]] is a word for mí [[麋]] that was in use in a southern state of >Chǔ [[楚]].
 ## Modern Chinese Criteria
 鹿
 角仙

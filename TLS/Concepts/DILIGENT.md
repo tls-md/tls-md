@@ -32,15 +32,15 @@ zh: 勤奮
 EAGER to ACHIEVE one's TASK USING APPROPRIATE EFFORT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for (typically respectful) meticulous and almost fastidious diligence is jǐn 謹 (ant. màn 慢 "be neglectful").
-2. Shèn 慎 (ant. hū 忽 "be neglectful") "be careful and cautious" emphasises not only careful attention but also wariness of possible danger.
-3. Lì 力 emphasises total devotion of all one's physical and mental effort, and in this meaning the word is normally adverbial.
-4. Qín 勤 (ant. duò 惰 "without proper strenuous and dutiful effort") emphasises dutiful mental effort.
-5. Quàn 勸 focusses on the externally induced enthusiasm with which something is done.
-6. Miǎn 勉 focusses on externally or internally generated extraordinary enthusiasm for a task.
-7. Què 愨 emphasises the moral appropriateness of the diligence in question.
-8. Yuàn 愿 (not to be confused with yuàn 願 "hope") is an elevated rare word referring to respectful diligence of the people.
-9. Jìng 敬 often refers to respectful diligence in action imposed by one's respect rather than to the attitude or the explicit direct show of respect as such.
+1. The current word for (typically respectful) meticulous and almost fastidious diligence is jǐn [[謹]] (ant. màn [[慢]] "be neglectful").
+2. Shèn [[慎]] (ant. hū [[忽]] "be neglectful") "be careful and cautious" emphasises not only careful attention but also wariness of possible danger.
+3. Lì [[力]] emphasises total devotion of all one's physical and mental effort, and in this meaning the word is normally adverbial.
+4. Qín [[勤]] (ant. duò [[惰]] "without proper strenuous and dutiful effort") emphasises dutiful mental effort.
+5. Quàn [[勸]] focusses on the externally induced enthusiasm with which something is done.
+6. Miǎn [[勉]] focusses on externally or internally generated extraordinary enthusiasm for a task.
+7. Què [[愨]] emphasises the moral appropriateness of the diligence in question.
+8. Yuàn [[愿]] (not to be confused with yuàn [[願]] "hope") is an elevated rare word referring to respectful diligence of the people.
+9. Jìng [[敬]] often refers to respectful diligence in action imposed by one's respect rather than to the attitude or the explicit direct show of respect as such.
 ## Modern Chinese Criteria
 勤奮
 勤勉

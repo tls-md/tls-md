@@ -18,7 +18,7 @@ och: 質／質子
 FOREIGNER GIVEN to someone FOR SUPPORTING a PROMISE OR CONTRACT with that person.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The technical term for a hostage is zhì 質, and there are no current competing near synonyms.
+1. The technical term for a hostage is zhì [[質]], and there are no current competing near synonyms.
 ## 
 HUANG JINGUI 2006
 TRADE 16.

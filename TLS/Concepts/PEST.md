@@ -16,11 +16,11 @@ INTENSE ILLNESS which TENDS to SPREAD.
 For this section compare throughout ZHANG GANG 1997.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any very serious pest or plague is lì 癘.
-2. Zhàng 瘴 refers to malaria-like diseases current in southern China.
-3. Wēn 瘟 refers to pests that spread in hot seasons, and this pest may hit men as well as beasts.
-4. Yì 疫 is a colloquial general word for a pest or plage, but this word was not very current in pre-Buddhist times.
-5. Lài 癩 refers specifically to leprosy.
+1. The current general word for any very serious pest or plague is lì [[癘]].
+2. Zhàng [[瘴]] refers to malaria-like diseases current in southern China.
+3. Wēn [[瘟]] refers to pests that spread in hot seasons, and this pest may hit men as well as beasts.
+4. Yì [[疫]] is a colloquial general word for a pest or plage, but this word was not very current in pre-Buddhist times.
+5. Lài [[癩]] refers specifically to leprosy.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 15.

@@ -19,13 +19,13 @@ och: 求
 TRY to FIND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for trying to find or get something is qiú 求.
-2. Suǒ 索 refers to an attempt to get hold of what is hard to find or trying to escape.
-3. Sōu 搜 refers to the conduct of a searching campaign of some size, typically for a person.
-4. Gān 干 refers to the abstract pursuit of aims in life.
-5. Móu 牟 refers to concerted action to insure the supply of necessities or conveniences, both concrete and abstract.
-6. Zhēng 爭 is to make a strenuous competitive effort to get something.
-NB: Xún 尋 is apparently post-Buddhist.
+1. The current general word for trying to find or get something is qiú [[求]].
+2. Suǒ [[索]] refers to an attempt to get hold of what is hard to find or trying to escape.
+3. Sōu [[搜]] refers to the conduct of a searching campaign of some size, typically for a person.
+4. Gān [[干]] refers to the abstract pursuit of aims in life.
+5. Móu [[牟]] refers to concerted action to insure the supply of necessities or conveniences, both concrete and abstract.
+6. Zhēng [[爭]] is to make a strenuous competitive effort to get something.
+NB: Xún [[尋]] is apparently post-Buddhist.
 ## Modern Chinese Criteria
 找 is the current colloquial modern word for seeking.
 尋找 is the standard modern word for seeking.

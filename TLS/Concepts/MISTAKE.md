@@ -29,12 +29,12 @@ och: 過
 NEGLECT something and ACT so as to FAIL to ACHIEVE one's INTENTION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for a mistake is probably shī 失 (ant. dé 得 "get things right") refers generally to an inadvertent mistake in action, and normally of minor kind.
-2. Wù 誤 (ant. zhèng 正 "correct") typically refers quite generally to intellectual misapprehension.
-3. Miù 謬 (ant. zhèng 正 "correct") typically refers to an intellectual misapprehension because of complete baselessness of what is being said.
-4. Quē 闕 (ant. wán 完 "completely right") is a polite circumlocution for a superior's inadvertencies or mistakes in action..
-5. Tè 忒 and chà 差 is an archaic word for unreglemented personal or political conduct.
-NB: Cuò 錯 as a standard word for "mistake" is post-Han.
+1. The most current general word for a mistake is probably shī [[失]] (ant. dé [[得]] "get things right") refers generally to an inadvertent mistake in action, and normally of minor kind.
+2. Wù [[誤]] (ant. zhèng [[正]] "correct") typically refers quite generally to intellectual misapprehension.
+3. Miù [[謬]] (ant. zhèng [[正]] "correct") typically refers to an intellectual misapprehension because of complete baselessness of what is being said.
+4. Quē [[闕]] (ant. wán [[完]] "completely right") is a polite circumlocution for a superior's inadvertencies or mistakes in action..
+5. Tè [[忒]] and chà [[差]] is an archaic word for unreglemented personal or political conduct.
+NB: Cuò [[錯]] as a standard word for "mistake" is post-Han.
 ## Modern Chinese Criteria
 過失
 過錯

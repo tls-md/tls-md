@@ -25,9 +25,9 @@ ABSTRACT ORGAN of DESIRING, THINKING, FEELing AND KNOWING in HUMANS OR ANIMALS.
 ABSTRACT ORGAN of DESIRING, THINKING, FEELing AND KNOWING
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for the mental sphere of man is xīn 心 "HEART> mind" (ant. xíng 形 "physical shape, body", tǐ 體 "limbs, body").
-2. Zhì 志 (ant. shēn 身 "body") never refers to the faculty of the will, but is the agency through which man has his highest aspirations in life.
-3. Qì 氣 can be used to refer specifically to the life-sustaining vital biological energies contained in the body as opposed to the phsyical make-up through bones, flesh, sinews, etc, of the body itself.
+1. The general word for the mental sphere of man is xīn [[心]] "HEART> mind" (ant. xíng [[形]] "physical shape, body", tǐ [[體]] "limbs, body").
+2. Zhì [[志]] (ant. shēn [[身]] "body") never refers to the faculty of the will, but is the agency through which man has his highest aspirations in life.
+3. Qì [[氣]] can be used to refer specifically to the life-sustaining vital biological energies contained in the body as opposed to the phsyical make-up through bones, flesh, sinews, etc, of the body itself.
 ## Modern Chinese Criteria
 精神
 魂

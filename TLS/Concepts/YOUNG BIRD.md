@@ -7,8 +7,8 @@ zh: 幼鳥
 YOUNG BIRD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for young birds is chú 雛
-2. Kòu 鷇 is a rare word for a young bird.
+1. The general word for young birds is chú [[雛]]
+2. Kòu [[鷇]] is a rare word for a young bird.
 ## Modern Chinese Criteria
 ???
 # Ontology

@@ -24,23 +24,23 @@ APPRECIATE AND DELIGHT in what one BELIEVES is MORE GOOD IN-RELATION-TO either O
 [OBJECTIVE/SUBJECTIVE]
 [OVERT/COVERT]
 [PRIVATE/PUBLIC]
-1. The standard general word for admiration is mù 慕 (ant. bǐ 鄙 "hold in low esteem"), and this word often connotes emulation.
+1. The standard general word for admiration is mù [[慕]] (ant. bǐ [[鄙]] "hold in low esteem"), and this word often connotes emulation.
 [ASCENDING], [EMOTIONAL], [OBJ=HU], [STATE], [SUBJECTIVE]
-2. Wàng 望 refers to an intense distant admiration of some heroic or in any way especially elevated figure.
+2. Wàng [[望]] refers to an intense distant admiration of some heroic or in any way especially elevated figure.
 [ACTIVITY], [ASCENDING], [HIGH-DEGREE], [OBJ=HU], [RATIONAL], [SUBJECTIVE]
-3. Yǎng 仰 (ant.* yì 易 "have no special respect for") refers to a distant veneration of some heroic or in any way especially elevated figure.
+3. Yǎng [[仰]] (ant.* yì [[易]] "have no special respect for") refers to a distant veneration of some heroic or in any way especially elevated figure.
 [ACTIVITY], [ASCENDING], [HIGH-DEGREE], [OBJ=HU], [RATIONAL], [SUBJECTIVE]
-4. Shàng 尚 (ant. qīng 輕 "have no special respect for") refers to giving high practical priority to something or someone out of a sense of admiration or appreciation.
+4. Shàng [[尚]] (ant. qīng [[輕]] "have no special respect for") refers to giving high practical priority to something or someone out of a sense of admiration or appreciation.
 [ACTIVITY], [ASCENDING], [OBJ=HU], [OVERT] [PUBLIC]
-5. Shàng 上 (ant. xià 下 "despise, have no special respect for") refer to giving high practical priority to something out of a sense of admiration or appreciation.
+5. Shàng [[上]] (ant. xià [[下]] "despise, have no special respect for") refer to giving high practical priority to something out of a sense of admiration or appreciation.
 [ASCENDING], [OBJ=NON-HU], [OBJECTIVE], [OVERT], [PUBLIC]
-6. Yòu 右 (ant. qīng 輕 "have no special respect for") refer to giving high practical priority to something or someone out of a sense of admiration or appreciation.
+6. Yòu [[右]] (ant. qīng [[輕]] "have no special respect for") refer to giving high practical priority to something or someone out of a sense of admiration or appreciation.
 [ACTIVITY], [ASCENDING], [OVERT], [PUBLIC]
-7. Měi 美 (ant. è 惡 "find despicable an dislikable") refers to an intense expressly subjective aesthetic or moral appreciation for something as admirable.
+7. Měi [[美]] (ant. è [[惡]] "find despicable an dislikable") refers to an intense expressly subjective aesthetic or moral appreciation for something as admirable.
 [COVERT], [STATE], [SUBJECTIVE]
-8. Duō 多 (ant. shǎo 少 "feel no respect for") refers to an objective assessment of something as worthy of admiration.
+8. Duō [[多]] (ant. shǎo [[少]] "feel no respect for") refers to an objective assessment of something as worthy of admiration.
 [COVERT], [OBJECTIVE], [RATIONAL], [STATE]
-9. Xiàn 羨 refers to rather personal and private admiration for something, and this admiration is sometimes mixed with envy.
+9. Xiàn [[羨]] refers to rather personal and private admiration for something, and this admiration is sometimes mixed with envy.
 [COVERT], [EMOTIONAL], [STATE], [SUBJECTIVE]
 ## Modern Chinese Criteria
 佩服

@@ -7,11 +7,11 @@ zh: 批評
 SPEAK AND NAME SOMETHING BAD and AVOIDABLE. 
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for criticism is fēi 非 (ant. shì 是 "approve of").
-2. Fěi 誹 (ant. zàn 贊 "commend") is to criticise someone's views in a condescending humiliating way. See also SLANDER.
-3. Jī 譏 is part of the historian's standard repertoire and refers typically to historian's censure of the behaviour of historical personalities.
-4. Zuì 罪 may sometimes come to refer to strong criticism of a person's views and achievements. See ACCUSE
-5. Bàng 謗 refers to slanderous criticism, typically not to the fact but behind one's back. See also SLANDER.
+1. The current general term for criticism is fēi [[非]] (ant. shì [[是]] "approve of").
+2. Fěi [[誹]] (ant. zàn [[贊]] "commend") is to criticise someone's views in a condescending humiliating way. See also SLANDER.
+3. Jī [[譏]] is part of the historian's standard repertoire and refers typically to historian's censure of the behaviour of historical personalities.
+4. Zuì [[罪]] may sometimes come to refer to strong criticism of a person's views and achievements. See ACCUSE
+5. Bàng [[謗]] refers to slanderous criticism, typically not to the fact but behind one's back. See also SLANDER.
 ## Modern Chinese Criteria
 批評 is the current modern word referring to criticism.
 批判 emphasises the element of repudiation and judgment in criticism.

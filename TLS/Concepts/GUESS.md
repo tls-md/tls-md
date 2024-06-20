@@ -20,10 +20,10 @@ zh: 猜
 BELIEF OR SENTENCE:statement which is NOT CERTAIN, OFTEN IN-RELATION-TO the FUTURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-意
-虞
-料
-想
+[[意]]
+[[虞]]
+[[料]]
+[[想]]
 ## Modern Chinese Criteria
 猜想
 猜測

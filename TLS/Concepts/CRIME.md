@@ -16,14 +16,14 @@ och: 罪／過
 WICKED ACT OFFENDING INTENSELY against an IMPORTANT LAW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a serious legal transgression is zuì 罪 (ant. gōng 功 "merit"), and the current general word for a minor legal transgression is guò 過 (ant. xiào 效 "positive contribution").
-2. Yóu 尤 refers generally to morally disreputable behaviour.
-3. Jiù 咎 (ant. láo 勞 "obtain merits") refers to an action for which one deserves blame.
-4. Dào 盜 (ant.* dé 德 "virtue") refers to morally and legally outrageous behaviour.
-5. Yuè 越 can come to refer to a failure to keep within the boundaries set by one's social status or office.
-6. Gū 辜 (ant. xún 勛 "significant contribution") is an archaising word referring to serious crimes at an early stage, but later commonly used (mostly in negated form) to refer to any crime.
-7. Tè 忒, qiān 愆, and shěng 眚 refer to a minor but culpable error.
-8. Qiān 愆 refers to a minor mistake in procedure.
+1. The current general word for a serious legal transgression is zuì [[罪]] (ant. gōng [[功]] "merit"), and the current general word for a minor legal transgression is guò [[過]] (ant. xiào [[效]] "positive contribution").
+2. Yóu [[尤]] refers generally to morally disreputable behaviour.
+3. Jiù [[咎]] (ant. láo [[勞]] "obtain merits") refers to an action for which one deserves blame.
+4. Dào [[盜]] (ant.* dé [[德]] "virtue") refers to morally and legally outrageous behaviour.
+5. Yuè [[越]] can come to refer to a failure to keep within the boundaries set by one's social status or office.
+6. Gū [[辜]] (ant. xún [[勛]] "significant contribution") is an archaising word referring to serious crimes at an early stage, but later commonly used (mostly in negated form) to refer to any crime.
+7. Tè [[忒]], qiān [[愆]], and shěng [[眚]] refer to a minor but culpable error.
+8. Qiān [[愆]] refers to a minor mistake in procedure.
 ## Modern Chinese Criteria
 罪行
 罪名

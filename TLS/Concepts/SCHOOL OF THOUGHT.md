@@ -7,8 +7,8 @@ zh: 學派
 TRADITION OF TEACHING AND DOCTRINE.
 # Criteria and general notes
 ## Old Chinese Criteria
-家
-六家
+[[家]]
+[[六家]]
 # Ontology
 
 ## Hypernym

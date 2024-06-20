@@ -8,12 +8,12 @@ och: 粥
 SOUP PRODUCED USING GRAIN AND WATER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a gruel of rice boiled in water is zhōu 粥.
-2. Yí 飴 refers to strong gruel.
-3. Mí 糜 refers to fermented gruel.
-4. Yǐ 酏 refers to a light gruel used to make wine.
-5. Hú 餬 can also refer to a gruel.
-6. Mò 粖 refers to a light gruel.
+1. The general term for a gruel of rice boiled in water is zhōu [[粥]].
+2. Yí [[飴]] refers to strong gruel.
+3. Mí [[糜]] refers to fermented gruel.
+4. Yǐ [[酏]] refers to a light gruel used to make wine.
+5. Hú [[餬]] can also refer to a gruel.
+6. Mò [[粖]] refers to a light gruel.
 ## 
 HUANG JINGUI 2006
 FOOD 31.

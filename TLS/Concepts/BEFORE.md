@@ -7,7 +7,7 @@ zh: 以前
 EARLY IN-RELATION-TO.
 # Criteria and general notes
 ## Old Chinese Criteria
-When did 戰前 "before the battle" become current????
+When did [[戰前]] "before the battle" become current????
 # Ontology
 
 ## Antonym

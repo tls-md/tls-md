@@ -19,9 +19,9 @@ BELIEVE SOMETHING AND ASSUME:presuppose that it is TRUE.
 BELIEVE SOMETHING AND ASSUME:presuppose that it is GENERALLY BELIEVED TO BE TRUE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for knowing something to be the case in any way or on any basis is zhī 知, but the word is more common in the meanings discussed under UNDERSTAND as in 知人 "understand men".
-2. Wén 聞 is to have learnt as given, so that one knows it as part of one's intellectual tradition or education.
-3. Shí 識 is to be able to recognise and thus to have some idea of something through familiarity and experience, and what one is thus familiar with does not seem to be facts.
+1. The general word for knowing something to be the case in any way or on any basis is zhī [[知]], but the word is more common in the meanings discussed under UNDERSTAND as in [[知人]] "understand men".
+2. Wén [[聞]] is to have learnt as given, so that one knows it as part of one's intellectual tradition or education.
+3. Shí [[識]] is to be able to recognise and thus to have some idea of something through familiarity and experience, and what one is thus familiar with does not seem to be facts.
 ## Modern Chinese Criteria
 知道
 曉得

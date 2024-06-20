@@ -29,10 +29,10 @@ och: 匹
 ADULT with whom one COPULATES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for a partner of the other sex is pǐ 匹, and one suspects that even when the word refers to mates of one sex this meaning is an effect of the context rather than the meaning of the word itself.
-2. O ㄆ偶 refers to a concrete partner or to more abstractly, like Modern Chinese duìxiàng 對象 to refer to the notion of someone who will fill the role of partner of the other sex. NB: one may qiú ǒu 求偶 and xuǎn ǒu 選偶, but it appears pǐ 匹 is not used in such contexts.
-3. Qiú 逑 is a poetic poet and archaising word for a mate.
-4. Bì 嬖 refers to a senior person's favourite of either sex with whom he may or may not entertain sexual relations as part of the relationship.
+1. The most current general word for a partner of the other sex is pǐ [[匹]], and one suspects that even when the word refers to mates of one sex this meaning is an effect of the context rather than the meaning of the word itself.
+2. O ㄆ[[偶]] refers to a concrete partner or to more abstractly, like Modern Chinese duìxiàng [[對象]] to refer to the notion of someone who will fill the role of partner of the other sex. NB: one may qiú ǒu [[求偶]] and xuǎn ǒu [[選偶]], but it appears pǐ [[匹]] is not used in such contexts.
+3. Qiú [[逑]] is a poetic poet and archaising word for a mate.
+4. Bì [[嬖]] refers to a senior person's favourite of either sex with whom he may or may not entertain sexual relations as part of the relationship.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 8. 配偶。

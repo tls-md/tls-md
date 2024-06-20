@@ -25,8 +25,8 @@ och: 包
 COVER on ALL SIDES OFTEN:typically so as to PROTECT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for wrapping something up is bāo 包.
-2. Guǒ 裹 typically refers to wraping up something tightly.
+1. The current standard word for wrapping something up is bāo [[包]].
+2. Guǒ [[裹]] typically refers to wraping up something tightly.
 ## Modern Chinese Criteria
 包裹 is the current modern word for wrapping something up.
 包袱 refers to a bundle that is wrapped up.

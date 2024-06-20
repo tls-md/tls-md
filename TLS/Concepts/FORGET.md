@@ -12,7 +12,7 @@ och: 忘２
 LOSE AWARENESS of something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. There is only one word in this group: wàng 忘 (ant. shèn 慎 "pay special careful attention to"????), which normally is "to disregard" but does come to mean "forget".
+1. There is only one word in this group: wàng [[忘]] (ant. shèn [[慎]] "pay special careful attention to"????), which normally is "to disregard" but does come to mean "forget".
 ## Modern Chinese Criteria
 忘記
 失記

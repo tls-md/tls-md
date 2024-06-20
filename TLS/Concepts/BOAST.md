@@ -24,15 +24,15 @@ EXAGGERATE, OR SPEAK of, one's SELF:own GOOD FEATURES OR ACHIEVEMENTS.
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
 [PRACTICAL/VERBAL]
-1. The commonest general word is probably jīn 矜 which refers to any degree of grandiloquence or bragging.
+1. The commonest general word is probably jīn [[矜]] which refers to any degree of grandiloquence or bragging.
 [GENERAL], [VERBAL]
-2. Fá 伐 is an extreme form of bragging that clearly arouses negative reactions.
+2. Fá [[伐]] is an extreme form of bragging that clearly arouses negative reactions.
 [DEROGATORY], [EPISODIC], [HIGH-DEGREE], [VERBAL]
-3. Shī 施 is to show off, typically also through actions.
+3. Shī [[施]] is to show off, typically also through actions.
 [EPISODIC], [PRACTICAL!]
-4. Kuā 誇 refers to acts of grandiloquence not exclusively concerned with oneself. See EXAGGERATE.
+4. Kuā [[誇]] refers to acts of grandiloquence not exclusively concerned with oneself. See EXAGGERATE.
 [EPISODIC], [VERBAL]
-5. Dàn 誕 tends to refer to boastfulness not as a concrete episode, but as a permanent feature of a person given to fraudulent self-aggrandising exaggeration.
+5. Dàn [[誕]] tends to refer to boastfulness not as a concrete episode, but as a permanent feature of a person given to fraudulent self-aggrandising exaggeration.
 [LASTING], [VERBAL]
 ## Modern Chinese Criteria
 拿架子 / 擺派頭

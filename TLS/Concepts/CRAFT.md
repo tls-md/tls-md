@@ -15,9 +15,9 @@ zh: 工藝
 SKILL IMPORTANT FOR a PROFESSION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for any craft or professional skill is shù 術. See also METHOD
-2. Gōng 工 is the general term for handicrafts.
-3. Jì 技 is a general term for highly developed skills of any kind, including the professional skills. See SKILL
+1. The general word for any craft or professional skill is shù [[術]]. See also METHOD
+2. Gōng [[工]] is the general term for handicrafts.
+3. Jì [[技]] is a general term for highly developed skills of any kind, including the professional skills. See SKILL
 ## Modern Chinese Criteria
 工藝
 技藝

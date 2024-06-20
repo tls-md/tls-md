@@ -19,9 +19,9 @@ och: 雜
 INTENSELY TOGETHER AND DIFFICULT to SEPARATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for anything not unified or mixed is zá 雜 (ant. cuì 粹 "pure").
-2. Rǒu 糅 refers to an indistinguishable mixture of things, mostly in a negative sense.
-3. Bó 駁 sometimes refers figurativelyj to something as having varying and not properly constant features.
+1. The current word for anything not unified or mixed is zá [[雜]] (ant. cuì [[粹]] "pure").
+2. Rǒu [[糅]] refers to an indistinguishable mixture of things, mostly in a negative sense.
+3. Bó [[駁]] sometimes refers figurativelyj to something as having varying and not properly constant features.
 ## Modern Chinese Criteria
 混雜 is the most current modern word for being mixed.
 雜 is a very current colloquial word for things being mixed.

@@ -15,9 +15,9 @@ och: 默
 LACK SOUND OR SPEECH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the failure of humans to speak where they might be expected to speak is mò 默 (ant. yán 言 "speak up").
-2. Jìng 靜 (ant. xiāo 囂 "noisy") is a strongly positively loaded term which refers with approval to the pleasing absence of sound in a natural environment and does not refer to the failure of humans to produce sounds or speak.
-3. Jì 寂 (ant. xī rang 熙嚷 "be busy and noisy") is a negatively laden term describing the absence of sound as something making a place desolate.
+1. The current word for the failure of humans to speak where they might be expected to speak is mò [[默]] (ant. yán [[言]] "speak up").
+2. Jìng [[靜]] (ant. xiāo [[囂]] "noisy") is a strongly positively loaded term which refers with approval to the pleasing absence of sound in a natural environment and does not refer to the failure of humans to produce sounds or speak.
+3. Jì [[寂]] (ant. xī rang [[熙嚷]] "be busy and noisy") is a negatively laden term describing the absence of sound as something making a place desolate.
 ## Modern Chinese Criteria
 沉默
 默然

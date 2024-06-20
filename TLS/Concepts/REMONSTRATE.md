@@ -13,9 +13,9 @@ och: 諫
 CRITICISE a SUPERIOR ADDRESSING A SUPERIOR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for making representations to higher authorities is jiàn 諫.
-2. Fěng 諷 refers to the making of indirect polite representations to superiors.
-3. Zhēng 爭 / 諍 refers to vigorous and sometimes even aggressive representations to superiors.
+1. The current general word for making representations to higher authorities is jiàn [[諫]].
+2. Fěng [[諷]] refers to the making of indirect polite representations to superiors.
+3. Zhēng [[爭]] / [[諍]] refers to vigorous and sometimes even aggressive representations to superiors.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 24. 臣下向君主提出建議、規勸。

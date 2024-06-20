@@ -73,15 +73,15 @@ och: 善
 EXCELLENT in VIRTUE OR in IMPORTANT SKILL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for positive appraisal of human capacities of any kind is shàn 善 (ant. è 惡 "bad"). 
-2. Rén 仁 (ant. cán 殘 "unfeeling") refers to kind-heartedness as an attitude directed towards moral behaviour. See BENEVOLENCE
-3. Lián 廉 (ant. tān 貪 "greedy for bribery gifts") refers to moral probity and impeccability.
-4. Zhí 直 (ant. qǔ 曲 "devious") refers to moral straightforwardness and uprightness.
-5. Zhōng 衷 (ant. xié 邪 "wicked") refers to devoted uprightness of character. See also EARNEST
-6. Qīng 清 (ant. zhuó 濁 "defiled and corrupt") can be used to refer to moral purity.
-7. Shú 淑 is a highly poetic word referring to admirable moral qualities in general, typically in women.
-8. Jūn zǐ 君子 (ant. xiǎo rén 小人 "petty man") refers to high moral qualities and capacities, especially in men.
-<div>9. Zāng 臧 (pí 否 "good-for-nothing") is an archaic neutral unemotional objective term for goodness.</div><div><br></div><div>10. Rén yì 仁義, when it is not simply listing benevolence and righteousness, commonly refers quite generally (by synecdoche) to moral goodness or the moral virtues LIKE benevolence and righteousness and not in fact to just two of the virtues.<br></div><br>
+1. The general term for positive appraisal of human capacities of any kind is shàn [[善]] (ant. è [[惡]] "bad"). 
+2. Rén [[仁]] (ant. cán [[殘]] "unfeeling") refers to kind-heartedness as an attitude directed towards moral behaviour. See BENEVOLENCE
+3. Lián [[廉]] (ant. tān [[貪]] "greedy for bribery gifts") refers to moral probity and impeccability.
+4. Zhí [[直]] (ant. qǔ [[曲]] "devious") refers to moral straightforwardness and uprightness.
+5. Zhōng [[衷]] (ant. xié [[邪]] "wicked") refers to devoted uprightness of character. See also EARNEST
+6. Qīng [[清]] (ant. zhuó [[濁]] "defiled and corrupt") can be used to refer to moral purity.
+7. Shú [[淑]] is a highly poetic word referring to admirable moral qualities in general, typically in women.
+8. Jūn zǐ [[君子]] (ant. xiǎo rén [[小人]] "petty man") refers to high moral qualities and capacities, especially in men.
+<div>9. Zāng [[臧]] (pí [[否]] "good-for-nothing") is an archaic neutral unemotional objective term for goodness.</div><div><br></div><div>10. Rén yì [[仁義]], when it is not simply listing benevolence and righteousness, commonly refers quite generally (by synecdoche) to moral goodness or the moral virtues LIKE benevolence and righteousness and not in fact to just two of the virtues.<br></div><br>
 ## Modern Chinese Criteria
 好
 妙

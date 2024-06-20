@@ -8,9 +8,9 @@ och: 類書
 BOOK which TRIES to COLLECT SYSTEMATICALLY ALL BASIC KNOWLEDGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current classical Chinese word for an encyclopaedia is 類書 "sub-classified book" a term that occurs already in 前漢記 according to DCD.
+1. The current classical Chinese word for an encyclopaedia is [[類書]] "sub-classified book" a term that occurs already in [[前漢記]] according to DCD.
 NOTE:
-The earliest works of an encyclopaedic nature are HN and LSCQ. From Yìwénlèijù 藝文類聚 onwards China has produced a remarkable range of encyclopaedias in the narrower sense.
+The earliest works of an encyclopaedic nature are HN and LSCQ. From Yìwénlèijù [[藝文類聚]] onwards China has produced a remarkable range of encyclopaedias in the narrower sense.
 ## 
 LEIBNIZ 6.4 P. 86: Habetur hactenus Atlas Geographicus. Item Atlas Astronomicus sivecoelestis. Mihi autem in mentem venit Encyclopaediam totam Atlante quodam Universali egregie comprehendi posse.
 See the largest Encyclopaedie by Erschad Panckoucke's Encyclopédie méthodique in 166 and 1/2 volumes.

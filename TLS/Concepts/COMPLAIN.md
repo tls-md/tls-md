@@ -30,9 +30,9 @@ och: 訴
 SAY that something is NOT JUST AND BAD IN-RELATION-TO SELF:oneself OR someone CLOSE to SELF:oneself.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for complaint is sù 訴.
-2. Gào 告 refers to an inferior complaining to a superior.
-NB: Yuān 冤 refers to an injustice suffered, but not to a complaint about it.
+1. The current general word for complaint is sù [[訴]].
+2. Gào [[告]] refers to an inferior complaining to a superior.
+NB: Yuān [[冤]] refers to an injustice suffered, but not to a complaint about it.
 ## Modern Chinese Criteria
 上告 is the current word for lodging a complaint.
 上控 focusses on the public accusation which forms part of the complaint.

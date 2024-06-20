@@ -8,9 +8,9 @@ och: 足
 ABUNDANT so as to PROVIDE what is NEEDED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for sufficiency is zú 足 (ant. fá 乏 "be short of something").
-2. Jí 給 (ant.* quē 缺 "be short of") refers specifically to the supply of necessities for the sustenance of life.
-3. Shàn 贍 refers to an abundant sufficiency of what is needed for a contextually determined purpose.
+1. The current general word for sufficiency is zú [[足]] (ant. fá [[乏]] "be short of something").
+2. Jí [[給]] (ant.* quē [[缺]] "be short of") refers specifically to the supply of necessities for the sustenance of life.
+3. Shàn [[贍]] refers to an abundant sufficiency of what is needed for a contextually determined purpose.
 ## Modern Chinese Criteria
 足夠
 充分

@@ -42,11 +42,11 @@ och: 阻
 STOP from ACT:doing what someone or something INTENDS to ACT:do.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for putting obstacles in the way of something or someone is zǔ 阻 (ant. zhù 助 "help"). See also BLOCK
-2. Jǔ 沮 (ant. quàn 勸 "encourage") refers to failing to support someone else and dissuading him from pursuing an intended course of action.
-3. Zhàng 障 refers to putting a permanent hindrance in the way of something.
-4. Ài 礙 refers to an action designed to prevent another action, but the word gained currency quite late.
-5. Jù 距 / 拒 refers to an action designed to counteract another action that has been undertaken.
+1. The current general word for putting obstacles in the way of something or someone is zǔ [[阻]] (ant. zhù [[助]] "help"). See also BLOCK
+2. Jǔ [[沮]] (ant. quàn [[勸]] "encourage") refers to failing to support someone else and dissuading him from pursuing an intended course of action.
+3. Zhàng [[障]] refers to putting a permanent hindrance in the way of something.
+4. Ài [[礙]] refers to an action designed to prevent another action, but the word gained currency quite late.
+5. Jù [[距]] / [[拒]] refers to an action designed to counteract another action that has been undertaken.
 ## Modern Chinese Criteria
 阻礙
 妨礙

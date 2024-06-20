@@ -22,11 +22,11 @@ och: 置
 DISPLACE IN ORDER TO CAUSE TO BE-IN a PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word for placing something in a certain location, either abstract (like a political position) or concrete spatial, is zhì 置.
-2. Zhì 寘 is limited to the concrete placing of a physical object in a place.
-3. Shè 設 refers to the setting up of something (typically something large or substantial) permanent(ly) in a location.
-4. Jì 寄 refers to putting something in a certain place for a certain time only.
-5. Zhuó 著, rare in pre-Buddhist texts, refers to the placing of an object permanently or temporarily in a certain position.
+1. The most general word for placing something in a certain location, either abstract (like a political position) or concrete spatial, is zhì [[置]].
+2. Zhì [[寘]] is limited to the concrete placing of a physical object in a place.
+3. Shè [[設]] refers to the setting up of something (typically something large or substantial) permanent(ly) in a location.
+4. Jì [[寄]] refers to putting something in a certain place for a certain time only.
+5. Zhuó [[著]], rare in pre-Buddhist texts, refers to the placing of an object permanently or temporarily in a certain position.
 ## Modern Chinese Criteria
 放
 擱

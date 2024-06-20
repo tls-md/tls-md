@@ -36,10 +36,10 @@ zh: 差別
 RELATION of NOT MUTUALLY RESEMBLING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general term for difference is yì 異 (ant. tóng 同 "be the same").
-2. Fēn 分 and bié 別 is a difference established by humans through convention or by an intellectual effort. See DISTINGUISH
-3. Chà 差 (ant. děng 等 "be without difference established by social conventions") refers to a difference established through social practice.
-4. Shū 殊 (ant. jìn 近 "essentially close to", yī 一 "be one and the same") refers abstractly to a categorial distance.
+1. The dominant general term for difference is yì [[異]] (ant. tóng [[同]] "be the same").
+2. Fēn [[分]] and bié [[別]] is a difference established by humans through convention or by an intellectual effort. See DISTINGUISH
+3. Chà [[差]] (ant. děng [[等]] "be without difference established by social conventions") refers to a difference established through social practice.
+4. Shū [[殊]] (ant. jìn [[近]] "essentially close to", yī [[一]] "be one and the same") refers abstractly to a categorial distance.
 ## Modern Chinese Criteria
 殊異
 各別

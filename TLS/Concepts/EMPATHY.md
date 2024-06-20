@@ -7,7 +7,7 @@ zh: 神入
 ABILITY to IMAGINE INTENSELY BEING a DIFFERENT PERSON one INTERACTS with.
 # Criteria and general notes
 ## Old Chinese Criteria
-將心比心
+[[將心比心]]
 Latin unanimus (see Servius on Aeneid 4.8f).
 ## Modern Chinese Criteria
 將心比心

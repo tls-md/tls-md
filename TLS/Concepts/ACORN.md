@@ -9,11 +9,11 @@ The FRUIT or seed of the oak-tree; an oval nut growing in a shallow woody cup or
 ## Old Chinese Criteria
 [COMMON/RARE]
 [DIALECT/STANDARD]
-1. The standard word for the edible acorn is shù 杼.
+1. The standard word for the edible acorn is shù [[杼]].
 [STANDARD]
-2. Xiàng 橡 is probably a dialect word, and can refer to acorns.
+2. Xiàng [[橡]] is probably a dialect word, and can refer to acorns.
 [DIALECT]; [[RARE]]
-3. Zhù 芧 is probably a dialect word, and can refer to acorns
+3. Zhù [[芧]] is probably a dialect word, and can refer to acorns
 [DIALECT]; [[RARE]]
 ## Modern Chinese Criteria
 橡子

@@ -54,10 +54,10 @@ och: 誠
 DILIGENT AND SERIOUS IN-RELATION-TO one's SELF:own BELIEFS AND ASPIRATIONS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current standard word for earnestness in attitude and earnest effort in practice is chéng 誠 (ant.* màn 慢 "negligent").
-2. Dǔ 篤 refers to trusty earnestness under the special aspect of dependability.
-3. Liàng 諒 refers to sincerity of attitude as a moral virtue.
-4. Zhōng 衷 refers to earnestness as an inner attitude under the aspect of emotional genuineness, a moral earnestness which will move Heaven.
+1. The current standard word for earnestness in attitude and earnest effort in practice is chéng [[誠]] (ant.* màn [[慢]] "negligent").
+2. Dǔ [[篤]] refers to trusty earnestness under the special aspect of dependability.
+3. Liàng [[諒]] refers to sincerity of attitude as a moral virtue.
+4. Zhōng [[衷]] refers to earnestness as an inner attitude under the aspect of emotional genuineness, a moral earnestness which will move Heaven.
 ## Modern Chinese Criteria
 真誠
 熱誠

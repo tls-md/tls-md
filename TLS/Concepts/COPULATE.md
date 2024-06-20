@@ -29,16 +29,16 @@ COOPERATE USING ONE'S GENITALS.
 COOPERATE SEXUALLY
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for copulation applying to both humans and animals, are jiāo 交, hé 合, and these are all rather discrete abstract terms to use.
-2. Yù 御 refers to a male "riding" a female, and the word has no negative overtones.
-3. Tōng 通 and sī 私 are neutral historian's terms for improper sexual intercourse.
-4. Xì 戲 refers to a man making a sexual pass at a woman (occasionally actually one's own wife!).
-5. Yín 淫 and huì 穢 are derogatory terms for engaging in lewd sexual activities with someone.
-6. Xìng 幸 refers periphrastically and politely in historical texts to enjoying the sexual favours, typically of an emperor. See also FAVOUR
-7. Zhēng 烝 refers to the ritual establishment of political relations with a widowed woman of one's senior generation through publicised spending of a night with her.
-8. Bào 報 refers to establishing extramarital sexual relations with a woman of a (normally) lower but sometimes also of a higher generation, but not normally of the same generation.
-9. Gǔ 蠱 refers to a male using irregular means to obtain the sexual favours of a woman he is not married to.
-NB: gòu 構／媾 was late to become current as a term for sexual union.
+1. The current general word for copulation applying to both humans and animals, are jiāo [[交]], hé [[合]], and these are all rather discrete abstract terms to use.
+2. Yù [[御]] refers to a male "riding" a female, and the word has no negative overtones.
+3. Tōng [[通]] and sī [[私]] are neutral historian's terms for improper sexual intercourse.
+4. Xì [[戲]] refers to a man making a sexual pass at a woman (occasionally actually one's own wife!).
+5. Yín [[淫]] and huì [[穢]] are derogatory terms for engaging in lewd sexual activities with someone.
+6. Xìng [[幸]] refers periphrastically and politely in historical texts to enjoying the sexual favours, typically of an emperor. See also FAVOUR
+7. Zhēng [[烝]] refers to the ritual establishment of political relations with a widowed woman of one's senior generation through publicised spending of a night with her.
+8. Bào [[報]] refers to establishing extramarital sexual relations with a woman of a (normally) lower but sometimes also of a higher generation, but not normally of the same generation.
+9. Gǔ [[蠱]] refers to a male using irregular means to obtain the sexual favours of a woman he is not married to.
+NB: gòu [[構]]／[[媾]] was late to become current as a term for sexual union.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 53.

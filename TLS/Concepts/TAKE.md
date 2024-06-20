@@ -15,12 +15,12 @@ och: 取
 OBTAIN a THING OFTEN by REMOVING it from its PLACE OR OWNER so as to HAVE it ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for to take is qǔ 取.
-2. Duó 奪 is to take by force or threat of force.
-3. Nián 拈 and cuò 撮 refer to taking by the use of one's fingers only.
-4. Jué 攫 refers to picking up something not easy to get hold of.
-5. Zhí 執 "hold" is occasionally used inchoatively to mean "take hold of".
-6. Tàn 探 refers to the act of stretching out one's hands straining to lay hold something and succeeding in this effort.
+1. The current general word for to take is qǔ [[取]].
+2. Duó [[奪]] is to take by force or threat of force.
+3. Nián [[拈]] and cuò [[撮]] refer to taking by the use of one's fingers only.
+4. Jué [[攫]] refers to picking up something not easy to get hold of.
+5. Zhí [[執]] "hold" is occasionally used inchoatively to mean "take hold of".
+6. Tàn [[探]] refers to the act of stretching out one's hands straining to lay hold something and succeeding in this effort.
 ## Modern Chinese Criteria
 拿 is the current modern word for to take.
 取

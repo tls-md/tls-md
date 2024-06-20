@@ -35,15 +35,15 @@ SUDDEN BAD FEELING (AND OFTEN the SHOWING of this FEELING) of HUMAN IN-RELATION-
 [COVERT/OVERT]
 [LASTING/TRANSITORY]
 See also ANGUISH
-1. Nù 怒 (ant. xǐ 喜 "be delighted") is the general word for anger, and the word tends to imply overt manifestation of feelings of anger, typically in terms of altered breathing patterns. (cf. nù 怒 "to puff oneself up")
+1. Nù [[怒]] (ant. xǐ [[喜]] "be delighted") is the general word for anger, and the word tends to imply overt manifestation of feelings of anger, typically in terms of altered breathing patterns. (cf. nù [[怒]] "to puff oneself up")
 [OVERT], [PERSONAL]
-2. Fèn 忿 (ant. yuè 說／悅 "feel not the slightest anger but on the contrary feel pleased") refers to momentary and intense anger, and it does not typically focus on an show of emotion. There is a difference of degree between nù 怒 "show (often great) anger ( 怒甚, 大怒 ) and fèn 忿 "be momentarily angry" (there is no dà fèn 大忿, fèn shèn 忿甚 ). Nù 怒 forms vtS, whereas fèn 忿 does not have that function.
+2. Fèn [[忿]] (ant. yuè [[說]]／[[悅]] "feel not the slightest anger but on the contrary feel pleased") refers to momentary and intense anger, and it does not typically focus on an show of emotion. There is a difference of degree between nù [[怒]] "show (often great) anger ( [[怒甚]], [[大怒]] ) and fèn [[忿]] "be momentarily angry" (there is no dà fèn [[大忿]], fèn shèn [[忿甚]] ). Nù [[怒]] forms vtS, whereas fèn [[忿]] does not have that function.
 [INTENSE], [MOMENTARY], [PERSONAL]
-3. Yùn 慍 (ant. yì 懌 "feel perfectly pleased with something") is lingering indignation which may or may not be overt. See ANGUISH
+3. Yùn [[慍]] (ant. yì [[懌]] "feel perfectly pleased with something") is lingering indignation which may or may not be overt. See ANGUISH
 [IMPERSONAL], [LASTING], [OVERT]
-4. Fèn 憤 "pent-up anguish" is intense dissatisfaction and anguish rather than an angry attitude directed against any person. See ANGUISH
+4. Fèn [[憤]] "pent-up anguish" is intense dissatisfaction and anguish rather than an angry attitude directed against any person. See ANGUISH
 [COVERT], [IMPERSONAL], [LASTING]
-5. Huì 恚 is a general word for anger that is remarkably frequent in collocation with near-synonyms.
+5. Huì [[恚]] is a general word for anger that is remarkably frequent in collocation with near-synonyms.
 ## Modern Chinese Criteria
 生氣
 動火

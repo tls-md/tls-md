@@ -22,10 +22,10 @@ och: 與
 INTERACT so as to MUTUALLY HELP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for cooperation is yǔ 與 (ant. jué 絕 "cut off relations with").
-2. Shàn 善 refers to cooperation on the basis of excellent personal relations. (NB: ant. wù 惡 refers more to antipathy than lack of cooperation.) See INTERACT
-3. Jié 結 refers to close cooperative ties leading to lasting coperation.
-4. Fú còu 輻湊 refers to bureaucratic cooperation with the leadership. See HELP
+1. The current general word for cooperation is yǔ [[與]] (ant. jué [[絕]] "cut off relations with").
+2. Shàn [[善]] refers to cooperation on the basis of excellent personal relations. (NB: ant. wù [[惡]] refers more to antipathy than lack of cooperation.) See INTERACT
+3. Jié [[結]] refers to close cooperative ties leading to lasting coperation.
+4. Fú còu [[輻湊]] refers to bureaucratic cooperation with the leadership. See HELP
 ## Modern Chinese Criteria
 合作
 協力

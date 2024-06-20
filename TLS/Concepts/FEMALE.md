@@ -8,12 +8,12 @@ och: 雌
 GENDER OF AN ANIMAL OR ANIMAL TYPICALLY ABLE to BIRTH:bear CHILDREN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a female of any species is cí 雌 (ant. xióng 雄 "male").
-2. Nu# 女 (ant. nán 男 "male") refers specifically to human females.
-3. Pìn 牝 (ant. mǔ 牡 "male") refers to specifically to females of animals.
-4. Zì 牸 refers to females of buffalo, but sometimes also of tiger, rhinoceros, or horse.
-5. Mǔ 母 (ant. gōng 公 "male") refers to adult females of some species, including spirits. NB incidentally: Mǔ jī 母雞 is current, while mǔ niǎo 母鳥 does not seem to be found.
-6. Kūn 坤 (ant. qián 乾 "metaphysically: male") is a metaphysical way of characterising things as belonging to the female realm. (NB incidentally and irrelevantly as a modern Chinese reflex kūn biǎo 坤錶 "women's watch".)
+1. The current general word for a female of any species is cí [[雌]] (ant. xióng [[雄]] "male").
+2. Nu# [[女]] (ant. nán [[男]] "male") refers specifically to human females.
+3. Pìn [[牝]] (ant. mǔ [[牡]] "male") refers to specifically to females of animals.
+4. Zì [[牸]] refers to females of buffalo, but sometimes also of tiger, rhinoceros, or horse.
+5. Mǔ [[母]] (ant. gōng [[公]] "male") refers to adult females of some species, including spirits. NB incidentally: Mǔ jī [[母雞]] is current, while mǔ niǎo [[母鳥]] does not seem to be found.
+6. Kūn [[坤]] (ant. qián [[乾]] "metaphysically: male") is a metaphysical way of characterising things as belonging to the female realm. (NB incidentally and irrelevantly as a modern Chinese reflex kūn biǎo [[坤錶]] "women's watch".)
 ## 
 HUANG JINGUI 2006
 ANIMALS 3.

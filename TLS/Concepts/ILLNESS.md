@@ -23,10 +23,10 @@ och: 病
 TYPICALLY TEMPORARY DEFECT of the BODY OR MIND of HUMANS OR of the BODY of ANIMALS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. From Warring States onwards the most current general word for illness was bìng 病, but in earlier times the word referred even more generally to troubles and difficulties of many kinds. This archaic usage did continue into later usage. When used specifically, bìng 病 refers to a lasting long-term medical condition. Interestingly, mental/emotional conditions tend to be bìng 病, perhaps because they are taken to be lasting and not acute.
-2. Jí 疾 is the oldest general word for illness, from OBI times onwards, and often this word continues to be used in this generalised way. But sometimes the word comes to refer more specifically to an acute short-term medical condition, adjectivally in jí bìng 疾病, and especially a change in medical condition, that can be very serious but is not normally construed as chronic. (Seasonal epidemiological conditions are also jí 疾.)
-3. Yàng 恙 is largely restricted to the common idiomatic formula wú yàng 無恙 "be in good health" and sometimes yǒu yàng 有恙 "have medical problems".
-4. Lì 癘 often refers to pest and the like, and comes to refer to any very serious disease. For specific meanings see also ILLNESSES.
+1. From Warring States onwards the most current general word for illness was bìng [[病]], but in earlier times the word referred even more generally to troubles and difficulties of many kinds. This archaic usage did continue into later usage. When used specifically, bìng [[病]] refers to a lasting long-term medical condition. Interestingly, mental/emotional conditions tend to be bìng [[病]], perhaps because they are taken to be lasting and not acute.
+2. Jí [[疾]] is the oldest general word for illness, from OBI times onwards, and often this word continues to be used in this generalised way. But sometimes the word comes to refer more specifically to an acute short-term medical condition, adjectivally in jí bìng [[疾病]], and especially a change in medical condition, that can be very serious but is not normally construed as chronic. (Seasonal epidemiological conditions are also jí [[疾]].)
+3. Yàng [[恙]] is largely restricted to the common idiomatic formula wú yàng [[無恙]] "be in good health" and sometimes yǒu yàng [[有恙]] "have medical problems".
+4. Lì [[癘]] often refers to pest and the like, and comes to refer to any very serious disease. For specific meanings see also ILLNESSES.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 1.

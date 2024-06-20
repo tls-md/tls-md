@@ -21,9 +21,9 @@ IMPORTANT ENDURING PROPERTY. 
 [ELEVATED/INFORMAL]
 [LASTING/TEMPORARY]
 [LITERAL/TRANSFERRED]
-1. Yè 業 refers to typically permanent assets of significant proportions.
+1. Yè [[業]] refers to typically permanent assets of significant proportions.
 [ELEVATED?], [LASTING]
-2. Chǎn 產 refers to considerable but not necessarily inalienable assets, typically not viewed as entirely inherited.
+2. Chǎn [[產]] refers to considerable but not necessarily inalienable assets, typically not viewed as entirely inherited.
 [LITERAL]
 ## Modern Chinese Criteria
 產業

@@ -22,15 +22,15 @@ BIG GROUP of SOLDIERS TYPICALLY CONTROLLED by a RULER OR GOVERNMENT.
 [IMPERSONAL/PERSONIFIED]
 [MOBILE/STATIONARY]
 [LARGE/SMALL]
-1. Bīng 兵 "armed force" focusses on the weapons ready for use and may refer to any military grouping.
+1. Bīng [[兵]] "armed force" focusses on the weapons ready for use and may refer to any military grouping.
 [GENERAL]
-2. Jūn 軍 is a complete army as a unit, from Spring and Autumn times onwards, normally attached to an army camp. Complete parts of an army are always jūn 軍, rarely shī 師. Hence the expressions sān jūn 三軍, zhōng jūn 中軍, shàng jūn 上軍, xià jūn 下軍. An army is counted by the number of jūn 軍 in it, where each jūn 軍 is said to be 10 000 men, at least in the Qi system. Systems have varied in different states. For detals of the early history see the monograph by KOLB.
+2. Jūn [[軍]] is a complete army as a unit, from Spring and Autumn times onwards, normally attached to an army camp. Complete parts of an army are always jūn [[軍]], rarely shī [[師]]. Hence the expressions sān jūn [[三軍]], zhōng jūn [[中軍]], shàng jūn [[上軍]], xià jūn [[下軍]]. An army is counted by the number of jūn [[軍]] in it, where each jūn [[軍]] is said to be 10 000 men, at least in the Qi system. Systems have varied in different states. For detals of the early history see the monograph by KOLB.
 [IMPERSONAL], [LARGE], [OFFICIAL]
-3. Shī 師 refers generally to troops a military force on a campaign, not necessarily a complete army. ZUO Ding 4.1.6 commentators quantify an armed force as consisting of 2500 men, in one exceptional context. One often speaks of 三軍之師, never of 三師之軍. One asks for troops 請／乞師, and not for jūn 軍 which would be asking for the whole army of a friendly state. The troops of another state one uses are always shī 師 (e.g. 衛人以燕師伐鄭 ), one's own troops can be described as jūn 軍 or shī 師 almost indifferently. One offers food to the enemy shī 師, not to their jūn 軍. (HF 23.27:01) There are ruì shī 銳師 "crack troops" but no ruì jūn 銳軍 "crack army". Similarly, 楚師之良. The shī 師 may be said to hear about something 師聞之, not the jūn 軍.
+3. Shī [[師]] refers generally to troops a military force on a campaign, not necessarily a complete army. ZUO Ding 4.1.6 commentators quantify an armed force as consisting of 2500 men, in one exceptional context. One often speaks of [[三軍之師]], never of [[三師之軍]]. One asks for troops [[請]]／[[乞師]], and not for jūn [[軍]] which would be asking for the whole army of a friendly state. The troops of another state one uses are always shī [[師]] (e.g. [[衛人以燕師伐鄭]] ), one's own troops can be described as jūn [[軍]] or shī [[師]] almost indifferently. One offers food to the enemy shī [[師]], not to their jūn [[軍]]. (HF 23.27:01) There are ruì shī [[銳師]] "crack troops" but no ruì jūn [[銳軍]] "crack army". Similarly, [[楚師之良]]. The shī [[師]] may be said to hear about something [[師聞之]], not the jūn [[軍]].
 [GENERAL], [MOBILE], [PERSONIFIED!]
-4. Lu# 旅 is an archaic word for armed forces in any combatant or non-combatant function, and in ZUO Ding 4.1.6 it is quantified to consist of 500 men, and.
+4. Lu# [[旅]] is an archaic word for armed forces in any combatant or non-combatant function, and in ZUO Ding 4.1.6 it is quantified to consist of 500 men, and.
 [ARCHAIC], [SMALL]
-5. Duì 隊 is common in Han texts for a division in the army, the size of this division could vary, but did not exceed the hundreds. SEE ALSO BATALLION
+5. Duì [[隊]] is common in Han texts for a division in the army, the size of this division could vary, but did not exceed the hundreds. SEE ALSO BATALLION
 [SMALL]
 ## 
 HUANG JINGUI 2006 WARFARE 2.

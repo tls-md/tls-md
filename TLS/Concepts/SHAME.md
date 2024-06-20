@@ -15,14 +15,14 @@ och: 羞／恥
 SOCIAL EMOTION OF REGRET one's SELF:own FEATURES, ACTS OR ATTITUDES which one BELIEVES to have been BAD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current word referring to private feelings of shame is xiū 羞 "feel intensely morally ashamed of oneself",
-2. The most current word for public shame or disgrace with regard to an action, the core of which is public opinion, is chǐ 恥, proper respect for which is also called chǐ 恥 "sense for what is publicly disgraceful".
-3. Rǔ 辱 refers to public humiliation and public disgrace typically caused by overt actions or reactions of others.
-4. Kuì 愧 expresses a mixture of shame and embarrassment, and the word is the only shame-word to be used as a reflexive verb meaning "be ashamed of and embarrassed about oneself".
-5. Cán 慚 "feel embarrassed and ill at ease about something" is often close to a feeling of 不好意思, and it may naturally apply to things one has said rather than done. Note the current 心慚 "feel inwardly ashamed".
-6. Zuò 怍 refers to being or becoming (typically, but not always, visibly on one's face) upset, typically by feelings of shame.
+1. The most current word referring to private feelings of shame is xiū [[羞]] "feel intensely morally ashamed of oneself",
+2. The most current word for public shame or disgrace with regard to an action, the core of which is public opinion, is chǐ [[恥]], proper respect for which is also called chǐ [[恥]] "sense for what is publicly disgraceful".
+3. Rǔ [[辱]] refers to public humiliation and public disgrace typically caused by overt actions or reactions of others.
+4. Kuì [[愧]] expresses a mixture of shame and embarrassment, and the word is the only shame-word to be used as a reflexive verb meaning "be ashamed of and embarrassed about oneself".
+5. Cán [[慚]] "feel embarrassed and ill at ease about something" is often close to a feeling of [[不好意思]], and it may naturally apply to things one has said rather than done. Note the current [[心慚]] "feel inwardly ashamed".
+6. Zuò [[怍]] refers to being or becoming (typically, but not always, visibly on one's face) upset, typically by feelings of shame.
 [INCHOATIVE]
-7. Nǎn 赧 refers to the external manifestation of feelings of shame through blushing, but the term is not common in pre-Buddhist literature and is marginal in the group.
+7. Nǎn [[赧]] refers to the external manifestation of feelings of shame through blushing, but the term is not common in pre-Buddhist literature and is marginal in the group.
 ## Modern Chinese Criteria
 慚愧
 羞愧

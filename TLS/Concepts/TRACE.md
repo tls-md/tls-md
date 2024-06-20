@@ -7,7 +7,7 @@ zh: 痕跡
 IMAGE:sign IN a PLACE of something that in the PAST has BE-IN:been in THIS PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-跡
+[[跡]]
 # Ontology
 
 ## Hypernym

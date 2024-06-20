@@ -31,15 +31,15 @@ PROUD AND TENDING to SHOW DESPISE:contempt IN-RELATION-TO OTHERS. 
 [BEHAVIOUR/DISPOSITION]
 [HABITUAL/OCCASIONAL]
 [IMPERSONAL/PERSONAL]
-1. The most current general word for arrogance of attitude and in behaviour is probably jiāo 驕 (ant.* bēi 卑 "humble in attitude") which refers to an overbearing exaggerated self-confidence and does not essentially involve a negative attitude towards others.
+1. The most current general word for arrogance of attitude and in behaviour is probably jiāo [[驕]] (ant.* bēi [[卑]] "humble in attitude") which refers to an overbearing exaggerated self-confidence and does not essentially involve a negative attitude towards others.
 [DISPOSITION], [GENERAL], [IMPERSONAL]
-2. Ào 傲 (ant. qiān 謙 "unassuming") is primarily an arrogant attitude towards others and a failure to recognise the dignity of others in action. (NB: Only in post-Buddhist times does the word come to designate justified pride.)
+2. Ào [[傲]] (ant. qiān [[謙]] "unassuming") is primarily an arrogant attitude towards others and a failure to recognise the dignity of others in action. (NB: Only in post-Buddhist times does the word come to designate justified pride.)
 [DISPOSITION], [GRADED], [IMPERSONAL]
-3. Jù 倨 (ant. gōng 恭 "show proper politeness") is primarily an informal physical pose and then by extension nonchalance and a failure to show proper respect for others.
+3. Jù [[倨]] (ant. gōng [[恭]] "show proper politeness") is primarily an informal physical pose and then by extension nonchalance and a failure to show proper respect for others.
 [BEHAVIOUR], [HABITUAL], [HIGH-DEGREE], [IMPERSONAL]
-4. Màn 慢 (ant. jìng 敬 "show proper respect") refers to arrogance in action as a failure to show proper diligence in polite behaviour towards someone.
+4. Màn [[慢]] (ant. jìng [[敬]] "show proper respect") refers to arrogance in action as a failure to show proper diligence in polite behaviour towards someone.
 [BEHAVIOUR], [HABITUAL!], [PERSONAL]
-5. Jiàn 僭 may perhaps be construed as arrogance as a result of a failure to recognise boundaries and limits to what is permissible for one, and where another person's responsibilities begin. But the word is marginal in the group. See ARROGATE.
+5. Jiàn [[僭]] may perhaps be construed as arrogance as a result of a failure to recognise boundaries and limits to what is permissible for one, and where another person's responsibilities begin. But the word is marginal in the group. See ARROGATE.
 [BEHAVIOUR], [OCCASIONAL], [PERSONAL]
 ## Modern Chinese Criteria
 傲慢 / 高傲

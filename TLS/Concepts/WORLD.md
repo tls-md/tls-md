@@ -13,12 +13,12 @@ PLACE UNDER the SKY.
 [[WELT]]
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current term for the inhabited sublunar world on earth (often particularly that part of it which is populated or at least dominated by the Han/華夏 people) is tiān xià 天下 "All under Heaven". Compare the Greek oikoumenē.
-2. Hǎi nèi 海內 refers to what is surrounded by the four seas, i.e. the whole of the land mass of the world.
-3. Sì hǎi 四海 "the Four Seas" includes the landmass between these Four Seas. (The names of these Four Seas are not entirely clear. Perhaps the Eastern, Southern, Northern and Western Seas.)
-4. Liù hé 六合 refers to everything in all dimensiones east, west, south, north, below, above.
-5. Shì 世 sometimes refers to the world as it is now, the world one lives in.
-6. Jiǔ zhōu 九州 refers to the nine regions of the world.
+1. The current term for the inhabited sublunar world on earth (often particularly that part of it which is populated or at least dominated by the Han/[[華夏]] people) is tiān xià [[天下]] "All under Heaven". Compare the Greek oikoumenē.
+2. Hǎi nèi [[海內]] refers to what is surrounded by the four seas, i.e. the whole of the land mass of the world.
+3. Sì hǎi [[四海]] "the Four Seas" includes the landmass between these Four Seas. (The names of these Four Seas are not entirely clear. Perhaps the Eastern, Southern, Northern and Western Seas.)
+4. Liù hé [[六合]] refers to everything in all dimensiones east, west, south, north, below, above.
+5. Shì [[世]] sometimes refers to the world as it is now, the world one lives in.
+6. Jiǔ zhōu [[九州]] refers to the nine regions of the world.
 ## Modern Chinese Criteria
 世界
 世

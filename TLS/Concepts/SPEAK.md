@@ -44,16 +44,16 @@ ACT so as to USE WORDS FOR SHOWING MEANING.
 *Speech by speaker X, directed towards audience Y, in order to communicate message Z.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most colourless and general way of referring to any act of saying attributed to any subject, no matter whether animate or inanimate, something is yuē 曰, and the verb introduces what poses as direct but can often be the summarising of such speech and even the summarising of the subject's opinion.
-2. Yán 言 is to speak up, propose, typically in public, and on one's own initiative, to maintain something, and the word can indroduce direct speech as well as occasionally very limited indirect speech.
-3. Yǔ 語 is to say something as part of typically informal conversation. Contrast yù 語 "tell, inform" in REPORT.
-4. Tán 談 refers to informal communicative talk, sometimes but not always with some pejorative connotation.
-5. Yún 云 is used of books as well as persons and tends to refer to what are typically construed as authoritative acts of saying, and the word often has to be taken figuratively as "run as follows". (Note the perfectly regular contrast 曰 / 云 in MOUZI.)
-6. Wèi 謂 is to say or predicate something of someone. See also MEAN.
-7. Cí 辭 is primarily an act of careful articulation and rhetorical formulation.
-8. Dào 道 "speak of with authority, speak of adequately; quote" often involves quotation or especially serious discussion of important points, or the relating of important evidence.
-9. Jǔ 舉 is a technical term referring to the bringing up of a subject, and the subject of this verb is always a person, not a text.
-10. Chēng 稱 refers in a rather formal historian's style to the making of statements and the applying of terminology. See also NAME.
+1. The most colourless and general way of referring to any act of saying attributed to any subject, no matter whether animate or inanimate, something is yuē [[曰]], and the verb introduces what poses as direct but can often be the summarising of such speech and even the summarising of the subject's opinion.
+2. Yán [[言]] is to speak up, propose, typically in public, and on one's own initiative, to maintain something, and the word can indroduce direct speech as well as occasionally very limited indirect speech.
+3. Yǔ [[語]] is to say something as part of typically informal conversation. Contrast yù [[語]] "tell, inform" in REPORT.
+4. Tán [[談]] refers to informal communicative talk, sometimes but not always with some pejorative connotation.
+5. Yún [[云]] is used of books as well as persons and tends to refer to what are typically construed as authoritative acts of saying, and the word often has to be taken figuratively as "run as follows". (Note the perfectly regular contrast [[曰]] / [[云]] in MOUZI.)
+6. Wèi [[謂]] is to say or predicate something of someone. See also MEAN.
+7. Cí [[辭]] is primarily an act of careful articulation and rhetorical formulation.
+8. Dào [[道]] "speak of with authority, speak of adequately; quote" often involves quotation or especially serious discussion of important points, or the relating of important evidence.
+9. Jǔ [[舉]] is a technical term referring to the bringing up of a subject, and the subject of this verb is always a person, not a text.
+10. Chēng [[稱]] refers in a rather formal historian's style to the making of statements and the applying of terminology. See also NAME.
 ## Modern Chinese Criteria
 講
 講話

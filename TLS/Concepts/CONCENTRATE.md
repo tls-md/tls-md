@@ -19,11 +19,11 @@ och: 專
 THINK of ONLY ONE THING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for concentrating one's attention or one's actions in one direction is zhuān 專／摶.
-2. Níng 凝 refers to the concentration of abstract or "metaphysical" substances.
-3. Yī 一 and yī 壹 emphasise the uniqueness of what is being concentrated on.
-4. Xíng 行 and fú 服 "devote oneself completely to" focusses on action rather than thought as the field of concentration.
-5. Jī 積 emphasises the cumulative results of concentration.
+1. The current word for concentrating one's attention or one's actions in one direction is zhuān [[專]]／[[摶]].
+2. Níng [[凝]] refers to the concentration of abstract or "metaphysical" substances.
+3. Yī [[一]] and yī [[壹]] emphasise the uniqueness of what is being concentrated on.
+4. Xíng [[行]] and fú [[服]] "devote oneself completely to" focusses on action rather than thought as the field of concentration.
+5. Jī [[積]] emphasises the cumulative results of concentration.
 ## Modern Chinese Criteria
 集中 is the current modern word for concentration.
 FIND SYNONYMS.

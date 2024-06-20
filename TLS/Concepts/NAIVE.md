@@ -26,10 +26,10 @@ och: 樸
 STUPID BECAUSE LACKING IMPORTANT EXPERIENCE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for naivete is pǔ 樸 (ant.* zhuó 琢 "polished").
-2. Sù 素 (ant. yǎ 雅 "elegant and polished") emphasises innocence and purity.
-3. Zhì 質 (ant. wén 文 "civilised") emphasises basicness of orientation and lack of artificial ornament.
-4. Yě 野 (ant. wén 文 "civilised, urbane") emphasises the lack of the adornments of high culture.
+1. The current general word for naivete is pǔ [[樸]] (ant.* zhuó [[琢]] "polished").
+2. Sù [[素]] (ant. yǎ [[雅]] "elegant and polished") emphasises innocence and purity.
+3. Zhì [[質]] (ant. wén [[文]] "civilised") emphasises basicness of orientation and lack of artificial ornament.
+4. Yě [[野]] (ant. wén [[文]] "civilised, urbane") emphasises the lack of the adornments of high culture.
 ## Modern Chinese Criteria
 樸素
 樸實

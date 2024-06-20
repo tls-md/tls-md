@@ -16,13 +16,13 @@ LACK the ABILITY to SEE.
 # Criteria and general notes
 ## Old Chinese Criteria
 [[CONGERIES]]
-1. Gǔ 瞽 is the standard word for blindness (not necessarily congenital) where a person has eyeballs, but where the eyesight is impaired, some say typically by the eye-lids leaving only a small opening. The word also has figurative meanings.
-2. Máng 盲 (ant. míng 明 "endowed with clear sight") became the standard word for blindness, but the word can apparently also refer specifically to colour-blindness in pre-Han times.
-3. Méng 矇 / 蒙 refers specifically to blindness as a result of glaucoma, but is also current in generalised meanings referring to reduced vision.
-4. Sǒu 瞍 refers ocasionally to blindness which is the result of atrophy or lack of eyeballs (as prototypically in the case of Music Master Kuàng 師曠 ), and this is an ancient elevated word to use.
-5. Miǎo 眇 refers to blindness on one eye because of near-sightnedness or strabismus; and in post-Han times the word came to refer to blindness in both eyes.
-6. Xuàn 眩 refers to non-congenital blindness, but the word is very often used metaphorically in the sense of "blinded, dazzled".
-NB: Xiá 瞎 is post-Buddhist, SANGUO.
+1. Gǔ [[瞽]] is the standard word for blindness (not necessarily congenital) where a person has eyeballs, but where the eyesight is impaired, some say typically by the eye-lids leaving only a small opening. The word also has figurative meanings.
+2. Máng [[盲]] (ant. míng [[明]] "endowed with clear sight") became the standard word for blindness, but the word can apparently also refer specifically to colour-blindness in pre-Han times.
+3. Méng [[矇]] / [[蒙]] refers specifically to blindness as a result of glaucoma, but is also current in generalised meanings referring to reduced vision.
+4. Sǒu [[瞍]] refers ocasionally to blindness which is the result of atrophy or lack of eyeballs (as prototypically in the case of Music Master Kuàng [[師曠]] ), and this is an ancient elevated word to use.
+5. Miǎo [[眇]] refers to blindness on one eye because of near-sightnedness or strabismus; and in post-Han times the word came to refer to blindness in both eyes.
+6. Xuàn [[眩]] refers to non-congenital blindness, but the word is very often used metaphorically in the sense of "blinded, dazzled".
+NB: Xiá [[瞎]] is post-Buddhist, SANGUO.
 ## 
 HUANG JINGUI 2006
 BODY 23.

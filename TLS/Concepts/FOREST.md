@@ -20,8 +20,8 @@ och: 林
 TERRITORY CONTAINING MANY TREES AND SHRUBS EVERYWHERE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for a copse or forest of any kind is lín 林.
-2. Cóng 叢 refers to a thicket consisting of shrubs and trees.
+1. The standard word for a copse or forest of any kind is lín [[林]].
+2. Cóng [[叢]] refers to a thicket consisting of shrubs and trees.
 ## Modern Chinese Criteria
 樹林
 樹林子

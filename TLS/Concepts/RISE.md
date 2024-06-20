@@ -16,10 +16,10 @@ och: 起
 MOVE UP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for rising or raising oneself up, or rising to an upright position of any kind is qǐ 起 (ant. jiàng 降 "go down").
-2. Shēng 升 (ant. xià 下 "go down") refers specifically to the rising of something to a higher level, and these levels can be but do not have to be the ranks of a hierarchy.
-3. Jìn 進 (ant. tuì 退 "be demoted") refers specifically to the rising in the ranks of a hierarchy.
-4. Jìn 晉 is a very formal term referring to the rising of something in the ranks of a hierarchy.
+1. The most current general word for rising or raising oneself up, or rising to an upright position of any kind is qǐ [[起]] (ant. jiàng [[降]] "go down").
+2. Shēng [[升]] (ant. xià [[下]] "go down") refers specifically to the rising of something to a higher level, and these levels can be but do not have to be the ranks of a hierarchy.
+3. Jìn [[進]] (ant. tuì [[退]] "be demoted") refers specifically to the rising in the ranks of a hierarchy.
+4. Jìn [[晉]] is a very formal term referring to the rising of something in the ranks of a hierarchy.
 ## Modern Chinese Criteria
 上升
 升高

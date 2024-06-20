@@ -7,8 +7,8 @@ zh: 液汁
 SUBSTANCE which CAN FLOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any liquid of any kind, drinkable or not, is yè 液, and the term is of prime importance in medical texts.
-2. Zhī 汁 "liquid" refers to anything where water has an admixture of something else, or which is the result of squeezing liquid out of something.
+1. The current general word for any liquid of any kind, drinkable or not, is yè [[液]], and the term is of prime importance in medical texts.
+2. Zhī [[汁]] "liquid" refers to anything where water has an admixture of something else, or which is the result of squeezing liquid out of something.
 ## Modern Chinese Criteria
 液汁
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

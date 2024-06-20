@@ -8,10 +8,10 @@ och: 額
 FRONT TOP PART of FACE ABOVE the EYES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the forehead in Han times became é 額.
-2. Yán 顏 is the most current ancient word and refers specifically to the area between the eyebrows, more generally to the upper part of the face.
-3. Sǎng 顙 refers to the forehead as a whole, especially the upper part.
-4. Tí 題 and diān 顛 refers to the forehead but may include the top of the head.
+1. The current general word for the forehead in Han times became é [[額]].
+2. Yán [[顏]] is the most current ancient word and refers specifically to the area between the eyebrows, more generally to the upper part of the face.
+3. Sǎng [[顙]] refers to the forehead as a whole, especially the upper part.
+4. Tí [[題]] and diān [[顛]] refers to the forehead but may include the top of the head.
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 32. 額頭。

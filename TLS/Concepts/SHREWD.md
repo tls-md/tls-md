@@ -23,7 +23,7 @@ zh: 狡猾
 WICKEDLY AND SELFISHLY INTELLIGENT. See CRAFTY
 # Criteria and general notes
 ## Old Chinese Criteria
-巧
+[[巧]]
 # Ontology
 
 ## Hypernym

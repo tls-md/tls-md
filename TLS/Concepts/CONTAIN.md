@@ -21,11 +21,11 @@ HAVE as a PART OR as what BE-IN:is INSIDE.
 [BASIC/MARGINAL]
 [[COMMON/RARE]]
 [GENERAL/SPECIFIC]
-1. Hán 含 is literally to hold in one's mouth, but the word can refer quite generally and even abstractly to containing something.
+1. Hán [[含]] is literally to hold in one's mouth, but the word can refer quite generally and even abstractly to containing something.
 [MARGINAL]; [[COMMON]]
-2. Róng 容 refers to the making room for and thus containing or having space for something, and the word is also used abstractly.
+2. Róng [[容]] refers to the making room for and thus containing or having space for something, and the word is also used abstractly.
 [GENERAL]
-3. Yǒu tuó 有橐 refers in an abstract way to a larger unit encompassing a smaller unit.
+3. Yǒu tuó [[有橐]] refers in an abstract way to a larger unit encompassing a smaller unit.
 [ABSTRACT]; [[RARE]]
 ## Modern Chinese Criteria
 包含 refers very generally to containing or comprising something.

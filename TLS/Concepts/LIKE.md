@@ -8,9 +8,9 @@ zh: 寧取
 DESIRE INTENSELY so as to TEND to CHOOSE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general words expressing preference is ài 愛, but the notion is often hard to distinguish from a preferential desire, and for the semantically closely related hào 好 see DESIRE.
-2. Nìng 寧 refers to subjective general preference.
-3. Bù rú 不如 refers to objective preferability "one should prefer to, one should rather". See also SHOULD.
+1. The general words expressing preference is ài [[愛]], but the notion is often hard to distinguish from a preferential desire, and for the semantically closely related hào [[好]] see DESIRE.
+2. Nìng [[寧]] refers to subjective general preference.
+3. Bù rú [[不如]] refers to objective preferability "one should prefer to, one should rather". See also SHOULD.
 ## Modern Chinese Criteria
 愛
 好 ha4o

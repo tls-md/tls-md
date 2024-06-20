@@ -9,10 +9,10 @@ och: 刃
 SHARP SIDE OR TIP FOR PIERCING OR CUTTING in a CUTTING TOOL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general current word for the cutting edge of an instrument is rèn 刃.
-2. Ruì 銳 refers to the sharp point of a weapon which normally does not have an edge.
-3. Fēng 鋒 refers to the sharp point at the end of the edge of a weapon.
-NB: máng 鋩 "sharp point of a weapon" is not current in pre-Buddhist Chinese.
+1. The general current word for the cutting edge of an instrument is rèn [[刃]].
+2. Ruì [[銳]] refers to the sharp point of a weapon which normally does not have an edge.
+3. Fēng [[鋒]] refers to the sharp point at the end of the edge of a weapon.
+NB: máng [[鋩]] "sharp point of a weapon" is not current in pre-Buddhist Chinese.
 ## Modern Chinese Criteria
 刃
 口

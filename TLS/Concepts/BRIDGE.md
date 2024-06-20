@@ -11,9 +11,9 @@ zh: 橋梁
 ARTIFACT BUILT FOR:in order to CAUSE HUMANS to be ABLE to CROSS TYPICALLY a RIVER OR a VALLEY.  
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a bridge is liáng 梁, and this word refers to a bridge which is large enough for a cart or carriage to pass.
-2. Qiáo 橋 begins to be used for a very substantial bridge in Han times and refers then to a major bridge on which several carts might even cross from different directions at the same time. The word seems to be of colloquial origin, and referred originally to the "bridge" or crosspiece across a well.
-3. Gāng 杠 is a small, usually short bridge, sometimes with stone frame and one wooden planks to walk on.
+1. The current general word for a bridge is liáng [[梁]], and this word refers to a bridge which is large enough for a cart or carriage to pass.
+2. Qiáo [[橋]] begins to be used for a very substantial bridge in Han times and refers then to a major bridge on which several carts might even cross from different directions at the same time. The word seems to be of colloquial origin, and referred originally to the "bridge" or crosspiece across a well.
+3. Gāng [[杠]] is a small, usually short bridge, sometimes with stone frame and one wooden planks to walk on.
 ## 
 HUANG JINGUI 2006
 COMMUNICATIONS 5.

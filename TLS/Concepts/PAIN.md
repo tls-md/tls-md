@@ -27,8 +27,8 @@ och: 痛
 DISTRESS CAUSED by a BAD SITUATION in one's BODY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly dominant general word for physical pain is tòng 痛 (ant. shū 舒 "feel well" and wú yàng 無恙 "fail nothing").
-NB: Curiously, it is hard to think of other common words for pain. Téng 疼 is post-Buddhist.
+1. The clearly dominant general word for physical pain is tòng [[痛]] (ant. shū [[舒]] "feel well" and wú yàng [[無恙]] "fail nothing").
+NB: Curiously, it is hard to think of other common words for pain. Téng [[疼]] is post-Buddhist.
 ## Modern Chinese Criteria
 疼痛 is probably the most general and abstract modern word for any kind of pain.
 苦痛

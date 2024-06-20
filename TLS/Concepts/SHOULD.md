@@ -26,13 +26,13 @@ och: 當
 Be APPROPRIATE for a HUMAN to ACT:do something DEFINITE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word expressing obligation is dāng 當, and this word focusses on the fact that one is objectively obliged to do something.
-2. Yí 宜 emphasises that what one should do is indeed fitting and proper.
-3. Bù kě bù 不可不 construes obligation as inevitability or inescapablitity.
-4. Bì 必 emphasises obligation as ineluctable and expresses a stronger obligation than bù kě bù 不可不.
-5. Mò rú 莫如 emphasises that some obligation represents the best of several options.
-6. Qí 其 expresses a colourless rather weak obligation to do something.
-7. Kě 可 precedes passivised verbs and expresses the idea that some object should be VERBed. See MUST
+1. The current general word expressing obligation is dāng [[當]], and this word focusses on the fact that one is objectively obliged to do something.
+2. Yí [[宜]] emphasises that what one should do is indeed fitting and proper.
+3. Bù kě bù [[不可不]] construes obligation as inevitability or inescapablitity.
+4. Bì [[必]] emphasises obligation as ineluctable and expresses a stronger obligation than bù kě bù [[不可不]].
+5. Mò rú [[莫如]] emphasises that some obligation represents the best of several options.
+6. Qí [[其]] expresses a colourless rather weak obligation to do something.
+7. Kě [[可]] precedes passivised verbs and expresses the idea that some object should be VERBed. See MUST
 ## Modern Chinese Criteria
 必須
 必要

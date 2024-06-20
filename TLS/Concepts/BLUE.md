@@ -7,10 +7,10 @@ zh: 藍
 COLOUR of the SKY AND the DEEP SEA.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Qīng 青 is perhaps the most current word for dark blue, but this word covers a wider spectrum including dark green and even dark grey.
-2. Cāng 蒼 refers to the blue colour, prototypically to the bright blue colour like that of the sky.
+1. Qīng [[青]] is perhaps the most current word for dark blue, but this word covers a wider spectrum including dark green and even dark grey.
+2. Cāng [[蒼]] refers to the blue colour, prototypically to the bright blue colour like that of the sky.
 [GENERAL]
-3. Lán 藍 is rarely used in pre-Buddhist times, and the word refers to a deep, rich blue colour.
+3. Lán [[藍]] is rarely used in pre-Buddhist times, and the word refers to a deep, rich blue colour.
 [SPECIFIC]; [[RARE]]
 ## 
 HUANG JINGUI 2006

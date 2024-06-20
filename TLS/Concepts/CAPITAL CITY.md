@@ -8,10 +8,10 @@ och: 都
 CITY where the GOVERNMENT of a STATE BE-IN:is located.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Guó 國 is a current word for the capital from early Zhou times onwards, but in the course of time the capital came to stand as representative of the (city-) state, and the word came to be used for the state rather than the capital. (Note that even the names of ancient Chinese states currently refer not to the state as such but to the capital.).
-2. Dū 都 typically refers to a conurbation which serves as an administrative centre below the level of a capital, but the meaning of the word does often include the capital and it is occasionally used to refer specifically to the capital.
-3. Jīng 京 refers to the capital in Han times and seems short for jīng shī 京師 which refers to the permanent seat of central government and of the encampment of the central army.
-4. Yì 邑 is an archaic term for a capital current in Western Zhou times and obsolete in that meaning afterwards, when the word came to mean settlement at an administrative level below the dū 都.
+1. Guó [[國]] is a current word for the capital from early Zhou times onwards, but in the course of time the capital came to stand as representative of the (city-) state, and the word came to be used for the state rather than the capital. (Note that even the names of ancient Chinese states currently refer not to the state as such but to the capital.).
+2. Dū [[都]] typically refers to a conurbation which serves as an administrative centre below the level of a capital, but the meaning of the word does often include the capital and it is occasionally used to refer specifically to the capital.
+3. Jīng [[京]] refers to the capital in Han times and seems short for jīng shī [[京師]] which refers to the permanent seat of central government and of the encampment of the central army.
+4. Yì [[邑]] is an archaic term for a capital current in Western Zhou times and obsolete in that meaning afterwards, when the word came to mean settlement at an administrative level below the dū [[都]].
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 30. 國都之稱，商代尚無。

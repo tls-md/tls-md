@@ -43,14 +43,14 @@ och: 盛／茂
 To GROW so as to BECOME STRONG AND ABUNDANT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for flourishing or thriving of any kind, abstract or concrete is shèng 盛 (ant. shuāi 衰 "decline").
-2. Chāng 昌 and xīng 興 (all ant. wáng 亡 "be ruined"), and lóng 隆 (ant. tì 替 "decline") refer primarily to the flourishing of political institutions and the like.
-3. Xí 息, zhí 殖, and fān 蕃 refer specifically to the flourishing of flora and fauna.
-4. The literal word for luxuriant growth of plants is mào 茂 (ant. diāo 凋 "dried up").
-5. Róng 榮 (ant. kū 枯 "dried up") refers especially to splendid luxuriance of growth as an admirable sight.
-6. Fēng 豐 (ant.* wěi 萎 "dried up and thin on the ground") refers to rich thick growth, often as an asset.
-7. Fān 蕃 and yù 鬱 (mostly reduplicated yù yù 鬱鬱 ) refer to ample thick growth.
-8. Fú shū 扶疏 is a poetic word referring to luxurious growth of plants.
+1. The current general word for flourishing or thriving of any kind, abstract or concrete is shèng [[盛]] (ant. shuāi [[衰]] "decline").
+2. Chāng [[昌]] and xīng [[興]] (all ant. wáng [[亡]] "be ruined"), and lóng [[隆]] (ant. tì [[替]] "decline") refer primarily to the flourishing of political institutions and the like.
+3. Xí [[息]], zhí [[殖]], and fān [[蕃]] refer specifically to the flourishing of flora and fauna.
+4. The literal word for luxuriant growth of plants is mào [[茂]] (ant. diāo [[凋]] "dried up").
+5. Róng [[榮]] (ant. kū [[枯]] "dried up") refers especially to splendid luxuriance of growth as an admirable sight.
+6. Fēng [[豐]] (ant.* wěi [[萎]] "dried up and thin on the ground") refers to rich thick growth, often as an asset.
+7. Fān [[蕃]] and yù [[鬱]] (mostly reduplicated yù yù [[鬱鬱]] ) refer to ample thick growth.
+8. Fú shū [[扶疏]] is a poetic word referring to luxurious growth of plants.
 NB: There is a remarkable abundance of terminology in this semantic field, and in many cases the distinctions are less than clear.
 ## Modern Chinese Criteria
 興盛

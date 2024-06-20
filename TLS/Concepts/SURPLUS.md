@@ -21,10 +21,10 @@ och: 餘
 MORE ABUNDANT than is NEEDED.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for left-overs or surplus is yú 餘 (ant. quē 缺 "in insufficient supply").
-2. Duō 多 (ant. shǎo 少 "in poor supply") emphasises sheer quantity.
-3. Bǔ 補 (ant. quē 闕 "causing shortage") focusses on something being extra and fulfilling a supplementary function.
-4. Xiàn 羨 is occasionally used to refer to agricultural or other surplus.
+1. The current general word for left-overs or surplus is yú [[餘]] (ant. quē [[缺]] "in insufficient supply").
+2. Duō [[多]] (ant. shǎo [[少]] "in poor supply") emphasises sheer quantity.
+3. Bǔ [[補]] (ant. quē [[闕]] "causing shortage") focusses on something being extra and fulfilling a supplementary function.
+4. Xiàn [[羨]] is occasionally used to refer to agricultural or other surplus.
 ## Modern Chinese Criteria
 多餘
 富餘

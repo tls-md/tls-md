@@ -43,12 +43,12 @@ och: 驚
 CAUSE TO FEAR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for frightening someone in a lasting way is jīng 驚.
-2. Jù 懼 is used causatively to refer quite generally to striking fear into someone, and this state of fear is usually of short duration.
-3. Kǒng 恐 is sometimes used causatively and intensitively to refer to terrifying someone.
-4. Wèi 畏 is used causatively to refer to striking awe-struck fear into someone, and the word is sometimes used in a more general way for frightening.
-5. Hè 赫 / 嚇 is probably a dialect word referring to the frightening of someone.
-NB: Hǔ 唬 "frighten" is post-Han.
+1. The current general word for frightening someone in a lasting way is jīng [[驚]].
+2. Jù [[懼]] is used causatively to refer quite generally to striking fear into someone, and this state of fear is usually of short duration.
+3. Kǒng [[恐]] is sometimes used causatively and intensitively to refer to terrifying someone.
+4. Wèi [[畏]] is used causatively to refer to striking awe-struck fear into someone, and the word is sometimes used in a more general way for frightening.
+5. Hè [[赫]] / [[嚇]] is probably a dialect word referring to the frightening of someone.
+NB: Hǔ [[唬]] "frighten" is post-Han.
 ## Modern Chinese Criteria
 恐嚇
 恫嚇

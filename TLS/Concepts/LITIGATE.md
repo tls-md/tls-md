@@ -30,8 +30,8 @@ och: 訟
 COMPETE with OTHERS USING the LAW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for any lawsuit one person takes out against another is sòng 訟.
-2. Yù 獄 typically refers specifically to a criminal lawsuit.
+1. The general word for any lawsuit one person takes out against another is sòng [[訟]].
+2. Yù [[獄]] typically refers specifically to a criminal lawsuit.
 ## 
 HUANG JINGUI 2006
 GOVERNMENT AND LAW 36. 訴訟。

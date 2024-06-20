@@ -8,7 +8,7 @@ och: 前
 PLACE BETWEEN SPEAKER AND something OR NEAR in the DIRECTION the SPEAKER LOOKING.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for "before in space" is qián 前 (ant. hòu 後 "behind"), and the word does not seem to have competitors.
+1. The current word for "before in space" is qián [[前]] (ant. hòu [[後]] "behind"), and the word does not seem to have competitors.
 ## Modern Chinese Criteria
 前
 前面

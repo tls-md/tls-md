@@ -20,11 +20,11 @@ och: 傾
 ALMOST HORISONTAL, BUT MORE LOW ON ONE SIDE than ON the OTHER SIDE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Probably the most current general word referring to tilting to one side is qǐng 傾 (ant. zhèng 正 "straight and level") which can freely refer to tilted bottles, geological formations etc.
-2. Piān 偏 "onesided" (ant. zhèng 正 "straight and level") typically refers to abstract imbalance.
-3. Xié 斜 (ant. zhèng 正 "straight and level") refers to any concrete object or movement being neither upright nor horizontal, and the word is first attested in HUANGDINEIJING.
-4. Zè 仄 (ant. píng 平 "level") refers specifically to the sun being in a less than perpendicular position vis-a-vis the observer.
-5. Dǒu 陡 (ant. píng 平 "level") refers specifically to the slanted nature of terrain.
+1. Probably the most current general word referring to tilting to one side is qǐng [[傾]] (ant. zhèng [[正]] "straight and level") which can freely refer to tilted bottles, geological formations etc.
+2. Piān [[偏]] "onesided" (ant. zhèng [[正]] "straight and level") typically refers to abstract imbalance.
+3. Xié [[斜]] (ant. zhèng [[正]] "straight and level") refers to any concrete object or movement being neither upright nor horizontal, and the word is first attested in HUANGDINEIJING.
+4. Zè [[仄]] (ant. píng [[平]] "level") refers specifically to the sun being in a less than perpendicular position vis-a-vis the observer.
+5. Dǒu [[陡]] (ant. píng [[平]] "level") refers specifically to the slanted nature of terrain.
 ## Modern Chinese Criteria
 歪
 歪斜

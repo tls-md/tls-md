@@ -17,11 +17,11 @@ och: 唾
 ISSUE SALIVA ETC. FROM one's MOUTH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word spitting is tuò 唾.
-2. Xiè 瀉 is to bring up deep down from the stomach rather than the throat.
-3. O ㄆ歐／嘔 is to be ill and spit out involuntarily.
-4. Yí 洟 is used to refer to mucus from the nose, but there are cases where the word seems to refer to saliva.
-NB: Tǔ 吐 "to spit" is post-Buddhist.
+1. The current word spitting is tuò [[唾]].
+2. Xiè [[瀉]] is to bring up deep down from the stomach rather than the throat.
+3. O ㄆ[[歐]]／[[嘔]] is to be ill and spit out involuntarily.
+4. Yí [[洟]] is used to refer to mucus from the nose, but there are cases where the word seems to refer to saliva.
+NB: Tǔ [[吐]] "to spit" is post-Buddhist.
 ## Modern Chinese Criteria
 吐
 唾

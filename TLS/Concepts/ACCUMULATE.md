@@ -22,15 +22,15 @@ GATHER THINGS INTEND:so as to CAUSE them THEREUPON TO REMAIN TOGETHER. 
 [GENERAL/SPECIFIC]
 [LARGE-SCALE/SMALL-SCALE]
 [LASTING/TRANSITORY]
-1. The current general word for accumulating anything concrete or abstract is jī 積 (ant. sǎn 散 "be dispersed"), and the word focusses on the process of accumulation rather than on the result only.
+1. The current general word for accumulating anything concrete or abstract is jī [[積]] (ant. sǎn [[散]] "be dispersed"), and the word focusses on the process of accumulation rather than on the result only.
 [LARGE-SCALE], [LASTING]
-2. Xù 畜 / 蓄 refers specifically to accumulation and continuous storage of things for the purpose of sustenance of life or the rearing of domestic animals.
+2. Xù [[畜]] / [[蓄]] refers specifically to accumulation and continuous storage of things for the purpose of sustenance of life or the rearing of domestic animals.
 [CONCRETE], [SMALL-SCALE] [TRANSITORY]
-3. Chǔ 儲 refers to the accumulation and continuous storage of new articles of general use for the maintainance of life.
+3. Chǔ [[儲]] refers to the accumulation and continuous storage of new articles of general use for the maintainance of life.
 [CONCRETE!], [TRANSITORY]
-4. Lěi 累 typically refers quite literally to the piling up of things into a heap or a heap-like structure, but the word does occasionally have generalised usages referring to accumulation of any kind, abstract or concrete.
+4. Lěi [[累]] typically refers quite literally to the piling up of things into a heap or a heap-like structure, but the word does occasionally have generalised usages referring to accumulation of any kind, abstract or concrete.
 [CONCRETE!], [LASTING]
-5. Wěi 委 (ant.* qì 棄 "throw away") refers to small-scale accumulation of concrete objects.
+5. Wěi [[委]] (ant.* qì [[棄]] "throw away") refers to small-scale accumulation of concrete objects.
 [CONCRETE], [SMALL-SCALE]
 ## Modern Chinese Criteria
 積累 is the currect modern word for accumulating.

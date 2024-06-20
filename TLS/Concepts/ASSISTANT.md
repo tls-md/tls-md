@@ -28,17 +28,17 @@ OFFICIAL who is EMPLOYED TO SERVE OR HELP ANOTHER MORE SENIOR OFFICIAL.
 [HUMBLE/NOBLE]
 [PRECISE/VAGUE]
 [TECHNICAL-TERM/CURRENT-TERM]
-1. The most general and most current colourless word for an assistant to any official in any capacity, but often in the capacity of a sernior minister, is fǔ 輔.
+1. The most general and most current colourless word for an assistant to any official in any capacity, but often in the capacity of a sernior minister, is fǔ [[輔]].
 [GENERAL], [VAGUE]
-2. Chéng 丞 became especially common from Qin times onwards, and this bureaucratic term can refer to any assistant in formal employment.
+2. Chéng [[丞]] became especially common from Qin times onwards, and this bureaucratic term can refer to any assistant in formal employment.
 [SPECIFIC], [TECHNICAL-TERM]
-3. Fù 副 is a bureaucratic term that refers to a junior official of any kind in formal employment in Han times.
+3. Fù [[副]] is a bureaucratic term that refers to a junior official of any kind in formal employment in Han times.
 [HUMBLE], [TECHNICAL-TERM]
-4. Èr 貳 is a standard archaic word referring to minor assistants in formal employment (ZHOULI).
+4. Èr [[貳]] is a standard archaic word referring to minor assistants in formal employment (ZHOULI).
 [ARCHAIC], [HUMBLE]
-5. Zuǒ 佐 refers to a person closely linked to the master and taking charge of minor practical matters, a personal servant, perhaps a secretary, but the word refers generally to a "helping hand".
+5. Zuǒ [[佐]] refers to a person closely linked to the master and taking charge of minor practical matters, a personal servant, perhaps a secretary, but the word refers generally to a "helping hand".
 [HUMBLE]
-6. Xiàng 相 can be used to refer to an assistant at any level, or to the functions fulfilled by such an assistant. See HELP
+6. Xiàng [[相]] can be used to refer to an assistant at any level, or to the functions fulfilled by such an assistant. See HELP
 [SPECIFIC]
 ## 
 HUANG JINGUI 2006 GOVERNMENT/LAW 7.

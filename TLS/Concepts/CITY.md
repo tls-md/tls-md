@@ -19,12 +19,12 @@ och: 邑
 BIG PLACE that CONTAINS MANY STREETS AND GOVERNMENT BUILDINGS, AND where INTENSELY MANY PEOPLE LIVE NEAR TOGETHER.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general term for walled urban or semi-urban administrative centres and settlements below the level of the capital, and above the level of the village without any presence of the state administration, is 邑. In OBI the word can also refer to the royal capital.
-2. Dū 都 refers to a larger urbanised settlement with an ancestral shrine for the leading family in the town, and with representatives of the central state government in permanent residence. The word came to refer quite generally to a city in post-Warring States times.
-3. Chéng 城 refers specifically to the part of a city surrounded by the inner city wall chéng 城. But the word is also sometimes used to refer more generally to walled cities.
-4. Guō 郭 refers to the part of a walled city outside the inner city walls chéng 城 but inside the outer city walls guō 郭. Sometimes the outer walls are added on one side only of the inner city walls thus creating a kind of second-level walled city.
-5. Fú 郛 refers to a large guō 郭 "inhabited area between inner and outer city walls".
-6. Jiāo 郊 refers to the cultivated area outside the guō 郭 and bounded by yě 野 "open countryside". See SUBURB
+1. The most general term for walled urban or semi-urban administrative centres and settlements below the level of the capital, and above the level of the village without any presence of the state administration, is [[邑]]. In OBI the word can also refer to the royal capital.
+2. Dū [[都]] refers to a larger urbanised settlement with an ancestral shrine for the leading family in the town, and with representatives of the central state government in permanent residence. The word came to refer quite generally to a city in post-Warring States times.
+3. Chéng [[城]] refers specifically to the part of a city surrounded by the inner city wall chéng [[城]]. But the word is also sometimes used to refer more generally to walled cities.
+4. Guō [[郭]] refers to the part of a walled city outside the inner city walls chéng [[城]] but inside the outer city walls guō [[郭]]. Sometimes the outer walls are added on one side only of the inner city walls thus creating a kind of second-level walled city.
+5. Fú [[郛]] refers to a large guō [[郭]] "inhabited area between inner and outer city walls".
+6. Jiāo [[郊]] refers to the cultivated area outside the guō [[郭]] and bounded by yě [[野]] "open countryside". See SUBURB
 ## Modern Chinese Criteria
 城市
 市

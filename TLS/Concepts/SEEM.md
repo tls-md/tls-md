@@ -17,13 +17,13 @@ zh: 似乎
 BE in APPEARANCE ONLY.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Sì 似 "apparently" always refers quite generally and colourlessly to things that are apparently only and not really what they seem to be, but the word also means "as if".
+1. Sì [[似]] "apparently" always refers quite generally and colourlessly to things that are apparently only and not really what they seem to be, but the word also means "as if".
 [GENERAL]
-2. Míng 名 "in name and public appearance (only)" (ant. shí 實 "in reality") is the most current and refers to a mere superficial facade created by public behaviour.
+2. Míng [[名]] "in name and public appearance (only)" (ant. shí [[實]] "in reality") is the most current and refers to a mere superficial facade created by public behaviour.
 [DELIBERATE]
-3. Xíng 形 "shape" is occasionally used figuratively to refer to things being so only in physical appearance but not in underlying reality.
+3. Xíng [[形]] "shape" is occasionally used figuratively to refer to things being so only in physical appearance but not in underlying reality.
 [EXTERNAL], [SUBJECTIVE]
-4. Ruò 若 is sometimes used in ways that tempt us to subsume it into this synonym group, and one is tempted to translate the troublesome usage by the suitably vague English "as it were". This still needs detailed investigation.
+4. Ruò [[若]] is sometimes used in ways that tempt us to subsume it into this synonym group, and one is tempted to translate the troublesome usage by the suitably vague English "as it were". This still needs detailed investigation.
 [METALINGUISTIC], [SUBJECTIVE]
 ## Modern Chinese Criteria
 好像 is the current modern word for "as if".

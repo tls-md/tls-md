@@ -27,11 +27,11 @@ ABLE to VOLUNTARILY:deliberately REACT to. 
 [DIALECT/STANDARD]
 [GENERAL/SPECIFIC]
 [INCHOATIVE/CONTINUATIVE/PERFECTIVE]
-1. The current general word for being aware of something or of being aware at all is zhī 知.
+1. The current general word for being aware of something or of being aware at all is zhī [[知]].
 [GENERAL]
-2. Jué 覺 is inchoative and refers to coming to the awareness of something or becoming aware of something.
+2. Jué [[覺]] is inchoative and refers to coming to the awareness of something or becoming aware of something.
 [INCHOATIVE]
-3. Xiǎo 曉 is a rare dialect word for awareness.
+3. Xiǎo [[曉]] is a rare dialect word for awareness.
 [[DIALECT], [[RARE]]
 ## Modern Chinese Criteria
 意識到

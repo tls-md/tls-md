@@ -17,13 +17,13 @@ och: 堤
 ARTIFICIAL LONG MOUNTAIN NEAR SEA OR RIVER FOR SAFEGUARDING AGAINST FLOOD.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for a dike preventing the passage of water is tí 堤 / 隄. Huge water works started in the Warring States period.
-2. Bēi 陂 refers specifically to a dam surrounding a rain water reservoir. [Mentioned already in SHIJING]
-3. Yàn 堰 refers to a low dam.The oldest evidence of the word dates from the Eastern Han period.
-4. Táng 塘 refers to a very large dam constraining the water in a large river or lake. See also POOL. It was also built to protect against sea water.
-5. Fáng 防／坊 refers to protective dikes of varying size; it is mentioned already in SHI.
-6. Tí fáng 隄防 is a current general way of referring to the dams and dikes in the country.
-NB: Bà 壩 is a post-Buddhist term for a dam.
+1. The general word for a dike preventing the passage of water is tí [[堤]] / [[隄]]. Huge water works started in the Warring States period.
+2. Bēi [[陂]] refers specifically to a dam surrounding a rain water reservoir. [Mentioned already in SHIJING]
+3. Yàn [[堰]] refers to a low dam.The oldest evidence of the word dates from the Eastern Han period.
+4. Táng [[塘]] refers to a very large dam constraining the water in a large river or lake. See also POOL. It was also built to protect against sea water.
+5. Fáng [[防]]／[[坊]] refers to protective dikes of varying size; it is mentioned already in SHI.
+6. Tí fáng [[隄防]] is a current general way of referring to the dams and dikes in the country.
+NB: Bà [[壩]] is a post-Buddhist term for a dam.
 ## 
 HUANG JINGUI 2006 GEOGRAPHY 15.
 堤，堤壩，通稱。

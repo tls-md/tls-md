@@ -14,8 +14,8 @@ zh: 刷
 TOOL CONTAINING a HANDLE AND HAIR OR RESEMBLING THINGS FIXED ON that HANDLE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Shuǎ 刷 refers to a a miniature broom, typically to a hair brush; the word is quite rare.
-2. Bǐ 筆 refers specifically to the writing brush, and the writing brush was in use already in oracle bone times; the word is not common in pre-Han times, but is very frequent for example in LH.
+1. Shuǎ [[刷]] refers to a a miniature broom, typically to a hair brush; the word is quite rare.
+2. Bǐ [[筆]] refers specifically to the writing brush, and the writing brush was in use already in oracle bone times; the word is not common in pre-Han times, but is very frequent for example in LH.
 ## Modern Chinese Criteria
 刷
 刷子

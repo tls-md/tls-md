@@ -16,9 +16,9 @@ och: 匍匐
 MOVE ONE'S BODY USING HANDS AND FEET ON THE FLOOR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for crawling or creeping is pú fú 匍匐.
-2. Pān 攀 and yuán 緣 refer to crawling upwards.
-3. Shé xíng 蛇行 is occasionally used as an idiom referring to crawling.
+1. The current general word for crawling or creeping is pú fú [[匍匐]].
+2. Pān [[攀]] and yuán [[緣]] refer to crawling upwards.
+3. Shé xíng [[蛇行]] is occasionally used as an idiom referring to crawling.
 ## Modern Chinese Criteria
 爬
 爬行

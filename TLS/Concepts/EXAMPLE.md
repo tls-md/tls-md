@@ -16,8 +16,8 @@ och: 例
 THING which HAS the COMMON FEATURES of a certain CATEGORY.
 # Criteria and general notes
 ## Old Chinese Criteria
-The abstract notion of a generalisation being absent in Chinese, it is not surprising that the abstract notion of a "concrete example" is also not well represented in the vocabulary. I found only an isolated usage of the word tǐ 體 that seemed relevant, AND UNFORTUNATELY I HAVE LOST IT.
-1. The highly current verbal phrase to say that something is a relevant example is to say 是之謂也 "this is a case in point/an example". But the nominal use seems absent.
+The abstract notion of a generalisation being absent in Chinese, it is not surprising that the abstract notion of a "concrete example" is also not well represented in the vocabulary. I found only an isolated usage of the word tǐ [[體]] that seemed relevant, AND UNFORTUNATELY I HAVE LOST IT.
+1. The highly current verbal phrase to say that something is a relevant example is to say [[是之謂也]] "this is a case in point/an example". But the nominal use seems absent.
 ## Modern Chinese Criteria
 事例
 例

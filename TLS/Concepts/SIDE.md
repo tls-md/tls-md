@@ -23,8 +23,8 @@ zh: 旁邊
 PLACE to the LEFT OR RIGHT, AND NOT IN FRONT OR BEHIND.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for the the place beside a person, a road, a river or anything else is páng 旁 and this word can occur after demonstrative pronouns like 其.
-2. Cè 側 refers to anything that is beside something upright, like a building or a standing person, and the word can also be used independently unmodified by a preceding explicit indication of place..
+1. The current general word for the the place beside a person, a road, a river or anything else is páng [[旁]] and this word can occur after demonstrative pronouns like [[其]].
+2. Cè [[側]] refers to anything that is beside something upright, like a building or a standing person, and the word can also be used independently unmodified by a preceding explicit indication of place..
 ## Modern Chinese Criteria
 旁邊
 邊緣

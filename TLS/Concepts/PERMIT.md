@@ -37,10 +37,10 @@ och: 許
 ADDRESS someone with AUTHORITY so as to SAY that one does NOT FORBID what s/he is HOPING to ACT:do.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for formal permission for someone to do something which he asks to do is xǔ 許 (ant. jìn 禁 "forbid").
-2. Tīng 聽 (ant. fú tīng 弗聽 "refuse to listen" and the rarer bì 愎 "be stubborn (and refuse)") refers to the superior giving permission for a suggestion from his inferiors to be carried out, typically by himself or his agents.
-3. Dé 得 refers to the obtaining explicit or implicit permission to go ahead with something one would like to do.
-4. Shǐ 使 (ant. jìn 禁 "prohibit, forbid") is sometimes used to refer to a failure to prevent someone from doing something which amounts to an implicit form of permission.
+1. The current general word for formal permission for someone to do something which he asks to do is xǔ [[許]] (ant. jìn [[禁]] "forbid").
+2. Tīng [[聽]] (ant. fú tīng [[弗聽]] "refuse to listen" and the rarer bì [[愎]] "be stubborn (and refuse)") refers to the superior giving permission for a suggestion from his inferiors to be carried out, typically by himself or his agents.
+3. Dé [[得]] refers to the obtaining explicit or implicit permission to go ahead with something one would like to do.
+4. Shǐ [[使]] (ant. jìn [[禁]] "prohibit, forbid") is sometimes used to refer to a failure to prevent someone from doing something which amounts to an implicit form of permission.
 ## Modern Chinese Criteria
 准許 is the current word for permission.
 許可 focusses on the aspect of approval of what is to be done.

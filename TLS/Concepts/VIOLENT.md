@@ -29,10 +29,10 @@ och: 猛
 EXCESSIVE in the USE of STRONG:strength.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for violence in action and in disposition is měng 猛 (ant. nuò 懦 "weakish, pusillanimous") which refers quite generally to a disposition for incisive action and violent reaction without strong positive or negative overtones.
-2. Bào 暴 (ant. rén 仁 "humane") refers to negatively valued violence of disposition and action.
-3. Xiōng 凶 (ant. wēn 溫 "mild and bland") refers to violence as a psychological disposition and does not normally describe concrete pieces of behaviour.
-4. Hèng 橫 (ant. róu 柔 "considerate, non-provocative") emphasises the arbitrariness of violent response or violent disposition.
+1. The current general word for violence in action and in disposition is měng [[猛]] (ant. nuò [[懦]] "weakish, pusillanimous") which refers quite generally to a disposition for incisive action and violent reaction without strong positive or negative overtones.
+2. Bào [[暴]] (ant. rén [[仁]] "humane") refers to negatively valued violence of disposition and action.
+3. Xiōng [[凶]] (ant. wēn [[溫]] "mild and bland") refers to violence as a psychological disposition and does not normally describe concrete pieces of behaviour.
+4. Hèng [[橫]] (ant. róu [[柔]] "considerate, non-provocative") emphasises the arbitrariness of violent response or violent disposition.
 ## Modern Chinese Criteria
 暴躁
 暴烈

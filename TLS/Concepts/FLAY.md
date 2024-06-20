@@ -8,10 +8,10 @@ zh: 鞭打
 STRIKE USING a WHIP.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Cè 策 refers to flaying an animal or a person with a bamboo whip, typically to urge the creature flayed on.
-2. Biān 鞭 refers to flaying someone with a leather strap whip.
-3. Pū 扑 "beat" is sometimes said to involve the whip, but I have not seen any clear evidence for this.
-NB: For chī 笞 "strike with a bamboo cane or stick" and the like see STRIKE.
+1. Cè [[策]] refers to flaying an animal or a person with a bamboo whip, typically to urge the creature flayed on.
+2. Biān [[鞭]] refers to flaying someone with a leather strap whip.
+3. Pū [[扑]] "beat" is sometimes said to involve the whip, but I have not seen any clear evidence for this.
+NB: For chī [[笞]] "strike with a bamboo cane or stick" and the like see STRIKE.
 ## Modern Chinese Criteria
 抽打
 鞭打

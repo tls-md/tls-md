@@ -13,13 +13,13 @@ och: 刑法
 RESTRAIN OR DAMAGE a CULPRIT BECAUSE of his/her CRIMES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for punishment is wú xíng 五刑, traditionally in SHU, LYUXING listed as "dà pí 大辟 "decapitation", yuè 刖 "mutilation of foot", yì 劓, gōng 宮 "castration", mò 墨 "branding". The list varied through time and is different in different sources.
-2. Xíng 刑 refers specifically to physical punishment.
-3. Fá 罰 refers to non-physical forms of punishment including typically fines. See FINE
-4. Yù 獄 can be used to refer to any kind of punitive action taken against criminals.
-5. Fǎ 法 can occasionally be used, mainly in early texts, to refer not to criminal law but to the application of such laws to criminals.
-6. Zuò 坐 refers to a condemned person being held responsible for a criminal act and being punished. See CONDEMN
-7. Tǎo 討 is a moralistic term referring to a momentous act of punishment in the name of justice, and the meaning often vascillates between ATTACK and PUNISH, when the reference is a punitive attack. See ATTACK
+1. The general word for punishment is wú xíng [[五刑]], traditionally in SHU, LYUXING listed as "dà pí [[大辟]] "decapitation", yuè [[刖]] "mutilation of foot", yì [[劓]], gōng [[宮]] "castration", mò [[墨]] "branding". The list varied through time and is different in different sources.
+2. Xíng [[刑]] refers specifically to physical punishment.
+3. Fá [[罰]] refers to non-physical forms of punishment including typically fines. See FINE
+4. Yù [[獄]] can be used to refer to any kind of punitive action taken against criminals.
+5. Fǎ [[法]] can occasionally be used, mainly in early texts, to refer not to criminal law but to the application of such laws to criminals.
+6. Zuò [[坐]] refers to a condemned person being held responsible for a criminal act and being punished. See CONDEMN
+7. Tǎo [[討]] is a moralistic term referring to a momentous act of punishment in the name of justice, and the meaning often vascillates between ATTACK and PUNISH, when the reference is a punitive attack. See ATTACK
 ## 
 HUANG JINGUI 2006
 HUMAN BODY 41. 肢體肉刑。

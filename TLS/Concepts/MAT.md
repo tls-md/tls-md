@@ -11,9 +11,9 @@ zh: 墊席
 A BLANKET FOR PUTTING ON the FLOOR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The more common word xí 席 refers to a mat used for sitting on, typically in ceremonial contexts. Bì xí 避席 is to leave this kind of sitting mat in order to make a formal pronouncement. A xí 席 may also be placed on a bed.
-2. Yán 筵 is specifically the larger carpet-like mat put on the floor on which the xí 席 is placed in turn, but this distinction came to be blurred. The word is very regularly associated with the jī 几 "low table" which one suspects were placed on the yán 筵 alongside with the xí 席 "sitting mat".
-3. Rù 褥 refers to a mattress-like padded mat used for sleeping on.
+1. The more common word xí [[席]] refers to a mat used for sitting on, typically in ceremonial contexts. Bì xí [[避席]] is to leave this kind of sitting mat in order to make a formal pronouncement. A xí [[席]] may also be placed on a bed.
+2. Yán [[筵]] is specifically the larger carpet-like mat put on the floor on which the xí [[席]] is placed in turn, but this distinction came to be blurred. The word is very regularly associated with the jī [[几]] "low table" which one suspects were placed on the yán [[筵]] alongside with the xí [[席]] "sitting mat".
+3. Rù [[褥]] refers to a mattress-like padded mat used for sleeping on.
 ## Modern Chinese Criteria
 墊席
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／

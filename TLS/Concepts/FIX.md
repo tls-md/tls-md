@@ -11,9 +11,9 @@ och: 定
 CAUSE something TO be ENDURING OR NOT to MOVE from a PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for fixing something in any objective and interpersonal way, concrete or abstract is dìng 定.
-2. Cái 裁 refers specifically to the proper apportioning of things.
-3. Bì 必 refers to fixing and determining something with supreme assurance and definiteness.
+1. The current general word for fixing something in any objective and interpersonal way, concrete or abstract is dìng [[定]].
+2. Cái [[裁]] refers specifically to the proper apportioning of things.
+3. Bì [[必]] refers to fixing and determining something with supreme assurance and definiteness.
 
 THIS IS A PRETTY MISERABLE GROUP: WHAT TO DO ABOUT IT?????
 ## Modern Chinese Criteria

@@ -19,15 +19,15 @@ PERIOD a CREATURE has been LIVE:alive in the PAST. 
 [POETIC/PROSAIC]
 [QUANTIFIED/UNQUANTIFIED
 [ELEVATED], [INFORMAL]
-1. Nián 年, basically an agricultural term, "year of one's life" refers to age specifically in terms of number year, and the focus is on this period as having a certain length.
+1. Nián [[年]], basically an agricultural term, "year of one's life" refers to age specifically in terms of number year, and the focus is on this period as having a certain length.
 [COMMON], [QUANTIFIED]
-2. Suì 歲, basically an astronomical term, refers to the year as an astronomical unit and then to "number of years one has lived"; the refers to the unit by which years are counted and the length of time as such. A primary basis of the image in these words is plant life.
+2. Suì [[歲]], basically an astronomical term, refers to the year as an astronomical unit and then to "number of years one has lived"; the refers to the unit by which years are counted and the length of time as such. A primary basis of the image in these words is plant life.
 [BASIC], [FREQUENT], [QUANTIFIED]
-3. Chǐ 齒 typically refers to the age of animals, but the word also has generalised meanings where it refers informally to the age or seniority of humans. The primary basis of the image for time is the fauna of teethed animals.
+3. Chǐ [[齒]] typically refers to the age of animals, but the word also has generalised meanings where it refers informally to the age or seniority of humans. The primary basis of the image for time is the fauna of teethed animals.
 [ARCHAIC]; [[RARE]]
-4. Shòu 壽 refers to venerable high age as something desirable rather than as connoting decrepitude.
+4. Shòu [[壽]] refers to venerable high age as something desirable rather than as connoting decrepitude.
 [ELEVATED], [LONG]
-5. Chūn qiū 春秋 refers periphrastically, in polite and flowery speech, to years of age. See YEAR.
+5. Chūn qiū [[春秋]] refers periphrastically, in polite and flowery speech, to years of age. See YEAR.
 [ELEVATED], [POETIC], [QUANTIFIED]
 ## Modern Chinese Criteria
 年齡

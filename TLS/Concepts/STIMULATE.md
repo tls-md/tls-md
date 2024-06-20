@@ -34,10 +34,10 @@ och: 感
 CAUSE to REACT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for stimulating a sentient being into action, or causing feelings, is gǎn 感 (ant. yìng 應 "respond").
-2. Jī 激 refers to prodding something or someone into action.
-3. Dòng 動 refers to bringing about action or movement in someone or something.
-4. Kāng kǎi 慷慨 is marginal in this group and refers to a tendency to be moved into actions and feelings by other things.
+1. The current general word for stimulating a sentient being into action, or causing feelings, is gǎn [[感]] (ant. yìng [[應]] "respond").
+2. Jī [[激]] refers to prodding something or someone into action.
+3. Dòng [[動]] refers to bringing about action or movement in someone or something.
+4. Kāng kǎi [[慷慨]] is marginal in this group and refers to a tendency to be moved into actions and feelings by other things.
 ## Modern Chinese Criteria
 感動
 激發

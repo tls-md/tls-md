@@ -18,8 +18,8 @@ zh: 句子
 SPEAK>SPEECH COMMUNICATING a COMPLETE THOUGHT.???
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Cí 辭 was probably used as a technical term for a proposition by Mohist logicians, but in general the term refers to the formulation of a sentence.
-2. Yán 言 refers to a public statement or a publicised saying.
+1. Cí [[辭]] was probably used as a technical term for a proposition by Mohist logicians, but in general the term refers to the formulation of a sentence.
+2. Yán [[言]] refers to a public statement or a publicised saying.
 ## Modern Chinese Criteria
 句 is colloquial modern Chinese for a sentence.
 句子 is the regular modern word for a sentence.

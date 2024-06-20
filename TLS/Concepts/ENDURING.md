@@ -28,12 +28,12 @@ och: 久
 BIG in respect of the PERIOD something EXISTS, HAPPENS, OR is being ACTED:done.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for something which is constant and lasting in time is jiǔ 久 (ant. qǐng 頃 "for a short time"), which can refer to bounded or unbounded and open-ended persistence in time.
-2. Cháng 長 (ant. duǎn 短 "of short duration") expresses bounded enduringness with a definite final point being typically imagined, although in cháng shēng 長生 the word refers to an unending long life.
-3. Cháng 常 and the especially emphatic héng 恆 "highly constant and permanent" (ant.* ǒu 偶 "contingency and consequent changeability") emphasise the constancy or constant recurrence of the attributes of what is lasting, and typically - though not always - the constancy is valued positively.
-4. Bì 必 refers to something being an invariable event that always tends to occur.
-5. Shí 時 "recurrently, constantly" allows for something being present or having certain attributes intermittently but over a long stretch of time.
-6. Yóng 永 "last for a while" (ant. zàn 暫 "temporary" post-Buddhist, Six Dynasties: temporarily) is an elevated and poetic word often referring to subjectively experienced long duration.
+1. The general word for something which is constant and lasting in time is jiǔ [[久]] (ant. qǐng [[頃]] "for a short time"), which can refer to bounded or unbounded and open-ended persistence in time.
+2. Cháng [[長]] (ant. duǎn [[短]] "of short duration") expresses bounded enduringness with a definite final point being typically imagined, although in cháng shēng [[長生]] the word refers to an unending long life.
+3. Cháng [[常]] and the especially emphatic héng [[恆]] "highly constant and permanent" (ant.* ǒu [[偶]] "contingency and consequent changeability") emphasise the constancy or constant recurrence of the attributes of what is lasting, and typically - though not always - the constancy is valued positively.
+4. Bì [[必]] refers to something being an invariable event that always tends to occur.
+5. Shí [[時]] "recurrently, constantly" allows for something being present or having certain attributes intermittently but over a long stretch of time.
+6. Yóng [[永]] "last for a while" (ant. zàn [[暫]] "temporary" post-Buddhist, Six Dynasties: temporarily) is an elevated and poetic word often referring to subjectively experienced long duration.
 ## Modern Chinese Criteria
 長久
 久長

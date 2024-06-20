@@ -21,10 +21,10 @@ zh: 道路
 LONG AND NARROW LEVEL PLACE ON which HUMANS GO TO PLACES OR TRAVEL TO DISTANT PLACES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for streets and roads is tú 塗／涂／途.
-2. The general word for an established way along which humans move conveniently in the landscape is lù 路, and this term covers all manner of large and wide roads as well as small paths of any kind. (For streets within cities see STREET)
-3. Dào 道, when used in its concrete meaning referring to a means of communication tends to refer to a larger line of communication, and the traditional claim is that the term refers to a road where two vehicles can pass each other. Thus the First Emperor called his Autobahns chí dào 馳道 and not chí lù 馳路.
-4. Jiē qú 街衢 refers to the highways of the land in a general way.
+1. The general word for streets and roads is tú [[塗]]／[[涂]]／[[途]].
+2. The general word for an established way along which humans move conveniently in the landscape is lù [[路]], and this term covers all manner of large and wide roads as well as small paths of any kind. (For streets within cities see STREET)
+3. Dào [[道]], when used in its concrete meaning referring to a means of communication tends to refer to a larger line of communication, and the traditional claim is that the term refers to a road where two vehicles can pass each other. Thus the First Emperor called his Autobahns chí dào [[馳道]] and not chí lù [[馳路]].
+4. Jiē qú [[街衢]] refers to the highways of the land in a general way.
 ## 
 HUANG JINGUI 2006
 COMM 1.

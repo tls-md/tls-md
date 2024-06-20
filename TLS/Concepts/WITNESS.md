@@ -18,8 +18,8 @@ HUMAN SUMMONED in LAW COURT TO EXPLAIN what s/he KNOWS that is IMPORTANT to LITI
 HUMAN WHO is BELIEVED TO KNOW IMPORTANT THINGS THAT are NEEDED in LITIGATION OR DISCUSSION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for bearing witness to something or against something is zhèng 證.
-2. Zuǒ 左 is occasionally used to refer to a witness for or against something.
+1. The current general word for bearing witness to something or against something is zhèng [[證]].
+2. Zuǒ [[左]] is occasionally used to refer to a witness for or against something.
 ## Modern Chinese Criteria
 見證人
 見證

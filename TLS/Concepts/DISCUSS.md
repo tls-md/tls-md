@@ -21,13 +21,13 @@ zh: 討論
 SPEAK SYSTEMATICALLY on something, BASING oneself on INVESTIGATION AND REFLECTION.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current words for discussion are yì 議 "public (often formal) discussion", and lùn 論 "discursive discourse; written summary discussion with a conclusion".
-2. Biàn 辯 refers to a rational subtle discussion and investigation.
-3. Zhēng 爭 refers to an eristic discussion or an altercation, and the word emphasises the intellectual conflict involved. See STRUGGLE.
-4. Jiǎng 講 refers to discussing something as an important subject and in a systematic manner.
-5. Tǎo 討 is to engage in a deep and thorough discussion and investigation of something.
-6. Píng 評 is a rare word that refers to discussion. (NB: this word enjoyed a renaissance and become more common in post-Buddhist times.)
-7.Tán 談 refers (often pejoratively) to an informal, perhaps even inconsequential, dialogue or or discourse on something. See DIALOGUE.
+1. The most current words for discussion are yì [[議]] "public (often formal) discussion", and lùn [[論]] "discursive discourse; written summary discussion with a conclusion".
+2. Biàn [[辯]] refers to a rational subtle discussion and investigation.
+3. Zhēng [[爭]] refers to an eristic discussion or an altercation, and the word emphasises the intellectual conflict involved. See STRUGGLE.
+4. Jiǎng [[講]] refers to discussing something as an important subject and in a systematic manner.
+5. Tǎo [[討]] is to engage in a deep and thorough discussion and investigation of something.
+6. Píng [[評]] is a rare word that refers to discussion. (NB: this word enjoyed a renaissance and become more common in post-Buddhist times.)
+7.Tán [[談]] refers (often pejoratively) to an informal, perhaps even inconsequential, dialogue or or discourse on something. See DIALOGUE.
 ## Modern Chinese Criteria
 商量 is the most current general word for the discussion of differing views on a matter.
 討論 is the current modern word for discussion.

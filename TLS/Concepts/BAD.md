@@ -74,13 +74,13 @@ The FEATURE of being NOT EXCELLENT OR GOOD.
 [ELEVATED/INFORMAL]
 [GENERAL/SPECIFIC]
 [HIGH-DEGREE/LOW-DEGREE]
-1. The most general word for what is inferior and not commendable, morally, aesthetically or otherwise, is è 惡 (ant. měi 美 "commendable"), but this word is also used to refer more specifically to wickedness. See WICKED
+1. The most general word for what is inferior and not commendable, morally, aesthetically or otherwise, is è [[惡]] (ant. měi [[美]] "commendable"), but this word is also used to refer more specifically to wickedness. See WICKED
 [GENERAL]
-2. Xià 下 (ant. shàng 上 "superior") is a colourless general way of referring to something being inferior to something else (which may or may not be specified) in any sense.
+2. Xià [[下]] (ant. shàng [[上]] "superior") is a colourless general way of referring to something being inferior to something else (which may or may not be specified) in any sense.
 [GRADED]
-3. Liè 劣 (ant. yōu 優 "of higher quality") refers quite generally to inferior quality, but the word is not very frequent in pre-Buddhist Chinese.
+3. Liè [[劣]] (ant. yōu [[優]] "of higher quality") refers quite generally to inferior quality, but the word is not very frequent in pre-Buddhist Chinese.
 [HIGH-DEGREE]; [[RARE]]
-4. Nú 駑 and the rarer tái 駘 (all ant. jùn 駿 "superior horse") refer specifically to inferior horses, and in a rather pictoresque metaphorical way these terms are sometimes used to refer to men of inferior quality.
+4. Nú [[駑]] and the rarer tái [[駘]] (all ant. jùn [[駿]] "superior horse") refer specifically to inferior horses, and in a rather pictoresque metaphorical way these terms are sometimes used to refer to men of inferior quality.
 [ELEVATED], [SUBJ=HUMAN]; [[RARE]]
 ## Modern Chinese Criteria
 壞

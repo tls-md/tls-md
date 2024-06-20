@@ -25,13 +25,13 @@ DISTRESS AND LACK of HOPE for IMPROVEment. 
 [PRECISE/VAGUE]
 [POETIC/PROSAIC]
 [LASTING/TRANSITORY]
-1. Jí 疾 (ant. kuài 快 "be delighted") is acute temporary or momentary anguish directed at a definite cause of dissatisfaction. See also HATE.
+1. Jí [[疾]] (ant. kuài [[快]] "be delighted") is acute temporary or momentary anguish directed at a definite cause of dissatisfaction. See also HATE.
 [PRECISE], [TRANSITORY]
-2. Yùn 慍 (ant. yú 愉 "feel generally pleased") is lingering or lasting somewhat milder and more diffuse dissatisfaction or anguish. See ANGER. The distinction is miserably uncertain in many contexts.
+2. Yùn [[慍]] (ant. yú [[愉]] "feel generally pleased") is lingering or lasting somewhat milder and more diffuse dissatisfaction or anguish. See ANGER. The distinction is miserably uncertain in many contexts.
 [OVERT], [LASTING]
-3. Fèn 憤 "pent-up dissatisfaction and resentment" (ant.* chàng 暢 "vent one's feelings freely" is not a regular antonym that is stylistically acceptable in parallelism) can be a general feeling of dissatisfaction without any concrete person to be dissatisfied about. See also ANGER.
+3. Fèn [[憤]] "pent-up dissatisfaction and resentment" (ant.* chàng [[暢]] "vent one's feelings freely" is not a regular antonym that is stylistically acceptable in parallelism) can be a general feeling of dissatisfaction without any concrete person to be dissatisfied about. See also ANGER.
 [COVERT], [IMPERSONAL], [INTENSE], [LASTING]
-4. Chàng 悵 (ant. xīn rán 欣然 "be pleased with oneself") is poetic and intensely personal without being directed at any particular person, and involves a strong element of despondency.
+4. Chàng [[悵]] (ant. xīn rán [[欣然]] "be pleased with oneself") is poetic and intensely personal without being directed at any particular person, and involves a strong element of despondency.
 [INTENSE], [IMPERSONAL], [LASTING], [POETIC]; [[RARE]]
 ## Modern Chinese Criteria
 煩悶

@@ -8,12 +8,12 @@ DEFENSIVE WEAPONS to SAFEGUARD one's BODY IN-RELATION-TO ATTACK. 
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. The dominant general term is jiǎ 甲 and this armour is typically made of rhinoceros leather.
+1. The dominant general term is jiǎ [[甲]] and this armour is typically made of rhinoceros leather.
 [GENERAL]
-2. Jiè 介 is another common, and syntactically flexible, word for armour.
-3. Kǎi 鎧 refers to metal plate armour.
+2. Jiè [[介]] is another common, and syntactically flexible, word for armour.
+3. Kǎi [[鎧]] refers to metal plate armour.
 [SPECIFIC]
-4. Xuán jiǎ 玄甲 refers to iron plate armour.
+4. Xuán jiǎ [[玄甲]] refers to iron plate armour.
 [SPECIFIC]
 ## 
 HUANG JINGUI 2006 WARFARE 20.

@@ -10,8 +10,8 @@ zh: 底部
 PART of an ARTEFACT or THING that is MOST LOW.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the bottom of a vessel is dǎng 當.
-2. Dǐ 底 is a Han dynasty dialect word for the bottom of a vessel.
+1. The current word for the bottom of a vessel is dǎng [[當]].
+2. Dǐ [[底]] is a Han dynasty dialect word for the bottom of a vessel.
 ## Modern Chinese Criteria
 底部
 山腳

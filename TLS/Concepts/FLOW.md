@@ -29,10 +29,10 @@ och: 流
 MOVE DOWNWARDS as a LIQUID.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant standard word for the natural flow of water or any liquid is líú 流 (ant. zhì 滯 "be blocked").
-2. Pèi 沛 is to flow abundantly and rapidly.
-3. Màn 漫 is to overflow in all directions.
-4. Yǎn 衍 and yǎn 演 are both occasionally (and originally!) used to refer to water flowing over long distances.
+1. The dominant standard word for the natural flow of water or any liquid is líú [[流]] (ant. zhì [[滯]] "be blocked").
+2. Pèi [[沛]] is to flow abundantly and rapidly.
+3. Màn [[漫]] is to overflow in all directions.
+4. Yǎn [[衍]] and yǎn [[演]] are both occasionally (and originally!) used to refer to water flowing over long distances.
 NB: There are many poetic words in this group which have rather low frequency. Poetically elaborated groups of this kind need a separate study which takes special note of rules of euphony in poetry in addition to semantic considerations.
 ## Modern Chinese Criteria
 流

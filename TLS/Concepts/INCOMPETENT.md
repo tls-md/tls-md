@@ -36,10 +36,10 @@ och: 不肖
 STUPID so as NOT to be ABLE to ACT:do DEFINED THINGS one SHOULD DO.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and general word for incompetence is bù xiào 不肖 (ant. xián 賢 "distinguished talent").
-2. Nú 駑 (ant. jùn 駿 "talented" and jùn 俊 "talented") refers prototypically to the lack of skills in a horse, but is often used metaphorically to refer to lack of outstanding talent in general. [see INFERIOR]
-3. Duǎn 短 (ant. cháng 長 "of some excellence") refers to a distinct shortcoming in the form of a specific point of incompetence.
-4. Zhuó 拙 refers - typically in polite discourse to one's own - ineptness. [see STUPID]
+1. The most current and general word for incompetence is bù xiào [[不肖]] (ant. xián [[賢]] "distinguished talent").
+2. Nú [[駑]] (ant. jùn [[駿]] "talented" and jùn [[俊]] "talented") refers prototypically to the lack of skills in a horse, but is often used metaphorically to refer to lack of outstanding talent in general. [see INFERIOR]
+3. Duǎn [[短]] (ant. cháng [[長]] "of some excellence") refers to a distinct shortcoming in the form of a specific point of incompetence.
+4. Zhuó [[拙]] refers - typically in polite discourse to one's own - ineptness. [see STUPID]
 ## Modern Chinese Criteria
 笨重
 笨拙

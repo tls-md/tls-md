@@ -19,11 +19,11 @@ och: 逐
 FOLLOW so as to TRY to REACH OR CATCH.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for pursuing something or going after something in a hostile way, driving what is pursued before one, competing with it for speed, is zhú 逐 and the word can only very occasionally refer to abstract pursuits like that of wisdom, as in the venatio sapientiae of Nicolas Cusanus. It is significant that the word currently means "to expel", where expelling and chasing are not always easy to distinguish.
-2. Zhuī 追 refers to the attempt of catching up with anything, characteristically a kòu 寇 "enemy" or thief (who may not know he is being pursued) but without any attending notion that what is being caught up with is NECESSARILY trying to escape or to make great speed, and the word is regularly used in figurative derived meanings "to seek", as in zhuī lì 追利 "chasing after profit".
-3. Suǒ 索 emphasises the seeking aspect in the pursuit of something or someone.
-4. Jí 及 and the rarer dài 逮 refer to a successful pursuit. See CATCH UP
-5. Qū 驅 suggests a hot and fast pursuit typically uncrowned by success.
+1. The current general word for pursuing something or going after something in a hostile way, driving what is pursued before one, competing with it for speed, is zhú [[逐]] and the word can only very occasionally refer to abstract pursuits like that of wisdom, as in the venatio sapientiae of Nicolas Cusanus. It is significant that the word currently means "to expel", where expelling and chasing are not always easy to distinguish.
+2. Zhuī [[追]] refers to the attempt of catching up with anything, characteristically a kòu [[寇]] "enemy" or thief (who may not know he is being pursued) but without any attending notion that what is being caught up with is NECESSARILY trying to escape or to make great speed, and the word is regularly used in figurative derived meanings "to seek", as in zhuī lì [[追利]] "chasing after profit".
+3. Suǒ [[索]] emphasises the seeking aspect in the pursuit of something or someone.
+4. Jí [[及]] and the rarer dài [[逮]] refer to a successful pursuit. See CATCH UP
+5. Qū [[驅]] suggests a hot and fast pursuit typically uncrowned by success.
 ## Modern Chinese Criteria
 追趕
 追逐

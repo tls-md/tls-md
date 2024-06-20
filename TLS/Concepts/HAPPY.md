@@ -82,20 +82,20 @@ zh: 喜悅
 COMPLETELY DELIGHTED with one's SELF:own LIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Fú 福 (ant. huò 禍 "misfortune") is the most common noun for material good fortune and well-being.
-2. Lè 樂 refers specifically to happiness as a rewarding inward state.
-3. Huān 歡 / 驩 / 懽 refers to a sometimes transitory form of sociable and communicative happiness.
-4. Xǐ 喜 typically refers to happiness as a response to something.
-5. Yú 愉 / 媮 refers to happy contentment with things as they are.
-6. Kuài 快 refers to a transient, acute state of happiness.
-7. Yú 娛 (ant yo1u 憂 "worry") typically refers to indulgent happiness with thing as they are.
-8. Yì 懌 is an ancient poetic word referring to dignified contentment, and the word became current in the negative 不懌 "be displeased".
-9. Yí 怡 is a fairly rare elevated poetic word referring to the state of being pleased, contented, and thus happy.
-10. Ān 安 can refer to happy peace of mind.
-11. Yuè 悅 can come to refer to a happy state of contentment with what happens to one or around one.
-12. Xìng 幸 "luck" can refer to to a serendipitously found state of happiness.
-13. Qìng 慶 is an archaic way of referring to material as well as psychological well-being.
-14. Kāng 康 is an archaic way of referring to material and physical well-being.
+1. Fú [[福]] (ant. huò [[禍]] "misfortune") is the most common noun for material good fortune and well-being.
+2. Lè [[樂]] refers specifically to happiness as a rewarding inward state.
+3. Huān [[歡]] / [[驩]] / [[懽]] refers to a sometimes transitory form of sociable and communicative happiness.
+4. Xǐ [[喜]] typically refers to happiness as a response to something.
+5. Yú [[愉]] / [[媮]] refers to happy contentment with things as they are.
+6. Kuài [[快]] refers to a transient, acute state of happiness.
+7. Yú [[娛]] (ant yo1u [[憂]] "worry") typically refers to indulgent happiness with thing as they are.
+8. Yì [[懌]] is an ancient poetic word referring to dignified contentment, and the word became current in the negative [[不懌]] "be displeased".
+9. Yí [[怡]] is a fairly rare elevated poetic word referring to the state of being pleased, contented, and thus happy.
+10. Ān [[安]] can refer to happy peace of mind.
+11. Yuè [[悅]] can come to refer to a happy state of contentment with what happens to one or around one.
+12. Xìng [[幸]] "luck" can refer to to a serendipitously found state of happiness.
+13. Qìng [[慶]] is an archaic way of referring to material as well as psychological well-being.
+14. Kāng [[康]] is an archaic way of referring to material and physical well-being.
 ## 
 HUANG JINGUI 2006 has no real entry for HAPPY. See under LUCKY.
 SACRIFICE 29.

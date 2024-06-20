@@ -17,15 +17,15 @@ och: 居／處
 BE-IN a HOME ENDURINGLY:permanently.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general words for dwelling in a place for some considerable time are jū 居 and chǔ 處 (all ant. xíng 行 "travel").
-2. Shè 舍 and sù 宿 refer to spending the night in a certain place.
-3. Guǎn 館 refers to spending the night in a visitor's hostel (which is China's ancient answer to a hotel).
-4. Qī 棲 refers to a temporary or non-voluntary stay of any length, typically of an informal kind. See ROOST
-5. Xìn 信 is sometimes used as a technical term for staying in a place for two nights.
-6. Cì 次 is sometimes used as a technical term for spending more than two days in a certain place.
-7. Jì 寄 and yù 寓 refer to staying in some place for a strictly limited space of time.
-8. Jùn 軍 refers specifically to an army encamping in a certain place for a limited time.
-NB: Zhù 住 is post-Buddhist (SIX DYNASTIES)
+1. The current general words for dwelling in a place for some considerable time are jū [[居]] and chǔ [[處]] (all ant. xíng [[行]] "travel").
+2. Shè [[舍]] and sù [[宿]] refer to spending the night in a certain place.
+3. Guǎn [[館]] refers to spending the night in a visitor's hostel (which is China's ancient answer to a hotel).
+4. Qī [[棲]] refers to a temporary or non-voluntary stay of any length, typically of an informal kind. See ROOST
+5. Xìn [[信]] is sometimes used as a technical term for staying in a place for two nights.
+6. Cì [[次]] is sometimes used as a technical term for spending more than two days in a certain place.
+7. Jì [[寄]] and yù [[寓]] refer to staying in some place for a strictly limited space of time.
+8. Jùn [[軍]] refers specifically to an army encamping in a certain place for a limited time.
+NB: Zhù [[住]] is post-Buddhist (SIX DYNASTIES)
 ## Modern Chinese Criteria
 居住
 住

@@ -17,11 +17,11 @@ och: 功
 GOOD PUBLIC ACHIEVEMENTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for achievements of any kind is gōng 功.
-2. Láo 勞 refers to meritorious effort as typically resulting in meritorious results.
-3. Xūn 勛／勳 refers to outstanding contributions to the state and this word cannot refer to personal achievements.
-4. Fá 伐 refers to a manifest achievement which is there for everyone to admire.
-5. Jī 績 refers to results obtained, which in principle can be both positive and negative (we have gōng jī 功績 "positive results" as well as bài jī 敗績 "negative results").
+1. The current general word for achievements of any kind is gōng [[功]].
+2. Láo [[勞]] refers to meritorious effort as typically resulting in meritorious results.
+3. Xūn [[勛]]／[[勳]] refers to outstanding contributions to the state and this word cannot refer to personal achievements.
+4. Fá [[伐]] refers to a manifest achievement which is there for everyone to admire.
+5. Jī [[績]] refers to results obtained, which in principle can be both positive and negative (we have gōng jī [[功績]] "positive results" as well as bài jī [[敗績]] "negative results").
 ## Modern Chinese Criteria
 功勞
 功

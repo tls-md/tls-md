@@ -25,8 +25,8 @@ zh: 坡
 SLANTED PART of a LANDSCAPE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard pre-Buddhist word for a slope and perhaps also a hilly landscape more generally is bǎn 阪.
-NB: Pō 坡 "slope" is post-Han colloquial.
+1. The standard pre-Buddhist word for a slope and perhaps also a hilly landscape more generally is bǎn [[阪]].
+NB: Pō [[坡]] "slope" is post-Han colloquial.
 ## Modern Chinese Criteria
 坡
 斜坡

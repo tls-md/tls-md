@@ -15,9 +15,9 @@ och: 今
 MOMENT BETWEEN PAST AND FUTURE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for the present is jīn 今.
-2. Fāng 方 refers to the immediate present time indicated within a given sentence.
-3. Shì 世 is currently used to refer to one's contemporary generation, the present world one lives in.
+1. The current word for the present is jīn [[今]].
+2. Fāng [[方]] refers to the immediate present time indicated within a given sentence.
+3. Shì [[世]] is currently used to refer to one's contemporary generation, the present world one lives in.
 ## Modern Chinese Criteria
 現在
 現時

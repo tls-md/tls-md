@@ -11,11 +11,11 @@ zh: 跌倒
 To FALL to the GROUND BECAUSE of a MISTAKE in USING ONE'S FEET.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for stumbling and falling is zhì 躓.
-2. Pū 仆 is to stumble and fall forward, flat on one's face.
-3. Bó 踣 is to stumble over something so as to fall forward.
-4. Jué 躩 is to walk and stumble along unsteadily.
-5. Diē 跌 is a colloquial word for stumbling which became current from Han times onwards.
+1. The general word for stumbling and falling is zhì [[躓]].
+2. Pū [[仆]] is to stumble and fall forward, flat on one's face.
+3. Bó [[踣]] is to stumble over something so as to fall forward.
+4. Jué [[躩]] is to walk and stumble along unsteadily.
+5. Diē [[跌]] is a colloquial word for stumbling which became current from Han times onwards.
 NB: The words in this section are so rare that it is hard to gain a clear sense of their nuances.
 ## Modern Chinese Criteria
 跌倒

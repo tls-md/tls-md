@@ -9,13 +9,13 @@ och: 益
 BIG in QUANTITY OR INTENSE WHEN COMPARED to something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and general word expressing the idea of something becoming more rather than less is yì 益 (ant. sǔn 損 "less and less").
-2. Mí 彌 focusses a difference in degree or number rather than on a process of increase.
-3. Yù 愈 (NB: shǎo 少 does not function as an antonym "less and less".) typically refers to a continuous or continuing dynamic increase or process.
-4. Gèng 更 and the rarer words fù 復 and yòu 又 "even more" indicate that the increase is from a level that is already high.
-5. Jiā 加 typically refers to an increase not in the intensity of something, but in the quantity or number.
-6. Yóu 尤 "particularly" singles out an item as instantiating something with particular intensity, more than most other comparable things.
-NB: 愈 may precede non-comparative verbs. Thus yù qǐ 愈起 "tend even more to occur" GUAN 47 could not have yì qǐ 益起. HF 19 has yù wáng 愈亡 "will tend ever more to fail". 愈至 "tend even more to arrive".
+1. The most current and general word expressing the idea of something becoming more rather than less is yì [[益]] (ant. sǔn [[損]] "less and less").
+2. Mí [[彌]] focusses a difference in degree or number rather than on a process of increase.
+3. Yù [[愈]] (NB: shǎo [[少]] does not function as an antonym "less and less".) typically refers to a continuous or continuing dynamic increase or process.
+4. Gèng [[更]] and the rarer words fù [[復]] and yòu [[又]] "even more" indicate that the increase is from a level that is already high.
+5. Jiā [[加]] typically refers to an increase not in the intensity of something, but in the quantity or number.
+6. Yóu [[尤]] "particularly" singles out an item as instantiating something with particular intensity, more than most other comparable things.
+NB: [[愈]] may precede non-comparative verbs. Thus yù qǐ [[愈起]] "tend even more to occur" GUAN 47 could not have yì qǐ [[益起]]. HF 19 has yù wáng [[愈亡]] "will tend ever more to fail". [[愈至]] "tend even more to arrive".
 ## Modern Chinese Criteria
 更加
 更其

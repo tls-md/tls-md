@@ -20,7 +20,7 @@ zh: 可笑
 FUNNY so as to CAUSE CONTEMPT.
 # Criteria and general notes
 ## Old Chinese Criteria
-可笑 "deserving of ridicule" is exceedingly rare in pre-Buddhist literature.
+[[可笑]] "deserving of ridicule" is exceedingly rare in pre-Buddhist literature.
 ## Modern Chinese Criteria
 可笑
 不象話

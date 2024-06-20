@@ -7,7 +7,7 @@ zh: 足踝
 The JOINT BETWEEN FOOT AND LEG.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The rare word for the ankle is huái 踝.
+1. The rare word for the ankle is huái [[踝]].
 ## Modern Chinese Criteria
 腿腕子
 腳腕子

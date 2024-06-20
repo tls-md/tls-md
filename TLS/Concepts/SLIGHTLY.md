@@ -17,9 +17,9 @@ zh: 稍微
 To a SMALL DEGREE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most common word for something happening on a very small scale is shǎo 少 (ant. duō 多 "a great deal").
-2. Guǎ 寡 tends to focus on the excessive nuance, on something happening to a lesser degree than needed.
-3. Báo 薄 (ant. hòu 厚 "intensely") focusses on something happening to a lesser degree than a conventional standard would indicate or prescribe.
+1. The most common word for something happening on a very small scale is shǎo [[少]] (ant. duō [[多]] "a great deal").
+2. Guǎ [[寡]] tends to focus on the excessive nuance, on something happening to a lesser degree than needed.
+3. Báo [[薄]] (ant. hòu [[厚]] "intensely") focusses on something happening to a lesser degree than a conventional standard would indicate or prescribe.
 ## Modern Chinese Criteria
 稍微
 稍為

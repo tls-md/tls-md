@@ -12,10 +12,10 @@ och: 應
 CHANGE one's THINKING OR ACTING BECAUSE one is PERCEIVING something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general term for a responding action is yìng 應 (ant. gǎn 感 "stimulate").
-2. Bào 報 (ant.* 施 "take initiative to do something") refers specifically to some kind of paying back in kind, both positive and negative.
-3. Dài 待 is to respond to a situation as best one can.
-4. Huán 還 is occasionally used to mean "in return, by way of response".
+1. The general term for a responding action is yìng [[應]] (ant. gǎn [[感]] "stimulate").
+2. Bào [[報]] (ant.* [[施]] "take initiative to do something") refers specifically to some kind of paying back in kind, both positive and negative.
+3. Dài [[待]] is to respond to a situation as best one can.
+4. Huán [[還]] is occasionally used to mean "in return, by way of response".
 ## Modern Chinese Criteria
 反應
 應答

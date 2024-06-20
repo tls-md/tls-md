@@ -12,12 +12,12 @@ och: 洲
 TERRITORY SURROUNDED by WATER on ALL SIDES.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Zhōu 洲 refers to a sizeable island of silt in a river.
-2. Zhǔ 渚 refers to a smaller variety of zhōu 洲.
-3. Zhǐ 沚 refers to a tiny island of silt-land in a river.
-4. Chí 坻 refers to an even small patch of land in a river.
-5. Dǎo 島 refers to a stony island, mostly in the sea, and the word is exceedingly rare in pre-Buddhist times.
-6. Yǔ 嶼 refers to a smaller variety of dǎo 島.
+1. Zhōu [[洲]] refers to a sizeable island of silt in a river.
+2. Zhǔ [[渚]] refers to a smaller variety of zhōu [[洲]].
+3. Zhǐ [[沚]] refers to a tiny island of silt-land in a river.
+4. Chí [[坻]] refers to an even small patch of land in a river.
+5. Dǎo [[島]] refers to a stony island, mostly in the sea, and the word is exceedingly rare in pre-Buddhist times.
+6. Yǔ [[嶼]] refers to a smaller variety of dǎo [[島]].
 NB: ERYA makes many of these distinctions.
 ## 
 HUANG JINGUI 2006

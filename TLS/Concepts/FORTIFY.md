@@ -11,8 +11,8 @@ zh: 設防
 BUILD CITY WALLS FOR DEFENDING a PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard general word for fortifying a place by building a city wall is chéng 城.
-2. Zhù 築 refers to the building or reinforcing of city walls.
+1. The standard general word for fortifying a place by building a city wall is chéng [[城]].
+2. Zhù [[築]] refers to the building or reinforcing of city walls.
 ## Modern Chinese Criteria
 設防
 布防

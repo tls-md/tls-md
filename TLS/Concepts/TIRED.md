@@ -33,16 +33,16 @@ och: 疲
 DISTRESSED BECAUSE of NEAR:recent PAST INTENSIVE EFFORT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general purpose word for communal exhaustion is pì 罷 (ant. zhuàng 壯 "in strong shape"); the general word for the state of exhaustion of an individual is juàn 倦. 不倦 refers to tireless activity, 不饜 refers to tireless receptivity. See DISSATISFIED.
-2. Pí 疲 and bèi 憊 typically refer to a relatively mild state of exhaustion.
-3. Bì 弊 refers to a desperate state of exhaustion.
-4. Láo 勞 refers to the state of exhaustion after extended lasting effort.
-5. Dān 殫 refers not so much to the subjective feeling of exhaustion as to the objective inability to continue an activity for lack of further energy.
-6. Qú 劬, a very poetic word, and the less poetic qín 勤, focus on the effort that brings about tiredness.
-7. Cuì 瘁 is a poetic word referring to weariness.
-8. Qiáo cuì 憔悴 refers to a weariness born of exhaustion.
-9. Láo 老 refers specifically to exhaustion of soldiers.
-10. Yàn 厭 refers specifically to being tired of, and thus fed up with something.
+1. The general purpose word for communal exhaustion is pì [[罷]] (ant. zhuàng [[壯]] "in strong shape"); the general word for the state of exhaustion of an individual is juàn [[倦]]. [[不倦]] refers to tireless activity, [[不饜]] refers to tireless receptivity. See DISSATISFIED.
+2. Pí [[疲]] and bèi [[憊]] typically refer to a relatively mild state of exhaustion.
+3. Bì [[弊]] refers to a desperate state of exhaustion.
+4. Láo [[勞]] refers to the state of exhaustion after extended lasting effort.
+5. Dān [[殫]] refers not so much to the subjective feeling of exhaustion as to the objective inability to continue an activity for lack of further energy.
+6. Qú [[劬]], a very poetic word, and the less poetic qín [[勤]], focus on the effort that brings about tiredness.
+7. Cuì [[瘁]] is a poetic word referring to weariness.
+8. Qiáo cuì [[憔悴]] refers to a weariness born of exhaustion.
+9. Láo [[老]] refers specifically to exhaustion of soldiers.
+10. Yàn [[厭]] refers specifically to being tired of, and thus fed up with something.
 ## Modern Chinese Criteria
 疲倦
 疲勞

@@ -21,11 +21,11 @@ och: 辭／別
 ADDRESS someone to REPORT that one is FUTURE:about-to LEAVE, OFTEN:typically COMMUNICATING one's GOOD WISHES FOR him.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for taking leave and saying farewell is cí 辭.
-2. Bié 別 (ant. huì 會 "get together") is a rather colourless way of referring to the standard rituals of the farewell.
-3. Sòng 送 (ant. yíng 迎 "go out to welcome") refers standardly to following someone some symbolic part of his way, as a standard ritual of departure.
-4. Jiàn 餞 refers to the arrangement of a farewell wine party.
-5. Zǔ 祖 refers to the formal arrangement of the standard sacrifices to the spirits of the road on the occasion of a departure.
+1. The current general word for taking leave and saying farewell is cí [[辭]].
+2. Bié [[別]] (ant. huì [[會]] "get together") is a rather colourless way of referring to the standard rituals of the farewell.
+3. Sòng [[送]] (ant. yíng [[迎]] "go out to welcome") refers standardly to following someone some symbolic part of his way, as a standard ritual of departure.
+4. Jiàn [[餞]] refers to the arrangement of a farewell wine party.
+5. Zǔ [[祖]] refers to the formal arrangement of the standard sacrifices to the spirits of the road on the occasion of a departure.
 ## Modern Chinese Criteria
 告辭 is the current word for saying farewell.
 失陪 refers politely to taking one's leave of a superior.

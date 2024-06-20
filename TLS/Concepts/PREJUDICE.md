@@ -8,7 +8,7 @@ zh: 偏見
 INTENSELY BELIEVED OPINION, TYPICALLY MISTAKEN, LACKING PROOF.
 # Criteria and general notes
 ## Old Chinese Criteria
-朱熹 : 灌去舊見, 以來新意.
+[[朱熹]] : [[灌去舊見]], [[以來新意]].
 ## 
 The question of Chinese notions of Prejudice is closely connected with that of rationality. The history of the notion in the West must be traced carefully, and compared with Chinese conceptual developments in the same conceptual area.
 # Ontology

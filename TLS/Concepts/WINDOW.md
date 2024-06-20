@@ -8,9 +8,9 @@ och: 牖
 HOLE IN a WALL, TYPICALLY with a TIMBER FRAME, COVERED USING GLASS, USED FOR LOOKING OUT OR LETTING IN LIGHT OR AIR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a window is yǒu 牖, but the word typically refers to a window in the side wall of a building.
-2. Chuāng 窗 refers to a window in the roof, but at later stages comes to replace yǒu 牖 as the standard general word for any window.
-3. Xiàng 向 / 鄉 is a rare word referring to small windows facing north.
+1. The current general word for a window is yǒu [[牖]], but the word typically refers to a window in the side wall of a building.
+2. Chuāng [[窗]] refers to a window in the roof, but at later stages comes to replace yǒu [[牖]] as the standard general word for any window.
+3. Xiàng [[向]] / [[鄉]] is a rare word referring to small windows facing north.
 ## 
 HUANG JINGUI 2006
 ARCHITECTURE 16.

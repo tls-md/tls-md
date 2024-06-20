@@ -7,10 +7,10 @@ zh: 號叫
 SHOUT TOGETHER in a CHAOTIC way.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The standard word for communal clamouring by a group, often expressive of dissatisfaction, is huá 嘩 / 譁.
-2. Xiāo 囂 emphasises the loudness of the communal din, and the word is current as a reduplicated binome.
-3. Huān 讙 is an onomatopoetic word suggesting gleeful clamour and jubilation.
-4. Zào 噪 refers to noisiness of a flock of birds or a crowd, and written with the speech radical 譟 currently refers to the clamour of a crowd.
+1. The standard word for communal clamouring by a group, often expressive of dissatisfaction, is huá [[嘩]] / [[譁]].
+2. Xiāo [[囂]] emphasises the loudness of the communal din, and the word is current as a reduplicated binome.
+3. Huān [[讙]] is an onomatopoetic word suggesting gleeful clamour and jubilation.
+4. Zào [[噪]] refers to noisiness of a flock of birds or a crowd, and written with the speech radical [[譟]] currently refers to the clamour of a crowd.
 ## Modern Chinese Criteria
 號叫
 高喊

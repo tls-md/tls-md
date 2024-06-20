@@ -17,12 +17,12 @@ och: 隱／匿
 CAUSE TO BECOME OBSCURE:invisible.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for hiding anything is yǐn 隱 (ant. xiǎn 顯 "display clearly") which refers to the hiding of anything, physically or intellectually.
-2. Nì 匿 (ant. zhāng 章 / 彰 "make a display of") refers to the physical removal of things so as to make them inaccessible to others.
-3. Cáng 藏 (ant. xiàn 見 ) adds to the notion of hiding that of safe keeping and collecting for use.
-3. Fú 伏 (ant. chū 出 "come into the open") refers prinarily to hiding in a certain terrain.
-4. Cuàn 竄 is incoative and refers to the action of going into hiding.
-5. Yōu 幽 refers primarily to putting or leaving something in the dark and thus by extension to concealing it.
+1. The current general word for hiding anything is yǐn [[隱]] (ant. xiǎn [[顯]] "display clearly") which refers to the hiding of anything, physically or intellectually.
+2. Nì [[匿]] (ant. zhāng [[章]] / [[彰]] "make a display of") refers to the physical removal of things so as to make them inaccessible to others.
+3. Cáng [[藏]] (ant. xiàn [[見]] ) adds to the notion of hiding that of safe keeping and collecting for use.
+3. Fú [[伏]] (ant. chū [[出]] "come into the open") refers prinarily to hiding in a certain terrain.
+4. Cuàn [[竄]] is incoative and refers to the action of going into hiding.
+5. Yōu [[幽]] refers primarily to putting or leaving something in the dark and thus by extension to concealing it.
 ## Modern Chinese Criteria
 包藏 is a current modern word for concealing or hiding someting.
 暗藏 focusses prototypically on hiding something in a dark place.

@@ -24,13 +24,13 @@ och: 婦
 MARRIED FEMALE MATE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general term for a commoner's female mate is fù 婦 (ant. fū 夫 "husband").
-2. Qī 妻 (ant. fū 夫 "husband") refers to the regular main wife, and specifically to a commoner's main wife.
-3. Nèi 內 refers generically to the harem.
-4. Hòu 后 (ant. wáng 王 "king") refers to a queen. See QUEEN
-5. Shì 室 is a polite circumlocution for a wife.
-6. Aυ 媼 (ant. wēng 翁 "old man") is a general term for a married woman, and the word is marginal in this group because it does not focus on the relationship to the mate.
-7. Fū rén 夫人 is a current phrase for a wife.
+1. The most general term for a commoner's female mate is fù [[婦]] (ant. fū [[夫]] "husband").
+2. Qī [[妻]] (ant. fū [[夫]] "husband") refers to the regular main wife, and specifically to a commoner's main wife.
+3. Nèi [[內]] refers generically to the harem.
+4. Hòu [[后]] (ant. wáng [[王]] "king") refers to a queen. See QUEEN
+5. Shì [[室]] is a polite circumlocution for a wife.
+6. Aυ [[媼]] (ant. wēng [[翁]] "old man") is a general term for a married woman, and the word is marginal in this group because it does not focus on the relationship to the mate.
+7. Fū rén [[夫人]] is a current phrase for a wife.
 ## 
 HUANG JINGUI 2006 HUMAN AFFAIRS 10. 妻子。
 婦，特指妻（妾），通稱。

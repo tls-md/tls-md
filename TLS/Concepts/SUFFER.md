@@ -8,14 +8,14 @@ och: 受
 EXPERIENCE something BAD FOR ONESELF.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most general word referring to a person's being exposed to something is probably shòu 受 (ant. shī 施 "have an effect on, act upon"), which can take both desirable and non-desirable objects.
-2. Jiàn 見 tends to take verbal complements and tends to refer to a person being exposed to undesirable effects.
-3. Qǔ 取 refers to deliberate exposure to an action or exposure to something by one's own fault.
-4. Beì 被 tends to refer to exposure to undesirable effects from the outside.
-5. Zāo 遭 and yù 遇 refer to unexpected and unprovoked exposure to outside effects.
-6. Měng 蒙 often refers to deliberate exposure to negative outside dangers or effects, but the word also has a generalised use where it simply corresponds to shòu 受.
-7. Lí 罹 and its loan character lí 離 refer to innocently running into some trouble or encountering some sorrow.
-8. Xiàn 陷 "get trapped in" refers occasionally to a disastrous encounter with what turns out inescapable. See TRAP
+1. The most general word referring to a person's being exposed to something is probably shòu [[受]] (ant. shī [[施]] "have an effect on, act upon"), which can take both desirable and non-desirable objects.
+2. Jiàn [[見]] tends to take verbal complements and tends to refer to a person being exposed to undesirable effects.
+3. Qǔ [[取]] refers to deliberate exposure to an action or exposure to something by one's own fault.
+4. Beì [[被]] tends to refer to exposure to undesirable effects from the outside.
+5. Zāo [[遭]] and yù [[遇]] refer to unexpected and unprovoked exposure to outside effects.
+6. Měng [[蒙]] often refers to deliberate exposure to negative outside dangers or effects, but the word also has a generalised use where it simply corresponds to shòu [[受]].
+7. Lí [[罹]] and its loan character lí [[離]] refer to innocently running into some trouble or encountering some sorrow.
+8. Xiàn [[陷]] "get trapped in" refers occasionally to a disastrous encounter with what turns out inescapable. See TRAP
 ## Modern Chinese Criteria
 受害
 被害

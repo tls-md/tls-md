@@ -17,12 +17,12 @@ och: 修
 WORK so as to CAUSE TO BECOME EXCELLENT RESEMBLE:as in the PAST AGAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current word for repairing or building something up again is xiū 修.
-2. Fù 復 is occasionally used to refer to the bringing back of something to its original shape or state.
-3. Lǐ 理 is occasionally used to refer to bringing something into proper, orderly shape.
-4. Bǔ 補 focusses on the act of supplementing something as a constitutive element to get something into good repair.
-5. Zhàn 綻 refers to the sowing or patching up of clothes.
-6. Shàn 繕, a rare word, refers primarily to getting something to hang properly together which is about to fall apart.
+1. The most current word for repairing or building something up again is xiū [[修]].
+2. Fù [[復]] is occasionally used to refer to the bringing back of something to its original shape or state.
+3. Lǐ [[理]] is occasionally used to refer to bringing something into proper, orderly shape.
+4. Bǔ [[補]] focusses on the act of supplementing something as a constitutive element to get something into good repair.
+5. Zhàn [[綻]] refers to the sowing or patching up of clothes.
+6. Shàn [[繕]], a rare word, refers primarily to getting something to hang properly together which is about to fall apart.
 ## Modern Chinese Criteria
 修理
 整修

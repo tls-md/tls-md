@@ -10,8 +10,8 @@ zh: 聾
 LACK the ABILITY to HEAR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for deafness of any kind, congenital or not, is lóng 聾 (ant. tīng 聽 "able to hear").
-2. Kuì 聵 refers to congenital deafness of any kind, but the word is very rare.
+1. The general word for deafness of any kind, congenital or not, is lóng [[聾]] (ant. tīng [[聽]] "able to hear").
+2. Kuì [[聵]] refers to congenital deafness of any kind, but the word is very rare.
 ## 
 HUANG JINGUI 2006
 BODY 22.

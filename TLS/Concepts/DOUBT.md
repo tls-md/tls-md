@@ -28,10 +28,10 @@ och: 疑
 AWARE that one does NOT KNOW OR UNDERSTAND something.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for doubting or suspecting is yí 疑 (ant. xìn 信 "have faith in"), and the connotation is always negative. Contrast Latin dubito which is often used in positive senses.
-2. Xián 嫌 refers to the suspicion that something negative may be true.
-3. Cāi 猜 can also refer to a suspicion that something is the case, and typically it refers to an attitude of suspicion which is unjustified.
-4. Yì 意 (ant. bì 必 "be certain about a matter") is to surmise as a matter of subjective and therefore doubtful judgment.
+1. The current general word for doubting or suspecting is yí [[疑]] (ant. xìn [[信]] "have faith in"), and the connotation is always negative. Contrast Latin dubito which is often used in positive senses.
+2. Xián [[嫌]] refers to the suspicion that something negative may be true.
+3. Cāi [[猜]] can also refer to a suspicion that something is the case, and typically it refers to an attitude of suspicion which is unjustified.
+4. Yì [[意]] (ant. bì [[必]] "be certain about a matter") is to surmise as a matter of subjective and therefore doubtful judgment.
 ## Modern Chinese Criteria
 懷疑
 置疑

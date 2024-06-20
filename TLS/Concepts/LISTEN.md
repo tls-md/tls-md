@@ -17,9 +17,9 @@ och: 聽
 TRY to HEAR.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current word for listening is tīng 聽, the nuance often being listening to and at the same time taking note of as sound advice etc.
-2. Líng 聆 adds the nuance of extreme respectful attention to the notion of listening.
-NB: The current word for hearing is wén 聞, and the word often involves nuances of learning something from an authoritative source. Seee HEAR.
+1. The current word for listening is tīng [[聽]], the nuance often being listening to and at the same time taking note of as sound advice etc.
+2. Líng [[聆]] adds the nuance of extreme respectful attention to the notion of listening.
+NB: The current word for hearing is wén [[聞]], and the word often involves nuances of learning something from an authoritative source. Seee HEAR.
 ## Modern Chinese Criteria
 聽
 收聽

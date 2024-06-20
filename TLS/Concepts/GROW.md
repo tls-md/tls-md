@@ -23,11 +23,11 @@ och: 長／生
 LIVE so as to INCREASE in SIZE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for growth is zhǎng 長, and for having as a habitat it is shēng 生.
-2. Chéng 成 refers specifically to growing to a mature state and thus to grow into something grown-up.
-3. Bāo 苞 refers to plants growing in clusters.
-4. Shú 熟 refers to a plant growing to maturity and the ripe stage where it may be harvested.
-NB: Chǎn 產 refers specifically to a plant or an animal being a product of a certain area and thus growing in that area. This word is marginal in the group.
+1. The current general term for growth is zhǎng [[長]], and for having as a habitat it is shēng [[生]].
+2. Chéng [[成]] refers specifically to growing to a mature state and thus to grow into something grown-up.
+3. Bāo [[苞]] refers to plants growing in clusters.
+4. Shú [[熟]] refers to a plant growing to maturity and the ripe stage where it may be harvested.
+NB: Chǎn [[產]] refers specifically to a plant or an animal being a product of a certain area and thus growing in that area. This word is marginal in the group.
 ## Modern Chinese Criteria
 長大
 生長

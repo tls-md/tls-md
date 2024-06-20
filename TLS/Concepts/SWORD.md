@@ -15,8 +15,8 @@ zh: 劍
 WEAPON RESEMBLING an INTENSELY BIG KNIFE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. Jiàn 劍 refers to the weapon with two edges which can be worn on a belt. Sword became common in China relatively late; although short bronze swords were widely used in northeastern China from Shang till early Chunqiu period, there are only few pieces known from the graves of the Western Zhou and Chunqiu aristocracy. In the middle and late Chunqiu period bronze swords came to be wider used particularly in the southern states of Wu, Yue, and Chu; the earliest textual evidence I have found for the word also dates from this period (MOZI and inscriptions on the swords of Wu and Yue). In Warring States times sword became usual weapon. Iron swords for the first time appeared in the late Chunqiu period and by the early Han completely replaced bronze pieces. Note that in Han times both aristocrats and officials worn swords like symbols of their status.
-2. Rèn 刃 refers to the blade and generally to the weapons with a blade including sword.
+1. Jiàn [[劍]] refers to the weapon with two edges which can be worn on a belt. Sword became common in China relatively late; although short bronze swords were widely used in northeastern China from Shang till early Chunqiu period, there are only few pieces known from the graves of the Western Zhou and Chunqiu aristocracy. In the middle and late Chunqiu period bronze swords came to be wider used particularly in the southern states of Wu, Yue, and Chu; the earliest textual evidence I have found for the word also dates from this period (MOZI and inscriptions on the swords of Wu and Yue). In Warring States times sword became usual weapon. Iron swords for the first time appeared in the late Chunqiu period and by the early Han completely replaced bronze pieces. Note that in Han times both aristocrats and officials worn swords like symbols of their status.
+2. Rèn [[刃]] refers to the blade and generally to the weapons with a blade including sword.
 ## 
 HUANG JINGUI 2006
 WARFARE 16.

@@ -18,9 +18,9 @@ och: 監
 OBSERVE so as to INVESTIGATE AS AN OFFICIAL.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The general word for inspection are jiān 監 "survey and inspect by higher orders" and guān 觀 which refers very generally to surveying anything, and not necessarily by order of anyone else, but usually in great detail.
-2. Dū 督 is also very common but strictly limited to bureaucratic contexts.
-3. Xún 巡 adds to the notion of bureaucratic inspection that of official travel in order to carry out the inspection involved.
+1. The general word for inspection are jiān [[監]] "survey and inspect by higher orders" and guān [[觀]] which refers very generally to surveying anything, and not necessarily by order of anyone else, but usually in great detail.
+2. Dū [[督]] is also very common but strictly limited to bureaucratic contexts.
+3. Xún [[巡]] adds to the notion of bureaucratic inspection that of official travel in order to carry out the inspection involved.
 ## Modern Chinese Criteria
 監督
 督察

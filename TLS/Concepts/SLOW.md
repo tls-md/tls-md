@@ -20,10 +20,10 @@ och: 徐
 LACK QUICKNESS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most generally used word for slowness is probably xú 徐 (ant. jí 疾 "fast"), which refers to an indifference on the part of the agent concerning the speed he is making, and the word has no negative connotations, indeed the reference is often to pleasant sauntering slow insouciance.
-2. Huǎn 緩 "slowly, at one's own speed" (ant. jí 急 "fast and urgent") tends to suggest a self-indulgent absence of haste which may call for criticism.
-3. Chí 遲 (ant. sù 速 "quickly and smoothly") focusses on a reprehensible, often inept, but possibly unavoidable, failure to make proper speed or to arrive in time.
-4. Màn 慢 (ant. qǐn 勤 "with polite expediency") is deliberate and deliberately offensive dilatory behaviour; and the word is somewhat marginal in this group.
+1. The most generally used word for slowness is probably xú [[徐]] (ant. jí [[疾]] "fast"), which refers to an indifference on the part of the agent concerning the speed he is making, and the word has no negative connotations, indeed the reference is often to pleasant sauntering slow insouciance.
+2. Huǎn [[緩]] "slowly, at one's own speed" (ant. jí [[急]] "fast and urgent") tends to suggest a self-indulgent absence of haste which may call for criticism.
+3. Chí [[遲]] (ant. sù [[速]] "quickly and smoothly") focusses on a reprehensible, often inept, but possibly unavoidable, failure to make proper speed or to arrive in time.
+4. Màn [[慢]] (ant. qǐn [[勤]] "with polite expediency") is deliberate and deliberately offensive dilatory behaviour; and the word is somewhat marginal in this group.
 ## Modern Chinese Criteria
 慢
 慢慢

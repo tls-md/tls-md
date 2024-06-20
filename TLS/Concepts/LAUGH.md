@@ -30,13 +30,13 @@ REACT OR ACT BREATHING OUT SUDDENLY AND USING a COMPLEX MOVEMENT of the FACE TYP
             SHOWING DELIGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The clearly predominant word for smiling and laughing is xiào 笑 which refers to
+1. The clearly predominant word for smiling and laughing is xiào [[笑]] which refers to
                 any laughter, loud or quiet, kind or unkind.
-2. Chī 嗤 is almost onomatopoeic and refers to noisy derisive laughter, and the word
+2. Chī [[嗤]] is almost onomatopoeic and refers to noisy derisive laughter, and the word
                 is exceedingly rare, missing even in SHUOWEN.
-3. The rare word shěn 哂 refers to a discreet, noiseless smile.
-4. Qiào 誚 refers to ridiculing someone.
-5. Jī 譏 refers to deliberate articulate satire including criticism.
+3. The rare word shěn [[哂]] refers to a discreet, noiseless smile.
+4. Qiào [[誚]] refers to ridiculing someone.
+5. Jī [[譏]] refers to deliberate articulate satire including criticism.
 ## Modern Chinese Criteria
 見笑 refers to laughing at the sight of something.
 Apologetic smiles 歉意的笑 bào qiàn de xiào xiào 抱歉地笑笑 smile

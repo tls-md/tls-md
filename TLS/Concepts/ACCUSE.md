@@ -19,23 +19,23 @@ To BLAME AND INTEND the PERSON BLAMED to be JUDGED AND CONDEMNED CONFORMING:in a
 [INFORMAL/OFFICIAL]
 [INTENSE/WEAK]
 [PUBLIC/PRIVATE]
-1. The most current general word for accusing someone of something with either good or evil intent is zé 責.
+1. The most current general word for accusing someone of something with either good or evil intent is zé [[責]].
 [GENERAL], [NEUTRAL]
-2. Sù 訴 refers to an informal accusation from the party that maintains it has suffered injustice, and this word became current in Han times.
+2. Sù [[訴]] refers to an informal accusation from the party that maintains it has suffered injustice, and this word became current in Han times.
 [INFORMAL], [MALEVOLENT]
-3. Zuì 罪 typically refers to a superior or king raising criminal charges against someone under his jurisdiction, but occasionally the word is used in an extended way to refer to strong criticism offered by anyone with authority.
+3. Zuì [[罪]] typically refers to a superior or king raising criminal charges against someone under his jurisdiction, but occasionally the word is used in an extended way to refer to strong criticism offered by anyone with authority.
 [DESCENDING], [NEUTRAL], [OFFICIAL]
-4. Hé 劾 refers to formal impeachment and the starting of formal criminal proceedings against a culprit, and the accuser in this case tends to be a person of some social standing, normally of high bureaucratic status; in Han times hé 劾 refers to the passing judgment after such a formal procedure.
+4. Hé [[劾]] refers to formal impeachment and the starting of formal criminal proceedings against a culprit, and the accuser in this case tends to be a person of some social standing, normally of high bureaucratic status; in Han times hé [[劾]] refers to the passing judgment after such a formal procedure.
 [DESCENDING], [INTENSE], [NEUTRAL], [OFFICIAL]
-5. Qiǎn 譴 refers to formal more or less serious accusations against officials raised by anyone, including ordinary persons.
+5. Qiǎn [[譴]] refers to formal more or less serious accusations against officials raised by anyone, including ordinary persons.
 [ASCENDING], [INTENSE], [OFFICIAL]
-6. Wū 誣 is occasionally used for making false formal accusations against some person, and the word may even refer to false self-incrimination.
+6. Wū [[誣]] is occasionally used for making false formal accusations against some person, and the word may even refer to false self-incrimination.
 [FALSE], [INFORMAL], [MALEVOLENT]
-7. Zèn 譖 refers generally to slanderous attacks, and sometimes - imperceptibly - the word can refer to something more like slanderous accusations. But the distinctions always seems to remain unclear. See SLANDER.
+7. Zèn [[譖]] refers generally to slanderous attacks, and sometimes - imperceptibly - the word can refer to something more like slanderous accusations. But the distinctions always seems to remain unclear. See SLANDER.
 [FALSE], [INFORMAL], [MALEVOLENT]
-8. Kòng 控 occasionally refers to a formal complaint directed against the authorities.
+8. Kòng [[控]] occasionally refers to a formal complaint directed against the authorities.
 [ASCENDING], [OFFICIAL]
-9. Ga4o 告 commonly refers to the making of public complaints and accusations.
+9. Ga4o [[告]] commonly refers to the making of public complaints and accusations.
 ## Modern Chinese Criteria
 控告 is the current modern word for making accusations.
 指控 is a perhaps slightly literary term for making accusations.

@@ -8,10 +8,10 @@ och: 及
 WHILE:during a PERIOD ENDING at a DEFINED TIME.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current and most general word for "until" is zhì 至.
-2. Jí 及 is in fact not very common in early texts.
-3. Dào 到 is a colourless abstract word for "until" which became current only in Han times.
-4. Qì 迄 is an archaic and poetic word for until that became obsolete by Han times.
+1. The most current and most general word for "until" is zhì [[至]].
+2. Jí [[及]] is in fact not very common in early texts.
+3. Dào [[到]] is a colourless abstract word for "until" which became current only in Han times.
+4. Qì [[迄]] is an archaic and poetic word for until that became obsolete by Han times.
 ## Modern Chinese Criteria
 rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／ LU JIANMING
 # Ontology

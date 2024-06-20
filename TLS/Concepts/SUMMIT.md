@@ -16,12 +16,12 @@ och: 頂
 TOP of MOUNTAIN.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for the topmost part of anything is probably dǐng 頂 (ant. lù 麓 "foot of mountain", * dāng 當 "bottom").
-2. Diān 顛 / 巔 (ant. xià 下 "foot (of mountain") refers most often to mountain tops, but as the graphic etymology of the original character might lead one to expect, the word can also refer to the crown of the head.
-3. Lóng 隆 (ant. bēi 卑 refers to the highest point of anything but adds the connotation of general venerability.
-4. Jí 極 and zhì 至 "ultimate point" are very abstract words referring, occasionally, to the highest point of concrete objects.
-5. Liáng 梁 refers to the ridge at the top of a mountain range.
-6. Fēng 峰 is a very rare word in pre-Buddhist Chinese and refers to the top of a high mountain.
+1. The most current general word for the topmost part of anything is probably dǐng [[頂]] (ant. lù [[麓]] "foot of mountain", * dāng [[當]] "bottom").
+2. Diān [[顛]] / [[巔]] (ant. xià [[下]] "foot (of mountain") refers most often to mountain tops, but as the graphic etymology of the original character might lead one to expect, the word can also refer to the crown of the head.
+3. Lóng [[隆]] (ant. bēi [[卑]] refers to the highest point of anything but adds the connotation of general venerability.
+4. Jí [[極]] and zhì [[至]] "ultimate point" are very abstract words referring, occasionally, to the highest point of concrete objects.
+5. Liáng [[梁]] refers to the ridge at the top of a mountain range.
+6. Fēng [[峰]] is a very rare word in pre-Buddhist Chinese and refers to the top of a high mountain.
 ## Modern Chinese Criteria
 山頂
 山頭

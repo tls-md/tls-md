@@ -9,9 +9,9 @@ NOW AND NOT ONLY LATER IN-RELATION-TO. 
 # Criteria and general notes
 ## Old Chinese Criteria
 [GENERAL/SPECIFIC]
-1. Yǐ 已 (ant. wèi 未 "not yet") is the general current word for "already", and this word can precede nominal predicates ( 在位已十年矣 "for already 10 years" analysed as vadN), jì 既 cannot be so used.
+1. Yǐ [[已]] (ant. wèi [[未]] "not yet") is the general current word for "already", and this word can precede nominal predicates ( [[在位已十年矣]] "for already 10 years" analysed as vadN), jì [[既]] cannot be so used.
 [GENERAL]
-2. Jì 既 (ant. wèi 未 "not yet") is limited to subordinate clauses, yǐ 已 has no such limitations of distribution in this respect. Jì 既 can only be used in front of VPs expressing a clearly concluded development which the word declares to have been completed; yǐ 已 can also mark that something has already STARTED. See also AFTERWARDS
+2. Jì [[既]] (ant. wèi [[未]] "not yet") is limited to subordinate clauses, yǐ [[已]] has no such limitations of distribution in this respect. Jì [[既]] can only be used in front of VPs expressing a clearly concluded development which the word declares to have been completed; yǐ [[已]] can also mark that something has already STARTED. See also AFTERWARDS
 [SPECIFIC]
 ## Modern Chinese Criteria
 已經

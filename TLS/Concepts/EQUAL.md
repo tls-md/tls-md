@@ -40,12 +40,12 @@ och: 同／等
 SAME in DISTRIBUTION, IMPORTANCE OR RIGHTS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant general word for something being equal to something else without being identical or the same is tóng 同 (ant. yì 異 "of different status").
-2. Děng 等 refers to things being on the same physical level or exposed to the same physical conditions. Cf. 差等 "hierarchy".
-3. Jūn 均 typically refers to an even, equable, and equal distribution of things.
-4. O ㄆ偶 refers specifically to the situation where two things form a pair.
-5. Dí 敵 refers to someone who is the equal of someone else in a contest, and in fact probably able to win against the other party. The term is thus someone marginal in the group.
-6. Rú 如 refers to equalling something else as it were "from below", coming up to a something else in a certain sense.
+1. The dominant general word for something being equal to something else without being identical or the same is tóng [[同]] (ant. yì [[異]] "of different status").
+2. Děng [[等]] refers to things being on the same physical level or exposed to the same physical conditions. Cf. [[差等]] "hierarchy".
+3. Jūn [[均]] typically refers to an even, equable, and equal distribution of things.
+4. O ㄆ[[偶]] refers specifically to the situation where two things form a pair.
+5. Dí [[敵]] refers to someone who is the equal of someone else in a contest, and in fact probably able to win against the other party. The term is thus someone marginal in the group.
+6. Rú [[如]] refers to equalling something else as it were "from below", coming up to a something else in a certain sense.
 ## Modern Chinese Criteria
 等同
 平衡

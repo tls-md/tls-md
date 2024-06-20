@@ -15,9 +15,9 @@ och: 幼
 Of SMALL AGE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general "absolute" word for tender youth is yòu 幼 (ant. zhǎng 長 "grown up"), and this word refers to young age of animals, as well as humans.
-2. Zhì 稚 (ant. zhǎng 長 "grown up") refers "absolutely" to young age in humans, but the word came to refer to young age in animals as well at later stages from Song times onwards.
-3. Shào 少 (ant. zhǎng 長 "grown up") is a comparative term and refers specifically to relatively young age in humans; note that a person remains shào 少 "junior" (ant. zhǎng 長 "senior") in respect to elders until he is very old indeed.
+1. The current general "absolute" word for tender youth is yòu [[幼]] (ant. zhǎng [[長]] "grown up"), and this word refers to young age of animals, as well as humans.
+2. Zhì [[稚]] (ant. zhǎng [[長]] "grown up") refers "absolutely" to young age in humans, but the word came to refer to young age in animals as well at later stages from Song times onwards.
+3. Shào [[少]] (ant. zhǎng [[長]] "grown up") is a comparative term and refers specifically to relatively young age in humans; note that a person remains shào [[少]] "junior" (ant. zhǎng [[長]] "senior") in respect to elders until he is very old indeed.
 ## 
 HUANG JINGUI 2006
 HUMAN AFFAIRS 35. YOUNGER IN FAMILY 排行在後。

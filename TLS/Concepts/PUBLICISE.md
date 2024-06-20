@@ -33,19 +33,19 @@ REPORT to ALL.
 [ELEVATED/VULGAR]
 [FORMAL/INFORMAL]
 [GENERAL/SPECIFIC]
-1. Xuān 宣 (ant.* mì 秘 "keep secret") is an announcement to a general public; and the word often refers specifically to royal or imperial promulgation.
+1. Xuān [[宣]] (ant.* mì [[秘]] "keep secret") is an announcement to a general public; and the word often refers specifically to royal or imperial promulgation.
 [DESCENDING], [GENERAL]
-2. Xùn 徇 is a proclamation which may be directed at certain sections of society or to a certain public audience.
+2. Xùn [[徇]] is a proclamation which may be directed at certain sections of society or to a certain public audience.
 [DESCENDING]
-3. Shì 誓 "proclaim" refers to a proclamation which may be directed at certain sections of society only or to a currently present public. especially a military public.
+3. Shì [[誓]] "proclaim" refers to a proclamation which may be directed at certain sections of society only or to a currently present public. especially a military public.
 [DESCENDING], [ELEVATED], [FORMAL]
-4. Fù 訃 is primarily a ritual act (typically of announcing a death) directed at a specified relevant group. See MOURN
+4. Fù [[訃]] is primarily a ritual act (typically of announcing a death) directed at a specified relevant group. See MOURN
 [HORIZONTAL], [RITUAL], [SPECIALISED]
-5. Zhào 詔 is an authoritative general public instruction normally from a king or ruler.
+5. Zhào [[詔]] is an authoritative general public instruction normally from a king or ruler.
 [DESCENDING], [ELEVATED], [FORMAL], [SPECIALISED]
-6. Gào 誥 / 告 "proclamation" is an oral and ritual political act by the ruler directed at the general public. (But at later stages of the language gào 告 is to superiors and gào 誥 is to inferiors.)
+6. Gào [[誥]] / [[告]] "proclamation" is an oral and ritual political act by the ruler directed at the general public. (But at later stages of the language gào [[告]] is to superiors and gào [[誥]] is to inferiors.)
 [ELEVATED], [FORMAL]
-7. Bù 布 refers to the publication and announcement of something, typically of laws and regulations, primarily to officials.
+7. Bù [[布]] refers to the publication and announcement of something, typically of laws and regulations, primarily to officials.
 [DESCENDING], [INFORMAL], [SPECIALISED]
 ## Modern Chinese Criteria
 發表 is a current modern word for making known of publishing.

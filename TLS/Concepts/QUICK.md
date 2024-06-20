@@ -20,14 +20,14 @@ och: 速
 Be INTENSE in MOVING OR CHANGING CAUSING the PERIOD of this MOVEMENT OR CHANGE to be INTENSELY SHORT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general word for anything that moves at high speed is sù 速 (ant. chí 遲 "so slowly that one becomes late").
-2. Jí 疾 (ant. xú 徐 "slowly") typically refers to urgent speedy action of limited duration.
-3. Jí 亟 (ant huǎn 緩 "too slowly") refers to maximum speed possible under prevailing circumstances.
-4. Jíé 捷 adds to the notion of maximum speed the nuance of deftness and general skill.
-5. Piāo 飄 refers specifically to the speed of wind.
-6. Xùn 迅 emphasises high speed and abruptness and eruptive violence, often in natural processes.
-7. Bù rì 不日 without delay, in a short time, quickly.
-NB: Kuài 快 came to mean "quickly" soon after Han times.
+1. The most current general word for anything that moves at high speed is sù [[速]] (ant. chí [[遲]] "so slowly that one becomes late").
+2. Jí [[疾]] (ant. xú [[徐]] "slowly") typically refers to urgent speedy action of limited duration.
+3. Jí [[亟]] (ant huǎn [[緩]] "too slowly") refers to maximum speed possible under prevailing circumstances.
+4. Jíé [[捷]] adds to the notion of maximum speed the nuance of deftness and general skill.
+5. Piāo [[飄]] refers specifically to the speed of wind.
+6. Xùn [[迅]] emphasises high speed and abruptness and eruptive violence, often in natural processes.
+7. Bù rì [[不日]] without delay, in a short time, quickly.
+NB: Kuài [[快]] came to mean "quickly" soon after Han times.
 ## Modern Chinese Criteria
 快
 速

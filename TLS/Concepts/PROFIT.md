@@ -25,11 +25,11 @@ och: 益
 Something GOOD that IS USEFUL TO THE ONE WHO HAS IT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for any kind of material or other profit or advantage is yì 益 (ant. sǔn 損 "loss").
-2. Lì 利 (1. ant. yì 義 "considerations of rectitude"(!!); 2. ant. hài 害 "damage and loss suffered") refers to material profit.
-3. Dé 得 (ant. shī 失 "lose") refers abstractly to what is achieved as a desired advantage.
-5. Rù 入 (ant. chū 出 "expense") is manifest material gain.
-6. Biàn 便 (ant. zǔ 阻 "hindrance and disadvantage") refers to a convenient adantage.
+1. The current general word for any kind of material or other profit or advantage is yì [[益]] (ant. sǔn [[損]] "loss").
+2. Lì [[利]] (1. ant. yì [[義]] "considerations of rectitude"(!!); 2. ant. hài [[害]] "damage and loss suffered") refers to material profit.
+3. Dé [[得]] (ant. shī [[失]] "lose") refers abstractly to what is achieved as a desired advantage.
+5. Rù [[入]] (ant. chū [[出]] "expense") is manifest material gain.
+6. Biàn [[便]] (ant. zǔ [[阻]] "hindrance and disadvantage") refers to a convenient adantage.
 ## Modern Chinese Criteria
 益處
 好處

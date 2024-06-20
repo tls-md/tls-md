@@ -9,8 +9,8 @@ och: 人
 ANIMAL which HAS TWO LEGS AND LACKS FEATHERS.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The dominant term is rén 人 which refers to any human.
-2. Mín 民 is a mass noun referring to the population in general, but the word is also used to refer generically to ordinary citizens. (See PEOPLE)
+1. The dominant term is rén [[人]] which refers to any human.
+2. Mín [[民]] is a mass noun referring to the population in general, but the word is also used to refer generically to ordinary citizens. (See PEOPLE)
 ## 
 HUANG JINGUI 2006
 GOVERNMENT/LAW 32.

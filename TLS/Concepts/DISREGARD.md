@@ -18,9 +18,9 @@ zh: 無視
 DECIDE to DISCARD from one's THOUGHT.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for refusing to pay attention to something which one knows very well is wàng 忘 (ant.* gù 顧 "take into account; pay attention to" and shèn 慎 "pay careful attention to"). NB: This meaning is much more common than the other meaning "forget", where this antonym does not apply.　
-2. Zhì 置 is to put aside and refuse to consider any more.
-3. Qì 棄 is to reject as unworthy of one's attention and often to disregard defiantly.
+1. The current general word for refusing to pay attention to something which one knows very well is wàng [[忘]] (ant.* gù [[顧]] "take into account; pay attention to" and shèn [[慎]] "pay careful attention to"). NB: This meaning is much more common than the other meaning "forget", where this antonym does not apply.　
+2. Zhì [[置]] is to put aside and refuse to consider any more.
+3. Qì [[棄]] is to reject as unworthy of one's attention and often to disregard defiantly.
 ## Modern Chinese Criteria
 無視
 不恤

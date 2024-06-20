@@ -20,9 +20,9 @@ och: 聚
 DISPLACE THINGS TOGETHER INTO ONE PLACE.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The most current general term for the temporary assembling of things is jù 聚 (ant. sàn 散 "spread") which can refer to the gathering together of what does not necessarily belong together and of what is not necessarily of the same kind and what will disperse or be dispersed.
-2. Liǎn 斂 (ant. sàn 散 "spread") refers to a human action of assembling things, prototypically taxes or the like, for future use.
-3. Shí 拾 "pick up" and qǔ 取 "pick, take" can come to refer to the gathering together for future use articles of common use, but occasionally these words can also take abstract objects in which case the nuance of gathering these for future use is retained.
+1. The most current general term for the temporary assembling of things is jù [[聚]] (ant. sàn [[散]] "spread") which can refer to the gathering together of what does not necessarily belong together and of what is not necessarily of the same kind and what will disperse or be dispersed.
+2. Liǎn [[斂]] (ant. sàn [[散]] "spread") refers to a human action of assembling things, prototypically taxes or the like, for future use.
+3. Shí [[拾]] "pick up" and qǔ [[取]] "pick, take" can come to refer to the gathering together for future use articles of common use, but occasionally these words can also take abstract objects in which case the nuance of gathering these for future use is retained.
 ## Modern Chinese Criteria
 收集 is the current modern word for gathering things together or collecting things.
 搜集

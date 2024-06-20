@@ -43,13 +43,13 @@ och: 顯
 Of GOOD WELL-KNOWN:reputation.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general term for illustiousness and extraordinary fame is xiǎn 顯 (ant. huì 晦 "obscure").
-2. Míng 明 (ant. yōu 幽 "without any special lustre") adds to the notion of illustriousness that of supernatural authority.
-3. Lōng 隆 and chóng 崇 (all ant. bēi 卑 "humble") adds to the general notion illustriousness overtones of elevated removedness from the world of the ordinary.
-4. Liè 烈 and hè 赫 focus on the image of glamour radiating from those who are illustrious.
-5. Wàng 望 (ant. wēi 微 "of slight fame" and hán 寒 "of no formal distinction") focusses especially on the aspect of illustriousness that consists in profound public admiration.
-6. Wén 聞 is occasionally used to refer to a state of being much heard-of and well-known.
-7. Róng 榮 refers to resplendent glory on a large scale.
+1. The current general term for illustiousness and extraordinary fame is xiǎn [[顯]] (ant. huì [[晦]] "obscure").
+2. Míng [[明]] (ant. yōu [[幽]] "without any special lustre") adds to the notion of illustriousness that of supernatural authority.
+3. Lōng [[隆]] and chóng [[崇]] (all ant. bēi [[卑]] "humble") adds to the general notion illustriousness overtones of elevated removedness from the world of the ordinary.
+4. Liè [[烈]] and hè [[赫]] focus on the image of glamour radiating from those who are illustrious.
+5. Wàng [[望]] (ant. wēi [[微]] "of slight fame" and hán [[寒]] "of no formal distinction") focusses especially on the aspect of illustriousness that consists in profound public admiration.
+6. Wén [[聞]] is occasionally used to refer to a state of being much heard-of and well-known.
+7. Róng [[榮]] refers to resplendent glory on a large scale.
 ## Modern Chinese Criteria
 著名
 聞名

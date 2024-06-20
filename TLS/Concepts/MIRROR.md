@@ -8,8 +8,8 @@ och: 鏡
 FLAT ARTEFACT PRODUCED FOR CAUSING one to be ABLE SEE ONESELF in it.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a mirror is jìng 鏡. [The word is known since the Warring States. Mirrors for the first time appeared in Central China in Shang times, but became no common prior to the Warring States period. Ancient Chinese mirrors were made of bronze, they were of round shape with a button in the centre to hang it up, and their one side was richly decorated.
-2. Jiàn 鑒 originally referred to a sheet of copper placed under water to obtain a mirroring effect, but from Warring States times onwards the word came to be used as synonymous with jìng 鏡. [Note that the original character was jiān 監. I have not found evidence that it referred to a copper sheet, but the term refers also to the bronze water basin which could be used like a mirror. It is supported by the form of the character, which represents a man looking at the vessel. In ZUO the term already refers to a bronze mirror, and since the Warring States, the word came to be used together with jìng 鏡.
+1. The current general word for a mirror is jìng [[鏡]]. [The word is known since the Warring States. Mirrors for the first time appeared in Central China in Shang times, but became no common prior to the Warring States period. Ancient Chinese mirrors were made of bronze, they were of round shape with a button in the centre to hang it up, and their one side was richly decorated.
+2. Jiàn [[鑒]] originally referred to a sheet of copper placed under water to obtain a mirroring effect, but from Warring States times onwards the word came to be used as synonymous with jìng [[鏡]]. [Note that the original character was jiān [[監]]. I have not found evidence that it referred to a copper sheet, but the term refers also to the bronze water basin which could be used like a mirror. It is supported by the form of the character, which represents a man looking at the vessel. In ZUO the term already refers to a bronze mirror, and since the Warring States, the word came to be used together with jìng [[鏡]].
 ## Modern Chinese Criteria
 鏡子
 鏡

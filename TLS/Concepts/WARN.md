@@ -18,11 +18,11 @@ och: 警
 ADDRESS someone so as to CAUSE him to UNDERSTAND what one BELIEVES to be DANGEROUS FOR him.
 # Criteria and general notes
 ## Old Chinese Criteria
-1. The current general word for a warning, specific or non-specific, is jǐng 警.
-2. Jiè 誡 / 戒 (ant. quàn 勸 "encourage") refers specifically to a warning against a certain explicitly specified course of action. The direction of this warning is downwards.
-3. Chéng 懲 adds the element of reproof and criticism to that of warning against continued unacceptable action.
-4. Guī 規 refers to a warning which draws attention to the general lawful or proper course of action. The direction of this type of warning can be upwards or downwards.
-5. Zhēn 箴 is an archaic word referring to formal remonstration. The direction of this warning is upwards.
+1. The current general word for a warning, specific or non-specific, is jǐng [[警]].
+2. Jiè [[誡]] / [[戒]] (ant. quàn [[勸]] "encourage") refers specifically to a warning against a certain explicitly specified course of action. The direction of this warning is downwards.
+3. Chéng [[懲]] adds the element of reproof and criticism to that of warning against continued unacceptable action.
+4. Guī [[規]] refers to a warning which draws attention to the general lawful or proper course of action. The direction of this type of warning can be upwards or downwards.
+5. Zhēn [[箴]] is an archaic word referring to formal remonstration. The direction of this warning is upwards.
 ## 
 HUANG JINGUI 2006
 SACRIFICE 12.
