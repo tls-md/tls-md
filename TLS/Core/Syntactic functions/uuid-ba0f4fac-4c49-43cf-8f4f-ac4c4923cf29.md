@@ -1,0 +1,6 @@
+---
+aliases: NP-V(.postN{SUBJ})
+---
+# NP-V(.postN{SUBJ})
+
+NP-V(.postN{SUBJ)

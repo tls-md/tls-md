@@ -1,0 +1,5 @@
+---
+aliases: nab. prep N
+---
+# nab. prep N
+

@@ -1,0 +1,5 @@
+---
+aliases: n(post-N1.)(adN2)
+---
+# n(post-N1.)(adN2)
+

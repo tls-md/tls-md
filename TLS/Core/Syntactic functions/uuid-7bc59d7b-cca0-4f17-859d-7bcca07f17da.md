@@ -1,0 +1,6 @@
+---
+aliases: v{NUM}(adN)
+---
+# v{NUM}(adN)
+
+v{NUM}(adN)

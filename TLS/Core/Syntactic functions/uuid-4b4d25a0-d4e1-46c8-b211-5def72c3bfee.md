@@ -1,0 +1,4 @@
+---
+aliases: npost=Npr
+---
+# npost=Npr

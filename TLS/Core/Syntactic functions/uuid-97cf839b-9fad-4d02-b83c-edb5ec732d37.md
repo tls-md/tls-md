@@ -1,0 +1,4 @@
+---
+aliases: vt{NEG}+.Vt[0](oN)
+---
+# vt{NEG}+.Vt[0](oN)
