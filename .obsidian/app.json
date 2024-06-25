@@ -2,6 +2,6 @@
   "strictLineBreaks": true,
   "showLineNumber": false,
   "propertiesInDocument": "visible",
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "defaultViewMode": "preview"
 }
