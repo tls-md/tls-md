@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Meta/Templates/Annotate.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ]
+}

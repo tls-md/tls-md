@@ -1,5 +1,6 @@
 [
   "dataview",
   "css-editor",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-text-format"
 ]
