@@ -22,7 +22,7 @@ COMMON so that of NONE NOT.
 1. Jiē [[皆]] the most common and general colourless subject qunatifier which is also used, occasionally as an object quantifier.
 SUBJECT-BINDING!; [padV]
 2.Jìn [[盡]] is a universal object quantifier which indicates that the action the transitive verb it precedes applies to the whole lot of the objects of that verb indiscriminately.
-[OBJECT-BINDING!], [COLLECTIVE]; [vadVt]
+[OBJECT-BINDING!], [COLLECTIVE]; [[vadVt]]
 3. Gè [[各]] quantifies by emphasising the separate features of each item quantified over.
 [INDIVIDUAL], [SUBJECT-BINDING]; [n+Vt]
 4. Jiān [[兼]] is an object quantifier which says that the transitive verb it precedes applies to each of the objects in its own right.
