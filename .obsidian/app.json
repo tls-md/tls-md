@@ -3,5 +3,7 @@
   "showLineNumber": false,
   "propertiesInDocument": "visible",
   "showInlineTitle": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./Attachments"
 }

@@ -15,10 +15,6 @@ och: 能
 ---
 
 # Definition
-HAVE what one NEEDS in SELF:oneself FOR ACHIEVING something.
-## Definition
-HAVE what one NEEDS in SELF:oneself FOR ACHIEVING something. 
-## Definition
 HAVE FEATURES one NEEDS in SELF:oneself FOR ACHIEVING something.
 # Criteria and general notes
 ## Old Chinese Criteria
@@ -139,3 +135,13 @@ CAPACITE.HABILITE; HABILE.SAVANT.DOCTE
 **Bibliographisches Handbuch zur Sprachinhaltsforschung. Teil II. Systematischer Teil. B. Ordnung nach Sinnbezirken (mit einem alphabetischen Begriffsschluessel): Der Mensch und seine Welt im Spiegel der Sprachforschung** page 59B
 -ABEL
 ZUGAENGLICHKEIT
+
+# Words
+```dataview
+TABLE WITHOUT ID file.name as Word, lex as "Lexical Entity"
+FROM [[]] and "TLS/Words"
+FLATTEN file.lists.text as lex
+WHERE contains(lex, this.file.name)
+SORT Word ASC
+LIMIT 100
+```

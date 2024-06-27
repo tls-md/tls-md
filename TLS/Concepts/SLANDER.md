@@ -1,24 +1,24 @@
 ---
-labels: 
- - DEFAMATION (OF CHARACTER)
- - CHARACTER ASSASSINATION
- - CALUMNY
- - LIBEL
- - SCANDALMONGERING
- - MALICIOUS GOSSIP
- - DISPARAGEMENT
- - DENIGRATION
- - ASPERSIONS
- - VILIFICATION
- - TRADUCEMENT
- - OBLOQUY
- - LIE
- - SLUR
- - SMEAR
- - FALSE ACCUSATION
- - INFORMAL MUDSLINGING
- - BAD-MOUTHING
- - ARCHAIC CONTUMELY
+labels:
+  - DEFAMATION (OF CHARACTER)
+  - CHARACTER ASSASSINATION
+  - CALUMNY
+  - LIBEL
+  - SCANDALMONGERING
+  - MALICIOUS GOSSIP
+  - DISPARAGEMENT
+  - DENIGRATION
+  - ASPERSIONS
+  - VILIFICATION
+  - TRADUCEMENT
+  - OBLOQUY
+  - LIE
+  - SLUR
+  - SMEAR
+  - FALSE ACCUSATION
+  - INFORMAL MUDSLINGING
+  - BAD-MOUTHING
+  - ARCHAIC CONTUMELY
 zh: 毀謗
 och: 毀
 ---
@@ -106,3 +106,12 @@ DIFFAMATOIRE.DIFFAMANT.INFAMANT
 
 - [[FRANKE 1989]]
 **Bibliographisches Handbuch zur Sprachinhaltsforschung. Teil II. Systematischer Teil. B. Ordnung nach Sinnbezirken (mit einem alphabetischen Begriffsschluessel): Der Mensch und seine Welt im Spiegel der Sprachforschung** page 65A
+# Words
+```dataview
+TABLE lex.text as "Lexical Entity"
+FROM [[]] and "TLS/Words"
+FLATTEN file.lists as lex
+WHERE contains(lex.text, this.file.name)
+SORT Word ASC
+LIMIT 100
+```

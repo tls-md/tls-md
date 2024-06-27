@@ -1,16 +1,16 @@
 ---
-labels: 
- - ASSAULT
- - ONSLAUGHT
- - OFFENSIVE
- - STRIKE
- - BLITZ
- - RAID
- - CHARGE
- - RUSH
- - INVASION
- - INCURSION
- - INVADE
+labels:
+  - ASSAULT
+  - ONSLAUGHT
+  - OFFENSIVE
+  - STRIKE
+  - BLITZ
+  - RAID
+  - CHARGE
+  - RUSH
+  - INVASION
+  - INCURSION
+  - INVADE
 zh: 攻擊
 och: 攻
 ---
@@ -123,3 +123,13 @@ EPICHIREM (RHETORISCH)
 
 - [[HONG CHENGYU 2009]]
 **古漢語常用詞同義詞詞典** 
+
+# Words
+```dataview
+TABLE WITHOUT ID file.name as Word, lex.text as "Lexical Entity"
+FROM [[]] and "TLS/Words"
+FLATTEN file.lists as lex
+WHERE contains(lex.text, this.file.name)
+SORT Word ASC
+LIMIT 100
+```

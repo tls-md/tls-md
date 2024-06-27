@@ -6,4 +6,9 @@ Be aware that this is currently in a pretty early stage and is mainly intended f
 
 However, feedback from everybody is welcome!
 
-能
+Here are some entry points to consider:
+
+- [[About]] this repository, together with other notes in the TLS/Documentation folder.
+- [[Top level syntactic functions]] 
+- [[TLS/Concepts|Concepts]]
+- A sample text: [[老子]] with some annotations and translation
