@@ -5,5 +5,12 @@
   "showInlineTitle": true,
   "defaultViewMode": "preview",
   "newFileLocation": "current",
-  "attachmentFolderPath": "./Attachments"
+  "attachmentFolderPath": "./Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -12,4 +12,4 @@ For the time being, we will call this combination of a set of Markdown files (wh
 
 While the parts that have been included here are in itself complete, there is only a very small number of texts available at the moment. 
 
-Here are the [[Use cases|use cases]] that drives the development.  
+Here are some [[Use cases|use cases]] that drives the development.  
