@@ -3,5 +3,6 @@
   "css-editor",
   "templater-obsidian",
   "obsidian-text-format",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-front-matter-title-plugin"
 ]

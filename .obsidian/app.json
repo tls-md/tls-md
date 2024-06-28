@@ -2,7 +2,7 @@
   "strictLineBreaks": true,
   "showLineNumber": false,
   "propertiesInDocument": "visible",
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "defaultViewMode": "preview",
   "newFileLocation": "current",
   "attachmentFolderPath": "./Attachments"
