@@ -52,3 +52,12 @@ vetula is a derogatory term referring to an old lady.
 
 - [[HONG CHENGYU 2009]]
 **古漢語常用詞同義詞詞典** page 47
+# Words
+```dataview
+TABLE lex.text as "Lexical Entity"
+FROM [[]] and "TLS/Words"
+FLATTEN file.lists as lex
+WHERE contains(lex.text, this.file.name)
+SORT Word ASC
+LIMIT 100
+```
