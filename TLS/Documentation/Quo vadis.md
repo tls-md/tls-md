@@ -6,7 +6,7 @@ The question at some point will be how to proceed.
 
 In an early phase of discussions about this project, we started to call this the **TLS-Satellite** and the established website the **Mothership**, in a way like a small explorer ship will leave a space ship to explore a newly found planet, but with a limited load of supplies and facilities and the prospect of returning after a few days. 
 
-As things are proceeding now, I think there is room for more independence here, so it might be more appropriate to call this now the **TLS Companion** -- exploring the space alongside the older ship, seeing with new eyes and bringing qualities to the undertaking that will benefit the whole, which consists of both projects and more. 
+As things are proceeding now, I think there is room for more independence here, so it might be more appropriate to call this the **TLS Companion** now -- exploring the space alongside the older ship, seeing with new eyes and bringing qualities to the undertaking that will benefit the whole, which consists of both projects and more. 
 
 ## Workgroup anyone?
 

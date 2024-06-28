@@ -69,9 +69,9 @@ NB: Fēng [[風]] refers rather generally and abstractly to a person's or a grou
 乘機而動
 first rough draft to identify synonym group members for future analysis 18.11.2003. CH/
 ## 
-1. The general term for action that humans are conceived as morally responsible for is xíng 行. The other common words jǔ 舉 and wéi 為 focus not on the moral quality of what is done but on the result.
+1. The general term for action that humans are conceived as morally responsible for is xíng 行. The other common words jǔ 舉 and wéi [[為]] focus not on the moral quality of what is done but on the result.
 2. Some action words refer predominantly to commendable actions (xíng 行 ), others predominantly in a derogatory way to misdeeds (zuò 作 (but NB that when zuò 作 means "create" the word has no negative connotations)).
-3. Some action words refer to official activities that are part of one's regular standard duties (cóng 從, zhī 知 ), others refer predominantly to special tasks and specific official activities undertaken in this connection (shì 事 ); others are neutral in this respect (wéi 為 ).
+3. Some action words refer to official activities that are part of one's regular standard duties (cóng 從, zhī 知 ), others refer predominantly to special tasks and specific official activities undertaken in this connection (shì 事 ); others are neutral in this respect (wéi [[為]] ).
 4. Some actions are construed as being based on the actor's own intitiative (dòng 動 ) or artifice (wěi 偽 ).
 5. Some action words focus on the immediate personal involvement of the actor who is not delegating the execution of an act to others (gōng 躬 ).
 # Ontology

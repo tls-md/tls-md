@@ -4,3 +4,4 @@ How can this resource be used? Here is a number of envisioned use cases:
 3. Add translations.
 4. As a research tool in addition to and beyond the scope of the TLS. It is possible to create research notes and link material from the database
 5. A teacher could make a derived version of this for her class, with the specific texts that are to be read.  This can be done in a way that will allow the students to push their changes (homework) back to the teacher and the teacher to easily peruse them.  To make this feasible in practice some infrastructure has to be developed.
+6. Consolidate and correct the data.  For this to be possible, a path back to the eXist-db needs to be opened. 
