@@ -1,0 +1,4 @@
+- Revisit the syntactical functions. 
+	- Parse the parts in their components
+	- Can we explicitly describe and store the various parts
+	- What are the questions that guide towards selecting a syn-func
