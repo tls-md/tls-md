@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "d90856d3fe1801c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d433cb2223d04f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9e07e82d8371fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "11183adca636e4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Concepts/ABLE.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cfa9ee58bc8c6836",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9013886dd0be0f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Concepts/ABDUCT.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1015e884234ede10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb9283c41acb27dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Annotate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9129a8154b028ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "024ef5abedc683f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2221c456bab94707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51cd6f0bf034206a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#chris",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "4eab0970a1878452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10cc314a794aed29",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04dcf1efb27acfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf6a0e2e1bbaf07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TLS/Concepts/ABLE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "60e16bde80a1aa14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TLS/Concepts/ABLE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adeed184c1aa8fcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93fd773b7eab0e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TLS/Concepts/ABLE.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "11183adca636e4d4",
+  "lastOpenFiles": [
+    "User",
+    "TLS/Documentation/A first proposal for a possible prototype of a TLS-Satellite.md",
+    "TLS/Documentation/Concepts overview.md",
+    "TLS/Documentation/Syntactical functions overview.md",
+    "TLS/Documentation/Unused concepts.md",
+    "TLS/Documentation/Unused syntactical functions.md",
+    "TLS/Documentation/unused syntactical functions.md",
+    "TLS/Words/側.md",
+    "TLS/Documentation/Quo vadis.md",
+    "TLS/Words/九九之術.md",
+    "TLS/Words/不生不死.md",
+    "TLS/Words/一行三昧.md",
+    "Meta/Builtin/Words in CONCEPT.md",
+    "TLS/Words/傷.md",
+    "TLS/Concepts/SLANDER.md",
+    "TLS/Concepts/BEAUTIFUL.md",
+    "TLS/Core/Syntactic functions.md",
+    "TLS/Concepts/IMPORTANT.md",
+    "TLS/Documentation/Diakoff principles.md",
+    "TLS/Documentation/Use cases.md",
+    "TLS/Documentation/About.md",
+    "TLS/Documentation/Data modeling.md",
+    "TLS/Concepts/ABLE.md",
+    "TLS/Concepts/ABDUCT.md",
+    "Readme.md",
+    "TLS/Words/上.md",
+    "Meta/Builtin",
+    "study-materials/audiobook",
+    "study-materials",
+    "Meta/Scripts/returnStudyOptions.js",
+    "Meta/Scripts/returnSWLblockId.js",
+    "Meta/Scripts/returnSWLOptions.js",
+    "Meta/Templates",
+    "Meta/Scripts",
+    "Meta"
+  ]
+}
