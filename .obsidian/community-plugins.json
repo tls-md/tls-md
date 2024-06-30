@@ -1,7 +1,5 @@
 [
   "css-editor",
   "templater-obsidian",
-  "obsidian-text-format",
-  "obsidian-enhancing-export",
-  "dataview"
+  "obsidian-enhancing-export"
 ]
