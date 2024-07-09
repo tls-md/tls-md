@@ -1,0 +1,4 @@
+---
+aliases: much
+---
+# much

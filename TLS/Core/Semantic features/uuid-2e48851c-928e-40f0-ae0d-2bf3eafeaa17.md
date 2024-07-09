@@ -1,0 +1,6 @@
+---
+aliases: figurative
+---
+# figurative
+
+figurative

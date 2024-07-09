@@ -1,0 +1,4 @@
+---
+aliases: ideal
+---
+# ideal

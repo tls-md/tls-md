@@ -1,0 +1,4 @@
+---
+aliases: posthumous
+---
+# posthumous

@@ -1,0 +1,5 @@
+---
+aliases: adoptive
+---
+# adoptive
+

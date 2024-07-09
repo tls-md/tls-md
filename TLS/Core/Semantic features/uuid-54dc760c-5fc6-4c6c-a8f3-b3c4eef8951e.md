@@ -1,0 +1,4 @@
+---
+aliases: sewing
+---
+# sewing

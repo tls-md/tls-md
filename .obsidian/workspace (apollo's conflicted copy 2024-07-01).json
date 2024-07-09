@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "d90856d3fe1801c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d433cb2223d04f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11183adca636e4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Documentation/Diakoff principles.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa9ee58bc8c6836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Core/Syntactic functions/uuid-091af450-64e0-4b82-98a2-84d0444b6d19.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1015e884234ede10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Core/Semantic features/uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb9283c41acb27dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Annotate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "eca5db169bbf28e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ac7f3b28636c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Words/怒.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9129a8154b028ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "024ef5abedc683f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2221c456bab94707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51cd6f0bf034206a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "怒",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "4eab0970a1878452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10cc314a794aed29",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04dcf1efb27acfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf6a0e2e1bbaf07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TLS/Words/怒.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60e16bde80a1aa14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TLS/Words/怒.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adeed184c1aa8fcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93fd773b7eab0e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TLS/Words/怒.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "53ac7f3b28636c70",
+  "lastOpenFiles": [
+    "TLS/Core/Syntactic functions/uuid-5db09050-30e9-440d-98dd-955e0ae1841e.md",
+    "TLS/Core/Syntactic functions/uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9.md",
+    "TLS/Words/㜸.md",
+    "TLS/Documentation/Unused syntactical functions.md",
+    "TLS/Words/一不二.md",
+    "TLS/Core/Semantic features/uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba.md",
+    "Untitled.md",
+    "TLS/Documentation/Unused concepts.md",
+    "TLS/Documentation/Syntactical functions overview.md",
+    "TLS/Documentation/Explorations.md",
+    "TLS/Core/Syntactic functions/uuid-091af450-64e0-4b82-98a2-84d0444b6d19.md",
+    "TLS/Documentation/The road ahead.md",
+    "TLS/Words/亂惑.md",
+    "TLS/Core/Semantic features/uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07.md",
+    "TLS/Words/覺.md",
+    "TLS/Core/Semantic features/uuid-014773ac-1014-45ad-8773-ac101485ad56.md",
+    "TLS/Core/Semantic features/uuid-bbe5fc11-7f1f-4463-a5fc-117f1ff463ab.md",
+    "TLS/Core/Semantic features/uuid-8fb382f2-6fbf-48ee-b382-f26fbf98eee9.md",
+    "TLS/Core/Semantic features/uuid-35e5df6a-0bda-4c48-a5df-6a0bda7c486d.md",
+    "TLS/Core/Semantic features/uuid-a3be55fa-e385-4a01-be55-fae385aa0191.md",
+    "TLS/Core/Semantic features/uuid-a3c75a03-5265-45e8-875a-03526545e837.md",
+    "TLS/Core/Semantic features/uuid-eb2433cb-bdcf-4b0f-a433-cbbdcf6b0f1e.md",
+    "TLS/Core/Semantic features/uuid-0f02c43a-484e-4e5f-82c4-3a484e9e5fa4.md",
+    "TLS/Core/Semantic features/uuid-187b6ea2-51ae-4b1a-bb6e-a251ae8b1a99.md",
+    "TLS/Core/Semantic features/uuid-20d9dd3e-df2d-4008-99dd-3edf2de0089b.md",
+    "TLS/Core/Semantic features/uuid-fe314c28-9001-4246-b14c-289001324669.md",
+    "TLS/Core/Semantic features",
+    "TLS/Words",
+    "tls-words.tar.gz",
+    "User/dummy.txt",
+    "Meta/Builtin",
+    "User",
+    "study-materials/audiobook",
+    "study-materials",
+    "Meta/Scripts/returnStudyOptions.js",
+    "Meta/Scripts/returnSWLblockId.js"
+  ]
+}

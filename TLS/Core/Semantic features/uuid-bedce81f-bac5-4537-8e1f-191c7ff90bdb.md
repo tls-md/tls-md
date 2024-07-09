@@ -1,0 +1,4 @@
+---
+aliases: analogy
+---
+# analogy

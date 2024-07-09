@@ -1,0 +1,4 @@
+---
+aliases: denominal
+---
+# denominal

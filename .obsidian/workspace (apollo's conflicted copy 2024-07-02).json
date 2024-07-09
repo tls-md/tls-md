@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "d90856d3fe1801c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d433cb2223d04f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11183adca636e4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Documentation/Diakoff principles.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa9ee58bc8c6836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Words/不可思議.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1015e884234ede10",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e63f95526f1394ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Annotate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8bebeb9d05dffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Words/一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9129a8154b028ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "024ef5abedc683f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2221c456bab94707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51cd6f0bf034206a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "怒",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "4eab0970a1878452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10cc314a794aed29",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04dcf1efb27acfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf6a0e2e1bbaf07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60e16bde80a1aa14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adeed184c1aa8fcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93fd773b7eab0e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1015e884234ede10",
+  "lastOpenFiles": [
+    "TLS/Words/雨露.md",
+    "TLS/Words/一切.md",
+    "TLS/Words/一力.md",
+    "Syn func.md",
+    "TLS/Words/不可思議.md",
+    "TLS/Core/Syntactic functions/uuid-091af450-64e0-4b82-98a2-84d0444b6d19.md",
+    "TLS/Words/一.md",
+    "Meta/Templates/Untitled.md",
+    "Meta/Templates/Annotate.md",
+    "Untitled 1.md",
+    "TLS/Core/Semantic features/uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba.md",
+    "TLS/Words/怒.md",
+    "TLS/Core/Syntactic functions/uuid-5db09050-30e9-440d-98dd-955e0ae1841e.md",
+    "TLS/Core/Syntactic functions/uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9.md",
+    "TLS/Words/㜸.md",
+    "TLS/Documentation/Unused syntactical functions.md",
+    "TLS/Words/一不二.md",
+    "TLS/Documentation/Unused concepts.md",
+    "TLS/Documentation/Syntactical functions overview.md",
+    "TLS/Documentation/Explorations.md",
+    "TLS/Documentation/The road ahead.md",
+    "TLS/Words/亂惑.md",
+    "TLS/Core/Semantic features/uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07.md",
+    "TLS/Words/覺.md",
+    "TLS/Core/Semantic features/uuid-014773ac-1014-45ad-8773-ac101485ad56.md",
+    "TLS/Core/Semantic features/uuid-bbe5fc11-7f1f-4463-a5fc-117f1ff463ab.md",
+    "TLS/Core/Semantic features",
+    "TLS/Words",
+    "tls-words.tar.gz",
+    "User/dummy.txt",
+    "Meta/Builtin",
+    "User",
+    "study-materials/audiobook",
+    "study-materials",
+    "Meta/Scripts/returnStudyOptions.js",
+    "Meta/Scripts/returnSWLblockId.js"
+  ]
+}

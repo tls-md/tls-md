@@ -1,0 +1,4 @@
+---
+aliases: short
+---
+# short

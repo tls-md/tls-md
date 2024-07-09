@@ -1,0 +1,5 @@
+---
+aliases: KINSHIP RELATION
+---
+# KINSHIP RELATION
+

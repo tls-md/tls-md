@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "d90856d3fe1801c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d433cb2223d04f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11183adca636e4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Documentation/Diakoff principles.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa9ee58bc8c6836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Words/不可思議.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1015e884234ede10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Words/一二.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e63f95526f1394ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Annotate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8bebeb9d05dffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TLS/Words/一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9129a8154b028ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "024ef5abedc683f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2221c456bab94707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51cd6f0bf034206a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "4eab0970a1878452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10cc314a794aed29",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04dcf1efb27acfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf6a0e2e1bbaf07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TLS/Words/一二.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60e16bde80a1aa14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TLS/Words/一二.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adeed184c1aa8fcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93fd773b7eab0e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TLS/Words/一二.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1015e884234ede10",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "TLS/Documentation/Obsidian.md",
+    "TLS/Documentation/About.md",
+    "TLS/Documentation/Explorations.md",
+    "TLS/Documentation/Entity Relations.canvas",
+    "TLS/Documentation/Data modeling.md",
+    "TLS/Documentation/Concepts overview.md",
+    "TLS/Documentation/A first proposal for a possible prototype of a TLS-Satellite.md",
+    "TLS/Documentation/Syntactical functions overview.md",
+    "TLS/Core/Syntactic functions.md",
+    "TLS/Concepts by Words.md",
+    "TLS/Core/Syntactic functions/uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4.md",
+    "TLS/Words/𧶜旅.md",
+    "TLS/Concepts/ABLE.md",
+    "TLS/Words/帷.md",
+    "TLS/Core/Semantic features/uuid-2b2d30be-c56e-424a-b913-5c0b574c74d0.md",
+    "TLS/Core/Semantic features/uuid-1de09642-f467-44e3-a096-42f46734e333.md",
+    "TLS/Core/Semantic features/uuid-1d0a351d-9a59-4c24-8a35-1d9a598c24d4.md",
+    "TLS/Core/Semantic features/uuid-0a0bf154-c3b8-4668-a52d-aaf3dccbc5bc.md",
+    "TLS/Core/Semantic features/uuid-00aa80ee-65a7-424e-99d3-769ada33f65b.md",
+    "TLS/Core/Semantic features/uuid-0ae1ae48-057a-4016-ad4b-f6c2ac92bbe6.md",
+    "TLS/Core/Semantic features.md",
+    "TLS/Words/雨露.md",
+    "TLS/Words/一切.md",
+    "TLS/Words/一力.md",
+    "Syn func.md",
+    "TLS/Words/不可思議.md",
+    "TLS/Core/Semantic features",
+    "TLS/Words",
+    "tls-words.tar.gz",
+    "User/dummy.txt",
+    "Meta/Builtin",
+    "User",
+    "study-materials/audiobook",
+    "study-materials",
+    "Meta/Scripts/returnStudyOptions.js",
+    "Meta/Scripts/returnSWLblockId.js"
+  ]
+}
