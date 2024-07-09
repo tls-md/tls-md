@@ -1,0 +1,13 @@
+---
+aliases: 奉 vadN RECEIVE
+pinyin: fèng
+word: 奉
+syn-func: vadN
+sem-feat: passive
+total: 1
+concept: RECEIVE 
+---
+# [[奉]] *[[fèng]]*  [[uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9|vadN]] [[uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e|passive]] [[RECEIVE]]
+received
+ - [[說苑]] **奉**祿少，
+                     / The salary I have received was small[HXWD](https://hxwd.org/textview.html?location=CH1a0907_CHANT_007-28a.15)

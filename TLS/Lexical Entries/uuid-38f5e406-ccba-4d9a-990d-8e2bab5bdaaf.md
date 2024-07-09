@@ -1,0 +1,12 @@
+---
+aliases: 呼 PP EXCLAMATORY PARTICLE
+pinyin: hū
+word: 呼
+syn-func: PP
+sem-feat: 
+total: 1
+concept: EXCLAMATORY PARTICLE 
+---
+# [[呼]] *[[hū]]*  [[uuid-a0b46569-e67d-460c-914c-dddd610aba58|PP]] [[EXCLAMATORY PARTICLE]]
+alas!; ah!
+ - [[管子]] 嗚**呼**美哉， / Ah! How marvelous![HXWD](https://hxwd.org/textview.html?location=KR3c0001_tls_017-37a.5)

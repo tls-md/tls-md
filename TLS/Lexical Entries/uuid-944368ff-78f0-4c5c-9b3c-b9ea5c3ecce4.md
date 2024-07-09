@@ -1,0 +1,12 @@
+---
+aliases: 趯 vi JUMP
+pinyin: 
+word: 趯
+syn-func: vi
+sem-feat: act
+total: 1
+concept: JUMP 
+---
+# [[趯]] *[[]]*  [[uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f|vi]] [[uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89|act]] [[JUMP]]
+leap; jump
+ - [[毛詩]] 趯趯阜螽。 / jumping are the grasshoppers;[HXWD](https://hxwd.org/textview.html?location=KR1c0001_tls_016-67a.3)

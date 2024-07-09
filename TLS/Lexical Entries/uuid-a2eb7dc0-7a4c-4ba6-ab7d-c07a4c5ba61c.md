@@ -1,0 +1,13 @@
+---
+aliases: 控 vtoN CONTROL
+pinyin: kòng
+word: 控
+syn-func: vtoN
+sem-feat: figurative
+total: 1
+concept: CONTROL 
+---
+# [[控]] *[[kòng]]*  [[uuid-fbfb2371-2537-4a99-a876-41b15ec2463c|vtoN]] [[uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17|figurative]] [[CONTROL]]
+control
+ - [[史記]] 若夫**控**名責實，
+                     / [HXWD](https://hxwd.org/textview.html?location=KR2a0001_tls_130-9a.7)

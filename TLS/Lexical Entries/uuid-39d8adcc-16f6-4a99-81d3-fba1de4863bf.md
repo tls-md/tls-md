@@ -1,0 +1,12 @@
+---
+aliases: 逐除 VPtoN REMOVE
+pinyin: zhú chú
+word: 逐除
+syn-func: VPtoN
+sem-feat: resultative
+total: 1
+concept: REMOVE 
+---
+# [[逐除]] *[[zhú chú]]*  [[uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33|VPtoN]] [[uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6|resultative]] [[REMOVE]]
+chase away
+ - [[韓非子]] 人**逐除**之 / men exorcise them and drive them away[HXWD](https://hxwd.org/textview.html?location=KR3c0005_tls_020-76a.4)

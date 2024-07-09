@@ -1,0 +1,12 @@
+---
+aliases: 妒嫉 VPt[oN] JEALOUS
+pinyin: dù jí
+word: 妒嫉
+syn-func: VPt[oN]
+sem-feat: 
+total: 1
+concept: JEALOUS 
+---
+# [[妒嫉]] *[[dù jí]]*  [[uuid-6fbf1ba0-1013-434e-b795-029e61b40b98|VPt[oN]]] [[JEALOUS]]
+show all manner of jealousy
+ - [[荀子]] 不能則妬嫉怨誹以傾覆人。 / If he has no ability, he is envious, jealous, resentful, and given to backbiting, so that he subverts and undermines others.[HXWD](https://hxwd.org/textview.html?location=KR3a0002_tls_003-3a.11)

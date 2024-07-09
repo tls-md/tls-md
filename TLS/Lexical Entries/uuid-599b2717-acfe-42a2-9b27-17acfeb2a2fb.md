@@ -1,0 +1,13 @@
+---
+aliases: 公仲朋 NPpr MALES OF HAN
+pinyin: gōng zhòng péng
+word: 公仲朋
+syn-func: NPpr
+sem-feat: 
+total: 1
+concept: MALES OF HAN 
+---
+# [[公仲朋]] *[[gōng zhòng péng]]*  [[uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632|NPpr]] [[MALES OF HAN]]
+Gōngzhòng Péng 公仲朋 (late 4th cent.), also known as Han Peng 韓朋, as Gongzhong 公仲 and Gongzhong Chi 公仲侈 [SJ 71.2312. See also SJ ed. Han Zhaoqi p. 3613, note 5] was a favourite of King Xuanhui of Han 韓宣惠王 (r. 332 – 312). He came to serve as the prime minister of Han 韓. [SJ 71 passim; ZGC passim]
+ - [[韓非子]] **公仲朋**謂韓君曰：
+                     / [HXWD](https://hxwd.org/textview.html?location=KR3c0005_tls_010-122a.2)
