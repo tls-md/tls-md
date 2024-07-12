@@ -1,0 +1,4 @@
+---
+aliases: state
+---
+# state

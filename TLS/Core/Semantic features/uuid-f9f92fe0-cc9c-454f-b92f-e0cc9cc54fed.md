@@ -1,0 +1,5 @@
+---
+aliases: GRAMMATICAL PATIENT
+---
+# GRAMMATICAL PATIENT
+

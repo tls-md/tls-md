@@ -1,0 +1,4 @@
+---
+aliases: singular
+---
+# singular

@@ -1,0 +1,5 @@
+---
+aliases: passive; causative
+---
+# passive; causative
+

@@ -1,5 +1,7 @@
 [
   "css-editor",
   "templater-obsidian",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "dataview",
+  "obsidian-front-matter-title-plugin"
 ]

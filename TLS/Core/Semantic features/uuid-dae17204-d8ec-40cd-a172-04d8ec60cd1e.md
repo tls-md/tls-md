@@ -1,0 +1,5 @@
+---
+aliases: TIME
+---
+# TIME
+

@@ -1,0 +1,4 @@
+---
+aliases: disjunction
+---
+# disjunction

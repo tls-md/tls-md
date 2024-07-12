@@ -1,0 +1,4 @@
+---
+aliases: hypothetical
+---
+# hypothetical

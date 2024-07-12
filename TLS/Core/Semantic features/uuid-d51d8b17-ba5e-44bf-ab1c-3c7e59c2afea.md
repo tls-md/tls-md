@@ -1,0 +1,4 @@
+---
+aliases: instrument
+---
+# instrument

@@ -1,0 +1,4 @@
+---
+aliases: distal
+---
+# distal

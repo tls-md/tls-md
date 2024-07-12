@@ -1,0 +1,4 @@
+---
+aliases: feminine
+---
+# feminine

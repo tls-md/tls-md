@@ -1,0 +1,4 @@
+---
+aliases: kinds
+---
+# kinds
