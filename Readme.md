@@ -12,3 +12,4 @@ Here are some entry points to consider:
 - [[Top level syntactic functions]] 
 - [[TLS/Concepts|Concepts]]
 - A sample text: [[老子]] with some annotations and translation
+- A short introduction is available in `oricom2024-wittern.pdf`
