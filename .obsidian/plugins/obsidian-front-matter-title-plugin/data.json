@@ -10,7 +10,8 @@
     "paths": {
       "mode": "white",
       "values": [
-        "TLS/Core"
+        "TLS/Core",
+        "TLS/Lexical Entries"
       ]
     },
     "delimiter": {
